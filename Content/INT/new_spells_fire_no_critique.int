@@ -1,4 +1,4 @@
-[A_Burning_Buff H7BaseBuff]
+﻿[A_Burning_Buff H7BaseBuff]
 mName="Torment I"
 mTooltip="Target creature's luck is reduced to %stat1 %stat1.icon  during %durnow turns "
 

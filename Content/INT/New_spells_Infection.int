@@ -1,4 +1,4 @@
-[A_Infection_Buff H7BaseBuff]
+﻿[A_Infection_Buff H7BaseBuff]
 mName="Infection "
 mTooltip="Creature receives %res1 %icon_health spells and healing ability for %durnow.norm turns ."
 

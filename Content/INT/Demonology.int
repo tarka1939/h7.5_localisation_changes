@@ -1,4 +1,4 @@
-
+﻿
 [Demonologie_expert.A_ArcaneShield_Ability H7HeroAbility]
 mName="Coat of the Sheogh"
 mTooltip="Allied creatures gain a %buff2.buff.stat %icon_health HP bonus at the start of combat. This effect can be debuffed."

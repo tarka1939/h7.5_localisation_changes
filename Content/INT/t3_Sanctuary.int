@@ -1,4 +1,4 @@
-[Ability.A_Nova_Buff H7BaseBuff]
+﻿[Ability.A_Nova_Buff H7BaseBuff]
 mName="Inflamed
 mTooltip="Creature gets %d %icon_fire Fire at end of turn "
 

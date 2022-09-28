@@ -1,4 +1,4 @@
-[Demonologie_expert.A_Fortune H7HeroAbility]
+﻿[Demonologie_expert.A_Fortune H7HeroAbility]
 mName="Advanced Gate"
 mTooltip="Unlocks a 3rd spell: the hero can summon a %special1.val2% copy of the target creature to fight on his side once per combat.This only works for demonic creatures." 
 

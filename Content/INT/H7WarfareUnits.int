@@ -1,4 +1,4 @@
-[Dungeon.A_ShadowLurker H7EditorWarUnit]
+Ôªø[Dungeon.A_ShadowLurker H7EditorWarUnit]
 mDesc="Attack Warfare Unit"
 mName="Shadow Lurker"
 mLore="The Shadow Lurker is a minor Spirit of Darkness in the shape of a floating orb of shadows with a single central purple and glowing eye and several eyestalks framing its body like tentacles, each ending in a smaller eye.\n\nPerfect Warfare unlock: Unit hit by Lurker loses 15 defense for 5 turns."
@@ -6,12 +6,12 @@ mLore="The Shadow Lurker is a minor Spirit of Darkness in the shape of a floatin
 [Academy.A_GreatPyramid H7EditorWarUnit]
 mDesc="Siege Warfare Unit"
 mName="Great Pyramid"
-mLore="It needs a major display of spellpower to bring down a castleís fortifications. The Great Pyramid, a bigger and more complex type of Arcane Focus, is meant to provide such destructive capabilities."
+mLore="It needs a major display of spellpower to bring down a castle‚Äôs fortifications. The Great Pyramid, a bigger and more complex type of Arcane Focus, is meant to provide such destructive capabilities."
 
 [Academy.A_HealingTent H7EditorWarUnit]
 mDesc="Support Warfare Unit"
 mName="Healing Tent"
-mLore="Wizards would rather stay at a safe distance from the battlefield, letting their servants do the fighting for them. That doesnít mean theyíll let said servants die without lifting a finger to help them: the healers and alchemists of the Healing Tent are there to tend the wounded. Sometimes, Wizard generals also affect Cabirs to the Tent, so that damaged Constructs can be repaired as well."
+mLore="Wizards would rather stay at a safe distance from the battlefield, letting their servants do the fighting for them. That doesn‚Äôt mean they‚Äôll let said servants die without lifting a finger to help them: the healers and alchemists of the Healing Tent are there to tend the wounded. Sometimes, Wizard generals also affect Cabirs to the Tent, so that damaged Constructs can be repaired as well."
 
 [Sylvan.A_GreaterEarthElemental H7EditorWarUnit]
 mDesc="Siege Warfare Unit"
@@ -26,12 +26,12 @@ mLore="The Cyclops' strength is so great that they are often deployed as siege m
 [Sylvan.A_BallistaSylvan H7EditorWarUnit]
 mDesc="Attack Warfare Unit"
 mName="Sylvan Ballista"
-mLore="The Elves of Irollan donít need to move huge war machines across the land. When they need them, they simply ask Dryads to give nearby trees the appropriate shape. \n\nPerfect Warfare unlocks: When ballista shots, every allied unit receives +10 destiny for 3 turns. Enemy hit suffers penalty -1 movement and -5 initiative."
+mLore="The Elves of Irollan don‚Äôt need to move huge war machines across the land. When they need them, they simply ask Dryads to give nearby trees the appropriate shape. \n\nPerfect Warfare unlocks: When ballista shots, every allied unit receives +10 destiny for 3 turns. Enemy hit suffers penalty -1 movement and -5 initiative."
 
 [Dungeon.A_TamedWyvern H7EditorWarUnit]
 mDesc="Siege Warfare Unit"
 mName="Cave Wyvern"
-mLore="The Cave Wyverns of Ygg-Chall have large, bat-like wings, and their body resembles a dragon's head atop a supple, cat-like body covered with reptilian scales. Their saliva is also highly corrosive, leaving flesh intact but dissolving wood and stone, making them quite useful as ìsiege enginesî."
+mLore="The Cave Wyverns of Ygg-Chall have large, bat-like wings, and their body resembles a dragon's head atop a supple, cat-like body covered with reptilian scales. Their saliva is also highly corrosive, leaving flesh intact but dissolving wood and stone, making them quite useful as ‚Äúsiege engines‚Äù."
 
 [Academy.A_SmallPyramid H7EditorWarUnit]
 mDesc="Attack Warfare Unit"
@@ -46,17 +46,17 @@ mLore="To become a Dreamwalker, a shaman must first undertake a dream journey to
 [haven.A_CatapultHaven H7EditorWarUnit]
 mDesc="Siege Warfare Unit"
 mName="Catapult"
-mLore="Catapults have been one the main siege engines since the days of the ancient Shantiris. While they vary in design (some rely on the sudden release of tension on wooden beams or twisted cords, others are powered by a counterweight), their purpose remains the same: to hurl a large rock at the enemyís walls."
+mLore="Catapults have been one the main siege engines since the days of the ancient Shantiris. While they vary in design (some rely on the sudden release of tension on wooden beams or twisted cords, others are powered by a counterweight), their purpose remains the same: to hurl a large rock at the enemy‚Äôs walls."
 
 [Dungeon.A_Faceless H7EditorWarUnit]
 mDesc="Support Warfare Unit"
 mName="Faceless"
-mLore="The Faceless are the most mysterious and unknown of all the followers of the Dragon gods. What little can be said of them is that they are clothed in shadow and mystery; if they are perceived at all it is a fleeting image from the corner of the eye, an odd moment of dÈj‡ vu, a strange sense that one is being watched... They rarely take part to the battle, preferring to provide support from the shadows."
+mLore="The Faceless are the most mysterious and unknown of all the followers of the Dragon gods. What little can be said of them is that they are clothed in shadow and mystery; if they are perceived at all it is a fleeting image from the corner of the eye, an odd moment of d√©j≈ï vu, a strange sense that one is being watched... They rarely take part to the battle, preferring to provide support from the shadows."
 
 [haven.A_BallistaHaven H7EditorWarUnit]
 mDesc="Attack Warfare Unit"
 mName="Haven Ballista"
-mLore="Often described by common folk as the ìbig crossbowsî, ballistae are war machines designed to launch heavy projectiles (usually large arrows, stakes or stones) at a distant target. Ballistae are mostly used on the battlefield to help bring down the most impressive creatures.\n\nPerfect Warfare unlocks: When ballista shots, every allied unit receives +10 morale for 3 turns. Enemy hit deals 10% less damage."
+mLore="Often described by common folk as the ‚Äúbig crossbows‚Äù, ballistae are war machines designed to launch heavy projectiles (usually large arrows, stakes or stones) at a distant target. Ballistae are mostly used on the battlefield to help bring down the most impressive creatures.\n\nPerfect Warfare unlocks: When ballista shots, every allied unit receives +10 morale for 3 turns. Enemy hit deals 10% less damage."
 
 [neutral.A_Harpoon H7EditorWarUnit]
 mDesc="Attack Warfare Unit"

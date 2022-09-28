@@ -1,4 +1,4 @@
-[A_meteorite_Buff H7BaseBuff]
+﻿[A_meteorite_Buff H7BaseBuff]
 mName="Vulnerable to fire "
 mTooltip="Increases by %res damage from source attacks %icon_fire fire that this creature undergoes during %durnow turns"
 

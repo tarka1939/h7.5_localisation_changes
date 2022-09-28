@@ -1,4 +1,4 @@
-[Ability.A_Saignement_Buff H7BaseBuff]
+﻿[Ability.A_Saignement_Buff H7BaseBuff]
 mName="Bleed "
 mTooltip="Creature takes %d1 Damage at beginning of turn, lasts %durnow turn(s)."
 

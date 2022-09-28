@@ -1,4 +1,4 @@
-[t7.A_fish_guard_Buff H7BaseBuff]
+﻿[t7.A_fish_guard_Buff H7BaseBuff]
 mName="Grudge"
 mTooltip="Whenever this creature takes damage, adjacent creatures take %d Air Damage .Lasts %durnow turns."
 

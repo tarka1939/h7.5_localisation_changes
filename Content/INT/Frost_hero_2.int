@@ -1,4 +1,4 @@
-[A_magic_shield H7BaseBuff]
+ï»¿[A_magic_shield H7BaseBuff]
 mName="Magic Boost"
 mTooltip="Creature gains %stat %icon_health hp bonus until end of combat turn."
 
@@ -56,7 +56,7 @@ mName="Mushy"
 mName="Vexes"
 
 
-[Archétype.A_Chairtmin H7EditorHero]
+[ArchÃ©type.A_Chairtmin H7EditorHero]
 mName=""
 mLore=""
 
@@ -70,10 +70,10 @@ mTooltipUpgraded=""
 mName="Piercing Cold "
 mTooltip="At the start of the fight, place a buff on all allies: Allied creatures ignore 25% of enemy defense , during 3 turns."
 
-[heropédya.A_HeroBio_Chairmin H7HeroBioData]
+[heropÃ©dya.A_HeroBio_Chairmin H7HeroBioData]
 mText="For several centuries Chairtmin was the leader of Hrimthurses and keeper of their traditions. Despite his considerable age, his mind is still clear, and his body is filled with strength. Realizing how warlike his kindred can be sometimes, the giant skillfully cools their ardor, directing it in the right way. After the arrival of the chosen champion, Chairtmin made the difficult decision to leave mountains and, as a sign of goodwill, personally led his tribe to meet with representatives of the Union in order to prepare for the destined battle together with new allies. Although there are many Hrimturses who are dissatisfied with Chairtmin's decision, only those who are ready to challenge him to a duel for the title of leader can openly object to him. At the moment, there are no daredevils capable of withstanding his mighty blows, which easily break even the most durable armor."
 
-[Archétype.A_Fiur H7EditorHero]
+[ArchÃ©type.A_Fiur H7EditorHero]
 mName=""
 mLore=""
 
@@ -96,17 +96,17 @@ mName="Reinforcement Magic Boost"
 mTooltip="At the start of the fight, hero targets an allied creature to place a magic reinforcement, which increases by %buff.buff.stat %icon_health until the end of the combat turn."
 
 
-[heropédya.A_HeroBio_fiur H7HeroBioData]
+[heropÃ©dya.A_HeroBio_fiur H7HeroBioData]
 mText="When the Ice Spires Union decided to reveal itself to the world, Fiur, being the head of the most influential trading guild, took over the establishment of relations with the leading countries of Ashan. Personally taking part in all important negotiations, he skillfully achieved his goals and concluded many mutually beneficial trade agreements. Soon, caravans with valuable goods started to travel along the roads of the Union, and that activity could not but attract the attention of surrounding bandits. For such occasions, Fiur's quiver was always full of sharp arrows, but he also knew that it's possible to achieve a lot with money and did not hesitate to bribe the warring gangs, setting them against each other."
 
 [Heros_names.A_Fiur_Name H7GlobalName]
 mName="Fiur"
 
-[Archétype.A_Lily_Rose H7EditorHero]
+[ArchÃ©type.A_Lily_Rose H7EditorHero]
 mName=""
 mLore=""
 
-[heropédya.A_HeroBio_lily_rose H7HeroBioData]
+[heropÃ©dya.A_HeroBio_lily_rose H7HeroBioData]
 mText="Even wise Naga mentors, who were once invited from Shanria to teach young Lily Rose, were forced to admit their powerlessness, calling her the avatar of the Wrecker in human form. Their techniques involved unity with the water and achieving inner peace, but the talent of the young sorceress manifested itself in causing destruction. Avalanches, snowstorms, giant tidal waves - Lily Rose can create them literally at the snap of her fingers, radically changing the usual point of view at the well-known principle "The best defense is a good offense". Seeing how skillfully the young sorceress controls the water element, unleashing one spell after another on the enemies, her troops somehow feel more secure"
 
 [Heros_names.A_lily_rose_Name H7GlobalName]

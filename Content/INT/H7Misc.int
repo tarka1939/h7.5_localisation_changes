@@ -1,4 +1,4 @@
-[Hints.A_LoadscreenHints H7LoadingHints]
+﻿[Hints.A_LoadscreenHints H7LoadingHints]
 mHints[0]="Moving diagonally costs 1.41 Movement."
 mHints[1]="A Saved game is created automatically at the end of each Day."
 mHints[2]="Heroes can ascend up to level 30 in official campaigns and scenarios."

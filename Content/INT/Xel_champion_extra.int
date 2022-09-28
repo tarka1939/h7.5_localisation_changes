@@ -1,6 +1,6 @@
-[Abilities.A_BioPlasma_Buff H7BaseBuff]
+﻿[Abilities.A_BioPlasma_Buff H7BaseBuff]
 mName="exhausted"
-mTooltip="This cr�ature is drained and the Bioplasma ability will not have a mass effect during %durnow rounds."
+mTooltip="This créature is drained and the Bioplasma ability will not have a mass effect during %durnow rounds."
 
 [Abilities.A_BioPlasma H7CreatureAbility]
 mTooltipMagicGuild=""

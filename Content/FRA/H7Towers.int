@@ -1,4 +1,4 @@
-[A_towerpowerBuff H7BaseBuff]
+﻿[A_towerpowerBuff H7BaseBuff]
 mName="Tower power"
 mTooltip=""
 
@@ -17,7 +17,7 @@ mName="Tower Attack"
 mTooltip="Shoots at an enemy creature dealing %d.min to %d.max damage."
 
 [Academy.H7AcademyTowerUnit H7TowerUnit]
-mName="Tour de l'Acad�mie"
+mName="Tour de l'Académie"
 mLore=""
 
 [Dungeon.A_TowerDungeon_Attack H7BaseAbility]

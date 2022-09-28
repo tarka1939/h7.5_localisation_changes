@@ -1,4 +1,4 @@
-[Ability_building.A_bulle_destin_Buffcreature H7BaseBuff]
+﻿[Ability_building.A_bulle_destin_Buffcreature H7BaseBuff]
 mName="Synergy of Fate"
 mTooltip="Creature gains %stat %icon_luck"
 

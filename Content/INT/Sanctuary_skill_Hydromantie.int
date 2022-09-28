@@ -1,4 +1,4 @@
-[Hero_test.A_Sanctuary_Warrior_Ice_Balanced H7HeroClass]
+ï»¿[Hero_test.A_Sanctuary_Warrior_Ice_Balanced H7HeroClass]
 mName="Ice Warrior"
 
 [Skill_rang_novice_roue_des_talent.A_humidite_allie_Buff H7BaseBuff]
@@ -82,7 +82,7 @@ mTooltipUpgraded=""
 mName="Splash"
 mTooltip="If allied creature is wrapped in %spell1.name , mingled attackers receive %spell2.name for %buff2.buff.buff.durini turns."
 
-[Skill_faction.A_Bulle_d_eau_créature_expert_Buff H7BaseBuff]
+[Skill_faction.A_Bulle_d_eau_crÃ©ature_expert_Buff H7BaseBuff]
 mName="Water bubble"
 mTooltip=""
 
@@ -93,7 +93,7 @@ mTooltipUpgraded=""
 mName="Bubble of devastation "
 mTooltip="Mixed creatures wrapped by%spell4.name get %buff1.buff.stat1 to the damage they deal until end of turn , or %spell4.name is removed."
 
-[Skill_faction.A_Bulle_d_eau_créature_master_Buff H7BaseBuff]
+[Skill_faction.A_Bulle_d_eau_crÃ©ature_master_Buff H7BaseBuff]
 mName="Water bubble"
 mTooltip=""
 
@@ -109,7 +109,7 @@ mTooltip="This creature is encased in a water bubble that absorbs %special.val3 
 mName=""
 mTooltip=""
 
-[Skill_faction.A_Bulle_d_eau_créature_novice_Buff H7BaseBuff]
+[Skill_faction.A_Bulle_d_eau_crÃ©ature_novice_Buff H7BaseBuff]
 mName="Water bubble"
 mTooltip=""
 

@@ -1,4 +1,4 @@
-[Imprinted.A_Fortune_Imprinted_Buff H7BaseBuff]
+﻿[Imprinted.A_Fortune_Imprinted_Buff H7BaseBuff]
 mName="Fortune"
 mTooltip="%stat %stat.icon Luck\nLasts for %durnow turn(s)."
 
@@ -104,7 +104,7 @@ mTooltip="%stat %stat.icon Initiative.\nLasts for %durnow turn(s)."
 
 [A_TimeControl H7HeroAbility]
 mTooltipMagicGuild="Increases the %buff1.buff.stat.icon Initiative of the target friendly creature or decreases the %buff2.buff.stat.icon Initiative of the target enemy creature for %buff1.buff.durini turns."
-mTooltipMagicGuildRankLine="�%buff1.buff.stat.norm %ICON_INITIATIVE Initiative"
+mTooltipMagicGuildRankLine="±%buff1.buff.stat.norm %ICON_INITIATIVE Initiative"
 mTooltipUpgraded="Changes the %buff1.buff.stat.icon Inititative of all creatures in the target 4x4 area: Friendly creatures get %buff1.buff.stat %buff1.buff.stat.icon Initiative and enemy creatures get %buff2.buff.stat %buff2.buff.stat.icon Initiative for %buff1.buff.durini turns."
 mName="Time Control"
 mTooltip="Increases the %buff1.buff.stat.icon Initiative of the target friendly creature by %buff1.buff.stat.norm or decreases the %buff2.buff.stat.icon Initiative of the target enemy creature by %buff2.buff.stat.norm for %buff1.buff.durini turns."

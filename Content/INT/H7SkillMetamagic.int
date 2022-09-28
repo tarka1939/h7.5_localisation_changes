@@ -1,4 +1,4 @@
-[A_ArcaneEmpowerment_Buff H7BaseBuff]
+﻿[A_ArcaneEmpowerment_Buff H7BaseBuff]
 mName="Arcane Empowerment"
 mTooltip="Deals %d1.min %ICON_PRIME Prime damage to the first enemy creature attacking or retaliating in melee."
 

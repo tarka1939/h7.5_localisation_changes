@@ -1,4 +1,4 @@
-[buff_bonus.A_StormArrows_Buff H7BaseBuff]
+﻿[buff_bonus.A_StormArrows_Buff H7BaseBuff]
 mName="Storm Arrows"
 mTooltip="%stat2 %stat2.icon Attack\nLasts for %durnow turn(s)."
 
@@ -48,7 +48,7 @@ mTooltip="Adjacent allied creature receives a random positive magic effect at th
 mName="Force of Fate
 mTooltip="Increases the chance of %stat1 %stat1.icon During %durnow turns."
 
-[Ability.A_Divinit�_du_destin H7CreatureAbility]
+[Ability.A_Divinité_du_destin H7CreatureAbility]
 mTooltipMagicGuild=""
 mTooltipMagicGuildRankLine=""
 mTooltipUpgraded=""

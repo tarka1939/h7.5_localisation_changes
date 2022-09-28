@@ -1,4 +1,4 @@
-[Army.A_ArmyBioTitan H7AdventureArmy]
+﻿[Army.A_ArmyBioTitan H7AdventureArmy]
 mName=""
 
 [Army.A_ArmyCocoon H7AdventureArmy]F
@@ -126,11 +126,11 @@ mName="Magic guild level 2"
 mDesc="Provides 4 random level 2 spells in this town.\nAll visiting heroes who meet the necessary conditions learn them."
 
 [Town_Xel.A_Xel_MagicGuild3 H7TownMagicGuild]
-mName="Magic guild level 3"
+mName="Magic guild levelÂ 3"
 mDesc="Provides 3 random level 3 spells in this town.\nAll visiting heroes who meet the necessary conditions learn them."
 
 [Town_Xel.A_Xel_MagicGuild4 H7TownMagicGuild]
-mName="Magic guild level 4"
+mName="Magic guild levelÂ 4"
 mDesc="Provides 1 random level 4 spells in this town.\nAll visiting heroes who meet the necessary conditions learn them."
 
 [Town_Xel.A_Xel_Marketplace H7TownMarketplace]

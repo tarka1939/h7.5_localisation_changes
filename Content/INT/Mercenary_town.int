@@ -1,4 +1,4 @@
-[A_Mercenary_TownLv1 H7Town]
+﻿[A_Mercenary_TownLv1 H7Town]
 mName=""
 
 [ability_faction.A_ennemies_faction_lumiere_Ability H7HeroAbility]
@@ -6,7 +6,7 @@ mTooltipMagicGuild=""
 mTooltipMagicGuildRankLine=""
 mTooltipUpgraded=""
 mName="Alliance of Lights "
-mTooltip="Creatures under the control of the hero belonging to the Shadow Alliance (Necropolis / Dungeon / Sanctuary / Inferno/Stronghold ) Subissent une pénalité de %buff.buff.stat %icon_morale supplementaire."
+mTooltip="Creatures under the control of the hero belonging to the Shadow Alliance (Necropolis / Dungeon / Sanctuary / Inferno/Stronghold ) Subissent une pĂ©nalitĂ© de %buff.buff.stat %icon_morale supplementaire."
 
 [ability_faction.A_ennemies_faction_ombre_Ability H7HeroAbility]
 mTooltipMagicGuild=""

@@ -1,4 +1,4 @@
-[Items_NoSet.A_Minor_Head_DefenderHelmet H7HeroItem]
+﻿[Items_NoSet.A_Minor_Head_DefenderHelmet H7HeroItem]
 mName="Defender Helmet"
 mTooltip="%stat %icon_defense Defense"
 

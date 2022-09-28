@@ -1,4 +1,4 @@
-[A_Stranglehold_Buff H7BaseBuff]
+ï»¿[A_Stranglehold_Buff H7BaseBuff]
 mName="Stranglehold"
 mTooltip="The creature cannot move until the beginning of the turn of the creature that applied Stranglehold or until both creatures are no longer adjacent."
 
@@ -870,11 +870,11 @@ mTooltip="Removes all buffs from all creatures within the aura. Can be activated
 
 [A_Nova H7CreatureAbility]
 mName="Nova"
-mTooltip="The creature shoots at target 3x3 area once per combat. Cannot be used while the creature is in melee."
+mTooltip="TheÂ creatureÂ shootsÂ atÂ targetÂ 3x3 area once per combat. Cannot be used while the creature is in melee."
 
 [A_FireNova H7CreatureAbility]
 mName="Nova"
-mTooltip="The creature shoots at target 3x3 area once per combat. Cannot be used while the creature is in melee."
+mTooltip="TheÂ creatureÂ shootsÂ atÂ targetÂ 3x3 area once per combat. Cannot be used while the creature is in melee."
 
 [A_LivingShelter_Buff_Treant H7BaseBuff]
 mName="Living Shelter"

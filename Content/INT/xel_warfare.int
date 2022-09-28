@@ -1,4 +1,4 @@
-[Abilities.A_Sealstone_Attack H7WarfareAbility]
+Ôªø[Abilities.A_Sealstone_Attack H7WarfareAbility]
 mTooltipMagicGuild=""
 mTooltipMagicGuildRankLine=""
 mTooltipUpgraded=""
@@ -48,12 +48,12 @@ mName="Overload"
 mTooltip="The sealing stone releases all energy from enemy units which suffer random negative effects."
 
 [Creatures.A_Wormor H7EditorWarUnit]
-mDesc="UnitÈ de guerre de siËge"
+mDesc="Unit√© de guerre de siƒçge"
 mName="Cervor"
 mLore="The worms are creatures that the Xel summoned to Mondalar after regaining their full powers. They are astral worms that can concentrate energy into a powerful explosion, and subsequently damage walls. They were originally intended to be deployed against enemy troops, but their energy blast did not have the same effect on moving targets. If the worm's body is destroyed, the defence mechanisms are activated and the entire worm literally sinks into the ground due to the space-time rift it creates beneath it. However, the regeneration process will take some time and he will be able to return to full strength until the next fight. If his master demands it, he is able to sacrifice himself (inflicting heavy damage and disappearing into the rift) and use the remaining energy to heal and revive friendly units or even repair mechanisms."
 
 [Creatures.A_Sealstone H7EditorWarUnit]
-mDesc="UnitÈ d'assaut et de soutien"
+mDesc="Unit√© d'assaut et de soutien"
 mName="Sealing stone"
 mLore="The sealing stones date back to the time when the Mondalar guarded Sur and were able to transmit information quickly over long distances through these artefacts. At the same time, these stones were like "beacons" to which anyone from Sur could teleport. Over time, however, they fell into disuse until they were finally deactivated and left on Mondalar as mere decorations on the landscape. When the Xel entity awakened on the night that a huge storm swept the world, these stones were activated. However, the Xel radiation has made them effective weapons that can gradually weaken an opponent. Each stone can be charged and then recharged, weakening all enemy units. This process is however very energy intensive and can only be used once per battle."
 

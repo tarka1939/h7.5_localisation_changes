@@ -1,29 +1,29 @@
-[Ability.A_Akuma_Buff_0_expert H7BaseBuff]
-mName="Bluünierstwo"
-mTooltip="StwÛr otrzymuje - %stat.norm %stat.icon i zwiÍksza o %res.norm dodatkowe obraøenia typu %icon_fire ogieÒ podczas %durnow.norm".
+Ôªø[Ability.A_Akuma_Buff_0_expert H7BaseBuff]
+mName="Blu≈∫nierstwo"
+mTooltip="Stw√≥r otrzymuje - %stat.norm %stat.icon i zwiƒôksza o %res.norm dodatkowe obra≈ºenia typu %icon_fire ogie≈Ñ podczas %durnow.norm".
 
 [Ability.A_Akuma_Buff_0_Master H7BaseBuff]
-mName="Bluünierstwo"
-mTooltip="StwÛr otrzymuje - %stat.norm %stat.icon i zwiÍksza o %res.norm dodatkowe obraøenia typu %icon_fire ogieÒ podczas %durnow.norm".
+mName="Blu≈∫nierstwo"
+mTooltip="Stw√≥r otrzymuje - %stat.norm %stat.icon i zwiƒôksza o %res.norm dodatkowe obra≈ºenia typu %icon_fire ogie≈Ñ podczas %durnow.norm".
 
 [Ability.A_Akuma_Buff_0_Novice H7BaseBuff]
-mName="Bluünierstwo"
-mTooltip="StwÛr otrzymuje - %stat.norm %stat.icon i zwiÍksza o %res.norm dodatkowe obraøenia typu %icon_fire ogieÒ podczas %durnow.norm".
+mName="Blu≈∫nierstwo"
+mTooltip="Stw√≥r otrzymuje - %stat.norm %stat.icon i zwiƒôksza o %res.norm dodatkowe obra≈ºenia typu %icon_fire ogie≈Ñ podczas %durnow.norm".
 
 [Ability.A_Akuma_Buff_0_ultimate H7BaseBuff]
-mName="Bluünierstwo"
-mTooltip="StwÛr otrzymuje - %stat.norm %stat.icon i zwiÍksza o %res.norm dodatkowe obraøenia typu %icon_fire ogieÒ podczas %durnow.norm".
+mName="Blu≈∫nierstwo"
+mTooltip="Stw√≥r otrzymuje - %stat.norm %stat.icon i zwiƒôksza o %res.norm dodatkowe obra≈ºenia typu %icon_fire ogie≈Ñ podczas %durnow.norm".
 
 [Ability.A_Akuma_Buff_0_Unskilled H7BaseBuff]
-mName="Bluünierstwo"
-mTooltip="StwÛr otrzymuje - %stat.norm %stat.icon i zwiÍksza o %res.norm dodatkowe obraøenia typu %icon_fire ogieÒ podczas %durnow.norm".
+mName="Blu≈∫nierstwo"
+mTooltip="Stw√≥r otrzymuje - %stat.norm %stat.icon i zwiƒôksza o %res.norm dodatkowe obra≈ºenia typu %icon_fire ogie≈Ñ podczas %durnow.norm".
 
 [Ability.A_Akuma_Support H7WarfareAbility]
 mTooltipMagicGuild=""
 mTooltipMagicGuildRankLine=""
 mTooltipUpgraded=""
-mName="Bluünierstwo"
-mTooltip="Morale stwora zostanie zmniejszone o %buff1.buff.stat1.norm %icon_morale i otrzyma on %buff1.buff.res1.norm dodatkowe obraøenia od ognia %icon_fire podczas %buff1.buff.durini.norm".
+mName="Blu≈∫nierstwo"
+mTooltip="Morale stwora zostanie zmniejszone o %buff1.buff.stat1.norm %icon_morale i otrzyma on %buff1.buff.res1.norm dodatkowe obra≈ºenia od ognia %icon_fire podczas %buff1.buff.durini.norm".
 
 [Unit.A_Akuma H7EditorWarUnit]
 mDesc="Jednostak specjalna (wsparcia)"

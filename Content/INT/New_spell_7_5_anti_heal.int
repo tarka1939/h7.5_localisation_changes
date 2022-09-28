@@ -1,4 +1,4 @@
-[A_heal_immunity H7CreatureAbility]
+﻿[A_heal_immunity H7CreatureAbility]
 mTooltipMagicGuild=""
 mTooltipMagicGuildRankLine=""
 mTooltipUpgraded=""

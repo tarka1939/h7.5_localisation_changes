@@ -1,10 +1,10 @@
-[A_Creaturefrost_beast H7Creature]
+﻿[A_Creaturefrost_beast H7Creature]
 mName="Cryofiend"
 mLore="The Dragon Causeway is known as the place of major fight between the Primordial Dragon Gods. Their blood rained down on the land and forever changed its inhabitants, creating various new creatures. Even now, these unexplored snowy mountains are filled with unknown dangers and countless mysteries. It is rumored, that the first Archmages learned the secrets of ice magic from the tribe of owl beastmen, living in the nearby caves. Surrounded by the aura of serenity, those mountain hermits, or Cryofiend in Kshatriyas' language, were granted with great wisdom and magic skills, but always seeked more. In exchange for new knowledge they extended a helping hand to the Archmages, which later became the reason for the construction of the Scarlet Tower."
 
 [A_Creaturefrost_dragon H7Creature]
 mName="Cryofiend"
-mLore="This mighty dragon-like beast is called Stoor. It was created when a lizard drowned in the river of Dragon's Blood. Filled with magic, it is permanently locked in an icy crystal, absorbing the power of the mountains. As the Archmages began exploring the underground caverns of the Dragon�s Causeway, Stoor awoke. Currently, he prowls caves and mountains. Many believe that he is just a legend, mainly because whoever met him never came back."
+mLore="This mighty dragon-like beast is called Stoor. It was created when a lizard drowned in the river of Dragon's Blood. Filled with magic, it is permanently locked in an icy crystal, absorbing the power of the mountains. As the Archmages began exploring the underground caverns of the Dragon’s Causeway, Stoor awoke. Currently, he prowls caves and mountains. Many believe that he is just a legend, mainly because whoever met him never came back."
 
 
 [A_RangedAttack H7CreatureAbility]

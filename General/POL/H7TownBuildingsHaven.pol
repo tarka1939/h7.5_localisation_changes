@@ -1,20 +1,20 @@
-
+﻿
 [A_Haven_chambre_des_michael H7TownDwelling]
 mName="Schody do Niebios"
-mDesc="Pozwala poświęcić Kirasjerów aby zrekrutować potężnego czempiona - Archanioła."
+mDesc="Pozwala poĹ›wiÄ™ciÄ‡ KirasjerĂłw aby zrekrutowaÄ‡ potÄ™ĹĽnego czempiona - ArchanioĹ‚a."
 
 [A_Haven_chambre_des_pretresse H7TownDwelling]
 mName="Kaplica"
-mDesc="Pozwala poświęcić Imperialne Gryfy aby zrekrutować potężne stworzenie - Boską Kapłankę."
+mDesc="Pozwala poĹ›wiÄ™ciÄ‡ Imperialne Gryfy aby zrekrutowaÄ‡ potÄ™ĹĽne stworzenie - BoskÄ… KapĹ‚ankÄ™."
 
 [A_Haven_SlaughterhouseWolves H7TownGrowthEnhancer]
 
-mDesc="Ulepszone podstawowe siedlisko.\n+10 przyrostu Gryfów lub Imperiajalnych Gryfów na tydzień."
+mDesc="Ulepszone podstawowe siedlisko.\n+10 przyrostu GryfĂłw lub Imperiajalnych GryfĂłw na tydzieĹ„."
 
 [A_Haven_BeastDenWolves H7TownDwelling]
 mName="Zagrody Bestii"
-mDesc="Ulepszone podstawowe siedlisko.\nPozwala ulepszać Gryfy na Imperiajalne Grify."
+mDesc="Ulepszone podstawowe siedlisko.\nPozwala ulepszaÄ‡ Gryfy na Imperiajalne Grify."
 
 [A_Haven_BeastLairWolves H7TownDwelling]
-mName=Leże Bestii"
-mDesc="Podstawowe siedlisko.\nPozwala rekrutować 10 Gryfów tygodniowo."
+mName=LeĹĽe Bestii"
+mDesc="Podstawowe siedlisko.\nPozwala rekrutowaÄ‡ 10 GryfĂłw tygodniowo."

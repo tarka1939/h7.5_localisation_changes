@@ -1,4 +1,4 @@
-[A_Soutien_militaire_Buff H7BaseBuff]
+﻿[A_Soutien_militaire_Buff H7BaseBuff]
 mName="Military Support "
 mTooltip="The military unit inflicts %d2 additional damage when attacking a target. (This value changes with the mastery level of : %spell1.name / Extra damage only applies once per turn. ) "
 

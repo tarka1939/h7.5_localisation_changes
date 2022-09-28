@@ -1,4 +1,4 @@
-[A_Armageddon H7HeroAbility]
+﻿[A_Armageddon H7HeroAbility]
 mTooltipMagicGuild="Deals %d.icon Fire damage to all units, instantly."
 mTooltipMagicGuildRankLine="%d.min to %d.max %d.icon"
 mTooltipUpgraded=""
@@ -214,7 +214,7 @@ mTooltipMagicGuild=""
 mTooltipMagicGuildRankLine=""
 mTooltipUpgraded=""
 mName="Fire Prison"
-mTooltip="Creates a Fire prison in an area of ​​2X2 for %durini combat turns, inflicting %buff1.buff.d1.min to %buff1.buff.d1.max %buff1.buff.d1.icon Fire damage to all creatures in the area (and those that enter the area) at the start of their turn. Reduces their movement to 0 %icon_movement"
+mTooltip="Creates a Fire prison in an area of â€‹â€‹2X2 for %durini combat turns, inflicting %buff1.buff.d1.min to %buff1.buff.d1.max %buff1.buff.d1.icon Fire damage to all creatures in the area (and those that enter the area) at the start of their turn. Reduces their movement to 0 %icon_movement"
 
 [Imprinted.A_FireWall_Imprinted_Buff H7BaseBuff]
 mName="Fire Jail"

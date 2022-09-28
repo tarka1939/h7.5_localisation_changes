@@ -1,4 +1,4 @@
-[Archetype.A_Antalyan H7EditorHero]
+﻿[Archetype.A_Antalyan H7EditorHero]
 mName=""
 mLore=""
 
@@ -144,7 +144,7 @@ mTooltipMagicGuild=""
 mTooltipMagicGuildRankLine=""
 mTooltipUpgraded=""
 mName="Frosty skin"
-mTooltip=" At the beginning of the fight allied creatures of mel�e receive %spell.name. This spell is cast at expert rank."
+mTooltip=" At the beginning of the fight allied creatures of melée receive %spell.name. This spell is cast at expert rank."
 
 [Specialisation.A_peau_givre_Buff H7BaseBuff]
 mName="Frost armour"

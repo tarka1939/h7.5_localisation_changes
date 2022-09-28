@@ -1,4 +1,4 @@
-[A_heal_immunity H7CreatureAbility]
+ï»¿[A_heal_immunity H7CreatureAbility]
 mTooltipMagicGuild=""
 mTooltipMagicGuildRankLine=""
 mTooltipUpgraded=""
@@ -30,7 +30,7 @@ mTooltip="Increases the defense of the target ally by %buff1.buff.stat1 and free
 [Ice_lance.A_Nova H7HeroAbility]
 mTooltipMagicGuild="Deals %d.icon water damage to all units in the strike line, then has a 30% chance to freeze them. "
 mTooltipMagicGuildRankLine="%d.min to %d.max %d.icon"
-mTooltipUpgraded="Deals %d.min à %d.max %d.icon water in the strike zone, and have a 60% chance of freezing them. "
+mTooltipUpgraded="Deals %d.min Å• %d.max %d.icon water in the strike zone, and have a 60% chance of freezing them. "
 mName="Ice Spear "
-mTooltip="Deals %d.min à %d.max %d.icon water in the strike zone, and have a 30% chance of freezing them. "
+mTooltip="Deals %d.min Å• %d.max %d.icon water in the strike zone, and have a 30% chance of freezing them. "
 
