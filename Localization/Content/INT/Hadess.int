@@ -84,15 +84,15 @@ mDesc="Core dwelling upgrade.\n+6 growth of Hell's Hounds and Cerberus per week.
 
 [Building_village_hadess.A_hadess_ShadowArena_chien_enfer_pool H7TownDwelling]
 mName="House of Pleasure "
-mDesc="Core dwelling.\nEnable recruitment of Succubus with a growth of 20 per week."
+mDesc="Core dwelling.\nEnable recruitment of Succubi with a growth of 20 per week."
 
 [Building_village_hadess.A_hadess_ShadowRing_chienenfer_eveil_pool H7TownDwelling]
-mName="Hareme of the Temption"
-mDesc="Core dwelling upgrade.\nEnables recruitment and upgrade of Succubus to Lilim. "
+mName="Harem of the Temption"
+mDesc="Core dwelling upgrade.\nEnables recruitment and upgrade of Succubi to Lilims. "
 
 [Building_village_hadess.A_hadess_ShootingRange_chien_bonus_growth H7TownGrowthEnhancer]
 mName="Brothel "
-mDesc="Core dwelling upgrade.\n+10 growth of Succubus or Lilims per week. "
+mDesc="Core dwelling upgrade.\n+10 growth of Succubi or Lilims per week. "
 
 [Building_village_hadess.A_hadess_LakeOfStilledVoices_efreet_pool H7TownDwelling]
 mName="Efreetes Lamps "
@@ -100,22 +100,22 @@ mDesc="Elite dwelling.\nEnable recruitment of Efreetes with a growth of 6 per we
 
 [Building_village_hadess.A_hadess_FrozenStatuary_efreet_eveil_pool H7TownDwelling]
 mName="Sultans Lamps "
-mDesc="Elite dwelling upgrade.\nEnables recruitment and upgrade of Efreetes to Efreetes Sultan. "
+mDesc="Elite dwelling upgrade.\nEnables recruitment and upgrade of Efreetes to Efreete Sultans. "
 
 [Building_village_hadess.A_hadess_SnakeTower_groyw_bonus_efreet H7TownGrowthEnhancer]
 mName="Cave of Unfulfilled Dreams "
-mDesc="Elite dwelling upgrade.\n+5 growth of Efreetes and Efreetes Sultan per week. "
+mDesc="Elite dwelling upgrade.\n+5 growth of Efreetes and Efreete Sultans per week. "
 
 [Building_village_hadess.A_hadess_StriderForge_juggernaute_pool H7TownDwelling]
 mName="Juggernaut Gate "
 mDesc="Elite dwelling.\nEnable recruitment of Juggernauts with a growth of 5 per week."
 
 [Building_village_hadess.A_hadess_SoullessForge_ravageur_pool H7TownDwelling]
-mName="Ravageurs Gate "
-mDesc="Elite dwelling upgrade.\nEnables recruitment and upgrade of Juggernauts to Ravageurs. "
+mName="Ravagers Gate "
+mDesc="Elite dwelling upgrade.\nEnables recruitment and upgrade of Juggernauts to Ravagers. "
 
 [Building_village_hadess.A_hadess_ShadowsteelPool_juggernautegrowth_bonus H7TownGrowthEnhancer]
-mName="Abissal Passage "
+mName="Abyssal Passage"
 mDesc="Elite dwelling upgrade.\n+5 growth of Juggernauts and Ravagers per week. "
 
 [Building_village_hadess.A_hadess_Maze_sabime_pool H7TownDwelling]
@@ -132,7 +132,7 @@ mDesc="Elite dwelling upgrade.\n+2 growth of Pit Fiend and Pit Lords per week."
 
 [Building_village_hadess.A_hadess_HissingTemple_magog_pool H7TownDwelling]
 mName="Children of Chaos Lair "
-mDesc="Champion dwelling.\nEnable recruitment of Children of Chaos with a growth of 1 per week. "
+mDesc="Champion dwelling.\nEnable recruitment of Children of Chaos with a growth of 2 per week. "
 
 [Building_village_hadess.A_hadess_RattlingTemple_magog-eveil H7TownDwelling]
 mName="Lair of the Magogs "
@@ -140,7 +140,7 @@ mDesc="Champion dwelling upgrade.\nEnables recruitment and upgrade of Children o
 
 [Building_village_hadess.A_hadess_DragonSpire_diable_pool H7TownDwelling]
 mName="Forsaken Palace "
-mDesc="Champion dwelling.\nEnable recruitment of Devils with a growth of 1 per week. "
+mDesc="Champion dwelling.\nEnable recruitment of Devils with a growth of 2 per week. "
 
 [Building_village_hadess.A_hadess_DragonPinnacle_diable_eveil_pool H7TownDwelling]
 mName="Kingdom of Arch-Devils "
@@ -247,7 +247,7 @@ mName="Distortion Chamber "
 mDesc="Provides the option to convert living creatures into Ravageurs."
 
 [Building_village_hadess.A_hadessShadowsteelRefinery H7TownBuilding]
-mName="Shadow cave"
+mName="Shadow Cave"
 mDesc="Provides 1 %icon_Shadowsteel Shadowsteel per day."
 
 [Building_village_hadess.A_Dhadess_ChthonianDeposit H7TownBuilding]
@@ -344,10 +344,6 @@ mTownNames[13]="Ur-Vesphaal"
 mName="Paradise Lost"
 mDesc="Allows to recruit a powerful champion creature - Fallen Angel. \Can be recruited using the "recruit all" function"
 
-[Building_village_hadess.A_hadess_chambre_nosferatu H7TownDwelling]
-mName="Circles of Sin"
-mDesc="Allows a Lilim to be sacrificed to recruit a powerful elite creature - Damned Crusader."
-
 [Building_village_hadess.A_Hadess_Fortifications_Level1 H7TownGuardBuilding]
 mName="Fortifications Level 1"
 mDesc="Equip the town with walls and gate in siege combat and add to the local guard Core, Elite and Champion units."
@@ -360,9 +356,9 @@ mDesc="Increases the hit points of walls and gate in siege combats also and incr
 mName="Fortifications Level 3"
 mDesc="Increases the hit points of walls and gate in siege combats also and increases the capacities and growth of creatures in the local guard"
 
-[Building_village_hadess.A_hadess_chambre_nemesis H7TownDwelling]
-mName="Paradise Lost"
-mDesc="Allows a Pit Lord to be sacrificed to recruit a powerful champion creature - Fallen Angel."
+[Building_village_hadess.A_hadess_chambre_nosferatu H7TownDwelling]
+mName="Circles of Sin"
+mDesc="Allows a Lilim to be sacrificed to recruit a powerful elite creature - Damned Crusader."
 
 [New_Build.A_hadess_chambre_nosferatu H7TownDwelling]
 mName="Circles of Sin"

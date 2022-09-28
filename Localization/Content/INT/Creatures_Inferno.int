@@ -129,8 +129,8 @@ mLore="Once the most powerful of demons. Today they faithfully serve their sover
 mName=""
 
 [Magog.A_Creaturemagog H7Creature]
-mName="Children of Chaos"
-mLore="To become a Child of Chaos, you must sell your soul to Urgash, and then transform it with his magic. In this way, you lose your body and become the embodiment of chaos magic. Children of Chaos can bend reality, cause destruction, teleport anywhere and summon demons. They are often surrounded by living levitating spheres of materialized chaos magic."
+mName="Child of Chaos"
+mLore="To become Child of Chaos, one must sell their soul to Urgash, and then transform it with his magic. In this way, they lose their body and become the embodiment of chaos magic. Children of Chaos can bend reality, cause destruction, teleport anywhere and summon demons. They are often surrounded by living levitating spheres of materialized chaos magic."
 
 [Magog.A_Magmamogd_Buff H7BaseBuff]
 mName="Magma Pond"

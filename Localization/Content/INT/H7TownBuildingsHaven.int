@@ -292,7 +292,7 @@ mDesc="Provides additional 2000 %ICON_GOLD Gold per day. You can only have one C
 
 [A_Haven_Chambre_pretresse H7TownDwelling]
 mName="Portal of Glory"
-mDesc="Allows to recruit a powerful champion creature -Supreme Archangel. \Can be recruited using the "recruit all" function"
+mDesc="Allows to recruit a powerful champion creature - Supreme Archangel. \Can be recruited using the "recruit all" function"
 
 [A_Haven_chambre_des_michael H7TownDwelling]
 mName="Chapel"
