@@ -1,4 +1,4 @@
-﻿[A_FrostBolt H7HeroAbility]
+[A_FrostBolt H7HeroAbility]
 mName="Pocisk mrozu"
 mTooltip="Natychmiast zadaje %d.min do %d.max obrażeń od %d.icon Magii Wody wskazanemu wrogiemu oddziałowi."
 mTooltipMagicGuild="Natychmiast zadaje obrażenia od %d.icon Magii Wody wskazanemu wrogiemu oddziałowi."

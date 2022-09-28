@@ -1,4 +1,4 @@
-﻿[A_Armageddon H7HeroAbility]
+[A_Armageddon H7HeroAbility]
 mTooltipMagicGuild="Deals %d.icon Fire damage to all units, instantly."
 mTooltipMagicGuildRankLine="%d.min to %d.max %d.icon"
 mTooltipUpgraded=""

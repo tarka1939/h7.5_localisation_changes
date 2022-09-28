@@ -1,4 +1,4 @@
-﻿[Abilities.A_Burns_Buff H7BaseBuff]
+[Abilities.A_Burns_Buff H7BaseBuff]
 mName="Burn"
 mTooltip="Inflicts %d.min to %d.max fire damage to %d.icon at the start of the round. Lasts for %durnow rounds."
 

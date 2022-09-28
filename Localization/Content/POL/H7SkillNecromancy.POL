@@ -1,4 +1,4 @@
-﻿[A_PutridBones_Ability H7HeroAbility]
+[A_PutridBones_Ability H7HeroAbility]
 mName="Gnijące Kości"
 mTooltip="Szkielety i Szkielety Hoplici zadają %spell1.spell.d.min obrażeń od %ICON_EARTH Magii Ziemi za każde stworzenie w oddziale jednostkom atakującym je w walce wręcz."
 

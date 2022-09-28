@@ -1,4 +1,4 @@
-﻿[MagicSchool.A_honneur_du_mage_Buff H7BaseBuff]
+[MagicSchool.A_honneur_du_mage_Buff H7BaseBuff]
 mName="Wyczerpanie"
 mTooltip="Stworzenie ma Atak zmniejszony o %stat1.norm %icon_attack."
 

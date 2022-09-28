@@ -1,4 +1,4 @@
-﻿[Imprinted.A_Fortune_Imprinted_Buff H7BaseBuff]
+[Imprinted.A_Fortune_Imprinted_Buff H7BaseBuff]
 mName="Pomyślny Los"
 mTooltip="%stat do %stat.icon Szczęścia\nCzas trwania w turach: %durnow."
 

@@ -1,4 +1,4 @@
-﻿[A_magic_shield H7BaseBuff]
+[A_magic_shield H7BaseBuff]
 mName="Magic Boost"
 mTooltip="Creature gains %stat %icon_health hp bonus until end of combat turn."
 

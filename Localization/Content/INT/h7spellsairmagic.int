@@ -1,4 +1,4 @@
-﻿
+
 [A_Shocked_Buff H7BaseBuff]
 mName="Shocked"
 mTooltip="The %stat.icon Initiative of the creature is %stat.norm. Lasts for %durnow turn(s)."

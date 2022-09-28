@@ -1,4 +1,4 @@
-﻿[A_Reinforcements_Ability H7HeroAbility]
+[A_Reinforcements_Ability H7HeroAbility]
 mName="Wsparcie"
 mTooltip="Na początku walki liczba sojuszniczych stworzeń zostaje zwiększona o %buff.buff.special1. Stworzenia dodane w ten sposób nie zostaną w armii po zakończeniu walki."
 

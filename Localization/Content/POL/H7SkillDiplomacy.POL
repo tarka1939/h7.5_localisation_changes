@@ -1,4 +1,4 @@
-﻿[A_DiplomaticImmunity_TownAbility H7BaseAbility]
+[A_DiplomaticImmunity_TownAbility H7BaseAbility]
 mName="Zdolność Miasta"
 
 [A_DiplomaticImmunity_Buff H7BaseBuff]

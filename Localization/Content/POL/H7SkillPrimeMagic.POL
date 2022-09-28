@@ -1,4 +1,4 @@
-﻿[A_Clarity_Ability H7HeroAbility]
+[A_Clarity_Ability H7HeroAbility]
 mName="Jasność"
 mTooltip="Rzucając w walce zaklęcie Magii Pierwotnej, bohater zyskuje drugą turę w tej rundzie walki. W tej dodatkowej turze zaklęcia są rzucane z %buff.buff.stat2 %ICON_MAGIC Magii."
 

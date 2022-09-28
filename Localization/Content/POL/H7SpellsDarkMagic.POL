@@ -1,4 +1,4 @@
-﻿[A_Despair H7HeroAbility]
+[A_Despair H7HeroAbility]
 mName="Rozpacz"
 mTooltip="Zmniejsza o %buff.buff.stat.norm %buff.buff.stat.icon Morale wskazanego wrogiego stworzenia na okres %buff.buff.durini tur."
 mTooltipMagicGuild="Zmniejsza %buff.buff.stat.icon Morale wskazanego wrogiego stworzenia na okres %buff.buff.durini tur."

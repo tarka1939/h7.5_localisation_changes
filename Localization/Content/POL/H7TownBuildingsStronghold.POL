@@ -1,4 +1,4 @@
-﻿[A_StrongholdAltarOfBrokenBlades H7TownBuilding]
+[A_StrongholdAltarOfBrokenBlades H7TownBuilding]
 mName="Ołtarz Złamanych Mieczy"
 mDesc="Stworzenia odwiedzającego to miejsce bohatera dostają +1 do %ICON_MAX_MOVEMENT Ruchu i +5 do %ICON_ATTACK Ataku na 3 kolejne walki."
 

@@ -1,4 +1,4 @@
-﻿[A_Rush_Ability H7HeroAbility]
+[A_Rush_Ability H7HeroAbility]
 mName="Szarża"
 mTooltip="Sojusznicze stworzenia w Krwawym Szale otrzymują %buff.buff.stat do %buff.buff.stat.icon Ruchu."
 

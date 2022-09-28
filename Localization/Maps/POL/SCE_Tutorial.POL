@@ -1,4 +1,4 @@
-﻿
+
 [TheWorld:PersistentLevel.Main_Sequence.Sequence_1.H7SeqAct_ShowText_0 H7SeqAct_ShowText]
 mText="Witamy w samouczku do gry Heroes 7!\n\nW samouczku będziesz kierować bohaterką o imieniu Ella. Bohaterowie stanowią najważniejszy element gry. To właśnie oni są ucieleśnieniem twej woli, gdy robisz cokolwiek w świecie gry: odkrywasz nowe ziemie, zbierasz skarby czy toczysz bitwy.\n\nNajpierw dowiesz się, jak przemieszczać bohatera i odsłaniać mapę.\n\nUwaga: w samouczku nie można zapisywać stanu gry!"
 [TheWorld:PersistentLevel.Main_Sequence.Sequence_1.H7SeqAct_HighlightGUIElement_28 H7SeqAct_HighlightGUIElement]

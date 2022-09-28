@@ -1,4 +1,4 @@
-﻿[A_PoisonCloud_Buff H7BaseBuff]
+[A_PoisonCloud_Buff H7BaseBuff]
 mName="Poison Cloud"
 
 [Imprinted.A_PoisonSpray_Imprinted_Buff H7BaseBuff]

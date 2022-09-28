@@ -1,4 +1,4 @@
-﻿[A_WaterScholar_Ability H7HeroAbility]
+[A_WaterScholar_Ability H7HeroAbility]
 mName="Uczony Magii Wody"
 mTooltip="Zmniejsza koszt Many zaklęć Magii Wody o %special.norm%."
 

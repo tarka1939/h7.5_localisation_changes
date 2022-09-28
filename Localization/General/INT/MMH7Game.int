@@ -1,4 +1,4 @@
-﻿; things that are used in more than one flash movie, used as fallback, when not found in specific section, or we just put everything here since it's too much hassle to give each window it's own loca
+; things that are used in more than one flash movie, used as fallback, when not found in specific section, or we just put everything here since it's too much hassle to give each window it's own loca
 [H7General]
 MIGHT=Might
 MAGIC=Magic

@@ -1,4 +1,4 @@
-﻿[A_Stranglehold_Buff H7BaseBuff]
+[A_Stranglehold_Buff H7BaseBuff]
 mName="Stranglehold"
 mTooltip="The creature cannot move until the beginning of the turn of the creature that applied Stranglehold or until both creatures are no longer adjacent."
 

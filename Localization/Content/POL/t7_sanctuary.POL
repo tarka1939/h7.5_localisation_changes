@@ -1,4 +1,4 @@
-﻿[t7.A_fish_guard_Buff H7BaseBuff]
+[t7.A_fish_guard_Buff H7BaseBuff]
 mName="Uraza"
 mTooltip="Ilekroć to stworzenie otrzymuje obrażenia, sąsiednie stworzenia przyjmują %d Obrażeń od powietrza. Trwa %durnow tur."
 

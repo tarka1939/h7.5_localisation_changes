@@ -1,4 +1,4 @@
-﻿[A_Regeneration H7HeroAbility]
+[A_Regeneration H7HeroAbility]
 mTooltipMagicGuild="Lightly heals and instantly resurrects targeted friendly creature, then heals target for 2 turns.."
 mTooltipMagicGuildRankLine="%d1.min Health"
 mTooltipUpgraded="Heal %d1.min target instantly, then %buff1.buff.d1.min %icon_health over a 3x3 area for %buff1.buff.durini rounds"

@@ -1,4 +1,4 @@
-﻿[Ability.A_Akuma_Buff_0_expert H7BaseBuff]
+[Ability.A_Akuma_Buff_0_expert H7BaseBuff]
 mName="Blasphemy"
 mTooltip="The creature receives - %stat.norm %stat.icon and increases by %res.norm the damage of type %icon_fire Additional fire during %durnow.norm"
 

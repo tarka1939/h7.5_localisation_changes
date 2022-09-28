@@ -1,4 +1,4 @@
-﻿[Hints.A_LoadscreenHints H7LoadingHints]
+[Hints.A_LoadscreenHints H7LoadingHints]
 mHints[0]="Poruszanie się po przekątnej kosztuje 1,41 ruchu."
 mHints[1]="Zapis gry jest tworzony automatycznie na zakończenie każdego dnia."
 mHints[2]="Bohaterowie mogą teraz awansować do 30. poziomu w ramach oficjalnych kampanii oraz scenariuszy."

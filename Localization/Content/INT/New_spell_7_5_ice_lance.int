@@ -1,4 +1,4 @@
-﻿[A_FrostBolt H7HeroAbility]
+[A_FrostBolt H7HeroAbility]
 mTooltipMagicGuild="Deals %d.icon Water damage to the target enemy unit, instantly."
 mTooltipMagicGuildRankLine="%d.min to %d.max %d.icon"
 mTooltipUpgraded="Deals %d.min to %d.max %d.icon Water damage to the target enemy unit instantly, and its %buff.buff.stat.icon Movement is decreased by %buff.buff.stat.norm for %buff.buff.durini turns."

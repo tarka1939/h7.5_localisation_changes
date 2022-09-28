@@ -1,4 +1,4 @@
-﻿[A_Armageddon H7HeroAbility]
+[A_Armageddon H7HeroAbility]
 mName="Armagedon"
 mTooltip="Natychmiast zadaje wszystkim oddziałom %d.min do %d.max pkt. obrażeń od %d.icon Magii Ognia."
 mTooltipMagicGuild="Natychmiast zadaje wszystkim oddziałom obrażenia od %d.icon Magii Ognia."

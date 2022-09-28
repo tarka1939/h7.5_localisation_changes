@@ -1,4 +1,4 @@
-﻿[Imprinted.A_Fortune_Imprinted_Buff H7BaseBuff]
+[Imprinted.A_Fortune_Imprinted_Buff H7BaseBuff]
 mName="Fortune"
 mTooltip="%stat %stat.icon Luck\nLasts for %durnow turn(s)."
 

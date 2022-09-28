@@ -1,4 +1,4 @@
-﻿[A_Soutien_militaire_Buff H7BaseBuff]
+[A_Soutien_militaire_Buff H7BaseBuff]
 mName="Wsparcie wojskowe "
 mTooltip="Jednostka wojskowa zadaje %d2 dodatkowych obrażeń podczas ataku na cel. (Ta wartość zmienia się wraz z poziomem opanowania zaklęcia : %spell1.name / Dodatkowe obrażenia występują tylko raz na turę. ) "
 

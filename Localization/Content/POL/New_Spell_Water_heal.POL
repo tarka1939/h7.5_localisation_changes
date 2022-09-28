@@ -1,4 +1,4 @@
-﻿[A_Regeneration H7HeroAbility]
+[A_Regeneration H7HeroAbility]
 mTooltipMagicGuild="Lekko leczy i natychmiast wskrzesza wskazane przyjazne stworzenie, a następnie leczy cel na 2 tury."
 mTooltipMagicGuildRankLine="%d1.min Zdrowia"
 mTooltipUpgraded="Natychmiast uzdrawia cel %d1.min, a następnie %buff1.buff.d1.min %icon_health na obszarze 3x3 na ilość tur: %buff1.buff.durini"

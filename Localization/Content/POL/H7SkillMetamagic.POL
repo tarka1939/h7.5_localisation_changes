@@ -1,4 +1,4 @@
-﻿[A_ArcaneEmpowerment_Buff H7BaseBuff]
+[A_ArcaneEmpowerment_Buff H7BaseBuff]
 mName="Mistyczne Zasilenie"
 mTooltip="Zadaje %d1.min %ICON_PRIME Prime obrażenia pierwszemu wrogiemu stworzeniu atakującemu lub wykonującemu odwet w walce wręcz."
 

@@ -1,4 +1,4 @@
-﻿[Magic_air.A_no_chain_lightning_creature H7BaseBuff]
+[Magic_air.A_no_chain_lightning_creature H7BaseBuff]
 mName="Couldown Chain Lightning"
 mTooltip="Ce héros  ne peut plus utiliser le sort Chain Lightning pendant %durnow tours "
 

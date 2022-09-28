@@ -1,4 +1,4 @@
-﻿[A_Shocked_Buff H7BaseBuff]
+[A_Shocked_Buff H7BaseBuff]
 mName="Porażony"
 mTooltip="%stat.icon Inicjatywa stworzenia wynosi %stat.norm. Czas trwania w turach: %durnow."
 

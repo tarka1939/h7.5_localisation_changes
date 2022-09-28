@@ -1,4 +1,4 @@
-﻿[Ability.A_Akuma_Buff_0_expert H7BaseBuff]
+[Ability.A_Akuma_Buff_0_expert H7BaseBuff]
 mName="Bluźnierstwo"
 mTooltip="Stwór otrzymuje - %stat.norm %stat.icon i zwiększa o %res.norm dodatkowe obrażenia typu %icon_fire ogień podczas %durnow.norm".
 

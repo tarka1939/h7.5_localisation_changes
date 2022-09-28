@@ -1,4 +1,4 @@
-﻿[MagicSchool.A_honneur_du_mage_Buff H7BaseBuff]
+[MagicSchool.A_honneur_du_mage_Buff H7BaseBuff]
 mName="Exhaustion"
 mTooltip="Creature has its Ataak reduced by %stat1.norm %icon_attack."
 

@@ -1,4 +1,4 @@
-﻿[A_meteorite_Buff H7BaseBuff]
+[A_meteorite_Buff H7BaseBuff]
 mName="Podatność na ogień "
 mTooltip="Zwiększa o %res obrażenia od ataków źródłowych %icon_fire fire, które ta istota otrzymuje podczas %durnow tur"
 

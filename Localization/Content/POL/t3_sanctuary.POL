@@ -1,4 +1,4 @@
-﻿[Ability.A_Nova_Buff H7BaseBuff]
+[Ability.A_Nova_Buff H7BaseBuff]
 mName="Stan Zapalny
 mTooltip="Stworzenie otrzymuje %d %icon_fire ognia na koniec tury "
 

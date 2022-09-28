@@ -1,4 +1,4 @@
-﻿[A_magic_shield H7BaseBuff]
+[A_magic_shield H7BaseBuff]
 mName="Magiczne Wzmocnienie"
 mTooltip="Stworzenie zyskuje bonus %stat %icon_health Zdrowia do końca tury walki."
 

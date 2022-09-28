@@ -1,4 +1,4 @@
-﻿[A_Infection_Buff H7BaseBuff]
+[A_Infection_Buff H7BaseBuff]
 mName="Infekcja "
 mTooltip="Stworzenie otrzymuje %res1 %icon_health zaklęć i zdolności uzdrawiania na %durnow.norm tury  ."
 

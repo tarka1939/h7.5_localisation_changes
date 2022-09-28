@@ -1,4 +1,4 @@
-﻿[buff_bonus.A_StormArrows_Buff H7BaseBuff]
+[buff_bonus.A_StormArrows_Buff H7BaseBuff]
 mName="Burzowe strzały"
 mTooltip="%stat2 %stat2.icon Atak\nTrwa przez %durnow ture(y)."
 

@@ -1,4 +1,4 @@
-﻿[Abilities.A_HandOfDeath_Buff H7BaseBuff]
+[Abilities.A_HandOfDeath_Buff H7BaseBuff]
 mName="Hand of death"
 mTooltip="%stat1 %ICON_HEALTH to health. Tough until the end of the battle."
 

@@ -1,4 +1,4 @@
-﻿[Imprinted.A_Resurrection_Imprinted H7HeroAbility]
+[Imprinted.A_Resurrection_Imprinted H7HeroAbility]
 mName="Wskrzeszenie"
 mTooltip="Natychmiast wskrzesza i odnawia %d.min pkt. Zdrowia wskazanemu stworzeniu sojuszniczemu. Wskazana jednostka leczy i wskrzesza %buff1.buff.d.min Zdrowia wszystkich sąsiadujących sojuszniczych stworzeń przez okres %buff1.buff.durini tur.\n(Nie działa na Nieumarłych i Konstrukty)"
 

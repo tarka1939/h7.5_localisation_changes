@@ -1,4 +1,4 @@
-﻿[Ancestral_dragon.A_Burning_Buff H7BaseBuff]
+[Ancestral_dragon.A_Burning_Buff H7BaseBuff]
 mName="Spalenie"
 mTooltip="Zadaje temu stworzeniu %d.max %d.icon_earth obrażeń Ziemi na początku jego tury. Trwa %durnow tur."
 

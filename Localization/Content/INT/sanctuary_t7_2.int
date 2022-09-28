@@ -1,4 +1,4 @@
-﻿[buff_bonus.A_StormArrows_Buff H7BaseBuff]
+[buff_bonus.A_StormArrows_Buff H7BaseBuff]
 mName="Storm Arrows"
 mTooltip="%stat2 %stat2.icon Attack\nLasts for %durnow turn(s)."
 

@@ -1,4 +1,4 @@
-﻿[Imprinted.A_Resurrection_Imprinted H7HeroAbility]
+[Imprinted.A_Resurrection_Imprinted H7HeroAbility]
 mName="Resurrection"
 mTooltip="Heals and resurrects %d.min Health of the target friendly creature, instantly. The target creature heals and resurrects %buff1.buff.d.min Health of all adjacent friendly creatures for %buff1.buff.durini turns.\n(Not affected: Undead and Constructs)"
 

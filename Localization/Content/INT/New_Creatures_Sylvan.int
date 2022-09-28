@@ -1,4 +1,4 @@
-﻿[Ancestral_dragon.A_Burning_Buff H7BaseBuff]
+[Ancestral_dragon.A_Burning_Buff H7BaseBuff]
 mName="Burning"
 mTooltip="Inflicts %d.max %icon_earth Earth damage to the creature at the start of its turn. Lasts %durnow turn(s)."
 

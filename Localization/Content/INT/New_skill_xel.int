@@ -1,4 +1,4 @@
-﻿[skills_expert2.A_BurningDetermination H7HeroAbility]
+[skills_expert2.A_BurningDetermination H7HeroAbility]
 mTooltipMagicGuild=""
 mTooltipMagicGuildRankLine=""
 mTooltipUpgraded="Increases the magic resistance of a friendly unit by %buff1.buff.res1. Does not apply to undead and constructs.Recharge time: 6 turns."

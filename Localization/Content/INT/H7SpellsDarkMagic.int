@@ -1,4 +1,4 @@
-﻿[A_Despair H7HeroAbility]
+[A_Despair H7HeroAbility]
 mTooltipMagicGuild="Decreases the %buff.buff.stat.icon Morale of the target enemy creature for %buff.buff.durini turns."
 mTooltipMagicGuildRankLine="%buff.buff.stat %buff.buff.stat.icon Morale"
 mTooltipUpgraded="Decreases by %buff.buff.stat.norm the %buff.buff.stat.icon Morale of all enemy creatures in the target 4x4 area for %buff.buff.durini turns."

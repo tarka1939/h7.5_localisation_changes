@@ -1,4 +1,4 @@
-﻿[Hero_Bellona.A_Nova H7HeroAbility]
+[Hero_Bellona.A_Nova H7HeroAbility]
 mName="Summoner's Gate"
 mTooltip="This hero can summon an additional stack of creatures: Summons a %special1.val2% copy of the target creature to fight on his side once per combat."
 

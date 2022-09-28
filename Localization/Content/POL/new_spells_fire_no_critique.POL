@@ -1,4 +1,4 @@
-﻿[A_Burning_Buff H7BaseBuff]
+[A_Burning_Buff H7BaseBuff]
 mName="Udręka I"
 mTooltip="Szczęście docelowej istoty jest zmniejszone do %stat1 %stat1.icon podczas %durnow tur."
 

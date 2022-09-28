@@ -1,4 +1,4 @@
-﻿[Armure_de_givre.A_armure_givre_Buff H7BaseBuff]
+[Armure_de_givre.A_armure_givre_Buff H7BaseBuff]
 mName="Frost Armor"
 mTooltip="During %durnow.norm turns. The creature is buffed %stat1 %icon_defense and has a 50% chance to freeze enemies that attack it in melee."
 

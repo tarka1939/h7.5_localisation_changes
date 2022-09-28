@@ -1,4 +1,4 @@
-﻿[A_BurningDetermination H7HeroAbility]
+[A_BurningDetermination H7HeroAbility]
 mTooltipMagicGuild="Docelowa istota zyskuje Wampiryzm i leczy się sama podczas zadawania damage.Lasts: %buff.buff.durini tur."
 mTooltipMagicGuildRankLine="Docelowa istota zyskuje Wampiryzm i leczy się sama podczas zadawania damage.Lasts: %buff.buff.durini tur.".
 mTooltipUpgraded="Stworzenia namierzone w obszarze 6X6 zyskują Wampiryzm i leczą się za %buff.buff.d1 %icon_health przy zadawaniu damage.Harsh: %buff.buff.durini tur."
