@@ -1,0 +1,181 @@
+[A_RuneAbility_Skip H7RuneAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="End Turn"
+mTooltip="Ends the rune unit's turn."
+
+[A_RuneAbility_Wait H7RuneAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Wait"
+mTooltip="The rune unit will act later. The order of waiting units is inverted."
+
+[A_RuneOfDestruction_Ability_Active H7RuneAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded="Deals %d2.min %icon_prime Prime damage to all enemy creatures in the aura of the rune. Can only be activated once per combat."
+mName="Rune of Destruction: Activation"
+mTooltip="Deals %d1.min %icon_prime Prime damage to all enemy creatures in the aura of the rune. Can only be activated once per combat."
+
+[A_RuneOfDestruction_Ability_Aura_3x3 H7RuneAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rune of Destruction: Aura"
+mTooltip="Friendly creatures within the aura get %buff1.buff.stat %icon_attack Attack."
+
+[A_RuneOfDestruction_Ability_Aura_5x5 H7RuneAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rune of Destruction: Aura"
+mTooltip="Friendly creatures within the aura get %buff1.buff.stat %icon_attack Attack."
+
+[A_RuneOfDestruction_Ability_Aura_Buff H7BaseBuff]
+mName="Rune of Destruction Aura"
+mTooltip="%stat %icon_attack Attack"
+
+[A_RuneOfDestruction_CreatureAbility_3x3 H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rune of Destruction"
+mTooltip="Friendly creatures within the 3x3 area around the creature get %buff1.buff.stat %icon_attack Attack."
+
+[A_RuneOfDestruction_CreatureAbility_5x5 H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rune of Destruction"
+mTooltip="Friendly creatures within the 5x5 area around the creature get %buff1.buff.stat %icon_attack Attack."
+
+[A_RuneOfDestruction_Rune H7EditorRuneUnit]
+mDesc=""
+mName="Rune of Destruction"
+mLore=""
+
+[A_RuneOfFortune_Ability_Active H7RuneAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded="Applies a shield to all friendly creatures within the aura that absorbs up to %buff2.buff.special.val1 damage. Can only be activated once per combat."
+mName="Rune of Fortune: Activation"
+mTooltip="Applies a shield to all friendly creatures within the aura that absorbs up to %buff1.buff.special.val1 damage. Can only be activated once per combat."
+
+[A_RuneOfFortune_Ability_Active_Buff H7BaseBuff]
+mName="Rune of Fortune Shield"
+mTooltip="Absorbs up to %special.val3 damage."
+
+[A_RuneOfFortune_Ability_Active_Buff_Upgraded H7BaseBuff]
+mName="Rune of Fortune Shield"
+mTooltip="Absorbs up to %special.val3 damage."
+
+[A_RuneOfFortune_Ability_Aura_3x3 H7RuneAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rune of Fortune: Aura"
+mTooltip="Friendly creatures within the aura get %buff1.buff.stat %icon_luck Luck.\nEnemy creatures within the aura get %buff3.buff.stat %icon_luck Luck."
+
+[A_RuneOfFortune_Ability_Aura_5x5 H7RuneAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rune of Fortune: Aura"
+mTooltip="Friendly creatures within the aura get %buff1.buff.stat %icon_luck Luck.\nEnemy creatures within the aura get %buff3.buff.stat %icon_luck Luck."
+
+[A_RuneOfFortune_Ability_Aura_Buff_Negative H7BaseBuff]
+mName="Rune of Fortune Aura"
+mTooltip="%stat %icon_luck Luck"
+
+[A_RuneOfFortune_Ability_Aura_Buff_Positive H7BaseBuff]
+mName="Rune of Fortune Aura"
+mTooltip="%stat %icon_luck Luck"
+
+[A_RuneOfFortune_CreatureAbility_3x3 H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rune of Fortune"
+mTooltip="Friendly creatures within the 3x3 area around the creature get %buff1.buff.stat %icon_luck Luck.\nEnemy creatures within the 3x3 area around the creature get %buff3.buff.stat %icon_luck Luck."
+
+[A_RuneOfFortune_CreatureAbility_5x5 H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rune of Fortune"
+mTooltip="Friendly creatures within the 5x5 area around the creature get %buff1.buff.stat %icon_luck Luck.\nEnemy creatures within the 5x5 area around the creature get %buff3.buff.stat %icon_luck Luck."
+
+[A_RuneOfFortune_Rune H7EditorRuneUnit]
+mDesc=""
+mName="Rune of Fortune"
+mLore=""
+
+[A_RuneOfResilience_Ability_Active H7RuneAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rune of Resilience: Activation"
+mTooltip="Pushes all creatures in the aura 1 tile away from the center of the rune in radial direction."
+
+[A_RuneOfResilience_Ability_Aura_3x3 H7RuneAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rune of Resilience: Aura"
+mTooltip="Friendly creatures within the aura get %buff1.buff.stat %icon_defense Defense."
+
+[A_RuneOfResilience_Ability_Aura_5x5 H7RuneAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rune of Resilience: Aura"
+mTooltip="Friendly creatures within the aura get %buff1.buff.stat %icon_defense Defense."
+
+[A_RuneOfResilience_Ability_Aura_Buff H7BaseBuff]
+mName="Rune of Resilience Aura"
+mTooltip="%stat %icon_defense Defense"
+
+[A_RuneOfResilience_CreatureAbility_3x3 H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rune of Resilience"
+mTooltip="Friendly creatures within the 3x3 area around the creature get %buff1.buff.stat %icon_defense Defense."
+
+[A_RuneOfResilience_CreatureAbility_5x5 H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rune of Resilience"
+mTooltip="Friendly creatures within the 5x5 area around the creature get %buff1.buff.stat %icon_defense Defense."
+
+[A_RuneOfResilience_Rune H7EditorRuneUnit]
+mDesc=""
+mName="Rune of Resilience"
+mLore=""
+
+UCP 1.3
+
+[A_RuneOfResilience_Ability_Active_5x5 H7RuneAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rune of Resilience: Activation"
+mTooltip="Pushes all creatures in the aura 1 tile away from the center of the rune in radial direction."
+
+[A_RuneOfFortune_Ability_Active_5x5 H7RuneAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded="Applies a shield to all friendly creatures within the aura that absorbs up to %buff2.buff.special.val1 damage. Can only be activated once per combat."
+mName="Rune of Fortune: Activation"
+mTooltip="Applies a shield to all friendly creatures within the aura that absorbs up to %buff1.buff.special.val1 damage. Can only be activated once per combat."
+
+[A_RuneOfDestruction_Ability_Active_5x5 H7RuneAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded="Deals %d2.min %icon_prime Prime damage to all enemy creatures in the aura of the rune. Can only be activated once per combat."
+mName="Rune of Destruction: Activation"
+mTooltip="Deals %d1.min %icon_prime Prime damage to all enemy creatures in the aura of the rune. Can only be activated once per combat."
+

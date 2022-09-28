@@ -1,0 +1,11 @@
+[A_Infection_Buff H7BaseBuff]
+mName="Infection "
+mTooltip="Creature receives %res1 %icon_health spells and healing ability for %durnow.norm turns ."
+
+[A_Nova H7HeroAbility]
+mTooltipMagicGuild="Inflicts %d.icon Prime damage to the target enemy unit, instantly."
+mTooltipMagicGuildRankLine="%d.min to %d.max %d.icon"
+mTooltipUpgraded=""
+mName="Infection"
+mTooltip="Inflicts %d.min to %d.max %icon_prime damage to target enemy unit instantly, targeted creature receives %buff1.buff.res1 healing from spells and abilities for %buff1.buff.durini.norm turns."
+

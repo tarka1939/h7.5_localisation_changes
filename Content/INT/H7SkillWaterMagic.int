@@ -1,0 +1,119 @@
+
+[A_WaterScholar_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Water Scholar"
+mTooltip="Reduces mana cost of Water spells by %special.norm%."
+
+[A_WaterWisdom_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Water Wisdom"
+mTooltip="%stat1 %stat1.icon Magic for Water spells. Every other wisdom ability adds %stat1 %stat1.icon Magic to this bonus."
+
+
+
+[A_Frostbite_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Frostbite"
+mTooltip="At the start of an enemy creature's turn it gets %buff1.buff.d1.min to %buff1.buff.d1.max %ICON_WATER Water damage for each negative water effect on it."
+
+[A_WaterMagic_Skill H7Skill]
+mDescriptions[0]="Makes Water spells more effective and increases the hero's %ICON_ARCANE_KNOWLEDGE Arcane Knowledge."
+mDescriptions[1]=""
+mDescriptions[2]="Makes Water spells more effective and increases the hero's %ICON_ARCANE_KNOWLEDGE Arcane Knowledge by 1."
+mDescriptions[3]="Makes Water spells more effective and increases the hero's %ICON_ARCANE_KNOWLEDGE Arcane Knowledge by additional 2."
+mDescriptions[4]="Makes Water spells more effective and increases the hero's %ICON_ARCANE_KNOWLEDGE Arcane Knowledge by additional 3."
+mName="Water Magic"
+mTooltip="Allows you to learn spells of the Water magic school in a magic guild. Improves and augments their effects."
+
+[A_WaterShield_Buff H7BaseBuff]
+mName="Water Shield"
+mTooltip="Damage dealt to this creature is reduced by %res.norm. Lasts for %durnow turns or until the creature received damage."
+
+[A_Frostbite_Buff H7BaseBuff]
+mName="Frostbite"
+mTooltip=""
+
+[A_WaterShield_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Water Shield"
+mTooltip="All friendly creatures start the combat with a Water shield that reduces the first damage dealt to the creature by %buff.buff.res.norm. Lasts for %buff.buff.durini turns."
+
+[A_Chill_Ability H7HeroAbility]
+mName="Chill"
+mTooltip="All damage water magic spells and moving on Frozen Ground apply a "Numbed" debuff to their targets, decreasing their initiative by 20 for their next turn."
+
+[A_DeepFreeze_Ability H7HeroAbility]
+mName="Deep Freeze"
+mTooltip="The movement of targets of Frost Bolt is decreased by 3 but cannot be less than 1 until end of the combat round."
+
+[A_Frostbite_CreatureAbility H7CreatureAbility]
+mName="Frostbite"
+[A_ImprovedTier1Spells_Ability H7HeroAbility]
+mName="Master of Water I"
+mTooltip="%spell1.name isn't removed anymore, if the creature deals or receives melee damage.\n%spell2.name reduces creatures' movement now for %spell2.spell.buff1.buff.buff.buff.durini2 turns."
+
+[A_ImprovedTier2Spells_Ability H7HeroAbility]
+mName="Master of Water II"
+mTooltip="All creatures damaged by Frost Bolt or Ice Strike get the "Deep Freeze" debuff that decreases its movement by 3 for 3 turns."
+
+[A_ImprovedTier3Spells_Ability H7HeroAbility]
+mName="Master of Water III"
+mTooltip="Liquid Membrane also increases the movement by 5. Circle of Winter also applies "Deep Freeze" that decreases its movement by 3 for 3 turns."
+
+[A_PersistentFog_Ability H7HeroAbility]
+mName="Persistent Fog"
+mTooltip="Fog Shroud  is not removed through dealing or receiving melee damage."
+
+[A_ProtectiveMembrane_Ability H7HeroAbility]
+mName="Protective Membrane"
+mTooltip="Grant 25% damage protection buff for the first damage within 3 turns to every friendly creature at combat start."
+
+[A_ProtectiveMembrane_Buff H7BaseBuff]
+mName="Protective Membrane"
+mTooltip="The first damage dealt to this creature is reduced by 25%."
+
+[A_WaterFlowsFreely_Ability H7HeroAbility]
+mName="Water Flows Freely"
+mTooltip="Liquid Membrane also increases the target friendly creature's movement by 5."
+
+[A_WreckingTsunami_Ability H7HeroAbility]
+mName="Wrecking Tsunami"
+mTooltip="Tsunami additionally deals water magic damage to all destructible obstacles in the target area."
+
+UCP 1.1 
+
+
+
+7.5_mod : 
+
+[A_MasterOfWater_I_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Water Knowledge I"
+mTooltip="%spell1.name isn't removed anymore if the creature receives damage.\n%spell2.name now reduces creatures movement for %spell2.spell.buff1.buff.durini2 turns."
+
+7.5_v2
+
+[A_MasterOfWater_III_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Water Knowledge III"
+mTooltip="%spell1.name also increases the Movement of %spell1.spell.buff2.buff.stat.norm.\nCreatures damaged by %spell2.name get in addition %spell2.spell.buff.buff.stat %spell2.spell.buff.buff.stat.icon Movement for %spell2.spell.buff.buff.durini turns.\n%spell3.name prevents at now the care on a zone of 4x4.\n%spell4.name protect the allies on a zone of 4x4.\n%spell5.name has 60% to freeze the affected enemies."
+
+
+[A_MasterOfWater_II_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Water Knowledge II"
+mTooltip="Creatures damaged by %spell1.name or %spell2.name additionally get %spell1.spell.buff.buff.stat %spell1.spell.buff.buff.stat.icon Movement for %spell1.spell.buff.buff.durini turns \n%spell3.name was touching a 4x4 area."

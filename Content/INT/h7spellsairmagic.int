@@ -1,0 +1,183 @@
+
+[A_Shocked_Buff H7BaseBuff]
+mName="Shocked"
+mTooltip="The %stat.icon Initiative of the creature is %stat.norm. Lasts for %durnow turn(s)."
+
+[A_YlathsClairvoyance H7HeroAbility]
+mTooltipMagicGuild="Reveals a circular area around the target spot instantly."
+mTooltipMagicGuildRankLine="radius of %special"
+mName="Ylath's Clairvoyance"
+mTooltip="Reveals a circular area with a radius of %special around the target spot instantly."
+
+[Imprinted.A_LightningBurst_Imprinted_Buff_Positive H7BaseBuff]
+mName="Lightning Burst"
+mTooltip="Deals %d1.min to %d1.max %d1.icon Air damage to all adjacent units at the start of this creature's turn. If there is no adjacent unit, the spell remains active."
+
+[A_GustOfWind H7HeroAbility]
+mTooltipMagicGuild="Pushes the target creature in a certain direction instantly."
+mTooltipMagicGuildRankLine="%special2.val1 tiles straight or %special2.val2 tiles diagonal"
+mTooltipUpgraded="Pushes the target creature %special2.val1 tiles in a straight or %special2.val2 tile(s) in a diagonal direction and deals %d.min to %d.max %d.icon Air damage instantly."
+mName="Gust of Wind"
+mTooltip="Pushes the target creature %special1.val1 tiles in a straight or %special1.val2 tile(s) in a diagonal direction instantly."
+
+
+[A_LightningBurst_Buff_Positive H7BaseBuff]
+mName="Lightning Burst"
+mTooltip="Deals %d1.min to %d1.max %d1.icon Air damage to all adjacent units at the start of this creature's turn. If there is no adjacent unit, the spell remains active."
+
+[A_LightningBurst H7HeroAbility]
+mTooltipMagicGuild="Deals %buff1.buff.d1.icon Air damage to all adjacent units at the start of the target creature's turn. If there is no adjacent unit, the spell remains active."
+mTooltipMagicGuildRankLine="%buff1.buff.d1.min to %buff1.buff.d1.max %ICON_AIR"
+mTooltipUpgraded="Deals %buff3.buff.d1.min to %buff3.buff.d1.max %buff3.buff.d1.icon Air damage to all adjacent enemy units and sets their %ICON_INITIATIVE Initiative to %buff3.buff.buff3.buff.stat.norm at the start of the target creature's turn. If there is no adjacent enemy unit, the spell remains active."
+mName="Lightning Burst"
+mTooltip="Deals %buff1.buff.d1.min to %buff1.buff.d1.max %buff1.buff.d1.icon Air damage to all adjacent units at the start of the target creature's turn. If there is no adjacent unit, the spell remains active."
+
+[Imprinted.A_StormArrows_Imprinted H7HeroAbility]
+mName="Storm Arrows"
+mTooltip="Increases the %buff1.buff.stat2.icon Attack of target friendly ranged creature by %buff1.buff.stat2.norm for %buff1.buff.durini turns."
+
+[Imprinted.A_StormArrows_Imprinted_Buff H7BaseBuff]
+mName="Storm Arrows"
+mTooltip="%stat2 %stat2.icon Attack\nLasts for %durnow turn(s)."
+
+[Imprinted.A_LightningBurst_Imprinted H7HeroAbility]
+mName="Lightning Burst"
+mTooltip="Deals %buff1.buff.d1.min to %buff1.buff.d1.max %buff1.buff.d1.icon Air damage to all adjacent units at the start of the target creature's turn. If there is no adjacent unit, the spell remains active."
+
+[A_LightningBurst_Buff_Negative_Upgraded H7BaseBuff]
+mName="Lightning Burst"
+mTooltip="Deals %d1.min to %d1.max %d1.icon Air damage to all adjacent enemy units and sets their %ICON_INITIATIVE Initiative to %buff3.buff.stat.norm at the start of this creature's turn. If there is no adjacent enemy unit, the spell remains active."
+
+[A_LightningBurst_Buff_Negative H7BaseBuff]
+mName="Lightning Burst"
+mTooltip="Deals %d1.min to %d1.max %d1.icon Air damage to all adjacent units at the start of this creature's turn. If there is no adjacent unit, the spell remains active."
+
+[Imprinted.A_Cyclone_Imprinted H7HeroAbility]
+mName="Cyclone"
+mTooltip="Deals %d.min to %d.max %d.icon Air damage to all creatures in a 2x2 area and relocates them instantly and randomly within the surrounding 8x8 area."
+
+
+
+
+[A_LightningBurst_Buff_Positive_Upgraded H7BaseBuff]
+mName="Lightning Burst"
+mTooltip="Deals %d1.min to %d1.max %d1.icon Air damage to all adjacent enemy units and sets their %ICON_INITIATIVE Initiative to %buff3.buff.stat.norm at the start of this creature's turn. If there is no adjacent enemy unit, the spell remains active."
+
+[Imprinted.A_ChainLightning_Imprinted H7HeroAbility]
+mName="Chain Lightning"
+mTooltip="Deals %d.min to %d.max %d.icon Air damage to the target unit instantly, then affects consecutively up to three other nearby random units, halving damage every time."
+
+[Imprinted.A_LightningBolt_Imprinted H7HeroAbility]
+mName="Lightning Bolt"
+mTooltip="Deals %d.min to %d.max %d.icon Air damage to the target enemy unit instantly."
+
+[Imprinted.A_LightningBolt_Imprinted_Artifact H7HeroAbility]
+mName="Lightning Bolt"
+mTooltip="Deals %d.min to %d.max %d.icon Air damage to the target enemy unit instantly."
+
+[Imprinted.A_LightningBurst_Imprinted_Buff_Negative H7BaseBuff]
+mName="Lightning Burst"
+mTooltip="Deals %d1.min to %d1.max %d1.icon Air damage to all adjacent units at the start of this creature's turn. If there is no adjacent unit, the spell remains active."
+
+
+[Imprinted.A_GustOfWind_Imprinted H7HeroAbility]
+mName="Gust of Wind"
+mTooltip="Pushes the target creature %special1.val1 tiles in a straight or %special1.val2 tile(s) in a diagonal direction instantly."
+
+[A_StormArrows_Buff_Upgraded H7BaseBuff]
+mName="Storm Arrows"
+mTooltip="%stat2 %stat2.icon Attack\n%stat1.icon Full range\nLasts for %durnow turn(s)."
+
+[A_ErraticStorm_Buff_Cell H7BaseBuff]
+mName="Erratic Storm"
+
+[A_ErraticStorm H7HeroAbility]
+mTooltipMagicGuild="Creates an erratic storm on the target 4x4 area for a number of combat rounds. Ranged creatures inside have reduced %icon_attack Attack. Creatures targeted by ranged attacks crossing the area are in cover and only take 10% of the damage."
+mTooltipMagicGuildRankLine="Erratic Storm lasts %durini combat rounds. %buff1.buff.stat %icon_attack Attack."
+mName="Erratic Storm"
+mTooltip="Creates an erratic storm on the target 4x4 area for %durini combat rounds. Ranged creatures inside get %buff1.buff.stat %icon_attack Attack. Creatures targeted by ranged attacks crossing the area are in cover and only take 10% of the damage."
+
+[A_StormArrows_Buff H7BaseBuff]
+mName="Storm Arrows"
+mTooltip="%stat2 %stat2.icon Attack\nLasts for %durnow turn(s)."
+
+[rework.A_Nova H7HeroAbility]
+mTooltipMagicGuild="Deals %ICON_AIR Air damage to all creatures in a 2x2 area and relocates them instantly and randomly within the surrounding 8x8 area."
+mTooltipMagicGuildRankLine="%d1.min to %d1.max %ICON_AIR"
+mTooltipUpgraded="Deals %d2.min to %d2.max %d.icon Air damage to all creatures in a 3x3 area and relocates them instantly and randomly within the surrounding 9x9 area. Small creatures take double the damage."
+mName="Cyclone"
+mTooltip="Deals %d1.min to %d1.max %d.icon Air damage to all creatures in a 2x2 area and relocates them instantly and randomly within the surrounding 8x8 area."
+
+[A_StormArrows H7HeroAbility]
+mTooltipMagicGuild="Increases the %buff1.buff.stat2.icon Attack of target friendly ranged creature for %buff2.buff.durini turns."
+mTooltipMagicGuildRankLine="%buff1.buff.stat2 %ICON_ATTACK"
+mTooltipUpgraded="Grants %buff2.buff.stat1.icon full range and increases the %buff1.buff.stat2.icon Attack of all friendly ranged creature in the target 4x4 area by %buff1.buff.stat2.norm for %buff2.buff.durini turns."
+mName="Storm Arrows"
+mTooltip="Increases the %buff1.buff.stat2.icon Attack of target friendly ranged creature by %buff1.buff.stat2.norm for %buff2.buff.durini turns."
+
+[A_ChainLightning H7HeroAbility]
+mTooltipMagicGuild="Deals %ICON_AIR Air damage to the target enemy unit instantly, then affects consecutively up to three other nearby random units, halving damage with each new target."
+mTooltipMagicGuildRankLine="%d.min to %d.max %ICON_AIR"
+mName="Chain Lightning"
+mTooltip="Deals %d.min to %d.max %d.icon Air damage to the target unit instantly, then affects consecutively up to three other nearby random units, halving damage every time."
+
+[Imprinted.A_YlathsClairvoyance_Imprinted H7HeroAbility]
+mName="Ylath's Clairvoyance"
+mTooltip="Reveals a circular area with a radius of %special around the target spot instantly."
+
+UCP MOD
+
+[Imprinted.A_ErraticStorm_Imprinted H7HeroAbility]
+mName="Erratic Storm"
+mTooltip="Creates an erratic storm on the target 4x4 area for %durini combat rounds. Ranged creatures inside get %buff1.buff.stat %icon_attack Attack. Creatures targeted by ranged attacks crossing the area are in cover and only take 10% of the damage."
+
+[A_LightningBolt H7HeroAbility]
+mTooltipMagicGuild="Deals %d.icon Air damage to the target enemy unit instantly."
+mTooltipMagicGuildRankLine="%d.min to %d.max %ICON_AIR"
+mTooltipUpgraded="Deals %d.min to %d.max %d.icon Air damage to the target enemy unit and its adjacent units and sets its %buff1.buff.stat.icon Initiative to %buff1.buff.stat.norm until its next turn."
+mName="Lightning Bolt"
+mTooltip="Deals %d.min to %d.max %d.icon Air damage to the target enemy unit instantly."
+
+UCP 1.1
+
+[A_ErraticStorm_Buff_Creature H7BaseBuff]
+mName="Erratic Storm"
+mTooltip="The creature receives only 10% damage from ranged attacks. Ranged creatures get %stat %icon_attack Attack.\nLasts as long as the creature is inside the storm area."
+
+[Imprinted.A_ErraticStorm_Imprinted_Buff_Creature H7BaseBuff]
+mName="Erratic Storm"
+mTooltip="The creature receives only 10% damage from ranged attacks. Ranged creatures get %stat %icon_attack Attack.\nLasts as long as the creature is inside the storm area."
+
+
+UCP 1.3 / 7.5_mod
+
+[rework2.A_BurningDetermination H7HeroAbility]
+mTooltipMagicGuild="Grants an additional hit with modified %ICON_ATTACK Attack when attacking in melee. Lasts for a certain number of turns."
+mTooltipMagicGuildRankLine="%buff1.buff.durini turn(s) and %buff1.buff.buff1.buff.stat %ICON_ATTACK"
+mTooltipUpgraded="Grants an additional hit with %buff2.buff.buff1.buff.stat %ICON_ATTACK Attack when attacking in melee. Lasts for %buff2.buff.durini turns. If the enemy can retaliate, the extra attack is executed before the retaliation."
+mName="Lightning Reflexes"
+mTooltip="Grants an additional hit with %buff1.buff.buff1.buff.stat %ICON_ATTACK Attack when attacking in melee. Lasts for %buff1.buff.durini turn(s). If the enemy can retaliate, the extra attack is executed after the retaliation."
+
+[A_LightningReflexes_Buff H7BaseBuff]
+mName="Lightning Reflexes"
+mTooltip="Grants an extra hit with %buff1.buff.stat %ICON_ATTACK Attack when attacking in melee. If the enemy can retaliate, the extra attack is executed after the retaliation.\nLasts for %durnow turn(s)."
+
+[A_LightningReflexes_Buff_Upgraded H7BaseBuff]
+mName="Lightning Reflexes"
+mTooltip="Grants an extra hit with %buff1.buff.stat %ICON_ATTACK Attack when attacking in melee. If the enemy can retaliate, the extra attack is executed before the retaliation.\nLasts for %durnow turn(s)."
+
+[Imprinted.A_LightningReflexes_Imprinted H7HeroAbility]
+mName="Lightning Reflexes"
+mTooltip="Grants an additional hit when attacking in melee. Lasts for %buff1.buff.durini turns. If the enemy can retaliate, the extra attack is executed after the retaliation."
+
+[Imprinted.A_LightningReflexes_Imprinted_Buff H7BaseBuff]
+mName="Lightning Reflexes"
+mTooltip="Grants an extra hit when attacking in melee. If the enemy can retaliate, the extra attack is executed after the retaliation.\nLasts for %durnow turn(s)."
+
+
+[rework.A_Nova H7HeroAbility]
+mTooltipMagicGuild="Deals %ICON_AIR Air damage to all creatures in a 2x2 area and relocates them instantly and randomly within the surrounding 8x8 area."
+mTooltipMagicGuildRankLine="%d1.min to %d1.max %ICON_AIR"
+mTooltipUpgraded="Deals %d2.min to %d2.max %d.icon Air damage to all creatures in a 3x3 area and relocates them instantly and randomly within the surrounding 9x9 area. Small creatures take double the damage."
+mName="Cyclone"
+mTooltip="Deals %d1.min to %d1.max %d.icon Air damage to all creatures in a 2x2 area and relocates them instantly and randomly within the surrounding 8x8 area."

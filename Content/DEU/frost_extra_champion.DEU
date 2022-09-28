@@ -1,0 +1,34 @@
+[A_Creaturefrost_beast H7Creature]
+mName="Kryodofin"
+mLore="Der Drachendamm ist bekannt als der Ort des großen Kampfes zwischen den Ur-Drachengöttern. Ihr Blut regnete auf das Land herab und veränderte seine Bewohner für immer, indem es verschiedene neue Kreaturen erschuf. Selbst jetzt noch sind diese unerforschten Schneeberge voller unbekannter Gefahren und unzähliger Geheimnisse. Es wird gemunkelt, dass die ersten Erzmagier die Geheimnisse der Eismagie vom Stamm der Eulenmenschen erlernten, die in den nahe gelegenen Höhlen leben. Umgeben von der Aura der Gelassenheit verfügten diese Gebirgs-Eremiten, oder Kryodofin in der Sprache der Kashriytas, über große Weisheit und magische Fähigkeiten, wollten aber immer mehr. Im Tausch gegen neues Wissen reichten sie den Erzmagiern eine helfende Hand, was später der Grund für den Bau des Scharlachturms war."
+
+[A_Creaturefrost_dragon H7Creature]
+mName="Kryodofin"
+mLore="Diese mächtige, drachenähnliche Bestie wird Stoor genannt. Es wurde erschaffen, als eine Eidechse im Fluss des Drachenblutes ertrank. Es ist voller Magie und ist dauerhaft in einem Eiskristall eingeschlossen, der die Kraft der Berge absorbiert. Als die Erzmagier begannen, die unterirdischen Höhlen des Drachenpfades zu erforschen, erwachte Stoor. Derzeit streift er durch Höhlen und Berge. Viele glauben, dass er nur eine Legende ist, vor allem, weil derjenige, der ihm begegnet ist, nie wieder zurückkam."
+
+[A_RangedAttack H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Fernkampfangriff"
+mTooltip="Fernkampangriff"
+
+
+[Ability.A_furie_du_froid H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Kalte Wut"
+mTooltip="Wenn diese Kreatur Stufe 3 von Kaltblütig erreicht, erhält sie die Fähigkeit Spalten (die Kreatur schlägt immer zweimal zu)."
+
+[Ability.A_Nova H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Kühlende Luft"
+mTooltip="Fügt %d1 %icon_air Luftschaden an allen gegnerischen Kreaturen zu und kühlt die Luft auf dem Schlachtfeld: Feindliche Kreaturen, die unter dem Kühleffekt stehen, erleiden %buff1.buff.d1 %icon_water Wasserschaden, wenn sie kritisch getroffen werden.\nEinmal pro Kampf."
+
+[Ability.A_refroidissement_Buff H7BaseBuff]
+mName="Kühlende Luft"
+mTooltip="Die Kreatur erleidet %d1 %icon_water Wasserschaden, wenn sie kritisch getroffen wird."
+

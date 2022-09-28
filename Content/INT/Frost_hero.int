@@ -1,0 +1,187 @@
+[Heros_names.A_Slyen_Name H7GlobalName]
+mName="Slyen"
+
+[Heros_names.A_Graam_Name H7GlobalName]
+mName="Graam"
+
+[Heros_names.A_Amalya_Name H7GlobalName]
+mName="Amalya"
+
+[Hero_specialisation.A_vitality_t3_Buff H7BaseBuff]
+mName="Heart of Frost"
+mTooltip=""
+
+[Hero_specialisation.A_Vitality_t3 H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Heart of Frost"
+mTooltip="This hero gives Phantom of Winter and Phantom of Frost a vitality bonus of %buff.buff.stat %icon_health hp during the entire fight."
+
+[Hero_specialisation.A_Maitre_t1 H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Master of the Ice Guardians"
+mTooltip="Governor: Increase the production of %buff1.buff.stat of the Protectors and Snow Warriors."
+
+[Attaque_hero.A_HeroAttack_Might H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Hero Attack"
+mTooltip="Deals %d.min to %d.max damage to enemy units."
+
+[Archetype.A_Amalia H7EditorHero]
+mName=""
+mLore=""
+
+[heropedya.A_HeroBio_Amalia H7HeroBioData]
+mText="The Holy Falcon Empire's invasion of Tarlad put an end to Amalya's happy and peaceful life. When the knights burned her village to the ground, they sold all surviving Elves to slave traders, depriving Sylanna's children of their freedom. During the long journey to the slave market, a caravan with "living goods" had to cross Dragon Causeway, where it was attacked by the wild animals. Fearing for their lives, the caravaners left the captives to be torn to pieces and it was then that Amalya's dormant power awakened. Answering her mental call for help, the trees suddenly came to life and stood around the Elves, holding back the onslaught of predators until the Union troops arrived. Reaching the nearest city, the former slaves became part of the secret mountain nation and Amalya passed the Mashana's initiation to becomie the keeper of groves. As a sign of her gratitude for the salvation, she decided to devote herself to caring about Huorns."
+
+[Archetype.A_graam H7EditorHero]
+mName="Graam"
+mLore="Graam has never been interested in politics. Research and magic have always been his goals. He was greatly surprised when he was entrusted with the role of one of the advisers of the Lesser Enlightened One in Lamak. He humbly accepted his function and carried out his duties, but what occupied his mind and most of the time was the study of magic. Especially Ice Magic in which he is a master."
+
+[heropedya.A_HeroBio_graam H7HeroBioData]
+mText="Scientific research and magic studies have always been Graam's passion, Thanks to his merits, he was bestowed with a great honor to become the Cryofiend's apprentice. The Archmage gained a lot of unique knowledge from his mentor, including the world structure and its laws, as well as a chance to learn hidden secrets of ice magic. Later, that knowlege proved to be useful to the magician, when the Council elected him as a candidate to become one of the advisors to the Lesser Enlightened One in Lamak. Although Graam never showed much interest in politics, he was ready to justify the trust placed in him and humbly accepted his appointment. Regularly fulfilling his duties, he achieved some success, but the Archmage still prefers to spend most of the time in his laboratory, comprehending new secrets of sorcery and improving his mastery of ice magic."
+
+[Heroes_class.A_Frost_Warrior_Ice_Balanced H7HeroClass]
+mName="Icebreaker"
+
+[Archetype.A_Slyen H7EditorHero]
+mName="Slyen"
+mLore="The most prominent graduate of the military school in Ukur. There are legends about Slyen all over the Union. It is said that he has not lost any battle, both in the duel and in the commander. His tactical sense, using the advantages of the army and the terrain, and finding the faults of the enemy made him the best among the commanders of the Ice Spiers Union. There was never a situation that Slyen couldn't handle."
+
+[Hero_specialisation.A_Vitality_t3_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Heart of Frost"
+mTooltip="This hero gives a %buff1.buff.stat %icon_Health hp bonus for allies Phantom of Winter and Phantom of Frost until the end of the fight."
+
+[Hero_specialisation.A_maitre_t1_Buff H7BaseBuff]
+mName="Master Weapon"
+mTooltip=""
+
+[Heroes_class.A_Frost_Warrior_mage_Ice_Balanced H7HeroClass]
+mName="Prophet"
+
+[Heroes_class.A_Frost_Mage_Ice_Balanced H7HeroClass]
+mName="Archamge"
+
+[Hero_specialisation.A_Vitality_Buff_t3_Spec H7BaseBuff]
+mName="Vitality"
+mTooltip=""
+
+[Hero_specialisation.A_Briseur_de_glace H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Ice Breaker "
+mTooltip="When hero inflicts damage on a frozen enemy, he inflicts additional %d1 damage %icon_water. "
+
+[Hero_specialisation_valentine.A_add_nova_t7_hero H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Master Strike"
+mTooltip="This hero allows Destroyers and Mountain Striker to use The Critical Line ability a second time."
+
+[Hero_specialisation_valentine.A_ice_pick_Buff H7BaseBuff]
+mName="Lieutenant of the Ice Archery "
+mTooltip="%stat1 %icon_health bonus. This creature always attacks at full range."
+
+[Hero_specialisation_valentine.A_Nova H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="The Critical Line"
+mTooltip="Creatures hit suffer %d1 %ICON_Water water as well as enemy creatures adjacent to the target."
+
+[Heroes_class.A_Frost_Mage_Ice_defencive_Balanced H7HeroClass]
+mName="Magic Ice Protector"
+
+[Heroes_class.A_Frost_Defenseur_Ice_Balanced H7HeroClass]
+mName="Mountainer"
+
+[Heroes_class.A_Frost_Mage_Ice_Balanced H7HeroClass]
+mName="Archmage"
+
+[Heroes_class.A_Frost_Scoot_Ice_Balanced H7HeroClass]
+mName="Climber"
+
+[Heroes_class.A_Frost_Warrior_Ice_Balanced H7HeroClass]
+mName="Icebreaker"
+
+[Heroes_class.A_Frost_Warrior_mage_Ice_Balanced H7HeroClass]
+mName="Prophet"
+
+[Hero_specialisation.A_maitre_t5_Buff H7BaseBuff]
+mName="Master of Frost Magic"
+mTooltip=""
+
+[Hero_specialisation.A_Maitre_t5 H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Guardian of the Scarlet Tower"
+mTooltip="Governor: Increase the production of %buff1.buff.stat of Savants and Wizard Tutors per week."
+
+[Hero_specialisation.A_lieutenant_t2_Buff H7BaseBuff]
+mName="Lieutenant of the Ice Archery "
+mTooltip="%stat1 %icon_health bonus. This creature always attacks at full range."
+
+[Hero_specialisation.A_Lieutenant_t2 H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Lieutenant of the Ice Archery "
+mTooltip="This hero increases Outcasts and Ice Rangers HP by %buff1.buff.stat1 %icon_health, and this creature always attacks at full range."
+
+[Archetype.A_lotus H7EditorHero]
+mName=""
+mLore=""
+
+[heropedya.A_HeroBio_Lotus H7HeroBioData]
+mText="As part of the peace treaty between Nagas and the Union, each nation sent its representatives for the experience exchange from time to time. Lotus also got into one of those delegations, being among the few who were allowed to visit the legendary Shanriya. At that time she has already led a squad of ice rangers and considered herself a good archer, but Nagas' bow mastery made her doubt her skills. Naga Yokujins' training course proved to be a difficult trial for Lotus, and only her innate stubbornness kept her from dropping everything halfway. Upon her return to the Union, she successfully applied her knowledge in practice, making her squad more resilient and strong."
+
+[Archetype.A_Serraphiel H7EditorHero]
+mName="Serraphiel"
+mLore="Serraphiel is often called the Sage of the East. Calm, composed, not giving up on his feelings, always smiling gently. He provides advice and assistance to anyone who asks for it. Throughout the Union, he has the status of one of the most powerful Archmages, but in his modesty, he is satisfied with the title of steward of the Scarlet Tower, where he teaches the next generation of Archimages."
+
+[heropedya.A_HeroBio_Seraphiel H7HeroBioData]
+mText="Unlike the Circle of Nine, the members of the Council of Sages consider each other equal and have no need to choose a leader. However, if such a situation did arise, then everyone would unanimously vote for Serraphiel, called the Sage of the East. As one of the oldest Archmages in the Council, he is very respected for his rich life experience, and many people come to him for the advice in order to resolve arisen conflicts. Even in the most difficult circumstances Serraphiel remains calm, smiling benevolently, and always provides his support and assistance to anyone who asks for it. In the entire Union he is known as one of the most powerful magicians, but in his modesty he is satisfied with the status of mentor in the Scarlet Tower, where he teaches the next generation of Archmages."
+
+[Archetype.A_mushi H7EditorHero]
+mName="Mushy"
+mLore="Mushy is the daughter of a simple blacksmith and innkeeper. Her dream was to improve her and her family's fortunes. She spent many hours training a day to get to Ukur school. When she did, she worked even harder to finish it. She is now a respected general stationed in his hometown of Entil where he is in command of the city's defense."
+
+[heropedya.A_HeroBio_Mushi H7HeroBioData]
+mText="Mushy is the daughter of a simple blacksmith and innkeeper. Her dream was to improve her and her family's fortunes. She spent many hours training a day to get to Ukur school. When she did, she worked even harder to finish it. She is now a respected general stationed in his hometown of Entil where he is in command of the city's defense."
+
+[Archetype.A_Slyen H7EditorHero]
+mName="Slyen"
+mLore="The most prominent graduate of the military school in Ukur. There are legends about Slyen all over the Union. It is said that he has not lost any battle, both in the duel and in the commander. His tactical sense, using the advantages of the army and the terrain, and finding the faults of the enemy made him the best among the commanders of the Ice Spiers Union. There was never a situation that Slyen couldn't handle."
+
+[heropedya.A_HeroBio_slyen H7HeroBioData]
+mText="Even during his studies at the military school in Ukur, Slyen was considered the prodigy among his peers and many teachers recognized his diligence and thirst for knowledge. He achieved the greatest success in studying warfare and his weapon mastery is still legendary. It is said that he never lost a fight in his life, whether it was a mock duel or a real battle. Tactical sense at using the advantage of the army and the terrain as well as discovering enemy weak points made Slyen the best commander of the Ice Spires Union.  As long as "The Shield of Ukur" stands strong, protecting his homeland, there is no situation that he can't handle."
+
+[Archetype.A_Valentine H7EditorHero]
+mName=""
+mLore=""
+
+[Heros_names.A_Lotus_Name H7GlobalName]
+mName="Lotus"
+
+[Heros_names.A_Serraphiel_Name H7GlobalName]
+mName="Serraphiel"
+
+[Heros_names.A_Slyen_Name H7GlobalName]
+mName="Slyen"
+
+[Heros_names.A_Valentine_Name H7GlobalName]
+mName="Valentine"
+
+[heropedya.A_HeroBio_Valentin H7HeroBioData]
+mText="An arrival of the hefty armored stranger at the ritual arena, came as a surprise to all  hrimturses. Even as a lowlander, that warrior who called himself Valentine was as tall as most frost giants and gave the impression of an experienced fighter. Like an indestructible rock, he firmly marched to victory, defeating the strongest warriors of the tribe, until the time came to cross arms with the champion. A tough fight, where both opponents fought at the limit of their abilities, lasted several hours, but in the end the mighty hrimturs was forced to give up his title. By right of the victor, Valentine took advantage of the sacred relic of frost giants and the battle horn, which had been silent for centuries, came to life in his hands. Its loud sound let all hrimturses know about coming of the chosen champion, who will lead them to the glorious battle against the end of time."

@@ -1,0 +1,26 @@
+[A_Creature_ice_dragon H7Creature]
+mName="Blue Dragon"
+mLore="The Blue Dragons are avatars of Shalassa, the Dragon Goddess of Water. While they like sea cliffs and fjords, they can also often be found in cooler places such as mountains. The Nagas can communicate with these powerful beings and ask for their help when needed."
+
+[A_Creature_ice_dragon_lv2 H7Creature]
+mName="Ice Dragon"
+mLore="Just as water turns to ice and snow is cooler for them, so too the Blue Dragons who have lived in high cool mountains for a long time turn into Ice Dragons, avatars of Mashana, the icy aspect of Shalassa. The scales of these dragons look like ice and sparkle with a million colors in the cool mountain sun. These majestic reptiles are as dangerous as they are beautiful."
+
+[A_iceBreath H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Ice Breath"
+mTooltip="The creature blows a cone of ice magic at enemy units during its attack (not retaliation). Hit creatures suffer -2 %icon_movement Movement until the end of their next turn."
+
+[A_iceBreath_Buff H7BaseBuff]
+mName="Ice Breath"
+mTooltip="The creature suffers %stat %icon_movement Movement for %durnow turn(s)."
+
+[A_Nova H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Winter Drain"
+mTooltip="Each time this creature takes damage, the enemy hero loses %stat %icon_mana Mana."
+

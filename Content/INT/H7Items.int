@@ -1,0 +1,1405 @@
+[Abilities.A_LifebloodPendant_Buff H7BaseBuff]
+mName="Lifeblood Pendant"
+mTooltip=""
+
+[Items_Bloodforged.A_Minor_Hands_RingOfConjuring H7HeroItem]
+mName="Ring of Conjuring"
+mTooltip="%stat1 %stat1.icon Magic\n%stat2 %stat2.icon maximum Mana"
+
+[Abilities.A_CelestialShield_Buff_Morale H7BaseBuff]
+mName="Celestial Shield"
+mTooltip=""
+
+[Abilities.A_SwordOfThorns_Buff_Movement H7BaseBuff]
+mName="Sword of Thorns"
+mTooltip=""
+
+[Abilities.A_CloakOfWarding_Buff H7BaseBuff]
+mName="Cloak of Warding"
+mTooltip=""
+
+[Abilities.A_ElvenCraft_Bonus1_Buff H7BaseBuff]
+mName="Elven Craft"
+mTooltip=""
+
+[Abilities.A_Hallowed_Bonus1_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip="%special %special.icon Gold per day"
+
+[Abilities.A_CloakOfShalassa_Buff H7BaseBuff]
+mName="Cloak of Shalassa"
+mTooltip=""
+
+[Abilities.A_GreatLichsSet_Bonus1_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip="%buff1.buff.stat %buff1.buff.stat.icon Initiative to enemy ranged creatures."
+
+[Abilities.A_NecklaceOfVitality_Buff H7BaseBuff]
+mName="Necklace of Vitality"
+mTooltip=""
+
+[Abilities.A_ShiftingBoots_Buff_Movement H7BaseBuff]
+mName="Shifting Boots"
+mTooltip=""
+
+[Items_ElvenCraft.A_Minor_OffHand_PurseOfEndlessGold H7HeroItem]
+mName="Purse of Endless Gold"
+mTooltip="%special %special.icon Gold per day"
+
+[Items_NoSet.A_Major_Head_HelmetOfTheNagaLord H7HeroItem]
+mName="Helmet of the Naga Lord"
+mTooltip="%stat scouting range\nPermits casting of the Water spell Ice Strike once per combat."
+
+[Abilities.A_HourglassOfOrder_Buff H7BaseBuff]
+mName="Hourglass of Order"
+mTooltip=""
+
+[Abilities.A_DeadMansCape_Buff_Morale H7BaseBuff]
+mName="Dead Man's Cape"
+mTooltip=""
+
+[Consumables.A_Scroll_Dark_Purge H7HeroItem]
+mName="Scroll of Purge"
+mTooltip="Consume the scroll to cast the Dark spell Purge."
+
+[Items_Bloodforged.A_Relic_MainHand_StaffOfTheLyre H7HeroItem]
+mName="Staff of the Lyre"
+mTooltip="%stat %stat.icon Magic"
+
+[Abilities.A_LibramOfLastRites_Buff_HealResist H7BaseBuff]
+mName="Libram of Last Rites"
+mTooltip=""
+
+[Consumables.A_Scroll_Earth_Regeneration H7HeroItem]
+mName="Scroll of Regeneration"
+mTooltip="Consume the scroll to cast the Earth spell Regeneration."
+
+[Items_AssassinSet.A_Minor_MainHand_AssassinsBlade H7HeroItem]
+mName="Assassin's Blade"
+mTooltip="%stat %stat.icon Might"
+
+[Abilities.A_GuardiansSet_Bonus3_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip="%buff1.buff.stat health for friendly creatures."
+
+[Consumables.A_Scroll_Earth_EarthQuake H7HeroItem]
+mName="Scroll of Earthquake"
+mTooltip="Consume the scroll to cast the Earth spell Earthquake."
+
+[Consumables.A_Scroll_Air_ChainLightning H7HeroItem]
+mName="Scroll of Chain Lightning"
+mTooltip="Consume the scroll to cast the Air spell Chain Lightning."
+
+[Consumables.A_Scroll_Air_Cyclone H7HeroItem]
+mName="Scroll of Cyclone"
+mTooltip="Consume the scroll to cast the Air spell Cyclone."
+
+[Items_DragonBlessed.A_Major_Shoulders_CloakOfYlath H7HeroItem]
+mName="Cloak of Ylath"
+mTooltip="All friendly creatures receive %buff1.buff.res1.norm less Air damage."
+
+[Abilities.A_TheGriffinsTalons_Buff H7BaseBuff]
+mName="The Griffin's Talons"
+mTooltip=""
+
+[Items_WarlordSet.A_Minor_Shoulders_BoneSpaulders H7HeroItem]
+mName="Bone Spaulders"
+mTooltip="%stat %ICON_DEFENSE Defence"
+
+[Abilities.A_RingOfSwiftness_Buff H7BaseBuff]
+mName="Ring of Swiftness"
+mTooltip=""
+
+[Abilities.A_CloakOfElrath_Buff H7BaseBuff]
+mName="Cloak of Elrath"
+mTooltip=""
+
+[Consumables.A_Scroll_Prime_Fortune H7HeroItem]
+mName="Scroll of Fortune"
+mTooltip="Consume the scroll to cast the Prime spell Fortune."
+
+[Consumables.A_Scroll_Air_LightningBolt H7HeroItem]
+mName="Scroll of Lightning Bolt"
+mTooltip="Consume the scroll to cast the Air spell Lightning Bolt."
+
+[Abilities.A_AmuletOfHealth_Buff H7BaseBuff]
+mName="Amulet of Health"
+mTooltip=""
+
+[Consumables.A_Scroll_Dark_MalassasTemptation H7HeroItem]
+mName="Scroll of Malassa's Temptation"
+mTooltip="Consume the scroll to cast the Dark spell Malassa's Temptation."
+
+[Consumables.A_Scroll_Light_SunBeam H7HeroItem]
+mName="Scroll of Sun Beam"
+mTooltip="Consume the scroll to cast the Light spell Sun Beam."
+
+[Consumables.A_Scroll_Light_SunBurst H7HeroItem]
+mName="Scroll of Sun Burst"
+mTooltip="Consume the scroll to cast the Light spell Sun Burst."
+
+[Consumables.A_Scroll_Prime_SummonElemental H7HeroItem]
+mName="Scroll of Summon Elemental"
+mTooltip="Consume the scroll to cast the Prime spell Summon Elemental."
+
+[Abilities.A_UnicornHornBow_Buff H7BaseBuff]
+mName="Unicorn Horn Bow"
+mTooltip=""
+
+[Abilities.A_DeadMansCape_Buff_HealResist H7BaseBuff]
+mName="Dead Man's Cape"
+mTooltip=""
+
+[Items_AssassinSet.A_Major_Hands_AssassinsGloves H7HeroItem]
+mName="Assassin's Glove"
+mTooltip="%stat1 %stat1.icon Might\n%stat2 %stat2.icon Destiny"
+
+[Items_Bloodforged.A_Major_Head_ArcaneCirclet H7HeroItem]
+mName="Arcane Circlet"
+mTooltip="%stat %stat.icon Spirit\n%special.val1 %special.icon less mana cost for all spells."
+
+[Abilities.A_PirateArmour_Buff H7BaseBuff]
+mName="Pirate Armour"
+mTooltip=""
+
+[Items_Bloodforged.A_Relic_Shoulders_ShoulderpadsOfTheAmbassador H7HeroItem]
+mName="Shoulderpads of the Ambassador"
+mTooltip="%stat1 %stat1.icon Leadership\n%stat2 higher chance that neutral armies offer to join the hero."
+
+[Consumables.A_Scroll_Dark_FaceOfFear H7HeroItem]
+mName="Scroll of Face of Fear"
+mTooltip="Consume the scroll to cast the Dark spell Face of Fear."
+
+[Abilities.A_RangersSet_Bonus3_Buff H7BaseBuff]
+mName="Ranger's Set"
+mTooltip=""
+
+[Consumables.A_Scroll_Dark_Weakness H7HeroItem]
+mName="Scroll of Weakness"
+mTooltip="Consume the scroll to cast the Dark spell Weakness."
+
+[Abilities.A_GuardiansSet_Bonus1_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip="%buff1.buff.stat Health for friendly creatures."
+
+[Abilities.A_PirateCrossbow_Buff H7BaseBuff]
+mName="Pirate Crossbow"
+mTooltip=""
+
+[Items_Bloodforged.A_Relic_Neck_LifebloodPendant H7HeroItem]
+mName="Lifeblood Pendant"
+mTooltip="%buff1.buff.stat Health for friendly creatures."
+
+[Abilities.A_RingOfCelerity_Buff H7BaseBuff]
+mName="Ring of Celerity"
+mTooltip=""
+
+[Abilities.A_GuardiansHelm_Buff H7BaseBuff]
+mName="Guardian's Helm"
+mTooltip=""
+
+[Items_DwarvenWork.A_Major_Hands_RingOfCelerity H7HeroItem]
+mName="Ring of Celerity"
+mTooltip="%buff1.buff.stat %buff1.buff.stat.icon Initiative to friendly creatures."
+
+[Consumables.A_Scroll_Water_IceStrike H7HeroItem]
+mName="Scroll of Ice Strike"
+mTooltip="Consume the scroll to cast the Water spell Ice Strike."
+
+[Items_Bloodforged.A_Major_OffHand_Starstone H7HeroItem]
+mName="Starstone"
+mTooltip="%special %special.icon Starsilver per day"
+
+[Abilities.A_GauntletOfTheKhan_Buff H7BaseBuff]
+mName="Gauntlet of the Khan"
+mTooltip=""
+
+[Abilities.A_WarlordsSet_Bonus1_Buff H7BaseBuff]
+mName="Warlord's Set"
+mTooltip=""
+
+[Consumables.A_Scroll_Water_LiquidMembrane H7HeroItem]
+mName="Scroll of Liquid Membrane"
+mTooltip="Consume the scroll to cast the Water spell Liquid Membrane."
+
+[Abilities.A_ShantiriArmour_Buff H7BaseBuff]
+mName="Shantiri Armour"
+mTooltip=""
+
+[Consumables.A_Scroll_Fire_Armageddon H7HeroItem]
+mName="Scroll of Armageddon"
+mTooltip="Consume the scroll to cast the Fire spell Armageddon."
+
+[Abilities.A_DwarvenCrossbow_Buff H7BaseBuff]
+mName="Dwarven Crossbow"
+mTooltip=""
+
+[Items_DragonBlessed.A_Major_MainHand_AshasWill H7HeroItem]
+mName="Asha's Will"
+mTooltip="%stat1 hero Damage per level.\n%buff1.buff.stat Health to friendly creatures."
+
+[Items_WarlordSet.A_Major_Torso_BarbarianArmour H7HeroItem]
+mName="Barbarian Armour"
+mTooltip="%stat1 %ICON_ATTACK Might\n%stat2 %ICON_DEFENSE Defence"
+
+[Items_WarlordSet.A_Relic_Head_CragHacksHelmet H7HeroItem]
+mName="Crag Hack's Helmet"
+mTooltip="%stat %stat.icon Might\n%buff1.buff.stat %buff1.buff.stat.icon Initiative to friendly creatures."
+
+[Items_Hallowed.A_Major_OffHand_WhiteWolfShield H7HeroItem]
+mName="White Wolf Shield"
+mTooltip="%stat %ICON_DEFENSE Defence"
+
+[Items_ElvenCraft.A_Major_MainHand_Avenger H7HeroItem]
+mName="Avenger"
+mTooltip="%buff1.buff.stat1 to the base Damage of friendly ranged creatures.\nAll enemy creatures have 1 additional Nature's Mark at start of combat."
+
+[Items_NoSet.A_Major_Torso_WindswordPlate H7HeroItem]
+mName="Windsword Plate"
+mTooltip="%stat %ICON_DEFENSE Defence\n%buff1.buff.stat %ICON_MAX_MOVEMENT Movement to friendly flying creatures."
+
+[Consumables.A_Scroll_Earth_StoneSkin H7HeroItem]
+mName="Scroll of Stone Skin"
+mTooltip="Consume the scroll to cast the Earth spell Stone Skin."
+
+[Items_GreatLichSet.A_Major_Neck_HourglassOfOrder H7HeroItem]
+mName="Hourglass of Order"
+mTooltip="%buff1.buff.stat %buff1.buff.stat.icon Morale to enemy creatures."
+
+[Sets.A_Hallowed H7ItemSet]
+mName="Hallowed"
+mTooltip="DEPRECATED"
+
+[Abilities.A_AssassinsBoots_Buff_Initiative H7BaseBuff]
+mName="Assassin's Boots"
+mTooltip=""
+
+[Items_NoSet.A_Relic_Hands_SkullRing H7HeroItem]
+mName="Skull Ring"
+mTooltip="%spell1.spell.buff.chance% chance to make a creature incapacitated with the hero's attack until its next turn."
+
+[Sets.A_DwarvenWork H7ItemSet]
+mName="Dwarven Work"
+mTooltip="DEPRECATED"
+
+[Items_NoSet.A_Major_OffHand_FourLeafClover H7HeroItem]
+mName="Four Leaf Clover"
+mTooltip="%stat %stat.icon Destiny"
+
+[Items_ElvenCraft.A_Minor_Hands_RingOfSwiftness H7HeroItem]
+mName="Ring of Swiftness"
+mTooltip="%buff1.buff.stat %buff1.buff.stat.icon Initiative to friendly creatures."
+
+[Abilities.A_RangersSet_Bonus2_Buff H7BaseBuff]
+mName="Ranger's Set"
+mTooltip=""
+
+[Items_Hallowed.A_Major_OffHand_CrestOfCourage H7HeroItem]
+mName="Crest of Courage"
+mTooltip="%stat %stat.icon Leadership"
+
+[Abilities.A_WarlordsSet_Bonus3_Buff H7BaseBuff]
+mName="Warlord's Set"
+mTooltip=""
+
+[Items_DragonBlessed.A_Major_Shoulders_CloakOfElrath H7HeroItem]
+mName="Cloak of Elrath"
+mTooltip="All friendly creatures receive %buff1.buff.res1.norm less Light damage."
+
+[Abilities.A_NotebookOfTheEngineer_Buff H7BaseBuff]
+mName="Notebook of the Engineer"
+mTooltip=""
+
+[Abilities.A_IdealCrossbow_Buff H7BaseBuff]
+mName="Ideal Crossbow"
+mTooltip=""
+
+[Consumables.A_Scroll_Air_StormArrows H7HeroItem]
+mName="Scroll of Storm Arrows"
+mTooltip="Consume the scroll to cast the Air spell Storm Arrows."
+
+[Consumables.A_Scroll_Prime_Teleport H7HeroItem]
+mName="Scroll of Teleport"
+mTooltip="Consume the scroll to cast the Prime spell Teleport."
+
+[Abilities.A_RangersBow_Buff H7BaseBuff]
+mName="Ranger's Bow"
+mTooltip=""
+
+[Abilities.A_AshasWill_Buff H7BaseBuff]
+mName="Asha's Will"
+mTooltip=""
+
+[Abilities.A_WindswordPlate_Buff H7BaseBuff]
+mName="Windsword Plate"
+mTooltip=""
+
+[Abilities.A_BootsOfTheWalkingDead_Buff H7BaseBuff]
+mName="Boots of the Walking Dead"
+mTooltip=""
+
+[Items_BattleGarbOfTheGriffin.A_Relic_Torso_TheGriffinsGorget H7HeroItem]
+mName="The Griffin's Gorget"
+mTooltip="%stat1 %ICON_DEFENSE Defence\n%stat2 %ICON_DESTINY Destiny\n%special duration to positive spells on friendly creatures."
+
+[Items_NoSet.A_Major_Neck_AmuletOfNecromancy H7HeroItem]
+mName="Amulet of Necromancy"
+mTooltip="Necromancy raises additional %stat.norm% of the Health of fallen living creatures as Skeletons or Skeleton Hoplites."
+
+[Abilities.A_SwordOfThorns_Buff_Initiative H7BaseBuff]
+mName="Sword of Thorns"
+mTooltip=""
+
+[Consumables.A_Scroll_Air_LightningBurst H7HeroItem]
+mName="Scroll of Lightning Burst"
+mTooltip="Consume the scroll to cast the Air spell Lightning Burst."
+
+[Consumables.A_Scroll_Air_GustOfWind H7HeroItem]
+mName="Scroll of Gust of Wind"
+mTooltip="Consume the scroll to cast the Air spell Gust of Wind."
+
+[Items_RangerSet.A_Relic_MainHand_RangersBow H7HeroItem]
+mName="Ranger's Bow"
+mTooltip="%stat1 hero damage per level.\n%buff1.buff.stat2 to the base Damage of friendly ranged creatures.\n%buff1.buff.stat1 %buff1.buff.stat1.icon Initiative to friendly ranged creatures."
+
+[Items_NoSet.A_Major_Head_MaskOfDoom H7HeroItem]
+mName="Mask of Doom"
+mTooltip="%buff1.buff.stat %buff1.buff.stat.icon Luck to enemy creatures."
+
+[Items_GuardianSet.A_Relic_Head_GuardiansHelm H7HeroItem]
+mName="Guardian's Helm"
+mTooltip="%stat %stat.icon Leadership\n%buff1.buff.stat %buff1.buff.stat.icon Initiative to friendly ranged creatures."
+
+[Items_NoSet.A_Major_Torso_RobeOfInnervation H7HeroItem]
+mName="Robe of Innervation"
+mTooltip="%special duration to positive spells on friendly creatures.\nPermits casting of the Fire spell Inner Fire once per combat."
+
+[Items_DwarvenWork.A_Minor_OffHand_DwarvenShield H7HeroItem]
+mName="Dwarven Shield"
+mTooltip="%stat %ICON_DEFENSE Defence"
+
+[Items_NoSet.A_Relic_OffHand_CrestOfHonor H7HeroItem]
+mName="Crest of Honour"
+mTooltip="%stat %stat.icon Leadership"
+
+[Items_MagisterSet.A_Minor_Shoulders_MagistersCloak H7HeroItem]
+mName="Magister's Cloak"
+mTooltip="%stat %stat.icon Magic"
+
+[Items_GuardianSet.A_Relic_Torso_GuardiansBreastplate H7HeroItem]
+mName="Guardian's Breastplate"
+mTooltip="%stat %ICON_DEFENSE Defence\nAll friendly creatures receive %buff1.buff.res1.norm less Light damage."
+
+[Items_ShantiriTreasure.A_Major_Torso_ShantiriArmour H7HeroItem]
+mName="Shantiri Armour"
+mTooltip="%stat %ICON_DEFENSE Defence\nAll friendly creatures receive %buff1.buff.res1.norm less %ICON_PRIME Prime damage."
+
+[Consumables.A_Scroll_Water_Tsunami H7HeroItem]
+mName="Scroll of Tsunami"
+mTooltip="Consume the scroll to cast the Water spell Tsunami."
+
+[Abilities.A_CloakOfYlath_Buff H7BaseBuff]
+mName="Cloak of Ylath"
+mTooltip=""
+
+[Consumables.A_Scroll_Fire_BurningDetermination H7HeroItem]
+mName="Scroll of Burning Determination"
+mTooltip="Consume the scroll to cast the Fire spell Burning Determination."
+
+[Items_NoSet.A_Major_Shoulders_BarbarianCape H7HeroItem]
+mName="Barbarian Cape"
+mTooltip="All friendly creatures receive %buff1.buff.res1.norm less magic damage."
+
+[Items_NoSet.A_Major_Neck_PristineBreath H7HeroItem]
+mName="Pristine Breath"
+mTooltip="%stat %stat.icon Magic for Air spells"
+
+[Items_DwarvenWork.A_Relic_OffHand_NotebookOfTheEngineer H7HeroItem]
+mName="Notebook of the Engineer"
+mTooltip="%buff.buff.stat %buff.buff.stat.icon Attack for friendly attack and support warfare units."
+
+[Consumables.A_Scroll_Water_VesselOfShalassa H7HeroItem]
+mName="Scroll of Vessel of Shalassa"
+mTooltip="Consume the scroll to cast the Water spell Vessel of Shalassa."
+
+[Items_WarlordSet.A_Minor_MainHand_PirateCrossbow H7HeroItem]
+mName="Pirate Crossbow"
+mTooltip="%buff1.buff.stat1 to the base Damage of friendly ranged creatures."
+
+[Items_NoSet.A_Minor_Hands_BlackGuardsGloves H7HeroItem]
+mName="Black Guard's Gloves"
+mTooltip="%stat %stat.icon Might"
+
+[Items_RangerSet.A_Minor_Hands_RangersGloves H7HeroItem]
+mName="Ranger's Gloves"
+mTooltip="%stat %stat.icon Might"
+
+[Abilities.A_BarbarianCape_Buff H7BaseBuff]
+mName="Babarian Cape"
+mTooltip=""
+
+[Abilities.A_Set_ElvenCraft_Buff H7BaseBuff]
+mName="Elven Craft"
+mTooltip=""
+
+[Items_Hallowed.A_Major_Feet_SandalsOfTheBlessed H7HeroItem]
+mName="Sandals of the Blessed"
+mTooltip="%stat1 %ICON_ATTACK Might\n%stat2 %ICON_DEFENSE Defence\n%stat3 %ICON_MAGIC Magic\n%stat4 %ICON_SPIRIT Spirit"
+
+[Items_NoSet.A_Minor_Head_GladiatorHelmet H7HeroItem]
+mName="Gladiator Helmet"
+mTooltip="%stat1 %stat1.icon Might"
+
+[Items_MagisterSet.A_Major_OffHand_MagistersCodex H7HeroItem]
+mName="Magister's Codex"
+mTooltip="%stat1 %stat1.icon Magic\n%stat2 %stat2.icon Destiny"
+
+[Abilities.A_PendantOfPrimalRage_Buff H7BaseBuff]
+mName="Pendant of Primal Rage"
+mTooltip=""
+
+[Consumables.A_Scroll_Prime_Implosion H7HeroItem]
+mName="Scroll of Implosion"
+mTooltip="Consume the scroll to cast the Prime spell Implosion."
+
+[Items_NoSet.A_Major_OffHand_MastersGrimoire H7HeroItem]
+mName="Master's Grimoire"
+mTooltip="%stat %stat.icon Spirit"
+
+[Items_NoSet.A_Relic_Torso_PirateArmour H7HeroItem]
+mName="Pirate Armour"
+mTooltip="%stat %ICON_DEFENSE Defence\n%buff1.buff.stat Health for friendly creatures."
+
+[Consumables.A_Scroll_Fire_FireWall H7HeroItem]
+mName="Scroll of Fire Wall"
+mTooltip="Consume the scroll to cast the Fire spell Fire Wall."
+
+[Items_RangerSet.A_Major_Head_RangersHat H7HeroItem]
+mName="Ranger's Hat"
+mTooltip="%stat2 %ICON_DEFENSE Defence\n%stat1 scouting range"
+
+[Items_GuardianSet.A_Major_Hands_GuardiansGauntlet H7HeroItem]
+mName="Guardian's Gauntlet"
+mTooltip="%stat1 hero Damage per level.\n%buff1.buff.stat Health for friendly creatures."
+
+[Items_GuardianSet.A_Major_OffHand_LionsShield H7HeroItem]
+mName="Lion's Shield"
+mTooltip="%stat1 %ICON_LEADERSHIP Leadership\n%stat2 %ICON_DEFENSE Defence"
+
+[Consumables.A_Scroll_Water_Blizzard H7HeroItem]
+mName="Scroll of Blizzard"
+mTooltip="Consume the scroll to cast the Water spell Blizzard."
+
+[Abilities.A_CursedDice_Buff H7BaseBuff]
+mName="Cursed Dice"
+mTooltip=""
+
+[Items_NoSet.A_Relic_OffHand_ShacklesOfTheLastMan H7HeroItem]
+mName="Shackles of the Last Man"
+mTooltip="Heroes cannot flee or surrender in combat."
+
+[Items_NoSet.A_Relic_Head_WindswordHelmet H7HeroItem]
+mName="Windsword Helmet"
+mTooltip="%stat1 %ICON_DEFENSE Defence\n%stat2 %ICON_LEADERSHIP Leadership\n%stat3 experience gain"
+
+[Items_NoSet.A_Major_Hands_BraceletOfTheFreemage H7HeroItem]
+mName="Bracelet of the Freemage"
+mTooltip="%stat %stat.icon Magic\nPermits casting of the Air spell Lightning Bolt once per combat."
+
+[Items_GreatLichSet.A_Major_Shoulders_CloakOfTheLich H7HeroItem]
+mName="Cloak of the Lich"
+mTooltip="%stat %stat.icon Destiny\n%buff1.buff.stat %buff1.buff.stat.icon Morale to enemy creatures."
+
+[Consumables.A_Scroll_Dark_Despair H7HeroItem]
+mName="Scroll of Despair"
+mTooltip="Consume the scroll to cast the Dark spell Despair."
+
+[Items_Hallowed.A_Major_OffHand_CelestialShield H7HeroItem]
+mName="Celestial Shield"
+mTooltip="Every time a friendly creature has good morale, all enemy creatures get %buff1.buff.buff.buff.stat %buff1.buff.buff.buff.stat.icon Morale until end of the combat round."
+
+[Items_ShantiriTreasure.A_Relic_Head_ShantiriHelmet H7HeroItem]
+mName="Shantiri Helmet"
+mTooltip="%stat2 %ICON_DEFENSE Defence\n%stat3 %ICON_LEADERSHIP Leadership\n%stat1 scouting range"
+
+[Items_NoSet.A_Major_MainHand_CrystalWand H7HeroItem]
+mName="Crystal Wand"
+mTooltip="%stat %stat.icon Magic\n%special.val1 less mana cost for Prime spells."
+
+[Items_ShantiriTreasure.A_Major_OffHand_HornOfPlenty H7HeroItem]
+mName="Horn of Plenty"
+mTooltip="%special %icon_Crystal Dragon Blood Crystal, %icon_Dragonsteel Dragon Steel, %icon_Shadowsteel Shadowsteel or %icon_Starsilver Starsilver per day."
+
+[Consumables.A_Scroll_Water_FogShroud H7HeroItem]
+mName="Scroll of Fog Shroud"
+mTooltip="Consume the scroll to cast the Water spell Fog Shroud."
+
+[Consumables.A_Scroll_Prime_TimeStasis H7HeroItem]
+mName="Scroll of Time Stasis"
+mTooltip="Consume the scroll to cast the Prime spell Time Stasis."
+
+[Consumables.A_Scroll_Light_ElrathsConviction H7HeroItem]
+mName="Scroll of Elrath's Conviction"
+mTooltip="Consume the scroll to cast the Light spell Elrath's Conviction."
+
+[Items_MagisterSet.A_Major_Torso_MagistersRobe H7HeroItem]
+mName="Magister's Robe"
+mTooltip="%stat1 %stat1.icon Magic\n%stat2 %stat2.icon Spirit"
+
+[Items_RangerSet.A_Relic_Shoulders_RangersCape H7HeroItem]
+mName="Ranger's Cape"
+mTooltip="%stat %stat.icon Magic for Earth spells\nAll friendly creatures receive %buff2.buff.res1.norm less Earth damage."
+
+[Items_NoSet.A_Minor_Shoulders_DiplomatsCoat H7HeroItem]
+mName="Diplomat's Coat"
+mTooltip="%stat.norm higher chance that neutral armies offer to join the hero."
+
+[Abilities.A_CragHacksHelmet_Buff H7BaseBuff]
+mName="Crag Hack's Helmet"
+mTooltip=""
+
+[Abilities.A_GuardiansBreastplate_Buff H7BaseBuff]
+mName="Guardian's Breastplate"
+mTooltip=""
+
+[Items_NoSet.A_Major_Head_ShamanicMask H7HeroItem]
+mName="Shamanic Mask"
+mTooltip="%stat %stat.icon Leadership\nPermits casting of the Air spell Gust of Wind once per combat."
+
+[Items_DragonBlessed.A_Major_Shoulders_CloakOfArkath H7HeroItem]
+mName="Cloak of Arkath"
+mTooltip="All friendly creatures receive %buff1.buff.res1.norm less Fire damage."
+
+[Items_NoSet.A_Relic_Hands_GauntletsOfTheCyclops H7HeroItem]
+mName="Gauntlets of the Cyclops"
+mTooltip="%stat %stat.icon Might"
+
+[Sets.A_AssassinsSet H7ItemSet]
+mName="Assassin's Set"
+mTooltip="DEPRECATED"
+
+[Abilities.A_CloakOfSylanna_Buff H7BaseBuff]
+mName="Cloak of Sylanna"
+mTooltip=""
+
+[Consumables.A_Scroll_Prime_DispelMagic H7HeroItem]
+mName="Scroll of Dispel Magic"
+mTooltip="Consume the scroll to cast the Prime spell Dispel Magic."
+
+[Items_NoSet.A_Major_OffHand_Moonblade H7HeroItem]
+mName="Moonblade"
+mTooltip="%stat %stat.icon Magic"
+
+[Consumables.A_Scroll_Dark_ShadowCloak H7HeroItem]
+mName="Scroll of Shadow Cloak"
+mTooltip="Consume the scroll to cast the Dark spell Shadow Cloak."
+
+[Items_NoSet.A_Relic_Torso_RobeOfSarIssus H7HeroItem]
+mName="Robe of Sar-Issus"
+mTooltip="%stat %stat.icon Spirit\n%special.val1 %special.icon less mana cost for all spells."
+
+[Items_DragonBlessed.A_Major_Shoulders_CloakOfShalassa H7HeroItem]
+mName="Cloak of Shalassa"
+mTooltip="All friendly creatures receive %buff1.buff.res1.norm less Water damage."
+
+[Items_NoSet.A_Minor_Head_CapOfTheExplorer H7HeroItem]
+mName="Cap of the Explorer"
+mTooltip="%stat scouting range"
+
+[Items_NoSet.A_Relic_OffHand_ArchmagesCodex H7HeroItem]
+mName="Archmage's Codex"
+mTooltip="%stat %stat.icon Spirit"
+
+[Items_DragonBlessed.A_Relic_OffHand_DragonShield H7HeroItem]
+mName="Dragon Shield"
+mTooltip="%stat %ICON_DEFENSE Defence"
+
+[Items_NoSet.A_Major_MainHand_IdealCrossbow H7HeroItem]
+mName="Ideal Crossbow"
+mTooltip="%buff1.buff.stat2 to the base damage of friendly ranged creatures.\n%buff1.buff.stat1 %buff1.buff.stat1.icon Initiative to friendly ranged creatures."
+
+[Items_RangerSet.A_Major_Feet_RangersBoots H7HeroItem]
+mName="Ranger's Boots"
+mTooltip="%stat %stat.icon hero maximum Movement\n%buff1.buff.stat %buff1.buff.stat.icon Initiative to friendly ranged creatures."
+
+[Items_GreatLichSet.A_Minor_Feet_BootsOfTheWalkingDead H7HeroItem]
+mName="Boots of the Walking Dead"
+mTooltip="%stat %stat.icon hero maximum Movement\n%buff1.buff.stat %buff1.buff.stat.icon Initiative to friendly melee creatures."
+
+[Sets.A_DragonBlessed H7ItemSet]
+mName="Dragon Blessed"
+mTooltip="DEPRECATED"
+
+[Consumables.A_Scroll_Prime_InstantRecall H7HeroItem]
+mName="Scroll of Instant Recall"
+mTooltip="Consume the scroll to cast the Prime spell Instant Recall."
+
+[Items_NoSet.A_Major_Hands_GauntletsOfTheMinotaur H7HeroItem]
+mName="Gauntlets of the Minotaur"
+mTooltip="%stat %stat.icon Might"
+
+[Items_NoSet.A_Major_Neck_NecklaceOfVitality H7HeroItem]
+mName="Necklace of Vitality"
+mTooltip="%buff1.buff.stat Health for friendly creatures."
+
+[Items_ShantiriTreasure.A_Major_OffHand_CursedDice H7HeroItem]
+mName="Cursed Dice"
+mTooltip="%buff1.buff.stat %buff1.buff.stat.icon Luck to enemy creatures."
+
+[Items_NoSet.A_Major_Neck_ScarletSpark H7HeroItem]
+mName="Scarlet Spark"
+mTooltip="%stat %stat.icon Magic for Fire spells"
+
+[Items_ElvenCraft.A_Relic_Feet_BootsOfTheWayfarer H7HeroItem]
+mName="Boots of the Wayfarer"
+mTooltip="%stat %stat.icon hero maximum Movement\n%special Gold per day"
+
+[Consumables.A_Scroll_Fire_BlessingOfArkath H7HeroItem]
+mName="Scroll of Blessing of Arkath"
+mTooltip="Consume the scroll to cast the Fire spell Blessing of Arkath."
+
+[Items_NoSet.A_Major_Neck_PendantOfPrimalRage H7HeroItem]
+mName="Pendant of Primal Rage"
+mTooltip="%buff1.buff.stat %ICON_DEFENSE Defence to friendly creatures without Bloodrage."
+
+[Items_NoSet.A_Major_MainHand_CrimsonScythe H7HeroItem]
+mName="Crimson Scythe"
+mTooltip="%stat %stat.icon Might"
+
+[Abilities.A_MonksSandals_Buff H7BaseBuff]
+mName="Monk's Sandals"
+mTooltip=""
+
+[Items_ShantiriTreasure.A_Relic_Head_MaskOfTheShadowsmith H7HeroItem]
+mName="Mask of the Shadowsmith"
+mTooltip="%stat %stat.icon Magic\nPermits casting of the Dark spell Shadow Image once per combat."
+
+[Items_NoSet.A_Major_OffHand_BagOfEndlessGold H7HeroItem]
+mName="Bag of Endless Gold"
+mTooltip="%special %special.icon Gold per day"
+
+[Items_DwarvenWork.A_Minor_Shoulders_DwarvenSpaulders H7HeroItem]
+mName="Dwarven Spaulders"
+mTooltip="%stat %stat.icon Leadership"
+
+[Items_Hallowed.A_Major_MainHand_CelestialStaff H7HeroItem]
+mName="Celestial Staff"
+mTooltip="%stat %stat.icon Spirit\nPermits casting of the Light spell Celestial Armour once per combat."
+
+[Items_DwarvenWork.A_Relic_MainHand_DwarvenCrossbow H7HeroItem]
+mName="Dwarven Crossbow"
+mTooltip="%buff1.buff.stat2 to the base Damage of friendly ranged creatures.\nAll friendly ranged creatures have %buff1.buff.stat3.icon full range.\n%buff1.buff.stat1 %buff1.buff.stat1.icon Initiative to friendly ranged creatures."
+
+[Items_ShantiriTreasure.A_Minor_Feet_LegendaryBoots H7HeroItem]
+mName="Legendary Boots"
+mTooltip="%stat %stat.icon Destiny"
+
+[Items_DwarvenWork.A_Major_MainHand_DwarvenHatchet H7HeroItem]
+mName="Dwarven Hatchet"
+mTooltip="%stat1 hero damage per level.\n%buff1.buff.stat1 to the base Damage of friendly creatures."
+
+[Items_DragonBlessed.A_Relic_Torso_DragonScaleArmour H7HeroItem]
+mName="Dragon Scale Armour"
+mTooltip="%stat1 %ICON_ATTACK Might\n%stat2 %ICON_DEFENSE Defence"
+
+[Items_NoSet.A_Major_Head_ScoutsHat H7HeroItem]
+mName="Scout's Hat"
+mTooltip="%stat scouting range\nPermits casting of the Air spell Ylath's Clairvoyance once per day."
+
+[Items_ShantiriTreasure.A_Relic_Hands_RingOfHaste H7HeroItem]
+mName="Ring of Haste"
+mTooltip="%buff1.buff.stat2 %buff1.buff.stat2.icon Movement to friendly creatures.\n%buff1.buff.stat1 %buff1.buff.stat1.icon Initiative to friendly creatures."
+
+[Items_NoSet.A_Relic_Hands_ArcaneBracelets H7HeroItem]
+mName="Arcane Bracelets"
+mTooltip="%stat %stat.icon Magic\nPermits casting of the Prime spell Implosion once per combat."
+
+[Abilities.A_GreatLichsSet_Bonus2_Buff H7BaseBuff]
+mName="Great Lich's Set"
+mTooltip=""
+
+[Items_NoSet.A_Major_MainHand_MinotaursAxe H7HeroItem]
+mName="Minotaur's Axe"
+mTooltip="%stat1 hero Damage per level."
+
+[Consumables.A_Scroll_Light_Retribution H7HeroItem]
+mName="Scroll of Retribution"
+mTooltip="Consume the scroll to cast the Light spell Retribution."
+
+[Items_DragonBlessed.A_Major_Shoulders_CloakOfSylanna H7HeroItem]
+mName="Cloak of Sylanna"
+mTooltip="All friendly creatures receive %buff1.buff.res1.norm less Earth damage."
+
+[Items_NoSet.A_Major_Neck_ElrathsUnity H7HeroItem]
+mName="Elrath's Unity"
+mTooltip="%stat %stat.icon Spirit"
+
+[Items_NoSet.A_Major_Neck_BlazingEye H7HeroItem]
+mName="Blazing Eye"
+mTooltip="%stat %stat.icon Magic for Light spells"
+
+[Items_ShantiriTreasure.A_Relic_Torso_ArmourOfTheForgottenHero H7HeroItem]
+mName="Armour of the Forgotten Hero"
+mTooltip="%stat1 %ICON_ATTACK Might\n%stat2 %ICON_DEFENSE Defence\n%stat3 %ICON_MAGIC Magic\n%stat4 %ICON_SPIRIT Spirit"
+
+[Items_WarlordSet.A_Relic_Hands_GauntletOfTheKhan H7HeroItem]
+mName="Gauntlet of the Khan"
+mTooltip="%stat %stat.icon Might\n%buff1.buff.stat1 to the base Damage of friendly creatures."
+
+[Items_RangerSet.A_Minor_Torso_RangersArmour H7HeroItem]
+mName="Ranger's Armour"
+mTooltip="%stat %stat.icon Spirit"
+
+[Abilities.A_GladiatorHelmet_Buff H7BaseBuff]
+mName="Gladiator Helmet"
+mTooltip=""
+
+[A_TearOfAsha H7TearOfAsha]
+mName="Tear of Asha"
+mTooltip="Allows to build the Tear of Asha structure in one of your towns."
+
+[Items_NoSet.A_Relic_OffHand_GoldenHorseshoe H7HeroItem]
+mName="Golden Horseshoe"
+mTooltip="%stat %stat.icon Destiny"
+
+[Abilities.A_Bloodforged_Bonus1_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Bloodforged"
+mTooltip="%stat %stat.icon Mana per day"
+
+[Items_MagisterSet.A_Minor_Feet_MagistersSandals H7HeroItem]
+mName="Magister's Sandals"
+mTooltip="%stat2 %stat2.icon hero maximum Movement\n%stat1 %stat1.icon Magic"
+
+[Items_NoSet.A_Major_Neck_DreamDrop H7HeroItem]
+mName="Dream Drop"
+mTooltip="%stat %stat.icon Magic for Water spells"
+
+[Consumables.A_Scroll_Earth_Entangle H7HeroItem]
+mName="Scroll of Entangle"
+mTooltip="Consume the scroll to cast the Earth spell Entangle."
+
+[Items_NoSet.A_Relic_OffHand_ChestOfEndlessGold H7HeroItem]
+mName="Chest of Endless Gold"
+mTooltip="%special %special.icon Gold per day"
+
+[Consumables.A_Scroll_Fire_Frenzy H7HeroItem]
+mName="Scroll of Frenzy"
+mTooltip="Consume the scroll to cast the Fire spell Frenzy."
+
+[Consumables.A_Scroll_Light_Heal H7HeroItem]
+mName="Scroll of Heal"
+mTooltip="Consume the scroll to cast the Light spell Heal."
+
+[Consumables.A_Scroll_Light_SummonGoldDragon H7HeroItem]
+mName="Scroll of Summon Gold Dragon"
+mTooltip="Consume the scroll to cast the Light spell Summon Gold Dragon."
+
+[Abilities.A_GreatLichsSet_Bonus1_Buff H7BaseBuff]
+mName="Great Lich's Set"
+mTooltip=""
+
+[Consumables.A_Scroll_Light_Resurrection H7HeroItem]
+mName="Scroll of Resurrection"
+mTooltip="Consume the scroll to cast the Light spell Resurrection."
+
+[Consumables.A_Scroll_Light_CelestialArmor H7HeroItem]
+mName="Scroll of Celestial Armour"
+mTooltip="Consume the scroll to cast the Light spell Celestial Armour."
+
+[Consumables.A_Scroll_Fire_InnerFire H7HeroItem]
+mName="Scroll of Inner Fire"
+mTooltip="Consume the scroll to cast the Fire spell Inner Fire."
+
+[Abilities.A_Avenger_Buff H7BaseBuff]
+mName="Avenger"
+mTooltip=""
+
+[Abilities.A_VialOfPoison_Buff H7BaseBuff]
+mName="Vial of Poison"
+mTooltip=""
+
+[Items_NoSet.A_Relic_OffHand_SextantOfTheSeaElves H7HeroItem]
+mName="Sextant of the Sea Elves"
+mTooltip="%stat1 scouting range\nThe hero is 15% faster when sailing with a ship."
+
+[Items_DwarvenWork.A_Minor_OffHand_DwarvenPickaxe H7HeroItem]
+mName="Dwarven Pickaxe"
+mTooltip="%special %special.icon Ore per day"
+
+[Items_ElvenCraft.A_Major_Feet_ElvenBoots H7HeroItem]
+mName="Elven Boots"
+mTooltip="%stat %stat.icon hero maximum Movement\n%buff1.buff.stat %buff1.buff.stat.icon Initiative to friendly ranged creatures."
+
+[Consumables.A_Scroll_Fire_FireBolt H7HeroItem]
+mName="Scroll of Fire Bolt"
+mTooltip="Consume the scroll to cast the Fire spell Fire Bolt."
+
+[Consumables.A_Scroll_Prime_TimeControl H7HeroItem]
+mName="Scroll of Time Control"
+mTooltip="Consume the scroll to cast the Prime spell Time Control."
+
+[Items_Bloodforged.A_Relic_Head_CrownOfPersistence H7HeroItem]
+mName="Crown of Persistence"
+mTooltip="%special duration to positive spells on friendly creatures.\n%stat %stat.icon Mana per day"
+
+[Items_NoSet.A_Major_Neck_ShadowVeil H7HeroItem]
+mName="Shadow Veil"
+mTooltip="%stat %stat.icon Magic for Dark spells"
+
+[Items_NoSet.A_Relic_Shoulders_CloakOfWarding H7HeroItem]
+mName="Cloak of Warding"
+mTooltip="%stat %ICON_DEFENSE Defence\nAll friendly creatures receive %buff1.buff.res1.norm less magic damage."
+
+[Items_DragonBlessed.A_Relic_MainHand_DragonFlameTongue H7HeroItem]
+mName="Dragon Flame Tongue"
+mTooltip="%stat2 hero Damage per level.\n%stat1 %stat1.icon Might"
+
+[Items_GreatLichSet.A_Relic_Hands_RingOfTheUnrepentant H7HeroItem]
+mName="Ring of the Unrepentant"
+mTooltip="%stat %stat.icon Magic\nPermits casting of the Prime spell Teleport once per combat."
+
+[Consumables.A_Scroll_Earth_StoneSpikes H7HeroItem]
+mName="Scroll of Stone Spikes"
+mTooltip="Consume the scroll to cast the Earth spell Stone Spikes."
+
+[Consumables.A_Scroll_Light_CleansingLight H7HeroItem]
+mName="Scroll of Cleansing Light"
+mTooltip="Consume the scroll to cast the Light spell Cleansing Light."
+
+[Items_NoSet.A_Major_Neck_SeaElfCharm H7HeroItem]
+mName="Sea Elf Charm"
+mTooltip="%stat %stat.icon Defense"
+
+[Sets.A_GuardiansSet H7ItemSet]
+mName="Guardian's Set"
+mTooltip="DEPRECATED"
+
+[Consumables.A_Scroll_Earth_SylannasBounty H7HeroItem]
+mName="Scroll of Sylanna's Bounty"
+mTooltip="Consume the scroll to cast the Earth spell Sylanna's Bounty."
+
+[Abilities.A_WarlordsSet_Bonus3_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip="%buff1.buff.stat %buff1.buff.stat.icon Initiative to friendly creatures."
+
+[Sets.A_ElvenCraft H7ItemSet]
+mName="Elven Craft"
+mTooltip="DEPRECATED"
+
+[Abilities.A_RobeOfTheProphet_Buff H7BaseBuff]
+mName="Robe of the Prophet"
+mTooltip=""
+
+[Abilities.A_ElvenCraft_Bonus1_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip="%buff1.buff.stat %buff1.buff.stat.icon Initiative to friendly creatures."
+
+[Abilities.A_DwarvenHatchet_Buff H7BaseBuff]
+mName="Dwarven Hatchet"
+mTooltip=""
+
+[Items_NoSet.A_Minor_Shoulders_CapeOfProtection H7HeroItem]
+mName="Cape of Protection"
+mTooltip="%stat %ICON_DEFENSE Defence"
+
+[Items_BattleGarbOfTheGriffin.A_Relic_Feet_TheGriffinsTalons H7HeroItem]
+mName="The Griffin's Talons"
+mTooltip="%stat %ICON_MAX_MOVEMENT hero maximum Movement\n%buff1.buff.stat %buff1.buff.stat.icon Movement to friendly creatures."
+
+[Abilities.A_LibramOfLastRites_Buff_DamageResist H7BaseBuff]
+mName="Libram of Last Rites"
+mTooltip=""
+
+[Items_NoSet.A_Relic_Shoulders_DeadMansCape H7HeroItem]
+mName="Dead Man's Cape"
+mTooltip="%buff1.buff.stat %buff1.buff.stat.icon Morale to enemy creatures.\nAll healing effects are reduced to half the original."
+
+[Items_DragonBlessed.A_Major_Neck_DragonFangsNecklace H7HeroItem]
+mName="Dragon Fangs Necklace"
+mTooltip="%stat %stat.icon Magic"
+
+[Items_AssassinSet.A_Relic_Feet_AssassinsBoots H7HeroItem]
+mName="Assassin's Boots"
+mTooltip="%buff1.buff.stat1 to the base Damage of friendly ranged creatures.\n%buff2.buff.stat %buff2.buff.stat.icon Initiative to friendly creatures."
+
+[Consumables.A_Scroll_Air_LightningReflexes H7HeroItem]
+mName="Scroll of Lightning Reflexes"
+mTooltip="Consume the scroll to cast the Air spell Lightning Reflexes."
+
+[Abilities.A_AssassinsMask_Buff H7BaseBuff]
+mName="Assassin's Mask"
+mTooltip=""
+
+[Consumables.A_Scroll_Air_YlathsClairvoyance H7HeroItem]
+mName="Scroll of Ylath's Clairvoyance"
+mTooltip="Consume the scroll to cast the Air spell Ylath's Clairvoyance."
+
+[Items_NoSet.A_Relic_Feet_MonksSandals H7HeroItem]
+mName="Monk's Sandals"
+mTooltip="%special.val1 mana cost for Water spells.\n%buff1.buff.stat %buff1.buff.stat.icon Initiative to friendly creatures."
+
+[Items_NoSet.A_Relic_Torso_RobeOfTheProphet H7HeroItem]
+mName="Robe of the Prophet"
+mTooltip="All friendly creatures receive %buff1.buff.res1.norm less magic damage.\n%buff1.buff.stat health for friendly creatures."
+
+[Abilities.A_AssassinsBoots_Buff_Damage H7BaseBuff]
+mName="Assassin's Boots"
+mTooltip=""
+
+[Sets.A_RangersSet H7ItemSet]
+mName="Ranger's Set"
+mTooltip="DEPRECATED"
+
+[Items_NoSet.A_Major_OffHand_AlchemicalFlask H7HeroItem]
+mName="Alchemical Flask"
+mTooltip="%special %special.icon Dragon Steel per day"
+
+[Items_GreatLichSet.A_Minor_Torso_NecromancersChasuble H7HeroItem]
+mName="Necromancer's Chasuble"
+mTooltip="%stat %stat.icon maximum Mana"
+
+[Items_NoSet.A_Minor_Feet_SandalsOfTheSwiftJourney H7HeroItem]
+mName="Sandals of the Swift Journey"
+mTooltip="%stat %stat.icon hero maximum Movement"
+
+[Abilities.A_ShiftingBoots_Buff_Marker H7BaseBuff]
+mName=""
+mTooltip=""
+
+[Items_GreatLichSet.A_Relic_OffHand_LibramOfLastRites H7HeroItem]
+mName="Libram of Last Rites"
+mTooltip="All friendly creatures receive %buff1.buff.res1.norm less magic damage.\nAll healing is reduced by %buff2.buff.res1.norm."
+
+[Items_WarlordSet.A_Major_Neck_AmuletOfTheJaguar H7HeroItem]
+mName="Amulet of the Jaguar"
+mTooltip="%stat %stat.icon Might"
+
+[Consumables.A_Scroll_Water_FrostBolt H7HeroItem]
+mName="Scroll of Frost Bolt"
+mTooltip="Consume the scroll to cast the Water spell Frost Bolt."
+
+[Items_ElvenCraft.A_Relic_MainHand_SwordOfThorns H7HeroItem]
+mName="Sword of Thorns"
+mTooltip="%stat1 hero damage per level.\n%buff1.buff.stat %buff1.buff.stat.icon Movement to enemy creatures.\n%buff2.buff.stat %buff2.buff.stat.icon Initiative to enemy ranged creatures."
+
+[Items_MagisterSet.A_Relic_Neck_MoonTalisman H7HeroItem]
+mName="Moon Talisman"
+mTooltip="%stat1 %stat1.icon Magic\n%stat2 %stat2.icon Destiny"
+
+[Items_NoSet.A_Minor_Neck_CrystalNecklace H7HeroItem]
+mName="Crystal Necklace"
+mTooltip="%stat %stat.icon Magic"
+
+[Items_GuardianSet.A_Minor_Feet_GuardiansBoots H7HeroItem]
+mName="Guardian's Boots"
+mTooltip="%stat1 %ICON_MAX_MOVEMENT hero maximum Movement\n%stat2 %ICON_DEFENSE Defence"
+
+[Sets.A_GreatLichsSet H7ItemSet]
+mName="Great Lich's Set"
+mTooltip="DEPRECATED"
+
+[Items_NoSet.A_Major_Head_TurbanOfAttunement H7HeroItem]
+mName="Turban of Attunement"
+mTooltip="%stat1 Metamagic at start of every combat round."
+
+[Sets.A_BattleGarbOfTheGriffin H7ItemSet]
+mName="Battle Garb of the Griffin"
+mTooltip="DEPRECATED"
+
+[Items_DragonBlessed.A_Relic_Neck_DragonHeart H7HeroItem]
+mName="Dragon Heart"
+mTooltip="%stat %stat.icon Magic"
+
+[Items_ElvenCraft.A_Minor_OffHand_SacredSeed H7HeroItem]
+mName="Sacred Seed"
+mTooltip="%special %special.icon Wood per day"
+
+[Consumables.A_Scroll_Fire_Fireball H7HeroItem]
+mName="Scroll of Fire Ball"
+mTooltip="Consume the scroll to cast the Fire spell Fire Ball."
+
+[Abilities.A_RingOfHaste_Buff H7BaseBuff]
+mName="Ring of Haste"
+mTooltip=""
+
+[Consumables.A_Scroll_Earth_PoisonSpray H7HeroItem]
+mName="Scroll of Poison Spray"
+mTooltip="Consume the scroll to cast the Earth spell Poison Spray."
+
+[Consumables.A_Scroll_Earth_PoisonCloud H7HeroItem]
+mName="Scroll of Poison Cloud"
+mTooltip="Consume the scroll to cast the Earth spell Poison Cloud."
+
+[Abilities.A_MagistersSet_Bonus3_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip="%buff1.buff.stat %buff1.buff.stat.icon Initiative to friendly creatures."
+
+[Abilities.A_CloakOfDarkness_Buff H7BaseBuff]
+mName="Cloak of Darkness"
+mTooltip=""
+
+[Abilities.A_WarlordsSet_Bonus1_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip="%buff1.buff.stat1 to the base Damage of friendly ranged creatures."
+
+[Abilities.A_CloakOfMalassa_Buff H7BaseBuff]
+mName="Cloak of Malassa"
+mTooltip=""
+
+[Items_Bloodforged.A_Relic_Neck_PendantOfConflux H7HeroItem]
+mName="Pendant of Conflux"
+mTooltip="The hero gains 1 %special.icon Mana for every %special %special.icon Mana spent by an enemy hero during combat."
+
+[Abilities.A_GuardiansGauntlet_Buff H7BaseBuff]
+mName="Guardian's Gauntlet"
+mTooltip=""
+
+[Abilities.A_RangersCape_Buff_Resistance H7BaseBuff]
+mName="Ranger's Cape"
+mTooltip=""
+
+[Abilities.A_GuardiansSet_Bonus1_Buff H7BaseBuff]
+mName="Guardian's Set"
+mTooltip=""
+
+[Abilities.A_CloakOfArkath_Buff H7BaseBuff]
+mName="Cloak of Arkath"
+mTooltip=""
+
+[Consumables.A_Potion_ManaFull H7HeroItem]
+mName="Mana Potion"
+mTooltip="Completely refills the Mana of the hero when consumed."
+
+[Sets.A_Bloodforged H7ItemSet]
+mName="Bloodforged"
+mTooltip="DEPRECATED"
+
+[Items_Bloodforged.A_Minor_Head_CrystalCirclet H7HeroItem]
+mName="Crystal Circlet"
+mTooltip="%stat %stat.icon Spirit"
+
+[Items_Hallowed.A_Major_Torso_RegalArmour H7HeroItem]
+mName="Regal Armour"
+mTooltip="%stat2 %ICON_DEFENSE Defence\n%stat1 %ICON_LEADERSHIP Leadership"
+
+[Items_NoSet.A_Relic_MainHand_RodOfTorment H7HeroItem]
+mName="Rod of Torment"
+mTooltip="%stat %stat.icon Magic\n%special duration to negative spells on enemy creatures."
+
+[Consumables.A_Scroll_Dark_ShadowImage H7HeroItem]
+mName="Scroll of Shadow Image"
+mTooltip="Consume the scroll to cast the Dark spell Shadow Image."
+
+[Abilities.A_GuardiansSet_Bonus3_Buff H7BaseBuff]
+mName="Guardian's Set"
+mTooltip=""
+
+[Items_NoSet.A_Major_MainHand_DjinnScimitar H7HeroItem]
+mName="Djinn Scimitar"
+mTooltip="%stat %stat.icon Destiny"
+
+[Items_NoSet.A_Relic_OffHand_GoldenFeather H7HeroItem]
+mName="Gold Feather"
+mTooltip="Permits casting of the Light spell Gold Dragon once per combat."
+
+[Items_ElvenCraft.A_Major_MainHand_UnicornHornBow H7HeroItem]
+mName="Unicorn Horn Bow"
+mTooltip="%buff1.buff.stat1 to the base Damage of friendly ranged creatures.\nAll friendly ranged creatures have %buff1.buff.stat3.icon full range."
+
+[Abilities.A_CloakOfTheLich_Buff H7BaseBuff]
+mName="Cloak of the Lich"
+mTooltip=""
+
+[Items_ElvenCraft.A_Minor_Neck_AmuletOfHealth H7HeroItem]
+mName="Amulet of Health"
+mTooltip="%buff1.buff.stat Health for friendly creatures."
+
+[Items_ElvenCraft.A_Minor_Head_AllSeeingCrown H7HeroItem]
+mName="All-Seeing Crown"
+mTooltip="%stat1 scouting range\n%stat2 experience gain"
+
+[Items_NoSet.A_Major_OffHand_ShadowsteelHeart H7HeroItem]
+mName="Shadowsteel Heart"
+mTooltip="%special %special.icon Shadowsteel per day"
+
+[Items_NoSet.A_Major_OffHand_Thunderskin H7HeroItem]
+mName="Thunderskin"
+mTooltip="%stat %stat.icon Morale"
+
+[Items_MagisterSet.A_Relic_Head_SupremeCrownOfTheMagister H7HeroItem]
+mName="Supreme Crown of the Magister"
+mTooltip="%stat1 %stat1.icon Magic\n%stat2 %stat2.icon Spirit"
+
+[Abilities.A_ShacklesOfTheLastMan_Buff H7BaseBuff]
+mName="Shackles of the Last Man"
+mTooltip="Heroes cannot flee or surrender in combat."
+
+[Items_DragonBlessed.A_Major_Shoulders_CloakOfMalassa H7HeroItem]
+mName="Cloak of Malassa"
+mTooltip="All friendly creatures receive %buff1.buff.res1.norm less Dark damage."
+
+[Items_DwarvenWork.A_Major_OffHand_CrystalEyeglass H7HeroItem]
+mName="Crystal Eyeglass"
+mTooltip="%special %special.icon Dragon Blood Crystal per day"
+
+[Items_GuardianSet.A_Minor_Shoulders_GuardiansSpaulders H7HeroItem]
+mName="Guardian's Spaulders"
+mTooltip="%stat %stat.icon Leadership"
+
+[Items_NoSet.A_Major_Feet_ShiftingBoots H7HeroItem]
+mName="Shifting Boots"
+mTooltip="%buff1.buff.buff1.buff.stat %buff1.buff.buff1.buff.stat.icon Movement to friendly creatures with Shrouded."
+
+[Items_NoSet.A_Major_Feet_BootsOfTheExplorer H7HeroItem]
+mName="Boots of the Explorer"
+mTooltip="%stat %stat.icon hero maximum Movement"
+
+[Items_ElvenCraft.A_Minor_Hands_BraceletOfTheDruid H7HeroItem]
+mName="Bracelet of the Druid"
+mTooltip="%stat %stat.icon Magic\nPermits casting of the Earth spell Regeneration once per combat."
+
+[Items_NoSet.A_Major_Torso_AlchemistsRobe H7HeroItem]
+mName="Alchemist's Robe"
+mTooltip="%special2 duration to positive spells on friendly creatures.\n%special1 %icon_Crystal Dragon Blood Crystal, %icon_Dragonsteel Dragon Steel, %icon_Shadowsteel Shadowsteel or %icon_Starsilver Starsilver per day."
+
+[Items_NoSet.A_Major_Neck_EmeraldLeaf H7HeroItem]
+mName="Emerald Leaf"
+mTooltip="%stat %stat.icon Magic for Earth spells"
+
+[Items_NoSet.A_Minor_Neck_AmuletOfDisguise H7HeroItem]
+mName="Amulet of Disguise"
+mTooltip="%stat %ICON_DEFENSE Defence\nPermits casting of the %ICON_AIR Air spell Fog Shroud once per combat."
+
+[Sets.A_MagistersSet H7ItemSet]
+mName="Magister's Set"
+mTooltip="DEPRECATED"
+
+[Consumables.A_Scroll_Water_CircleOfWinter H7HeroItem]
+mName="Scroll of Circle of Winter"
+mTooltip="Consume the scroll to cast the Water spell Circle of Winter."
+
+[Sets.A_ShantiriTreasure H7ItemSet]
+mName="Shantiri Treasure"
+mTooltip="DEPRECATED"
+
+[Items_AssassinSet.A_Major_Shoulders_CloakOfDarkness H7HeroItem]
+mName="Cloak of Darkness"
+mTooltip="%buff1.buff.stat1 to the base Damage of enemy ranged creatures."
+
+[Items_BattleGarbOfTheGriffin.A_Relic_Shoulders_TheGriffinsMantle H7HeroItem]
+mName="The Griffin's Mantle"
+mTooltip="%stat1 %stat1.icon Magic for Light spells\n%stat2 %ICON_MANA maximum Mana"
+
+[Items_Bloodforged.A_Major_Hands_ElementalRing H7HeroItem]
+mName="Elemental Ring"
+mTooltip="Permits casting of the Prime spell Summon Elemental once per combat."
+
+[Items_AssassinSet.A_Minor_Head_AssassinsMask H7HeroItem]
+mName="Assassin's Mask"
+mTooltip="%buff1.buff.stat %buff1.buff.stat.icon Morale to enemy creatures."
+
+[Abilities.A_CelestialShield_Buff H7BaseBuff]
+mName="Celestial Shield"
+mTooltip=""
+
+[Items_AssassinSet.A_Relic_Neck_VialOfPoison H7HeroItem]
+mName="Vial of Poison"
+mTooltip="%buff1.buff.stat Health for enemy creatures."
+
+[Items_BattleGarbOfTheGriffin.A_Relic_MainHand_TheGriffinsResolve H7HeroItem]
+mName="The Griffin's Resolve"
+mTooltip="%stat1 %ICON_ATTACK Attack\n%stat3 %ICON_SPIRIT Spirit\n%stat2 %ICON_LEADERSHIP Leadership"
+
+[Abilities.A_ElvenBoots_Buff H7BaseBuff]
+mName="Elven Boots"
+mTooltip=""
+
+[Abilities.A_MaskOfDoom_Buff H7BaseBuff]
+mName="Mask of Doom"
+mTooltip=""
+
+[Abilities.A_RangersBoots_Buff H7BaseBuff]
+mName="Ranger's Boots"
+mTooltip=""
+
+[Consumables.A_Scroll_Dark_Agony H7HeroItem]
+mName="Scroll of Agony"
+mTooltip="Consume the scroll to cast the Dark spell Agony."
+
+[Abilities.A_MagistersSet_Bonus3_Buff H7BaseBuff]
+mName="Magister's Set"
+mTooltip=""
+
+[Sets.A_WarlordsSet H7ItemSet]
+mName="Warlord's Set"
+mTooltip="DEPRECATED"
+
+[Items_NoSet.A_Major_Hands_ArcaneBracelets H7HeroItem]
+mName="Arcane Bracelets"
+mTooltip="%stat %stat.icon Magic\nAllows to cast the Prime spell Implosion once per combat."
+[Artifacts.A_RingOfConjuring_DEPRECATED H7HeroItem]
+mName="Ring of Conjuring"
+mTooltip="The inlaid gem is made of dragonblood crystal. It has been cut to resemble the eye of a dragon."
+[Sets.A_Set_Guardian_DEPRECATED H7ItemSet]
+mName="Guardian Set"
+mTooltip="The equipment is said to belong to the fabled "Guardian of the Realm", who rose from the commons to unite his people against the demon hordes."
+[Artifacts.A_MantleOfResistance_DEPRECATED H7HeroItem]
+mName="Mantle of Resistance"
+mTooltip="This skillfully woven fabric absorbs magical damage."
+[Artifacts.A_GuardiansSpaulders_DEPRECATED H7HeroItem]
+mName="Guardian's Spaulders"
+mTooltip="The way they reflect sunlight fortifies the morale of your units."
+[Artifacts.A_GuardiansHelm_DEPRECATED H7HeroItem]
+mName="Guardian's Helm"
+mTooltip="It's glorious plume inspires your units."
+[Artifacts.A_GoldenGoose_DEPRECATED H7HeroItem]
+mName="Golden Goose"
+mTooltip="It is said to draw wealth and riches."
+[Artifacts.A_FlambergeOfPower_DEPRECATED H7HeroItem]
+mName="Flamberge of Power"
+mTooltip="This weapon was fashioned for a single purpose: To crush down its enemies."
+[Artifacts.A_DwarvenShield_DEPRECATED H7HeroItem]
+mName="Dwarven Shield"
+mTooltip="Crafted by dwarven armoursmiths, this shield is especially sturdy."
+[Artifacts.A_DragonScaleArmor_DEPRECATED H7HeroItem]
+mName="Dragon Scale Armour"
+mTooltip="The scales of the magical beast make this piece of armour impervious to might and magic alike."
+[Artifacts.A_CrestOfCourage_DEPRECATED H7HeroItem]
+mName="Crest of Courage"
+mTooltip="The embossed heraldry encourages your units."
+[Artifacts.A_BootsOfTheExplorer_DEPRECATED H7HeroItem]
+mName="Boots of the Explorer"
+mTooltip="They grant a superior swiftness of the legs to the one who wears them."
+[Artifacts.A_AmuletOfTheJaguar_DEPRECATED H7HeroItem]
+mName="Amulet of the Jaguar"
+mTooltip="The claw of the cat of prey is the source of its power."
+[Artifacts.A_AmuletOfHealth_DEPRECATED H7HeroItem]
+mName="Amulet of Health"
+mTooltip="The shiny trinket emits a healing aura."
+[Exclusive.A_HeroItem_TheGriffinsGorget H7HeroItem]
+mName="The Griffin's Gorget"
+mTooltip="The Griffin's Gorget - DESCRIPTION"
+[Exclusive.A_HeroItem_TheGriffinsTalons_Buff H7BaseBuff]
+mName="The Griffin's Talons"
+[Exclusive.A_HeroItem_TheGriffinsResolve H7HeroItem]
+mName="The Griffin's Resolve"
+mTooltip="The Griffin's Resolve - DESCRIPTION"
+[Exclusive.A_HeroItem_TheGriffinsMantle H7HeroItem]
+mName="The Griffin's Mantle"
+mTooltip="The Griffin's Mantle - DESCRIPTION"
+[Exclusive.A_HeroItem_TheGriffinsTalons H7HeroItem]
+mName="The Griffin's Talons"
+mTooltip="The Griffin's Talons - DESCRIPTION"
+[Exclusive.A_ItemSet_BattleGarbOfTheGriffin H7ItemSet]
+mName="Battle Garb of the Griffin"
+mTooltip="DO NOT TRANSLATE - will be removed"
+[Exclusive.A_HeroItem_TheGriffinsMantle_Buff H7BaseBuff]
+mName="The Griffin's Mantle"
+[Items_Preorder.A_Major_MainHand_CrimsonScythe H7HeroItem]
+mName="Crimson Scythe"
+mTooltip="%stat %stat.icon Might"
+[Items_Preorder.A_Major_Neck_SeaElfCharm H7HeroItem]
+mName="Sea Elf Charm"
+mTooltip="%stat %ICON_DEFENSE Defence"
+[Items_Preorder.A_Major_OffHand_Moonblade H7HeroItem]
+mName="Moonblade"
+mTooltip="%stat %stat.icon Magic"
+[Items_Preorder.A_Major_OffHand_Thunderskin H7HeroItem]
+mName="Thunderskin"
+mTooltip="%stat %stat.icon Morale"
+[Items_Preorder.A_Major_Neck_ElrathsUnity H7HeroItem]
+mName="Elrath's Unity"
+mTooltip="%stat %stat.icon Spirit"
+[Items_Preorder.A_Major_MainHand_DjinnScimitar H7HeroItem]
+mName="Djinn Scimitar"
+mTooltip="%stat %stat.icon Destiny"
+[Consumables.A_Scroll_Prime_InstantReinforcements H7HeroItem]
+mName="Scroll of Instant Reinforcements"
+mTooltip="Consume the scroll to cast the Prime spell Instant Reinforcements."
+
+
+[Abilities.A_AssassinsSet_Bonus2_Buff H7BaseBuff]
+mName="Assassin's Set"
+mTooltip=""
+
+[Abilities.A_AssassinsSet_Bonus1_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip="%buff1.buff.stat Health for enemy creatures."
+
+[Abilities.A_AssassinsSet_Bonus1_Buff H7BaseBuff]
+mName="Assassin's Set"
+mTooltip=""
+
+[Abilities.A_AssassinsSet_Bonus3_Buff H7BaseBuff]
+mName="Assassin's Set"
+mTooltip=""
+
+[Abilities.A_AssassinsSet_Bonus2_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip="%buff1.buff.stat1 to the base Damage of enemy ranged creatures."
+
+UCP 1.1
+
+[Abilities.A_AssassinsSet_Bonus3_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip="%buff1.buff.stat1 to the base Damage of enemy ranged creatures.\n%buff3.buff.stat %buff3.buff.stat.icon Initiative to friendly creatures."
+
+[Abilities.A_GreatLichsSet_Bonus3_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip="%buff1.buff.stat %buff1.buff.stat.icon Morale to enemy creatures."
+
+[Abilities.A_RangersSet_Bonus3_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip="%buff1.buff.stat1 to the base Damage of friendly ranged creatures."
+
+[Abilities.A_RangersSet_Bonus1_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip="%buff1.buff.stat %buff1.buff.stat.icon Initiative to friendly creatures."
+
+
+

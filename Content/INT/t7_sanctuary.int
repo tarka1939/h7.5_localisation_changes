@@ -1,0 +1,41 @@
+[t7.A_fish_guard_Buff H7BaseBuff]
+mName="Grudge"
+mTooltip="Whenever this creature takes damage, adjacent creatures take %d Air Damage .Lasts %durnow turns."
+
+[t7.A_Fish_guard H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Grudge "
+mTooltip="When this unit loses at least one creature from its stack, it receives %spell1.name for %buff1.buff.durini turns."
+
+[t7.A_determination_setting_Buff H7BaseBuff]
+mName="Determination"
+mTooltip=""
+
+[t7.A_determination_1_Buff H7BaseBuff]
+mName="Determination"
+mTooltip="Increases this creature's final damage by %stat1 , until end of combat turn."
+
+[t7.A_Creature_champion_sanctuary H7Creature]
+mName="Unagi"
+mLore="When news of the sudden attacks and the disappearance of civilians started to come from the lakeside Shanria villages, worried daimyos sent several armed squads there to clarify the situation. The interviewed villagers claimed to have been the victims of the insidious ningyos - river monsters from local legends, so the Naga scouts decided to explore the network of underground rivers and lakes under the Dragon Causeway. There they were attacked by mysterious creatures and were able to avoid death only thanks to the timely appearance of the Ocean Guards who lived in that area. Some time passed before the Naga managed to establish contact with the "lesser horrors of the deep", but to this day the inhabitants of Shanria are wary of these unpredictable underwater creatures, whose long dresses hide toothy eels that serve as their lower limbs."
+
+[t7.A_CripplingSting H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Ravage"
+mTooltip="Affected creatures suffer %d1 %ICON_Water . "
+
+[t7.A_Determination H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Determination"
+mTooltip="When an army creature gets morale at half-mast: this creature has its final damage increased by %buff1.buff.buff.stat1 , for %buff1.buff.durini turns. This effect can be cumulative several times . "
+
+[t7.A_Creature_champion_Sanctuary_upregate H7Creature]
+mName="Denki Unagi"
+mLore="Officially, Unagi are considered to be the Mermaids, whose bodies and minds were distorted under the influence of the blood of the Dragon God of Chaos seeped into the water. Although, there exist some unusual theories, such as the one where the eels consists the main body, and the humanoid form serves only as a bait for careless victims. Cunning and vindictive by nature, they feel no remorse for their actions on the battlefield, drawing strength even from the fear and disgust of their own allies. If the wounded Denki Unagi do not have the opportunity to take revenge on the offenders for the wounds they received, then they vent their rage on everyone around them, not caring about who is friend and who is foe."
+

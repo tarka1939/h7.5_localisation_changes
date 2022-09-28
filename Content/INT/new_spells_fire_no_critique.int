@@ -1,0 +1,15 @@
+[A_Burning_Buff H7BaseBuff]
+mName="Torment I"
+mTooltip="Target creature's luck is reduced to %stat1 %stat1.icon  during %durnow turns "
+
+[A_Burning_Buff_lv2 H7BaseBuff]
+mName="Torment II"
+mTooltip="Target creature's luck is reduced to %stat1 %stat1.icon  during %durnow turns "
+
+[A_Nova H7HeroAbility]
+mTooltipMagicGuild="Deals %d.icon Fire Domage on target unit, target creature's chance is reduced to : %buff1.buff.stat1 during %buff1.buff.durini turns "
+mTooltipMagicGuildRankLine="%d.min to %d.max %d.icon"
+mTooltipUpgraded="Deals %d.min to %d.max %d.icon Fire Domage on target unit, target creature's chance is reduced to : %buff2.buff.stat1 during %buff2.buff.durini turns "
+mName="Torment "
+mTooltip="Deals %d.min to %d.max %d.icon Fire Domage on target unit and target creature's chance is reduced to %buff1.buff.stat1.During %buff1.buff.durini turns "
+

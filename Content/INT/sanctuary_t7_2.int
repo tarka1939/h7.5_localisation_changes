@@ -1,0 +1,71 @@
+[buff_bonus.A_StormArrows_Buff H7BaseBuff]
+mName="Storm Arrows"
+mTooltip="%stat2 %stat2.icon Attack\nLasts for %durnow turn(s)."
+
+[buff_bonus.A_Retribution_Buff H7BaseBuff]
+mName="Retribution"
+mTooltip="Deals %d.min to %d.max %d.icon Light damage to each creature attacking this creature. Lasts for %durnow turn(s)."
+
+[buff_bonus.A_InnerFire_Buff H7BaseBuff]
+mName="Inner Fire"
+mTooltip="%stat1 %stat1.icon Attack\n%stat2 %stat2.icon Initiative\nLasts for %durnow turn(s)."
+
+[buff_bonus.A_IceStrike_Buff H7BaseBuff]
+mName="Ice Strike"
+mTooltip="The creature deals additional %d.min to %d.max %d.icon Water damage when it attacks.\nLasts for %durnow turn(s)."
+
+[A_Creature_Sanctuary_kirin H7Creature]
+mName="Kirin"
+mLore=""
+
+[Ability.A_Nova H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Chastisement of the Soul"
+mTooltip="This creature places %spell1.name on target opponent: Whenever an enemy unit takes damage, creature marked with %spell1.name receives %buff1.buff.buff.special from damage dealt to that unit. lasts %buff1.buff.durini turn, or until one enemy stack dies. "
+
+[Ability.A_heal_Buff_target H7BaseBuff]
+mName="target heal vole"
+mTooltip=""
+
+[Ability.A_heal_vole_Buff_kirin H7BaseBuff]
+mName="Chastisement of the Soul "
+mTooltip="This creature takes %buff1.buff.special of the damage any other allied creature takes. Lasts until beginning of creature's next turn."
+
+[buff_bonus.A_Fortune_Buff H7BaseBuff]
+mName="Fortune"
+mTooltip="%stat %stat.icon Luck\nLasts for %durnow turn(s)."
+
+[Ability.A_Esprit_appaisant H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Soothing Spirit "
+mTooltip="Adjacent allied creature receives a random positive magic effect at the end of that creature's turn."
+
+[Ability.A_esprit_appaisant_Buff H7BaseBuff]
+mName="Force of Fate
+mTooltip="Increases the chance of %stat1 %stat1.icon During %durnow turns."
+
+[Ability.A_Divinité_du_destin H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Force of Destiny
+mTooltip="When this creature attacks an opponent who hasn't retaliated, allied creatures gain %buff1.buff.stat %buff1.buff.stat.icon During %buff1.buff.durini turns."
+
+[A_Creature_Sanctuary_kirin_lv2 H7Creature]
+mName="Sacred Kirin
+mLore=""
+
+[Ability.A_force_du_destin_Buff H7BaseBuff]
+mName="Force of Fate
+mTooltip="Increases the chance of %stat1 %stat1.icon During %durnow turns."
+
+[Ability.A_Hailstorm_Aura H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Lightning storm"
+mTooltip="When this creature attacks or retaliates, it inflicts %d %icon_air on adjacent enemies. "

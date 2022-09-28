@@ -1,0 +1,130 @@
+[A_Coordination_Buff H7BaseBuff]
+mName="Coordination"
+mTooltip=""
+
+[A_hide_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[A_Coordination_CreatureAbility H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip=""
+
+[A_DeadAngle_Buff H7BaseBuff]
+mName="Dead Angle"
+mTooltip=""
+
+[A_SmokeBomb_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Smoke Bomb"
+mTooltip="When a friendly creature loses Shrouded all neighbouring enemy creatures get %buff.buff.stat %ICON_INITIATIVE Initiative until end of the next combat round."
+
+[A_DeadAngle_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Dead Angle"
+mTooltip="Enemy creatures retaliate with %spell1.spell.buff1.buff.stat %ICON_ATTACK Attack if they got full flanked by a friendly creature."
+
+[A_Coordination_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Coordination"
+mTooltip="If the first melee attack of a friendly creature is not retaliated, it gets a second free hit on the same target instantly (once per combat round)."
+
+[A_Hide_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Hide"
+mTooltip="Friendly creatures get Shrouded at the end of combat round if they didn't get damage in this combat round."
+
+[A_DeadAngle_CreatureAbility H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip=""
+
+[A_MephiticScent_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Mephitic Scent"
+mTooltip="Friendly creatures with Shrouded deal %buff.buff.d.min %ICON_DARK Dark damage for every single creature in the stack when passing through an enemy creature."
+
+[A_SmokeBomb_Buff H7BaseBuff]
+mName="Smoke Bomb"
+mTooltip="%stat %ICON_INITIATIVE Initiative\nLasts for %durnow combat round(s)."
+
+[A_WeakSpot_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Weak Spot"
+mTooltip="Enemy creature stacks get %spell1.spell.buff.buff.stat2 %ICON_ATTACK Attack and %spell1.spell.buff.buff.stat1 %ICON_DEFENSE Defence after being attacked in melee. Lasts until end of combat round."
+
+[A_WeakSpot_Buff H7BaseBuff]
+mName="Weak Spot"
+mTooltip="%stat2 %ICON_ATTACK Attack\n%stat1 %ICON_DEFENSE Defence\nLasts until end of combat round."
+
+[A_WeakSpot_CreatureAbility H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip=""
+
+[A_ShroudOfMalassa_Shrouded_Buff_GuaranteedCrit H7BaseBuff]
+mName="Shrouded"
+
+UCP MOD
+
+[A_Confusion_Buff H7BaseBuff]
+mName="Confusion"
+mTooltip="The creature cannot retaliate.\nLasts until end of the currently active creature's turn.\n(Not affected: Undead and Constructs)"
+
+[A_Confusion_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Confusion"
+mTooltip="The hero's attack additionally suppresses target enemy creature's retaliation until the end of the currently active creature's turn.\n(Not affected: Undead and Constructs)"
+
+UCP 1.1
+
+
+
+[A_ShroudOfMalassa_Shrouded_Buff H7BaseBuff]
+mName="Shrouded"
+mTooltip="The creature can walk through any other creature. Lasts until the creature attacks."
+
+[A_ShroudOfMalassa_Shrouded_Buff_1_Novice H7BaseBuff]
+mName="Shrouded"
+mTooltip="The creature can walk through any other creature. Lasts until the creature attacks."
+
+[A_ShroudOfMalassa_Shrouded_Buff_2_Expert H7BaseBuff]
+mName="Shrouded"
+mTooltip="The creature can walk through any other creature and has %stat1 %ICON_MAX_MOVEMENT Movement. Lasts until the creature attacks."
+
+[A_ShroudOfMalassa_Shrouded_Buff_3_Master H7BaseBuff]
+mName="Shrouded"
+mTooltip="The creature can walk through any other creature and has %stat1 %ICON_MAX_MOVEMENT Movement. Lasts until the creature attacks (the creature gets additional %special3.val1 %ICON_ATTACK Attack and %special5.val1 %ICON_LUCK Luck when attacking)."
+
+
+H7.5_mod v2
+
+[A_ShroudOfMalassa_Skill H7Skill]
+mDescriptions[0]="Friendly creatures are Shrouded to prepare their first attack very well and weaken enemy creatures."
+mDescriptions[1]=""
+mDescriptions[2]="All friendly creatures are Shrouded at start of combat. Shrouded allows a creature to walk through any other creature. Shrouded ends after the creature attacked."
+mDescriptions[3]="Shrouded creatures have %buff2.buff.stat1 %ICON_MAX_MOVEMENT Movement."
+mDescriptions[4]="Shrouded creatures get %buff3.buff.special3.val1 %ICON_ATTACK Attack and %buff3.buff.special5.val1 %ICON_LUCK Luck when attacking."
+mName="Shroud of Malassa"
+mTooltip="Dungeon faction skill."

@@ -1,0 +1,15 @@
+[TheWorld:PersistentLevel.H7CombatObstacleObject_0 H7CombatObstacleObject]
+mObstacleName="Small Rock"
+
+[TheWorld:PersistentLevel.H7CombatObstacleObject_1 H7CombatObstacleObject]
+mObstacleName="Small Rock"
+
+[TheWorld:PersistentLevel.H7CombatObstacleObject_15 H7CombatObstacleObject]
+mObstacleName="Small Rock"
+
+[TheWorld:PersistentLevel.H7CombatObstacleObject_8 H7CombatObstacleObject]
+mObstacleName="Small Rock"
+
+[TheWorld:PersistentLevel.WorldInfo_0.H7MapInfoCombat_0 H7MapInfoCombat]
+mName="Underground 3"
+

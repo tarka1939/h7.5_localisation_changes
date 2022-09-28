@@ -1,0 +1,55 @@
+[Abilities.A_TerrifyingRoar_Buff H7BaseBuff]
+mName="Strach"
+mTooltip="Strach"
+
+[Abilities.A_MarkOfTheSearcher H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Mark of the researcher"
+mTooltip="Enemies attacked receive a "prey" mark.\n The attacks of the elite and champion units of the xel faction, inflict additional damage to marked units."
+
+[Abilities.A_MarkedBySearcher_Buff H7BaseBuff]
+mName="Prey"
+mTooltip="This unit has been designated as prey! The attacks of elite units and unimproved Xel champions will be strengthened against it."
+
+[Abilities.A_XelFactionUnit_marker H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip=""
+
+[Abilities.A_DevouringMiasma H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Devouring Miasma"
+mTooltip="With good morale, it instantly deals %d1.max damage to all adjacent enemy living units (except Xel) with a random school of magic and heals all other adjacent friendly Xel units of %d2.max %icon_health ."
+
+[Abilities.A_AncientMiasma H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Ancient Miasma"
+mTooltip="On a critical hit, deal %d1.max damage to all adjacent enemy living units (except Xel) with a random school of magic and return %stat2 %icon_mana to the hero."
+
+[Abilities.TerrifyingRoar H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Terrifying roar"
+mTooltip="The Seeker emits a terrifying roar when attacking, which frightens the enemy, preventing them from retaliating and reducing their %icon_morale (does not apply to already frightened units, undead and constructs)."
+
+[Abilities.A_TerrifyingRoar_Buff_Fear H7BaseBuff]
+mName="Fear"
+mTooltip="%stat %stat.icon to morale.\n Lasts for %durnow tours."
+
+[Creatures.A_CreatureSearcher H7Creature]
+mName="Creeping Tracker "
+mLore="Creeping Trackers are the first creatures to be controlled by the xel symbiote. They have kept their primitive appearance in order to retain their ability to track prey despite the darkness of the underground tunnels. The bite of the Creeping Trackers infects their target, which becomes genetically marked."
+
+[Creatures.A_CreatureLurker H7Creature]
+mName="Screamer"
+mLore="Screamers have developed vocal cords that emit a terrifying sound that can scare away even the bravest of opponents, and this was one of the Xel entity's first defences to protect its nests. The bite of the Howlers infects their target, which becomes genetically marked."
+

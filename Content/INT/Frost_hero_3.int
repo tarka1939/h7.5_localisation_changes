@@ -1,0 +1,55 @@
+[Archétype.A_Arabella H7EditorHero]
+mName=""
+mLore=""
+
+[Archétype.A_Khartumov H7EditorHero]
+mName=""
+mLore=""
+
+[Archétype.A_Ontarion H7EditorHero]
+mName=""
+mLore=""
+
+[Hero_specialisation.A_anti_heal_specialisation H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Crystallization"
+mTooltip=" At the start of combat, enemy creatures suffer Heal freesing, and the hero has a 40% chance to heal freesing when dealing damage to an enemy unit "
+
+[Hero_specialisation.A_elemntaliste_water_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Water Elementalist"
+mTooltip="Allows the hero if he uses a positive water spell %icon_water \n( Heal or buff) \nto cast another spell or attack during the same turn with a %buff1.buff.stat2 malus to %icon_magic." 
+
+[Hero_specialisation.A_Master_of_phoenix_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[Hero_specialisation.A_masterof_phoenix_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Phoenix Link"
+mTooltip="Give a hero  %buff.buff.stat1 %icon_attack , %buff.buff.stat1 %icon_defense and %buff.buff.stat1 %icon_luck each round, provided you have a Frost bird under your control on the battlefield. "
+
+[heropédya.A_HeroBio_Arabella H7HeroBioData]
+mText="Arabella was born in a family of healers and the future seemed bright and clear to her until her lover was struck by an unknown illness. Despite the sorceress' efforts, the young man started to rapidly lose strength and passed away soon, which plunged the girl into the depth of despair. After that incident, time seemed to freeze for Arabella, and Mashana's initiation forever changed the nature of her magic.When the Order of the Void turned its attention to Shanria, the sorceress felt the echoes of an ominous power, which affected her beloved one, and unleashed her wrath on Sandro's servants. Against all expectations, her magic successfully resisted even the spells of the Void Archheralds, who were able to reverse any wound."
+
+[heropédya.A_HeroBio_Khartumov H7HeroBioData]
+mText="Khartumov looks almost no different from the rest of Union residents, but his true origin is shrouded in mystery. Over hundred years ago, while exploring a network of underground caves, an expedition from the Union found a huge block of ice with a humanoid figure enclosed in it. When the block was delivered to Alamos, the Archmages melted it and rescued the prisoner, who, despite the loss of memory, had unique knowledge about Thallan. Even now, his stories about unexplored lands beyond mountains and seas are popular amonst children, who gave him the nickname "Storyteller". On the other hand, Khartumov, who managed to recover only a small fragment of memories about his past, calls himself Guardian, although he does not remember what exactly this title means."
+
+[heropédya.A_HeroBio_ontarion H7HeroBioData]
+mText="As a child, Ontarion was fond of stories about mysterious inhabitants of the Dragon Causeway, but the legend of Psonen was his favorite. Very often, standing on the balcony of his house, the boy peered into the night sky and hoped to see a beautiful bird soaring among the stars. Even after becoming a commander, he did not give up his childhood dream, but hid it deep in his heart. When the mountain shrine of Shalassa was attacked by the dark spirits, Ontarion did not hesitate to defend it and a Frost Bird appeared on top of the altar to commemorate the victory of his squad over the forces of evil. Shocked by its beauty, all warriors fell on one knee, but the spirit just majestically soared into the sky, dropping a feather from its tail at the feet of Ontarion. Since then, that feather adorns his helmet, being a symbol of Psonen's favor."
+
+[Heros_names.A_Arabella_name H7GlobalName]
+mName="Arabella"
+
+[Heros_names.A_Khartumov_name H7GlobalName]
+mName="Khartumov"
+
+[Heros_names.A_ontarion_name H7GlobalName]
+mName="Ontarion"
+

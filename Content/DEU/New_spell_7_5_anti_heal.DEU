@@ -1,0 +1,17 @@
+[A_heal_immunity H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Magie-Immunität"
+mTooltip="Die Kreatur kann nicht das Ziel von negativen Zaubern oder Effekten einer beliebigen magischen Schule sein. Jeglicher magische Schaden durch gegnerische Angriffe wird halbiert."
+
+[Anti_heal.A_IceStrike_Buff H7BaseBuff]
+mName="Heilen Einfrieren"
+mTooltip="Die Kreatur kann für %durnow Runde(n) keine Heilung empfangen oder sich selbst heilen. (funktioniert nicht bei Einheiten vom Typ Konstrukt)"
+
+[Anti_heal.A_Nova H7HeroAbility]
+mTooltipMagicGuild="Die Zielkreatur kann keine Heilung empfangen oder sich selbst heilen. (Funktioniert nicht bei Einheiten vom Typ Konstrukt) "
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Einfrieren der Heilung"
+mTooltip="Verursacht %d %icon_water Wasserschaden. Die Kreatur kann für %buff1.buff.durini Runde(n) nicht mehr geheilt werden. Wirkt nicht auf Einheiten vom Typ Konstrukt."

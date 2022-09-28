@@ -1,0 +1,33 @@
+[Ability.A_Nova_Buff H7BaseBuff]
+mName="Inflamed
+mTooltip="Creature gets %d %icon_fire Fire at end of turn "
+
+[Ability.A_Nova H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Petrification static"
+mTooltip="Inflicts %d.min to %d.max Air damage %icon_air the target. Target creature gets : %spell4.name. Cannot be used while creature is in melee."
+
+[A_RangedAttack_Might_Bow H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Ranged Attack"
+mTooltip="Ranged Attack"
+
+[Ability.A_aura_petrifiante H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Petrifying Aura "
+mTooltip="At the beginning of each combat turn, this creature has a 30% chance to paralyze adjacent enemy units"
+
+[A_Creature_medusa_upregate H7Creature]
+mName="Naga Ryoshi"
+mLore="The desire of some Yokujins to become stronger leads them to the path of Ryoshi, which is filled with many dangers. Together with their mentors, they go to the mountains, where they become hunters, who contribute to the prosperity of Shanria. Initially relying only on their own skills, Yokujins gradually learn the basic knowledge about hunting, which greatly increases their chances of survival. The ability to hide their presence and leave no traces when moving helps them track down prey, as well as avoid encounters with dangerous predators. The time spent in such difficult enviroment tempers Ryoshis' spirit and makes their connection to Shalassa much stronger. Therefore, not a single enemy is able to escape their sharp gaze."
+
+[A_Creature_medusa_base H7Creature]
+mName="Naga Yokujin"
+mLore="Even after declaring their independence from the Eternal Empress, the Nagas of Shanriya continue to practice a philosophy of self-perfection that manifests itself in all aspects of their daily lives, whether it be the peaceful craft or the art of war. Through persistent and long training, Youkujins hone their battle skills to such an extent that the accuracy of their shots is only slightly inferior to the Elven. However, the lack of strong armor and the use of a bow as their main weapon does not mean that they are helpless in close combat. If necessary, it is enough for Yokujin to cast a short glance at the enemies to immobilize and turn them into perfect targets."
+

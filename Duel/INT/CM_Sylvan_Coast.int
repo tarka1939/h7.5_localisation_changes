@@ -1,0 +1,15 @@
+[neutral.H7Obstacle_Rock_Brown_1x2 H7CombatObstacleObject]
+mObstacleName="Normal Rock"
+
+[Obstacles.H7Rock3x3_Grey H7CombatObstacleObject]
+mObstacleName="Huge Rock"
+
+[TheWorld:PersistentLevel.H7CombatObstacleObject_18 H7CombatObstacleObject]
+mObstacleName="Normal Rock"
+
+[TheWorld:PersistentLevel.H7CombatObstacleObject_8 H7CombatObstacleObject]
+mObstacleName="Huge Rock"
+
+[TheWorld:PersistentLevel.WorldInfo_0.H7MapInfoCombat_2 H7MapInfoCombat]
+mName="Archipelago Coast 2"
+

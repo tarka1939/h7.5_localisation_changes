@@ -1,0 +1,321 @@
+
+[A_Haven_Blacksmith H7TownUtilityUnitDwelling]
+mName="Blacksmith"
+mDesc="Warfare unit production.\nProvides the option to buy Haven Ballistae."
+
+[A_Haven_Fortification1 H7TownGuardBuilding]
+mName="Fortifications Level 1"
+mDesc="Equips the town with walls and gate in siege combats and a local guard of Sentinels and Crossbowmen."
+
+[A_Haven_VillageHall H7TownHall]
+mName="Village Hall"
+mDesc="Provides the option to build new structures in this town.\nProvides 500 %ICON_GOLD Gold per day."
+
+[A_Haven_Embassy H7TownBuilding]
+mName="Embassy"
+mDesc="+15% chance for negotiations with neutral armies for your heroes in this town's area of control."
+
+[A_Haven_MagicGuild1 H7TownMagicGuild]
+mName="Magic Guild Level 1"
+mDesc="Provides 5 random spells of tier 1 in this town.\nThey are granted to all visiting heroes that fulfill the requirements."
+
+[A_Haven_Fortification2 H7TownGuardBuilding]
+mName="Fortifications Level 2"
+mDesc="Increases the hit points of walls and gate in siege combats.\nAdds Guardians and Chaplains to the local guard.\nIncreases the capacities and growth of creatures in the local guard."
+
+[A_Haven_CathedralOfLight H7TownDwelling]
+mName="Cathedral of Light"
+mDesc="Elite dwelling upgrade.\nEnables recruitment and upgrade of Chaplains to Abbots."
+
+[A_Haven_ChampionGuardTower H7TownGuardGrowthEnhancer]
+mName="Champion Guard Tower"
+mDesc="Increases the creature capacity of the militia by 10%."
+
+[A_Haven_ConventOfElrath H7TownUtilityUnitDwelling]
+mName="Convent of Elrath"
+mDesc="Warfare unit production.\nProvides the option to buy Healing Sisters."
+
+[A_Haven_CityHall H7TownHall]
+mName="City Hall"
+mDesc="Provides additional 1000 %ICON_GOLD Gold per day."
+
+[A_Haven_Fortification3 H7TownGuardBuilding]
+mName="Fortifications Level 3"
+mDesc="Increases the hit points of walls and gate in siege combats.\nIncreases the capacities and growth of creatures in the local guard."
+
+[A_Haven_TowerOfJustice H7TownDwelling]
+mName="Tower of Justice"
+mDesc="Elite dwelling upgrade.\nEnables recruitment and upgrade of Guardians to Justicars."
+
+[HavenBuildingAbilities.A_Haven_RecruitersOutpost_TownAbility H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip=""
+
+[A_Haven_HallsOfGlory H7TownDwelling]
+mName="Halls of Glory"
+mDesc="Champion dwelling upgrade.\nEnables recruitment and upgrade of Landsknechte to Swordmasters."
+
+[A_Haven_HallOfHeroes H7TownBuilding]
+mName="Hall of Heroes"
+mDesc="Provides the option to enlist new and defeated heroes. The selection of new heroes changes at the start of a new week."
+
+[A_Haven_RecruitersOutpost H7TownBuilding]
+mName="Recruiters Outpost"
+mDesc="Growth increasing dwelling upgrades in this town also increase the growth of the same creatures in other dwellings in this town's area of control."
+
+[A_Haven_TranseptOfHeaven H7TownDwelling]
+mName="Transept of Heaven"
+mDesc="Champion dwelling.\nEnables recruitment of Seraphs with a growth of 1 per week."
+
+[HavenBuildingAbilities.A_Haven_RecruitersOutpost_RecruitersOffice_Buff H7BaseBuff]
+mName="Recruiter's Outpost - Recruiter's Office Buff"
+mTooltip=""
+
+[A_Haven_ResourceSilo H7TownSiloBuilding]
+mName="Resource Silo"
+mDesc="Provides 1 %icon_Crystal Dragon Blood Crystal, %icon_Dragonsteel Dragon Steel, %icon_Shadowsteel Shadowsteel or %icon_Starsilver Starsilver at random per day."
+
+[A_Haven_Garrison H7TownDwelling]
+mName="Garrison"
+mDesc="Core dwelling upgrade.\nEnables recruitment and upgrade of Sentinels to Legionnaires."
+
+[HavenBuildingAbilities.A_Haven_ChoralOfBelievers_HeroBuff H7BaseBuff]
+mName="Choral of Believers"
+mTooltip="The hero casts Light spells one rank higher in the current area of control."
+
+[HavenBuildingAbilities.A_Haven_ElrathsInfiniteMercy_TownBuff H7BaseBuff]
+mName="Elrath's Infinite Mercy"
+mTooltip=""
+
+[A_Haven_HallsOfHonor H7TownDwelling]
+mName="Halls of Honour"
+mDesc="Champion dwelling.\nEnables recruitment of Landsknechte with a growth of 1 per week."
+
+[HavenBuildingAbilities.A_Haven_ChoralOfBelievers_Ability H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip=""
+
+[A_Haven_RecruitersOffice H7TownGrowthEnhancer]
+mName="Recruiters Office"
+mDesc="Core dwelling upgrade.\n+11 growth of Sentinels or Legionnaires per week."
+
+[A_Haven_SlaughterhouseWolves H7TownGrowthEnhancer]
+mName="Slaughterhouse"
+mDesc="Core dwelling upgrade.\n+5 growth of Dire Wolves or Silverbacks per week."
+
+[A_Haven_HorseStables H7TownBuilding]
+mName="Horse Stables"
+mDesc="Visiting heroes get +5 Movement until the end of the week."
+
+[A_Haven_ElrathsInfiniteMercy H7TownTearOfAsha]
+mName="Elrath's Infinite Mercy"
+mDesc="Provides 5000 %ICON_GOLD Gold per day and increases the creature growth in this town by 50%.\nAfter every combat 10% of your losses are resurrected."
+
+[A_Haven_TranseptOfElysium H7TownDwelling]
+mName="Transept of Elysium"
+mDesc="Champion dwelling upgrade.\nEnables recruitment and upgrade of Seraphs to Celestials."
+
+[HavenBuildingAbilities.A_Haven_RecruitersOutpost_ShootingRange_Buff H7BaseBuff]
+mName="Recruiter's Outpost - Shooting Range Buff"
+mTooltip=""
+
+[A_Haven_MagicGuild2 H7TownMagicGuild]
+mName="Magic Guild Level 2"
+mDesc="Provides 4 random spells of tier 2 in this town.\nThey are granted to all visiting heroes that fulfill the requirements."
+
+[A_Haven_MarketPlace H7TownMarketplace]
+mName="Marketplace"
+mDesc="Provides the option to trade resources."
+
+[HavenBuildingAbilities.A_Haven_ElrathsInfiniteMercy_HeroBuff H7BaseBuff]
+mName="Elrath's Infinite Mercy"
+mTooltip="%special of all non undead and non construct creatures are revived after a victorious combat of all your heroes."
+
+[HavenBuildingAbilities.A_Haven_RecruitersOutpost_Monastery_Buff H7BaseBuff]
+mName="Recruiter's Outpost - Monastery Buff"
+mTooltip=""
+
+[A_Haven_MagicGuild4 H7TownMagicGuild]
+mName="Magic Guild Level 4"
+mDesc="Provides 1 random spell of tier 4 in this town.\nIt is granted to all visiting heroes that fulfill the requirements."
+
+[HavenBuildingAbilities.A_Haven_RecruitersOutpost_BuildingAbility H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip=""
+
+[A_Haven_ProvingGrounds H7TownDwelling]
+mName="Proving Grounds"
+mDesc="Elite dwelling upgrade.\nEnables recruitment and upgrade of Cavaliers to Cuirassiers."
+
+[A_Haven_ThievesGuild H7TownThiefGuild]
+mName="Thieves Guild"
+mDesc="Provides the option to pay for information about your opponents."
+
+[A_Haven_Monastery H7TownGrowthEnhancer]
+mName="Monastery"
+mDesc="Elite dwelling upgrade.\n+6 growth of Chaplains and Abbots per week."
+
+[A_Haven_Moats H7TownMoat]
+mName="Moat"
+mDesc="Equips the town with a moat in siege combats.\nEnemy creatures stepping into it will be interrupted and small creatures become incapacitated until end of their next turn."
+
+[HavenBuildingAbilities.A_Haven_RecruitersOutpost_Slaughterhouse_Buff H7BaseBuff]
+mName="Recruiter's Outpost - Slaughterhouse Buff"
+mTooltip=""
+
+
+
+[A_Haven_Barracks H7TownDwelling]
+mName="Barracks"
+mDesc="Core dwelling.\nEnables recruitment of Sentinels with a growth of 21 per week."
+
+[A_Haven_ArtilleryRange H7TownTower]
+mName="Artillery Range"
+mDesc="Equips the town with 2 towers in siege combats."
+
+[A_Haven_AlchemistLab H7TownBuilding]
+mName="Alchemist Lab"
+mDesc="Provides 1 %icon_Starsilver Starsilver per day."
+
+[A_Haven_ChoralOfBelievers H7TownBuilding]
+mName="Choral of Believers"
+mDesc="Light spells cast by your heroes are cast on the next higher rank in this town's area of control."
+
+[A_Haven_OfficersHousing H7TownGrowthEnhancer]
+mName="Officers Housings"
+mDesc="Elite dwelling upgrade.\n+6 growth of Guardians and Justicars per week."
+
+[A_Haven_JoustingArena H7TownGrowthEnhancer]
+mName="Jousting Arena"
+mDesc="Elite dwelling upgrade.\n+2 growth of Cavaliers or Cuirassiers per week."
+
+[HavenBuildingAbilities.A_Haven_Embassy_Ability H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip=""
+
+[A_Haven_ShootingRange H7TownGrowthEnhancer]
+mName="Shooting Range"
+mDesc="Core dwelling upgrade.\n+10 growth of Crossbowmen or Marksmen per week."
+
+[A_Haven_Watchtower H7TownDwelling]
+mName="Watchtower"
+mDesc="Elite dwelling.\nEnables recruitment of Guardians with a growth of 6 per week."
+
+[A_Haven_LoopholeTower H7TownDwelling]
+mName="Loophole Tower"
+mDesc="Core dwelling.\nEnables recruitment of Crossbowmen with a growth of 20 per week."
+
+[HavenBuildingAbilities.A_Haven_RecruitersOutpost_OfficersHousings_Buff H7BaseBuff]
+mName="Recruiter's Outpost - Officers' Housings Buff"
+mTooltip=""
+
+[A_Haven_TownPortal H7TownPortal]
+mName="Town Portal"
+mDesc="Provides the spell Instant Recall to all heroes visiting this town.\nEnables Heroes with this spell to return to this town if it is the nearest town available."
+
+[A_Haven_Priory H7TownDwelling]
+mName="Priory"
+mDesc="Elite dwelling.\nEnables recruitment of Chaplains with a growth of 6 per week."
+
+[HavenBuildingAbilities.A_Haven_HorseStables_Ability H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Horse Stables Ability"
+mTooltip=""
+
+[A_Haven_TrainingGrounds H7TownDwelling]
+mName="Training Grounds"
+mDesc="Elite dwelling.\nEnables recruitment of Cavaliers with a growth of 2 per week."
+
+[HavenBuildingAbilities.A_Haven_RecruitersOutpost_JoustingArena_Buff H7BaseBuff]
+mName="Recruiter's Outpost - Jousting Arena Buff"
+mTooltip=""
+
+[A_Haven_MagicGuild3 H7TownMagicGuild]
+mName="Magic Guild Level 3"
+mDesc="Provides 3 random spells of tier 3 in this town.\nThey are granted to all visiting heroes that fulfill the requirements."
+
+[HavenBuildingAbilities.A_Haven_ElrathsInfiniteMercy_Ability H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip=""
+
+[A_Haven_MarksmanTower H7TownDwelling]
+mName="Marksman Tower"
+mDesc="Core dwelling upgrade.\nEnables recruitment and upgrade of Crossbowmen to Marksmen."
+
+[A_Haven_SlaughterhouseGriffins H7TownGrowthEnhancer]
+mName="Slaughterhouse"
+mDesc="Core dwelling upgrade.\n+10 growth of Griffins and Imperial Griffins per week."
+
+[HavenBuildingAbilities.A_HavenChoralOfBelievers_HeroBuff H7BaseBuff]
+mName="Choral of Believers"
+mTooltip="All Light spells of the hero are cast on the next higher rank in the current area of control."
+[HavenBuildingAbilities.A_HavenEmbassy_Buff H7BaseBuff]
+mName="Embassy"
+mTooltip="+15% chance for negotiations with neutral armies in the current area of control."
+[HavenBuildingAbilities.A_HavenHorseStables_Ability H7BaseAbility]
+mName="Horse Stables Ability"
+[HavenBuildingAbilities.A_HavenHorseStables_Buff H7BaseBuff]
+mName="Horse Stables"
+mTooltip="%stat1 %stat1.icon Movement until end of the week."
+[HavenBuildingAbilities.A_HavenRecruitersOutpost_Buff H7BaseBuff]
+mName="Recruiter's Outpost"
+mTooltip="This dwelling receives all growth bonuses from structures built in the town of the current area of control."
+
+UCP 1.1
+
+[A_Haven_TownHall H7TownHall]
+mName="Town Hall"
+mDesc="Provides additional 500 %ICON_GOLD Gold per day."
+
+[A_Haven_Capitol H7TownHall]
+mName="Capitol"
+mDesc="Provides additional 2000 %ICON_GOLD Gold per day. You can only have one Capitol."
+
+7.5_mod :
+
+[A_Haven_Chambre_pretresse H7TownDwelling]
+mName="Portal of Glory"
+mDesc="Allows to recruit a powerful champion creature -Supreme Archangel. \Can be recruited using the "recruit all" function"
+
+[A_Haven_chambre_des_michael H7TownDwelling]
+mName="Chapel"
+mDesc="Allows a Imperial Griffin to be sacrificed to recruit a powerful elite creature - Divine Priestess."
+
+
+[A_Haven_BeastDenWolves H7TownDwelling]
+mName="Imperial Nest"
+mDesc="Core Dwelling Upregate.\nAllows you to recruit Imperial Griffins. 10 per week."
+
+[A_Haven_BeastLairWolves H7TownDwelling]
+mName="Nest"
+mDesc="Core Dwelling.\nAllows the recruitment of 10 griffins per week."
+
+[A_Haven_BeastDenWolves2 H7TownDwelling]
+mName="Dark lair"
+mDesc="Core Dwelling Upregate.\nAllows the recruitment of 10 silver wolves per week."
+
+[A_Haven_BeastLairWolves2 H7TownDwelling]
+mName="Lair"
+mDesc="Core Dwelling.\nAllows for the recruitment of 10 Dire wolves per week. "
+
+[A_Haven_SlaughterhouseWolves H7TownGrowthEnhancer]
+mName="Slaughterhouse"
+mDesc="ore dwelling Upregate.\n+5 in the growth of Dire Wolves or Silver Wolves or in the growth of Griffons and Imperial Griffons per week."
+

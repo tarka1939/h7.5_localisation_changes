@@ -1,0 +1,15 @@
+[Abilities.A_BioPlasma_Buff H7BaseBuff]
+mName="exhausted"
+mTooltip="This créature is drained and the Bioplasma ability will not have a mass effect during %durnow rounds."
+
+[Abilities.A_BioPlasma H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Bioplasma"
+mTooltip="On a critical hit, this creature makes an area attack that hits all enemy units for %d.min to %d.max damage %icon_prime Primal Magic . This ability exhausts this creature for %buff1.buff.durini rounds."
+
+[Creatures.A_CreatureBioTitan H7Creature]
+mName="Xel Colossus "
+mLore=""
+

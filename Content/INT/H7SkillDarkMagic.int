@@ -1,0 +1,91 @@
+[A_DarkWisdom_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Dark Wisdom"
+mTooltip="%stat1 %stat1.icon Magic for Dark spells. Every other wisdom ability adds %stat1 %stat1.icon Magic to this bonus."
+
+[A_DarkScholar_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Dark Scholar"
+mTooltip="Reduces mana cost of Dark spells by %special.norm%."
+
+[A_MasterOfDarkness_I_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Dark Knowledge I"
+mTooltip="%spell1.name and %spell2.name are now cast on creatures in target 4x4 area."
+
+[A_MasterOfDarkness_II_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Dark Knowledge II"
+mTooltip="%spell1.name additionally makes the target creature immune to positive spells and magical effects for %spell1.spell.buff.buff.durini turns.\nEnemy creatures attacked with %spell2.name additionally cannot retaliate for %spell2.spell.buff2.buff.buff1.buff.durini turns."
+
+[A_DarkMagic_Skill H7Skill]
+mDescriptions[0]="Makes Dark spells more effective and increases the hero's %ICON_ARCANE_KNOWLEDGE Arcane Knowledge."
+mDescriptions[1]=""
+mDescriptions[2]="Makes Dark spells more effective and increases the hero's %ICON_ARCANE_KNOWLEDGE Arcane Knowledge by 1."
+mDescriptions[3]="Makes Dark spells more effective and increases the hero's %ICON_ARCANE_KNOWLEDGE Arcane Knowledge by additional 2."
+mDescriptions[4]="Makes Dark spells more effective and increases the hero's %ICON_ARCANE_KNOWLEDGE Arcane Knowledge by additional 3."
+mName="Dark Magic"
+mTooltip="Allows you to learn spells of the Dark magic school in a magic guild. Improves and augments their effects."
+
+[A_SoulHarvest_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Soul Harvest"
+mTooltip="Whenever the hero attack kills at least one creature the hero gains %stat.norm %stat.icon Mana."
+
+
+
+[A_CatatonicFear_Ability H7HeroAbility]
+mName="Catatonic Fear"
+mTooltip="The enemy creature attacked with Fear loses its retaliation."
+[A_Curse_Ability H7HeroAbility]
+mName="Curse"
+mTooltip="Purge also adds a debuff for the creature's next 3 turns: The creature cannot be the target of positive spells or buffs."
+[A_CursedGround_Ability H7HeroAbility]
+mName="Cursed Ground"
+mTooltip="Weakness and Decay target all enemy creatures in an area of 4x4 tiles."
+[A_ImprovedTier1Spells_Ability H7HeroAbility]
+mName="Master of Darkness I"
+mTooltip="Despair and Weakness target all enemy creatures in an area of 4x4 tiles."
+[A_ImprovedTier2Spells_Ability H7HeroAbility]
+mName="Master of Darkness II"
+mTooltip="Creature's targeted with Purge cannot be the target of positive spells or buffs for 3 turns. Enemy creatures attacked with Face of Fear lose their retaliation."
+[A_ImprovedTier3Spells_Ability H7HeroAbility]
+mName="Master of Darkness III"
+mTooltip="Agony targets all enemy creatures in an area of 4x4 tiles. Any Shadow Image comes into play with the "Shadow Cloak" buff with 3 duration and 1 charge."
+[A_MassDespair_Ability H7HeroAbility]
+mName="Mass Despair"
+mTooltip="Despair targets all enemy creatures in an area of 4x4 tiles."
+[A_ShadowOfDeath_Ability H7HeroAbility]
+mName="Shadow of Death"
+mTooltip="Whenever the hero cast a dark spell on an enemy creature its stack shrinks by %special%. Creatures lost this way will return to their army, if it doesn't get defeated."
+[A_ShadowVeil_Ability H7HeroAbility]
+mName="Shadow Veil"
+mTooltip="Shadow Cloak targets all friendly creatures in an area of 2x2 tiles."
+
+UCP 1.3
+
+[A_ShadowOfDread_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Shadow of Dread"
+mTooltip="Whenever the hero casts a Dark spell on enemy creatures its number decreases by %special (rounded down). Creatures lost this way will return to their army if it doesn't get defeated.\nThis ability also blocks the necromancy ability of enemy's hero for the rest of the combat when this effect triggers."
+
+7.5_v2 :
+
+[A_MasterOfDarkness_III_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Dark Knowledge III"
+mTooltip="%spell1.name is now cast on creatures in target 4x4 area.\nThe first attack on a %spell2.name will miss and not destroy it. This effect lasts for 3 turns.\n%spell3.name Touch all allies in a 6x6 area."

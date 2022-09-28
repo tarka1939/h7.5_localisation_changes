@@ -1,0 +1,128 @@
+[A_ArcaneEmpowerment_Buff H7BaseBuff]
+mName="Arcane Empowerment"
+mTooltip="Deals %d1.min %ICON_PRIME Prime damage to the first enemy creature attacking or retaliating in melee."
+
+[A_ArcaneBrilliance_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Arcane Brilliance"
+mTooltip="The Metamagic bonus to the hero's Magic is doubled."
+
+[A_ArcaneShield_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Arcane Shield"
+mTooltip="At start of each combat round ALL friendly creatures get Arcane Shield absorbing damage of the amount of %buff1.buff.special.val1 times Metamagic."
+
+[A_ArcaneCatalyst_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Arcane Catalyst"
+mTooltip="Each spell the hero casts increases Metamagic by %stat.norm."
+
+[A_ArcaneShield_Buff H7BaseBuff]
+mName="Arcane Shield"
+mTooltip="Absorbs up to %special.val3 damage.\nLasts until end of combat round or until all damage was absorbed."
+
+[A_Metamagic_Buff_MagicIncrease H7BaseBuff]
+mName="Metamagic"
+mTooltip="%stat1.norm Metamagic"
+
+[A_ArcaneShield_Buff_Marker H7BaseBuff]
+mName=""
+mTooltip=""
+
+[A_ArcaneAmplification_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Arcane Amplification"
+mTooltip="Magic damage dealt to enemy creatures is increased by 1 percentage point times Metamagic."
+
+[A_ArcaneChanneling_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Arcane Channeling"
+mTooltip="The Small Pyramid's first attack per combat round increases Metamagic by %buff.buff.buff.buff.stat.norm."
+
+[A_ArcaneChanneling_Buff_WarfareUnit H7BaseBuff]
+mName=""
+mTooltip=""
+
+[A_ArcaneAmplification_Buff H7BaseBuff]
+mName="Arcane Amplification"
+mTooltip="The creature receives %res.norm more magic damage."
+
+[A_ArcaneAttunement_Buff H7BaseBuff]
+mName="Arcane Attunement"
+mTooltip=""
+
+[A_ArcaneAttunement_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Arcane Attunement"
+mTooltip="%ICON_DEFENSE Defence and %ICON_INITIATIVE Initiative of friendly creatures is increased by Metamagic."
+
+[A_ArcaneChanneling_Buff_Hero H7BaseBuff]
+mName="Arcane Channeling"
+mTooltip=""
+
+[A_Metamagic_Skill H7Skill]
+mDescriptions[0]="Metamagic charges in the course of combat and allows the hero to cast spells more powerful."
+mDescriptions[1]=""
+mDescriptions[2]="The hero gains %stat4 Metamagic at start of each combat round, up to %stat1.norm.\nThe hero's Magic is increased by Metamagic. Once Metamagic reached %stat1.norm, the hero casts all spells at least on Novice rank."
+mDescriptions[3]="Metamagic can raise up to %stat2.norm.\nOnce Metamagic reached %stat2.norm, the hero casts all spells at least on Expert rank."
+mDescriptions[4]="Metamagic can raise up to %stat3.norm.\nOnce Metamagic reached %stat3.norm, the hero casts all spells on Master rank."
+mName="Metamagic"
+mTooltip="Academy faction skill."
+
+[A_AreaSynergy_Ability H7HeroAbility]
+mName="Area Synergy"
+mTooltip="Spells targeting creatures in an area also evoke magic synergies on these creatures now."
+[A_Clarity_Ability H7HeroAbility]
+mName="Clarity"
+mTooltip="For every evoked magic synergy the hero has a 50% chance to get a second action for the combat round."
+[A_Clarity_Buff H7BaseBuff]
+mName="Clarity"
+mTooltip="Additional hero action for this combat round."
+[A_DebilitatingShot_Ability H7HeroAbility]
+mName="Debilitating Shot"
+mTooltip="Enemy creatures hit by a Small Pyramid get %buff.buff.stat %buff.buff.stat.icon Defense for %buff.buff.durini turns."
+[A_DebilitatingShot_Buff H7BaseBuff]
+mName="Debilitating Shot"
+mTooltip="%stat %ICON_DEFENSE Defence.\nLasts for %durnow turn(s)."
+[A_MagicAmplification_Ability H7HeroAbility]
+mName="Magic Amplification"
+mTooltip="%buff.buff.stat %buff.buff.stat.icon Magic for every evoked magic synergy (up to +10 %buff.buff.stat.icon Magic). Lasts until end of combat."
+[A_MagicAmplification_Buff H7BaseBuff]
+mName="Magic Amplification"
+mTooltip="%e1"
+[A_MagicAttunement_Ability H7HeroAbility]
+mName="Magic Attunement"
+mTooltip="If a spell evokes a magic synergy the hero regains half of the spell's mana cost."
+[A_MagicExaltation_Ability H7HeroAbility]
+mName="Magic Exaltation"
+mTooltip="If a spell will evoke a magic synergy it is cast with %buff1.buff.buff.buff.stat %buff1.buff.buff.buff.stat.icon Magic."
+[A_MagicSynergy_Ability H7HeroAbility]
+mName="Magic Synergy"
+[A_SoulVanishingStrike_Ability H7HeroAbility]
+mName="Soul-Vanishing Strike"
+mTooltip="The hero's attack additionally reduces target creature's attributes by %buff.buff.stat1.norm for %buff.buff.durini turns.\nThis affects Damage, Attack, Defense, Luck, Morale, Initiative, Health and Movement."
+[A_SoulVanishingStrike_Buff H7BaseBuff]
+mName="Soul-Vanishing Strike"
+mTooltip="%stat4 %stat4.icon Damage, %stat1 %ICON_ATTACK Attack\n%stat2 %ICON_DEFENSE Defence, %stat6 %ICON_LUCK Luck\n%stat7 %ICON_MORALE Morale, %stat3 %ICON_INITIATIVE Initiative\n%stat9 Health, %stat8 %ICON_MAX_MOVEMENT Movement\nLasts for %durnow turn(s)."
+
+UCP 1.3
+
+[A_ArcaneEmpowerment_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Arcane Empowerment"
+mTooltip="When a friendly creature is hit in melee for the first time, the enemy creature gets %buff1.buff.d1.min %ICON_PRIME Prime damage for every single creature in the friendly stack."
+

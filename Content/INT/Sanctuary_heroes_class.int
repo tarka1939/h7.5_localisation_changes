@@ -1,0 +1,18 @@
+[Sanctuary.A_Sanctuary_Magic_Offensive H7HeroClass]
+mName="Flood warrior"
+
+[Sanctuary.A_Sanctuary_Magic_Defensive H7HeroClass]
+mName="Master of the tides"
+
+[Sanctuary.A_Sanctuary_Magic_Balanced H7HeroClass]
+mName="Monk"
+
+[Sanctuary.A_Sanctuary_Might_Balanced H7HeroClass]
+mName="Samurai "
+
+[Sanctuary.A_Sanctuary_Might_Offensive H7HeroClass]
+mName="Master of War "
+
+[Sanctuary.A_Sanctuary_Might_Defensive H7HeroClass]
+mName="Shogun"
+

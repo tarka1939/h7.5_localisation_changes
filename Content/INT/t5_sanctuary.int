@@ -1,0 +1,44 @@
+[Ability.A_Tactique_manoeuvre H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Tactical Maneuver "
+mTooltip="This creature can use a skill and move."
+
+[Ability.A_Resurrection H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Guardian"
+mTooltip="This creature places %spell2.name on adjacent allies. All damage dealt to allies who are under %spell2.name effect is redirected to this creature."
+
+[Ability.A_gardien_Buff_gardien H7BaseBuff]
+mName="Guardian"
+mTooltip="%buff1.buff.special damage any other allied creature under %spell2.name's effect would receive is redirected to this creature. Lasts until beginning of creature's next turn."
+
+[A_Creature_t5_upregate H7Creature]
+mName="Guardian of the depths".
+mLore="With rare exceptions, the Depth Guards do not care about the problems of land dwellers, because all their efforts are aimed at holding back the unimaginable horrors that lurk in the darkest corners of the vast ocean. If at least one of those creatures managed to rise to the surface, then all common sea monsters that terrify sailors would seem like harmless kittens in comparison. To confront such formidable opponents, the Guards put on enchanted coral armor made by the best craftsmen of their people and fearlessly plunge into the abyss, where sunlight can not reach."
+
+[Ability.A_bulle_protectrice_Buff_target_no_visible H7BaseBuff]
+mName="bubble protection buff"
+mTooltip=""
+
+[Ability.A_bulle_protectrice H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Protective Bubble"
+mTooltip="Creatures under the effect of %spell1.name , receive %spell3.name when they suffer an attack."
+
+[A_Creature_t5_base H7Creature]
+mName="Guardian of the oceans"
+mLore="For centuries, legends about an unknown Merfolk race, whose representatives come to the aid of ships in trouble, repel attacks of pirates and monsters, and then return back to the sea, have been passed in the taverns from one sailor to another. Although such stories are generally considered nothing more than mere tales, there is written evidence that in the past one of the Sea Elf crews managed to develop close ties with the so-called Ocean Guards. The latest rumor is that Guards have been seen in the ranks of Shanria troops, however, due to the philosophy of the children of Shalassa, who prefer not to contact the outside world unless absolutely necessary, it is not possible to shed light on the origins of their mysterious allies."
+
+[Ability.A_no_gardien H7BaseBuff]
+mName="Couldown"
+mTooltip="This creature can use %spell1.name in %durnow tours."
+
+[Ability.A_Gardien_Buff_target H7BaseBuff]
+mName="Guardian Protection "
+mTooltip="This unit transfers all damage it takes to Guardian Of The Oceans or Guardian Of The Deep. Lasts as long as the guardian buff is active on Guardien Ocean or Guardien of the Depths"

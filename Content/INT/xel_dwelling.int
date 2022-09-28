@@ -1,0 +1,21 @@
+[Buildings_AM.A_Xel_Dwelling_Lvl1 H7Dwelling]
+mName=""
+
+[Buildings_AM.A_Xel_Dwelling_Lvl2 H7Dwelling]
+mName=""
+
+[Buildings_AM.A_Xel_Dwelling_Lvl3_Moloch H7Dwelling]
+mName=""
+
+[Buildings_AM.A_Xel_Dwelling_Lvl3_Ripper H7Dwelling]
+mName=""
+
+[Buildings_name.A_Xel_Dwelling_Lv1_Name H7GlobalName]
+mName="Dwelling Xel Core"
+
+[Buildings_name.A_Xel_Dwelling_Lv2_Name H7GlobalName]
+mName="Dwelling Xel Elite"
+
+[Buildings_name.A_Xel_Dwelling_Lv3_Name H7GlobalName]
+mName="Dwelling Xel Champion"
+

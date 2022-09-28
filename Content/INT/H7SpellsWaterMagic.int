@@ -1,0 +1,230 @@
+[A_Blizzard_Buff_Marker H7BaseBuff]
+mName="Blizzard"
+
+[reworks.A_Nova H7HeroAbility]
+mTooltipMagicGuild="Deals %d.icon Water damage to all units in the target circular 3x3 area, instantly."
+mTooltipMagicGuildRankLine="%d.min to %d.max %d.icon"
+mTooltipUpgraded="Deals %d.min to %d.max %d.icon Water damage to all units in the target circular 3x3 area, instantly. All affected creatures get %buff.buff.stat %buff.buff.stat.icon Movement for %buff.buff.durini turns."
+mName="Circle of Winter"
+mTooltip="Deals %d.min to %d.max %d.icon Water damage to all units in the target circular 3x3 area, instantly."
+
+[A_DeepFreeze_Buff H7BaseBuff]
+mName="Deep Freeze"
+mTooltip="%stat Movement and %stat.icon\nDuring %durnow turn(s)."
+
+[A_LiquidMembrane_Buff_3_Master_Improved H7BaseBuff]
+mName="Liquid Membrane"
+mTooltip="All damage dealt to the creature is reduced by %res.norm.\n%stat %stat.icon Movement\nLasts for %durnow turn(s)."
+
+[Imprinted.A_Blizzard_Imprinted_Buff_Marker H7BaseBuff]
+mName="Blizzard"
+
+[Imprinted.A_CircleOfWinter_Imprinted H7HeroAbility]
+mName="Circle of Winter"
+mTooltip="Deals %d.min to %d.max %d.icon Water damage to all units in the target circular 3x3 area, instantly."
+
+[A_VesselOfShalassa H7HeroAbility]
+mName="Vessel of Shalassa"
+mTooltip="Summons a ship on nearby water, instantly."
+
+[A_FreezingOrb_Obstacle_1_Novice H7CombatObstacleObject]
+mObstacleName="Freezing Orb"
+
+[A_LiquidMembrane_Buff_2_Expert_Improved H7BaseBuff]
+mName="Liquid Membrane"
+mTooltip="All damage dealt to the creature is reduced by %res.norm.\n%stat %stat.icon Movement\nLasts for %durnow turn(s)."
+
+[A_LiquidMembrane_Buff_1_Novice H7BaseBuff]
+mName="Liquid Membrane"
+mTooltip="All damage dealt to the creature is reduced by %res.norm.\nLasts for %durnow turn(s)."
+
+[Imprinted.A_Blizzard_Imprinted H7HeroAbility]
+mName="Blizzard"
+mTooltip="Creates a blizzard on the target 4x4 area for %durini combat rounds. Creatures starting their turn in it have their %buff.buff.buff.buff.stat.icon Movement reduced by %buff.buff.buff.buff.stat.norm until end of their turn."
+
+[A_Blizzard_Buff H7BaseBuff]
+mName="Blizzard"
+mTooltip="%stat %stat.icon Movement\nLasts for %durnow turn(s)."
+
+[A_Tsunami H7HeroAbility]
+mTooltipMagicGuild="Deals %d.icon Water damage to all units in the target area and pushes small creatures 2 tiles back, instantly. The target area spans 5 columns."
+mTooltipMagicGuildRankLine="%d.min to %d.max %ICON_WATER"
+mName="Tsunami"
+mTooltip="Deals %d.min to %d.max %d.icon Water damage to all units in the target area and pushes small creatures 2 tiles back, instantly. The target area spans 5 columns."
+
+[A_FogShroud H7HeroAbility]
+mTooltipMagicGuild="The target creature cannot be targeted by ranged attacks and cannot perform ranged attacks or activated abilities for %buff1.buff.durini turns or until it receives damage."
+mTooltipMagicGuildRankLine="%special1 %ICON_MANA Mana casting costs"
+mTooltipUpgraded="The target creature cannot be targeted by ranged attacks and cannot perform ranged attacks or activated abilities for %buff2.buff.durini turns."
+mName="Fog Shroud"
+mTooltip="The target creature cannot be targeted by ranged attacks and cannot perform ranged attacks or activated abilities for %buff1.buff.durini turns or until it receives damage."
+
+[A_FreezingOrb_Obstacle_3_Master H7CombatObstacleObject]
+mObstacleName="Freezing Orb"
+
+[A_LiquidMembrane_Buff_0_Unskilled H7BaseBuff]
+mName="Liquid Membrane"
+mTooltip="All damage dealt to the creature is reduced by %res.norm.\nLasts for %durnow turn(s)."
+
+[A_Blizzard H7HeroAbility]
+mTooltipMagicGuild="Creates a blizzard on the target 4x4 area for %durini combat rounds. Creatures starting their turn in it have their %buff.buff.buff.buff.stat.icon Movement reduced until the end of their turn."
+mTooltipMagicGuildRankLine="%buff.buff.buff.buff.stat %buff.buff.buff.buff.stat.icon Movement"
+mTooltipUpgraded="Creates a blizzard on the target 4x4 area for %durini combat rounds. Creatures starting their turn in it have their %buff.buff.buff.buff.stat.icon Movement reduced by %buff.buff.buff.buff.stat.norm for %buff.buff.buff.buff.durini2 turns."
+mName="Blizzard"
+mTooltip="Creates a blizzard on the target 4x4 area for %durini combat rounds. Creatures starting their turn in it have their %buff.buff.buff.buff.stat.icon Movement reduced by %buff.buff.buff.buff.stat.norm until the end of their turn."
+
+[A_Burningdetermination H7HeroAbility]
+mTooltipMagicGuild="Reduces any damage to the target friendly creature for multiple turns."
+mTooltipMagicGuildRankLine="%buff1.buff.res.norm damage reduction"
+mTooltipUpgraded="Reduces any damage to the target friendly creature by %buff2.buff.res.norm and increases its %buff2.buff.stat.icon Movement by %buff2.buff.stat.norm for %buff2.buff.durini turns."
+mName="Liquid Membrane"
+mTooltip="Reduces any damage to the target friendly creature by %buff1.buff.res.norm for %buff1.buff.durini turns."
+
+[A_LiquidMembrane_Buff_2_Expert H7BaseBuff]
+mName="Liquid Membrane"
+mTooltip="All damage dealt to the creature is reduced by %res.norm.\nLasts for %durnow turn(s)."
+
+[Imprinted.A_Blizzard_Imprinted_Buff H7BaseBuff]
+mName="Blizzard"
+mTooltip="%stat %stat.icon Movement\nLasts for %durnow turn(s)."
+
+[A_IceStrike_Buff_Upgraded H7BaseBuff]
+mName="Ice Strike"
+mTooltip="The creature deals additional %d.min to %d.max %d.icon Water damage when it attacks and the attacked creature gets %buff1.buff.stat %buff1.buff.stat.icon Movement for %buff1.buff.durini turns.\nLasts for %durnow turn(s)."
+
+[A_FreezingOrb_Obstacle_2_Expert H7CombatObstacleObject]
+mObstacleName="Freezing Orb"
+
+[A_FreezingOrb_Obstacle_0_Unskilled H7CombatObstacleObject]
+mObstacleName="Freezing Orb"
+
+[A_FogShroud_Buff_Positive_Upgraded H7BaseBuff]
+mName="Fog Shroud"
+mTooltip="The creature cannot be the target of ranged attacks. It cannot perform ranged attacks or activated abilities.\nLasts for %durnow turn(s)."
+
+[A_LiquidMembrane_Buff_3_Master H7BaseBuff]
+mName="Liquid Membrane"
+mTooltip="All damage dealt to the creature is reduced by %res.norm.\nLasts for %durnow turn(s)."
+
+[reworks.A_BurningDetermination H7HeroAbility]
+mTooltipMagicGuild="The target friendly creature deals additional %buff1.buff.d.icon Water damage when it attacks. Lasts for %buff1.buff.durini turns."
+mTooltipMagicGuildRankLine="%buff1.buff.d.min to %buff1.buff.d.max %ICON_WATER"
+mTooltipUpgraded="The target friendly creature deals additional %buff2.buff.d.min to %buff2.buff.d.max %buff2.buff.d.icon Water damage when it attacks and the attacked creature gets %buff2.buff.buff1.buff.stat %buff2.buff.buff1.buff.stat.icon Movement for %buff2.buff.buff1.buff.durini turns. Lasts for %buff2.buff.durini turns."
+mName="Ice Strike"
+mTooltip="The target friendly creature deals additional %buff1.buff.d.min to %buff1.buff.d.max %buff1.buff.d.icon Water damage when it attacks. Lasts for %buff1.buff.durini turns."
+
+[A_FogShroud_Buff_Positive H7BaseBuff]
+mName="Fog Shroud"
+mTooltip="The creature cannot be targeted by ranged attacks. It cannot perform ranged attacks or activated abilities.\nLasts for %durnow turn(s) or until the creature receives damage."
+
+[Imprinted.A_FogShroud_Imprinted_Buff_Negative H7BaseBuff]
+mName="Fog Shroud"
+mTooltip="The target creature cannot be targeted by ranged attacks. It cannot perform ranged attacks or activated abilities.\nLasts for %durnow turn(s) or until the creature receives damage."
+
+[Imprinted.A_FogShroud_Imprinted H7HeroAbility]
+mName="Fog Shroud"
+mTooltip="The target creature cannot be targeted by ranged attacks and cannot perform ranged attacks or activated abilities for %buff1.buff.durini turns or until it receives damage."
+
+[Imprinted.A_FreezingOrb_Imprinted H7HeroAbility]
+mName="Freezing Orb"
+mTooltip="Summon a 1x1 Freezing Orb with %special.val1 health on target empty tile. It lasts until the end of the next 2 combat rounds or until destroyed. At the end of each combat round the Freezing Orb moves through any obstacle to the farthest empty tile next to an enemy creature. It emits a 3x3 aura that deals %special.val2 to %special.val3 %icon_water Water damage to enemy creatures and they get %buff.buff.stat %buff.buff.stat.icon Movement for %buff.buff.durini turns."
+
+[Imprinted.A_FogShroud_Imprinted_Buff_Positive H7BaseBuff]
+mName="Fog Shroud"
+mTooltip="The target creature cannot be targeted by ranged attacks. It cannot perform ranged attacks or activated abilities.\nLasts for %durnow turn(s) or until the creature receives damage."
+
+[A_FogShroud_Buff_Negative_Upgraded H7BaseBuff]
+mName="Fog Shroud"
+mTooltip="The creature cannot be the target of ranged attacks. It cannot perform ranged attacks or activated abilities.\nLasts for %durnow turn(s)."
+
+[A_FogShroud_Buff_Negative H7BaseBuff]
+mName="Fog Shroud"
+mTooltip="The creature cannot be targeted by ranged attacks. It cannot perform ranged attacks or activated abilities.\nLasts for %durnow turn(s) or until the creature receives damage."
+
+[A_FrostBolt H7HeroAbility]
+mTooltipMagicGuild="Deals %d.icon Water damage to the target enemy unit, instantly."
+mTooltipMagicGuildRankLine="%d.min to %d.max %d.icon"
+mTooltipUpgraded="Deals %d.min to %d.max %d.icon Water damage to the target enemy unit instantly, and its %buff.buff.stat.icon Movement is decreased by %buff.buff.stat.norm for %buff.buff.durini turns."
+mName="Frost Bolt"
+mTooltip="Deals %d.min to %d.max %d.icon Water damage to the target enemy unit, instantly."
+
+[A_FreezingOrb H7HeroAbility]
+mTooltipMagicGuild="Summon a 1x1 Freezing Orb on target empty tile. It lasts until the end of the next 2 combat rounds or until destroyed. At the end of each combat round the Freezing Orb moves through any obstacle to the farthest empty tile next to an enemy creature. It emits a 3x3 aura that deals Water damage to enemy creatures and they get %buff.buff.stat %buff.buff.stat.icon Movement for %buff.buff.durini turns."
+mTooltipMagicGuildRankLine="%special.val1 health and aura deals %special.val2 to %special.val3 %icon_water Water damage."
+mName="Freezing Orb"
+mTooltip="Summon a 1x1 Freezing Orb with %special.val1 health on target empty tile. It lasts until the end of the next 2 combat rounds or until destroyed. At the end of each combat round the Freezing Orb moves through any obstacle to the farthest empty tile next to an enemy creature. It emits a 3x3 aura that deals %special.val2 to %special.val3 %icon_water Water damage to enemy creatures and they get %buff.buff.stat %buff.buff.stat.icon Movement for %buff.buff.durini turns."
+
+[A_IceStrike_Buff H7BaseBuff]
+mName="Ice Strike"
+mTooltip="The creature deals additional %d.min to %d.max %d.icon Water damage when it attacks.\nLasts for %durnow turn(s)."
+
+[Imprinted.A_FreezingOrb_Imprinted_Obstacle H7CombatObstacleObject]
+mObstacleName="Freezing Orb"
+
+[Imprinted.A_FrostBolt_Imprinted H7HeroAbility]
+mName="Frost Bolt"
+mTooltip="Deals %d.min to %d.max %d.icon Water damage to the target enemy unit, instantly."
+
+[Imprinted.A_IceStrike_Imprinted H7HeroAbility]
+mName="Ice Strike"
+mTooltip="The target friendly creature deals additional %buff.buff.d.min to %buff.buff.d.max %buff.buff.d.icon Water damage when it attacks. Lasts for %buff.buff.durini turns."
+
+[Imprinted.A_IceStrike_Imprinted_Buff H7BaseBuff]
+mName="Ice Strike"
+mTooltip="The creature deals additional %d.min to %d.max %d.icon Water damage when it attacks.\nLasts for %durnow turn(s)."
+
+[Imprinted.A_LiquidMembrane_Imprinted H7HeroAbility]
+mName="Liquid Membrane"
+mTooltip="Reduces any damage to the target friendly creature by %buff1.buff.res.norm for %buff1.buff.durini turns."
+
+[Imprinted.A_Tsunami_Imprinted H7HeroAbility]
+mName="Tsunami"
+mTooltip="Deals %d.min to %d.max %d.icon Water damage to all units in the target area and pushes small creatures 2 tiles back, instantly. The target area spans 5 columns."
+
+[Imprinted.A_VesselOfShalassa_Imprinted H7HeroAbility]
+mName="Vessel of Shalassa"
+mTooltip="Summons a ship on nearby water."
+
+[A_FogShroud_Buff H7BaseBuff]
+mName="Fog Shroud"
+mTooltip="The creature cannot be targeted by ranged attacks. It cannot perform ranged attacks or activated abilities.\nLasts for %durnow turn(s) or until the creature receives damage."
+[Imprinted.A_FogShroud_Imprinted_Buff H7BaseBuff]
+mName="Fog Shroud"
+mTooltip="The target creature cannot be targeted by ranged attacks. It cannot perform ranged attacks or activated abilities.\nLasts for %durnow turn(s) or until the creature receives damage."
+[A_FogShroud_Buff_Upgraded H7BaseBuff]
+mName="Fog Shroud"
+mTooltip="The creature cannot be the target of ranged attacks. It cannot perform ranged attacks or activated abilities.\nLasts for %durnow turn(s)."
+
+7.5_mod : 
+
+[A_Nova H7HeroAbility]
+mTooltipMagicGuild = "Inflicts %d %icon_water Water on a 4x4 area, creatures hit lose %buff1.buff.stat.norm %icon_movement Movement and %buff1.buff.stat2.norm to %buff1.buff.stat2.icon Initiative during %buff1.buff.durini1 turn . The area becomes 6x6 if the spell is cast at master rank"
+mTooltipMagicGuildRankLine = "%buff.buff.buff.buff.stat %buff.buff.buff.buff.stat.icon Movement"
+mTooltipUpgraded = "Inflicts %d %icon_water Water on a 4x4 area, creatures hit lose %buff1.buff.stat1.norm %icon_movement Movement and %buff1.buff.stat2.norm to %buff1.buff.stat2.icon Initiative for %buff1.buff.durini2 turn . The area becomes 6x6 if the spell is cast at master rank. "
+mName = "Blizzard"
+mTooltip = "Inflicts %d %icon_water Water on a 4x4 area, creatures hit lose %buff1.buff.stat1.norm %icon_movement Movement and %buff1.buff.stat2.norm to %buff1.buff.stat2.icon Initiative for %buff1.buff.durini1 turn . The area becomes 6x6 if the spell is cast at master rank "
+
+[A_Blizzard_new_Buff H7BaseBuff]
+mName="Blizzard"
+mTooltip="Reduced by %stat1.norm %stat1.icon Movement and %stat2.norm %stat2.icon during %durnow turn(s)"
+
+[reworks.A_BurningDetermination H7HeroAbility]
+mTooltipMagicGuild="The target friendly creature deals additional %buff1.buff.d.icon Water damage when it attacks. Lasts for %buff1.buff.durini turns."
+mTooltipMagicGuildRankLine="%buff1.buff.d.min to %buff1.buff.d.max %ICON_WATER"
+mTooltipUpgraded="The target friendly creature deals additional %buff2.buff.d.min to %buff2.buff.d.max %buff2.buff.d.icon Water damage when it attacks and the attacked creature gets %buff2.buff.buff1.buff.stat %buff2.buff.buff1.buff.stat.icon Movement for %buff2.buff.buff1.buff.durini turns. Lasts for %buff2.buff.durini turns."
+mName="Ice Strike"
+mTooltip="The target friendly creature deals additional %buff1.buff.d.min to %buff1.buff.d.max %buff1.buff.d.icon Water damage when it attacks. Lasts for %buff1.buff.durini turns."
+
+[A_Burningdetermination H7HeroAbility]
+mTooltipMagicGuild="Reduces any damage to the target friendly creature for multiple turns."
+mTooltipMagicGuildRankLine="%buff1.buff.res.norm damage reduction"
+mTooltipUpgraded="Reduces any damage to the target friendly creature by %buff2.buff.res.norm and increases its %buff2.buff.stat.icon Movement by %buff2.buff.stat.norm for %buff2.buff.durini turns."
+mName="Liquid Membrane"
+mTooltip="Reduces any damage to the target friendly creature by %buff1.buff.res.norm for %buff1.buff.durini turns."
+
+[reworks.A_Nova H7HeroAbility]
+mTooltipMagicGuild="Deals %d.icon Water damage to all units in the target circular 3x3 area, instantly."
+mTooltipMagicGuildRankLine="%d.min to %d.max %d.icon"
+mTooltipUpgraded="Deals %d.min to %d.max %d.icon Water damage to all units in the target circular 3x3 area, instantly. All affected creatures get %buff.buff.stat %buff.buff.stat.icon Movement for %buff.buff.durini turns."
+mName="Circle of Winter"
+mTooltip="Deals %d.min to %d.max %d.icon Water damage to all units in the target circular 3x3 area, instantly."

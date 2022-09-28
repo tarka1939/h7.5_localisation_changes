@@ -1,0 +1,163 @@
+[Archetype.A_Antalyan H7EditorHero]
+mName=""
+mLore=""
+
+[Archetype.A_Erlendfold H7EditorHero]
+mName="Erlenfold"
+mLore="Erlenfold is one of those who supports the idea of Hrimthurses' non-intervention in the affairs of other races, and he joined the Union only out of respect for Chairtmin. Despite his aloofness and distrust of the lowlanders, he proved himself as a skilled commander, but he believes that it is below his dignity to crush insignificant tiny beings. This giant feels really free in the native mountains, where he can go to hunt down the most formidable animals anytime, and then return to the camp with another trophy. During the festivities, which Hrimthurses often arrange in honor of the mighty hunter, he can show another side of his character. Drunk from fresh mash, Erlenfold becomes more accommodating and does not miss the opportunity to tell the audience about his glorious exploits. Under good circumstances, he can even share a tiny bit of his rich hunting experience."
+
+[Archetype.A_heketh H7EditorHero]
+mName=""
+mLore=""
+
+[Archetype.A_Krystal H7EditorHero]
+mName=""
+mLore=""
+
+[Archetype.A_lisandra H7EditorHero]
+mName=""
+mLore=""
+
+[Archetype.A_Luchiana H7EditorHero]
+mName=""
+mLore=""
+
+[Archetype.A_Mishone H7EditorHero]
+mName=""
+mLore=""
+
+[Archetype.A_Sana H7EditorHero]
+mName=""
+mLore=""
+
+[Archetype.A_Wrotghar H7EditorHero]
+mName="Wrotghar"
+mLore="Since time immemorial, the stone statue of a fearsome warrior has adorned the Pantheon of Ostgerd and was supposed to represent an ancient defender of Ostgerd, named Wrothgar. The Dwarves decided to give it to the Union as a sign of goodwill and the Archmages, who managed to activate the statue again, realised that a unique treasure had fallen into their hands - a sentient Shantiri construct with a will of its own. His knowledge of all the intricacies of the military art allows Wrothgar to make independent, well-considered decisions on the battlefield and to adapt quickly to the situation, but at the same time his train of thought resembles a well-tuned mechanism more than a living being."
+
+[heropedya.A_HeroBio_Antalyan H7HeroBioData]
+mText="The legend of ghost riders is considered only a fiction among the inhabitants of the Union, but those, who once had a chance to meet them, will never forget what they saw. Accompanied by icy winds, they swiftly pierce through the ranks of enemy like a deadly spear, and then disappear into a snowstorm without a trace, leaving behind only the lifeless bodies of enemies, many of which are impaled on sharp ice spikes. Once their leader, the cavalry captain Antalyan, came to the aid of Nagas, who defended the Monastery of Helexia, and repelled the onslaught of the Order of the Void in a narrow mountain pass, but the price for the victory in that battle was too high. The curse of oblivion was placed on all surviving riders, making them to exist between life and death, and now they are forced to wander the snowy plains for all eternity, fighting against the threats of the Void."
+
+[heropedya.A_HeroBio_Erlendfold H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Heketh H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Krystal H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Lisandra H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Luchiana H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_mishone H7HeroBioData]
+mText="Thanks to her phenomenal memory, this scout perfectly remembers all the roads and paths that she has ever set foot on, and an irresistible craving for the unknown makes her constantly deviate from the usual route. Mishone knows that even her whole life will not be enough to uncover all secrets of the ancient mountains, but now her gaze is fixed beyond the borders of Dragon Causeway. By enlisting in service of the Archmages, she discovered a new world which turned out to be full of even more wonders. Based on the scout's detailed reports, researchers draw incredibly accurate maps of the unknown areas, allowing the forces of the Union to easily navigate new territories"
+
+[heropedya.A_HeroBio_Sana H7HeroBioData]
+mText="Sana's outstanding deeds on the battlefield earned her well-deserved fame, confirming her right to be the heiress of her mother, the High Priestess of Kshatriyas. Even Kshatriyas Kali, who devote themselves to the Great Hunt and do not recognize any power over themselves except for the divine will, bow their heads in the young female warrior's presence. In the eyes of her sisters-in-arms she appears as an avatar of the fearsome goddess, and her every order is carried out unquestioningly. It is difficult to say how true this is, but Kshatriyas really believe that during the battle Sana is possessed by the spirit of Kali, who leads her daughters to victory through the graceful dance of death. Upon seeing it, not a single Kshatriya can remain indifferent, and all of them join their leader, acting as a whole"
+
+[heropedya.A_HeroBio_Wrotghar H7HeroBioData]
+mText=""
+
+[Heros_names.A_Antalyan_name H7GlobalName]
+mName="Antalyan"
+
+[Heros_names.A_Erlendfold_name H7GlobalName]
+mName="Erlenfold"
+
+[Heros_names.A_Heketh_name H7GlobalName]
+mName="Heketh"
+
+[Heros_names.A_Krystal_Name H7GlobalName]
+mName="Krystal"
+
+[Heros_names.A_Lisandra_name H7GlobalName]
+mName="Lisandra"
+
+[Heros_names.A_Luchiana_name H7GlobalName]
+mName="Luchiana"
+
+[Heros_names.A_Mishone_Name H7GlobalName]
+mName="Mishone"
+
+[Heros_names.A_Sana_Name H7GlobalName]
+mName="Sana"
+
+[Heros_names.A_Wrotghar_Name H7GlobalName]
+mName="Wrothgar"
+
+[Specialisation.A_Archeologue H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Archaeologist of frost."
+mTooltip="Each stack of enemy creatures destroyed in battle has a 30% chance of producing 1 random Rare Resource."
+
+[Specialisation.A_Archeologuecreature_Buff H7BaseBuff]
+mName="moisson buff"
+mTooltip=""
+
+[Specialisation.A_Champion_rider H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Specialised frost peak "
+mTooltip="Storm Riders and Blizzard Riders in the hero's army get the %spell3.name ability instead of %spell1.name.\n(This ability now deals damage to all small units, and no longer requires them to be Frozen)"
+
+[Specialisation.A_Contracture H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Contracture"
+mTooltip="This hero reduces the base damage of large enemy creatures by %buff.buff.stat1 throughout the fight."
+
+[Specialisation.A_Contracture_Buff H7BaseBuff]
+mName="Contracture"
+mTooltip="This creature deals %stat1 less damage."
+
+[Specialisation.A_Manoeuvre_mobile_ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Strategic reinforcement"
+mTooltip="Gouveneur: All allied heroes gain %buff1.buff.stat %icon_Spirit and the spell %spell3.name is unblocked in the grimoire as long as that hero is governor."
+
+[Specialisation.A_Manoeuvre_mobile_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[Specialisation.A_Manoeuvre_mobile_hero_Buff H7BaseBuff]
+mName="Recruiter (Town Buff)"
+mTooltip=""
+
+[Specialisation.A_Nova H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Specialised frost peak."
+mTooltip="All small enemy creatures suffer %d %ICON_Water ."
+
+[Specialisation.A_Peau_de_givre H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Frosty skin"
+mTooltip=" At the beginning of the fight allied creatures of melée receive %spell.name. This spell is cast at expert rank."
+
+[Specialisation.A_peau_givre_Buff H7BaseBuff]
+mName="Frost armour"
+mTooltip="During %durnow turns. Creature gains %stat1 %icon_defense and freezes enemies that attack it in melee."
+
+[Specialisation.A_T4_trainer H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Swordsman "
+mTooltip="Kshatriya and Kshatriya Kali in the hero's army have %buff.buff.stat1 %buff.buff.stat1.icon Defense, %buff.buff.stat2 %buff.buff.stat2.icon Hp and get the %spell3.name ability."
+
+[Specialisation.A_t4_trainer_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+

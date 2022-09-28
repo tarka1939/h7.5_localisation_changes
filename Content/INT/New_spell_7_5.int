@@ -1,0 +1,36 @@
+[A_heal_immunity H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Magic Immunity"
+mTooltip="The creature cannot be the target of negative spells or effects from any magic school. All magic damage from enemy attacks is halved."
+
+[Anti_heal.A_IceStrike_Buff H7BaseBuff]
+mName="Healing Freeze "
+mTooltip="The creature can no longer receive or heal itself. During %durnow turn(s).( does not work on type units "construct""
+
+[Anti_heal.A_Nova H7HeroAbility]
+mTooltipMagicGuild="Target creature can no longer receive or be healed. (Does not work on construct type units) "
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Healing Freeze "
+mTooltip="Deals %d %icon_water.Creature can no longer be healed.During %buff1.buff.durini turns. Does not work on construct type units."
+
+[Armure_de_givre.A_armure_givre_Buff H7BaseBuff]
+mName="Frost Armor"
+mTooltip="During %durnow turns. The creature is buffed %stat1 %icon_defense and freeze the enemies who attack it in melee."
+
+[Armure_de_givre.A_BurningDetermination H7HeroAbility]
+mTooltipMagicGuild="Increase the defense of the targeted ally and freeze all attackers in melee"
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded="Increases the defense of targeted allies in an area by 4X4 at %buff1.buff.stat1 %icon_defense and freeze all the enemies that attack him in melee during %buff1.buff.durini turns "
+mName="Frost Armor "
+mTooltip="Increases the defense of the target ally by %buff1.buff.stat1 and freeze all the enemies that attack him in melee during %buff1.buff.durini turns "
+
+[Ice_lance.A_Nova H7HeroAbility]
+mTooltipMagicGuild="Deals %d.icon water damage to all units in the strike line, then has a 30% chance to freeze them. "
+mTooltipMagicGuildRankLine="%d.min to %d.max %d.icon"
+mTooltipUpgraded="Deals %d.min à %d.max %d.icon water in the strike zone, and have a 60% chance of freezing them. "
+mName="Ice Spear "
+mTooltip="Deals %d.min à %d.max %d.icon water in the strike zone, and have a 30% chance of freezing them. "
+

@@ -1,0 +1,74 @@
+
+[A_ArdentCaster_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Ardent Caster"
+mTooltip="%buff.buff.buff.buff.stat %buff.buff.buff.buff.stat.icon Might for every Fire spell cast. Lasts until the end of combat."
+
+[A_ArdentCaster_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[A_ArdentCaster_Buff_Might H7BaseBuff]
+mName="Ardent Caster"
+mTooltip=""
+
+[A_FireMagic_Skill H7Skill]
+mDescriptions[0]="Makes Fire spells more effective and increases the hero's %ICON_ARCANE_KNOWLEDGE Arcane Knowledge."
+mDescriptions[1]=""
+mDescriptions[2]="Makes Fire spells more effective and increases the hero's %ICON_ARCANE_KNOWLEDGE Arcane Knowledge by 1."
+mDescriptions[3]="Makes Fire spells more effective and increases the hero's %ICON_ARCANE_KNOWLEDGE Arcane Knowledge by additional 2."
+mDescriptions[4]="Makes Fire spells more effective and increases the hero's %ICON_ARCANE_KNOWLEDGE Arcane Knowledge by additional 3."
+mName="Fire Magic"
+mTooltip="Allows you to learn spells of the Fire magic school in a magic guild. Improves and augments their effects."
+
+[A_FireMantle_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Fire Mantle"
+mTooltip="Friendly creatures deal additional %buff1.buff.d1.min to %buff1.buff.d1.max %buff1.buff.d1.icon Fire damage when attacking in melee and they deal %buff1.buff.d2.min to %buff1.buff.d2.max %buff1.buff.d2.icon Fire damage when being attacked in melee."
+
+[A_FireMantle_Buff H7BaseBuff]
+mName="Fire Mantle"
+mTooltip="The creature deals additional %d1.min to %d1.max %d1.icon Fire damage when attacking in melee and %d2.min to %d2.max %d2.icon Fire damage when being attacked in melee."
+
+[A_FireScholar_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Fire Scholar"
+mTooltip="Reduces mana cost of Fire spells by %special.norm%."
+
+[A_FireWisdom_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Fire Wisdom"
+mTooltip="%stat1 Magic %stat1.icon for Fire spells. Every other wisdom ability adds %stat1 Magic %stat1.icon to this bonus."
+
+[A_MasterOfFire_I_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Fire Knowledge I"
+mTooltip="%spell1.name additionally deals %spell1.spell.buff.buff.d.min to %spell1.spell.buff.buff.d.max %spell1.spell.buff.buff.d.icon Fire damage for %spell1.spell.buff.buff.durini turns.\n%spell2.name is now cast on creatures in target 4x4 area."
+
+[A_MasterOfFire_II_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Fire Knowledge II"
+mTooltip="%spell1.name is now cast on creatures in target 4x4 area.\n%spell2.name additionally stops creatures and deals %spell2.spell.buff3.buff.d.min to %spell2.spell.buff3.buff.d.max %ICON_FIRE Fire damage for %spell2.spell.buff3.buff.durini turns."
+
+
+
+7.5_mod
+
+[A_MasterOfFire_III_Ability H7HeroAbility]
+mName="Fire Knowledge III"
+mTooltip="Target creature of %spell1.name now prefers to attack enemy creatures and attacks with %spell1.spell.buff.stat7 %ICON_ATTACK Attack.\n%spell2.name additionally inflicts %spell2.spell.buff.d.min to %spell2.spell.buff.d.max d.max %spell2.spell.buff.buff.d.icon Fire damage during %spell2.spell.buff.buff.durini turns.\n%spell3 the target units receive a debuff of %spell3.spell.buff.buff.res to the fire damage %icon_fire to the affected creature, in addition to the damage inflicted.\n%spell4.name reduces target creature chance to %spell4.spell.buff2.buff.stat1 %icon_luck"              
+                          
+         
+

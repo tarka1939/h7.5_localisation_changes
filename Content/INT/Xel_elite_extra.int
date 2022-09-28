@@ -1,0 +1,40 @@
+[Abilities.A_BurningDetermination H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Shield of the void"
+mTooltip="Once per battle, he can summon a shield that surrounds another friendly target unit. Shield of the void absorbs all magic and the unit receives %buff.buff.stat1 %icon_Morale and %buff.buff.stat2 %icon_luck . Lasts for %buff1.buff.durini rounds."
+
+[Abilities.A_LightningScales H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Lightning aura"
+mTooltip="A unit has a 30% chance, at the start of each round, to get an electric aura that hurts %icon_air through the air all nearby units for %buff1.buff.d1.min to %buff1.buff.d1.max at the end of that unit's round."
+
+[Abilities.A_LightningScales_Buff H7BaseBuff]
+mName="Lightning aura"
+mTooltip="Inflicts %d1.min to %d1.max %d1.icon air damage to all nearby units at the end of that unit's turn. If no target is hit, the aura remains active."
+
+[Abilities.A_RangedAttack_Academy_Pyramid H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Pestle"
+mTooltip="This attack strikes over a 3x3 area but only inflicts half the creature's damage."
+
+[Abilities.A_StormLord H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Storm Lords"
+mTooltip="Confers immunity to damage from lightning scales. The hero gains the spell: %spell1.name."
+
+[Abilities.A_VoidShield_Buff H7BaseBuff]
+mName="Shield of the void"
+mTooltip="A shield that surrounds the unit and absorbs all magic (makes the unit immune) in addition the unit receives %stat1 %stat1.icon morality and %stat2 %stat2.icon luck. Lasts for %durnow rounds."
+
+[Creatures.A_CreatureStormViper H7Creature]
+mName="Swamp Demon "
+mLore=""
+

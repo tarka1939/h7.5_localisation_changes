@@ -1,0 +1,30 @@
+[Ability.A_Saignement_Buff H7BaseBuff]
+mName="Bleed "
+mTooltip="Creature takes %d1 Damage at beginning of turn, lasts %durnow turn(s)."
+
+[Ability.A_Saignement H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Bleed"
+mTooltip="When this creature deals damage to a unit, target gets %spell1.name for %buff1.buff.durini turns. Can accumulate up to three times. ( No effect on "Undead" and "Construct" units )"
+
+[A_Creature_Shark_upregate H7Creature]
+mName="Wanizame"
+mLore="For Shark Guards, the title of Wanizame is a recognition of their valor and dependability, while their savage brethren embody the true meaning of this word. Shark Warriors consider their main weapon to be the one bestowed on them by nature itself - sharp teeth which tear the flesh of victims. The status of a fighter in the tribe depends on the number of defeated enemies, and the stronger they were, the more honor he receives. After earning the right to become a Wanizame, a warrior covers his body with battle tattoos and his bloodlust becomes truly unquenchable."
+
+[Ability.A_festin_Buff H7BaseBuff]
+mName="Festin"
+mTooltip=""
+
+[Ability.A_Resurrection H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Feast"
+mTooltip="Creature heals itself 10% of total %icon_health points in stack per active bleed on enemy units."
+
+[A_Creature_Shark H7Creature]
+mName="Shark Warrior"
+mLore="During the creation of new types of Beastmen, the Wizards from House Chimera experimented with different types of animals, intending to bestow the most suitable talents on their creations. Unlike Shark Guards, Shark Warriors were created from sand sharks that roamed the Sahaar Desert with the same ease as their sea brethren swam through the deep waters. Thanks to their ability to move unhindered under almost any surface, these Beastmen could be of great use to the Seven Cities, if not for their wild unbridled temper. Neither the Wizards nor the Nagas of Hashima were able to subdue these unruly creatures, and only the inhabitants of Shanria were able to find some way to approach them."
+

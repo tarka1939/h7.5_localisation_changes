@@ -1,0 +1,38 @@
+[A_Creature_t4_lv2 H7Creature]
+mName="Kshatriya Kali"
+mLore="Not much is known about Kshatriyas' culture, except for the fact that they revere the Great Hunt. Thanks to the alliance with the Union, they learned about the outside world and now most of it turned into their vast hunting ground. A thrill of chasing prey always make Kshatriyas' hearts beat faster, but nothing can compare to the good fight against strong opponent. Kshatriyas Kali are fully succumbed to their instincts and pose a great threat to any enemy at the battlefield. For these fearsome warriors the Great Hunt will never end, so they don't care if the opponent is a wild beast or a sentient being as long as they can spill more fresh blood. That's why their weapons are enchanted with the power of ice, allowing them to inflict serious non-healing wounds."
+
+[A_Creature_t4base H7Creature]
+mName="Kshatriya"
+mLore="All caravan drivers know that safe trade routes through the Dragon Causeway are marked with the statues of four-handed women on both sides of the road. For strangers they look like beautiful pieces of art, but in reality they are living beings with skin as cold as stone and blood like a liquid ice. The true name of their kind is too difficult to pronounce, so the citizens of the Union call them Kshatriyas. It's unknown, why these proud female warriors decided to join the Union, but they turned out to be excellent guards. Being the native inhabitants of these inhospitable lands, Kshatriyas perfectly adapted to the cold weather and they move so swiftly, that chilled enemies are unable to react to their attacks in time."
+
+[Ability.A_No_relataion_cold H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Glacial Strike"
+mTooltip="Attacks of this creature cannot be retaliated if the target is Frozen."
+
+[Ability.A_NoRetaliation_ice_Buff H7BaseBuff]
+mName="Lose Retaliation"
+mTooltip=""
+
+[Ability.A_Nova H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Deep Frostbite"
+mTooltip="Attacks of this creature decrease the maximum %icon_health Health of the target, according to this creature's level of Cold Blood ( Lv1 : %buff1.buff.stat / Lv2 : %buff2.buff.stat / Lv3 : %buff3.buff.stat ) for 3 turns."
+
+[Ability.A_Saignement_expert_Buff H7BaseBuff]
+mName="Moderate Frostbite"
+mTooltip="The creature has %stat %icon_health maximum Health for %durnow turn(s)."
+
+[Ability.A_Saignement_master_Buff H7BaseBuff]
+mName="Deep Frostbite"
+mTooltip="The creature has %stat %icon_health maximum Health for %durnow turn(s)."
+
+[Ability.A_Saignement_novice_Buff H7BaseBuff]
+mName="Light Frostbite"
+mTooltip="The creature has %stat %icon_health maximum Health for %durnow turn(s)."
+

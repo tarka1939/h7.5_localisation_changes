@@ -1,0 +1,32 @@
+[Ability.A_Akuma_Buff_0_expert H7BaseBuff]
+mName="BluŸnierstwo"
+mTooltip="Stwór otrzymuje - %stat.norm %stat.icon i zwiêksza o %res.norm dodatkowe obra¿enia typu %icon_fire ogieñ podczas %durnow.norm".
+
+[Ability.A_Akuma_Buff_0_Master H7BaseBuff]
+mName="BluŸnierstwo"
+mTooltip="Stwór otrzymuje - %stat.norm %stat.icon i zwiêksza o %res.norm dodatkowe obra¿enia typu %icon_fire ogieñ podczas %durnow.norm".
+
+[Ability.A_Akuma_Buff_0_Novice H7BaseBuff]
+mName="BluŸnierstwo"
+mTooltip="Stwór otrzymuje - %stat.norm %stat.icon i zwiêksza o %res.norm dodatkowe obra¿enia typu %icon_fire ogieñ podczas %durnow.norm".
+
+[Ability.A_Akuma_Buff_0_ultimate H7BaseBuff]
+mName="BluŸnierstwo"
+mTooltip="Stwór otrzymuje - %stat.norm %stat.icon i zwiêksza o %res.norm dodatkowe obra¿enia typu %icon_fire ogieñ podczas %durnow.norm".
+
+[Ability.A_Akuma_Buff_0_Unskilled H7BaseBuff]
+mName="BluŸnierstwo"
+mTooltip="Stwór otrzymuje - %stat.norm %stat.icon i zwiêksza o %res.norm dodatkowe obra¿enia typu %icon_fire ogieñ podczas %durnow.norm".
+
+[Ability.A_Akuma_Support H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="BluŸnierstwo"
+mTooltip="Morale stwora zostanie zmniejszone o %buff1.buff.stat1.norm %icon_morale i otrzyma on %buff1.buff.res1.norm dodatkowe obra¿enia od ognia %icon_fire podczas %buff1.buff.durini.norm".
+
+[Unit.A_Akuma H7EditorWarUnit]
+mDesc="Jednostak specjalna (wsparcia)"
+mName="Akuma"
+mLore=""
+

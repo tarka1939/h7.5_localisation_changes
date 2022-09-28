@@ -1,0 +1,71 @@
+[buff_bonus.A_StormArrows_Buff H7BaseBuff]
+mName="Sturmpfeile"
+mTooltip="%stat2 %stat2.icon Angriff\nHält %durnow Runde(n)."
+
+[buff_bonus.A_Retribution_Buff H7BaseBuff]
+mName="Vergeltung"
+mTooltip="Fügt jeder Kreatur, die diese Kreatur angreift, %d.min bis %d.max %d.icon Lichtschaden zu. Hält %durnoch Runde(n)."
+
+[buff_bonus.A_InnerFire_Buff H7BaseBuff]
+mName="Inneres Feuer"
+mTooltip="%stat1 %stat1.icon Angriff, %stat2 %stat2.icon Initiative\nHält %durnow Runde(n)."
+
+[buff_bonus.A_IceStrike_Buff H7BaseBuff]
+mName="Eisstoß"
+mTooltip="Die Kreatur verursacht zusätzlichen %d.min bis %d.max %d.icon Wasserschaden, wenn sie angreift.\nHält %durnow Runde(n)."
+
+[A_Creature_Sanctuary_kirin H7Creature]
+mName="Kirin"
+mLore=""
+
+[Ability.A_Nova H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Strafe der Seele"
+mTooltip="Diese Kreatur wirkt %spell1.name auf den Zielgegner: Immer wenn eine gegnerische Einheit Schaden erleidet, erhält die mit %spell1.name markierte Kreatur %buff1.buff.buff.special von dem Schaden, der Einheit zugefügt wird. Hält %buff1.buff.durini Runde oder bis ein gegnerischer Stapel stirbt. "
+
+[Ability.A_heal_Buff_target H7BaseBuff]
+mName="Heilung"
+mTooltip=""
+
+[Ability.A_heal_vole_Buff_kirin H7BaseBuff]
+mName="Strafe der Seele"
+mTooltip="Diese Kreatur erleidet %buff1.buff.special des Schadens, den eine andere verbündete Kreatur erleidet. Hält bis zum Beginn des nächsten Zuges der Kreatur an."
+
+[buff_bonus.A_Fortune_Buff H7BaseBuff]
+mName="Glück"
+mTooltip="%stat %stat.icon Glück\nHält %durnow Runde(n)."
+
+[Ability.A_Esprit_appaisant H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Besänftigender Geist"
+mTooltip="Benachbarte verbündete Kreaturen erhält einen zufälligen positiven magischen Effekt am Ende des Zuges dieser Kreatur."
+
+[Ability.A_esprit_appaisant_Buff H7BaseBuff]
+mName="Kraft des Schicksals"
+mTooltip="Erhöht die Chance auf %stat1 %stat1.icon während %durnow Runde(n)."
+
+[Ability.A_Divinité_du_destin H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Macht des Schicksals"
+mTooltip="Wenn diese Kreatur einen Gegner angreift, der nicht zurückgeschlagen hat, erhalten verbündete Kreaturen %buff1.buff.stat %buff1.buff.stat.icon während %buff1.buff.durini Runde(n)."
+
+[A_Creature_Sanctuary_kirin_lv2 H7Creature]
+mName="Heiliger Kirin"
+mLore=""
+
+[Ability.A_force_du_destin_Buff H7BaseBuff]
+mName="Kraft des Schicksals"
+mTooltip="Erhöht für %durnow Runden die Chance auf %stat1 %stat1.icon."
+
+[Ability.A_Hailstorm_Aura H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Gewitter"
+mTooltip="Wenn diese Kreatur angreift oder zurückschlägt, fügt sie benachbarten Gegnern %d %icon_air zu. "

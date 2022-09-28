@@ -1,0 +1,93 @@
+[A_PutridBones_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Putrid Bones"
+mTooltip="Skeletons and Skeleton Hoplites deal %spell1.spell.d.min %ICON_EARTH Earth damage per creature in the stack to creatures attacking them in melee."
+
+[A_Necromancy_Marker H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip=""
+
+[A_EternalServitude_Buff_Marker H7BaseBuff]
+mName="EternalServitude"
+mTooltip=""
+
+[A_ManaDrain_Buff H7BaseBuff]
+mName="Mana Drain"
+mTooltip=""
+
+[A_EternalServitude_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Eternal Servitude"
+mTooltip="Revives %buff.buff.special of already destroyed Skeletons and Skeleton Hoplites of a stack after it attacked without getting completely destroyed during the attack."
+
+[A_EternalServitude_Buff H7BaseBuff]
+mName="EternalServitude"
+mTooltip=""
+
+[A_NoRestForTheWicked_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="No Rest for the Wicked"
+mTooltip="Necromancy raises also from fallen undead creatures."
+
+[A_ManaDrain_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Mana Drain"
+mTooltip="The hero regains %buff1.buff.stat.norm %buff1.buff.stat.icon Mana after a living creature stack was killed."
+
+[A_TheFaceOfFear_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="The Face of Fear"
+mTooltip="All enemy creatures get %buff1.buff.stat %ICON_MORALE Morale during combat."
+
+[A_TheFaceOfFear_Buff H7BaseBuff]
+mName="The Face of Fear"
+mTooltip="%stat %ICON_MORALE Morale\nLasts until end of combat."
+
+UCP 1.1
+
+[A_PutridBones_CreatureAbility H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Putrid Bones"
+mTooltip="The creature deals %d.min %ICON_EARTH Earth damage to creatures attacking it in melee."
+
+[A_Necromancy_Skill H7Skill]
+mDescriptions[0]="Raises the corpse of fallen living creatures to reinforce the hero's undead army after a victorious combat."
+mDescriptions[1]=""
+mDescriptions[2]="Raises up to %special2.val1 Skeletons from fallen living creatures to join the hero's army after victorious combats. Therefore %special2 of the Health of fallen living creatures is converted into Health of Skeletons."
+mDescriptions[3]="Raises now up to %special3.val1 Skeleton Hoplites instead of Skeletons.\nOverall %special3 of the Health of fallen living creatures is converted into the Health of Skeleton Hoplites."
+mDescriptions[4]="Raises now up to %special4.val1 Skeleton Hoplites.\nOverall %special4 of the Health of fallen living creatures is converted into the Health of Skeleton Hoplites."
+mName="Necromancy"
+mTooltip="Necropolis faction skill."
+
+
+[A_DarkNova_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Dark Nova"
+mTooltip="First hit of Namtaru's Dark Bolt additionally hits all enemy units around the target."
+
+
+7.5_v2
+
+[A_GhostRide_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Ghost Ride"
+mTooltip="Necromancy additionally raises up to %special1.val1 Banshees from %special1 of the Health of fallen living creatures after victorious combats and %special3.val1. Death Spider at %special3 of the hp of the killed creatures."

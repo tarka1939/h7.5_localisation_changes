@@ -1,0 +1,45 @@
+[M_Landscape_Multi]
+Ground1=Plains\nGrass
+Ground2=Plains\nRocky Grass
+Ground3=Forest\nFallen Leaves
+Ground4=Forest\nGround Vegetation
+Ground5=Misc\nBeach Sand
+Ground6=Desert\nSand
+Ground7=Desert\nCracked Sand
+Ground8=Wasteland\nBarren Soil
+Ground9=Wasteland\nCracked Soil
+Ground10=Wasteland\nSwamp Mud
+Ground11=Misc\nRocky Cliff
+Ground12=Misc\nDesert Cliff
+Ground13=Snow\nSnow
+Ground14=Snow\nSnowy Dirt
+Ground15=Misc\nTile Road
+Ground16=Misc\nDirt Road
+Ground17=Plains\nFields
+Ground18=Lava\nVolcanic Ground
+
+[M_Landscape_Multi_Underground]
+Ground1=Mud
+Ground2=Dry Mud
+Ground3=Soil
+Ground4=Moss
+Ground5=Mountain\nPavement Road
+Ground6=Sand
+Ground7=Lava\nVolcanic Ground
+Ground8=Misc\nDirt Road
+Ground9=Misc\nRocky Cliff
+Ground10=Misc\nTile Road
+Ground11=Misc\nDark Cliffs
+Ground12=Snow\nIce Cliff
+Ground13=Snow\nIce
+Ground14=Snow\nSnow
+Ground15=Misc\nPavement Road
+Ground16=Mountain\nPavement Road 2
+Ground17=Mountain\nCave Rock
+Ground18=Mountain\nCave Pebbles
+
+[M_OceanLayered_INST]
+Water=Water
+Lava=Lava
+Quicksand=Quicksand
+Swamp=Swamp

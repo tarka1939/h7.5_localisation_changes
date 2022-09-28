@@ -1,0 +1,22 @@
+[Abilities.A_HatredForVampires H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Vampire Hate"
+mTooltip="This unit deals %d.min to %d.max additional damage to all vampires and vampire lords and blocks their ability: %spell.name."
+
+[Abilities.A_SpellPlague H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Contagion"
+mTooltip="Each successful critical hit infects the target unit with a spell (reducing %icon_magic magic by %buff1.buff.stat1 and removing %buff1.buff.stat2 %icon_man mana each round)."
+
+[Abilities.A_SpellPlague_Debuff H7BaseBuff]
+mName="Contagion"
+mTooltip="This unit has been infected by a spellbreaker! It reduces its hero's %icon_magic by %stat1 and drains %stat2 of %icon_man's mana each round."
+
+[Creatures.A_CreatureWerewolf H7Creature]
+mName="Werewolf"
+mLore="The Magellanian werewolves are the last representatives of the werewolves on Mondalar. They were saved from extinction, or rather extermination, by Ramon Crane, who wanted to keep a couple of these bloodthirsty beasts as living specimens for his collection on his estate. He also decided to 'enhance' them with a specially designed plague called 'bewitchment', which severely weakened the mages. However, this contagion also had a negative effect on the appearance of the werewolves themselves, whose fur disappeared. Eventually, their bodies weakened, and Crane decided to abandon the werewolves to their fate. Little did he know, however, that by releasing them into the wild, their ranks would swell to dozens within a few years, and organised packs would begin to invade the surrounding villages. Their natural hatred of vampires made them formidable opponents, especially if they could prevent them from sucking the life out of them. The pack was last seen with a new leader who calls himself Black Claw."
+

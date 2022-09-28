@@ -1,0 +1,23 @@
+[A_FrostBolt H7HeroAbility]
+mTooltipMagicGuild="Deals %d.icon Water damage to the target enemy unit, instantly."
+mTooltipMagicGuildRankLine="%d.min to %d.max %d.icon"
+mTooltipUpgraded="Deals %d.min to %d.max %d.icon Water damage to the target enemy unit instantly, and its %buff.buff.stat.icon Movement is decreased by %buff.buff.stat.norm for %buff.buff.durini turns."
+mName="Frost Bolt"
+mTooltip="Deals %d.min to %d.max %d.icon Water damage to the target enemy unit, instantly."
+
+[A_heal_immunity H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Magic Immunity"
+mTooltip="The creature cannot be the target of negative spells or effects from any magic school. All magic damage from enemy attacks is halved."
+
+[A_Nova H7HeroAbility]
+mTooltipMagicGuild="Deals %d.icon water damage to all units in the strike line, then has a 30% chance to freeze them. "
+mTooltipMagicGuildRankLine="%d.min to %d.max %d.icon"
+mTooltipUpgraded="Deals %d.min à %d.max %d.icon water in the strike zone, and have a 60% chance of freezing them. "
+mName="Ice Spear "
+mTooltip="Deals %d.min à %d.max %d.icon water in the strike zone, and have a 30% chance of freezing them. "
+
+
+

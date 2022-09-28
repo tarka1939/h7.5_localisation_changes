@@ -1,0 +1,379 @@
+[Dungeon.A_TamedWyvern_LevelProgress H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Warfare Skill"
+mTooltip=""
+
+[Sylvan.A_MotherTreant_Support_Buff_1_Novice H7BaseBuff]
+mName="Renewal"
+mTooltip="The creature regenerates %d1.min Health at start of it's turn.\nLasts for %durnow turn(s)."
+
+[Sylvan.A_MotherTreant_Support H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded="Regenerates %buff3.buff.d1.min Health at the start of target friendly creature's next %buff3.buff.durini turns."
+mName="Renewal"
+mTooltip="Regenerates %buff1.buff.d1.min Health at the start of target friendly creature's next %buff1.buff.durini turns."
+
+[Sylvan.A_MotherTreant_Support_Buff_2_Expert H7BaseBuff]
+mName="Renewal"
+mTooltip="The creature regenerates %d1.min Health at start of it's turn.\nLasts for %durnow turn(s)."
+
+[A_Default_Skip H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="End Turn"
+mTooltip="Ends the warfare unit's turn."
+
+[Stronghold.A_TamedCyclops_LevelProgress H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Warfare Skill"
+mTooltip=""
+
+[A_Default_Wait H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Wait"
+mTooltip="The warfare unit will act later. The order of waiting units is inverted."
+
+[Stronghold.A_Dreamcatcher_Attack H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Earth Bolt"
+mTooltip="Shoots at target enemy creature dealing %d.min to %d.max %ICON_EARTH Earth damage."
+
+[Stronghold.A_Dreamcatcher_Support H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded="Heals target friendly creature for %d2.max Health.\n(Not affected: Undead and Constructs)"
+mName="Shaman Heal"
+mTooltip="Heals target friendly creature for %d1.max Health.\n(Not affected: Undead and Constructs)"
+
+[haven.A_CatapultHaven_LevelProgress H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Warfare Skill"
+mTooltip=""
+
+[Academy.A_TowerAcademy_Attack H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Tower Attack"
+mTooltip="Shoots at an enemy creature dealing %d.min to %d.max damage."
+
+[Dungeon.A_Faceless_LevelProgress H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Warfare Skill"
+mTooltip=""
+
+[haven.A_CatapultHaven_Attack H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Stone Fling"
+mTooltip="Shoots at fortifications dealing %d.min to %d.max damage."
+
+
+[Sylvan.A_GreaterEarthElemental_Attack H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rock Throw"
+mTooltip="Shoots at fortifications dealing %d.min to %d.max damage."
+
+[Necropolis.A_Namtaru_Attack H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Dark Bolt"
+mTooltip="Shoots at target enemy creature dealing %d.min to %d.max %ICON_DARK Dark damage."
+
+[Stronghold.A_TowerStronghold_Attack H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Tower Attack"
+mTooltip="Shoots at an enemy creature dealing %d.min to %d.max damage."
+
+[Sylvan.A_BallistaSylvan_LevelProgress H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Warfare Skill"
+mTooltip=""
+
+[Sylvan.A_BallistaSylvan_FastReload_Buff H7BaseBuff]
+mName="FastReload"
+mTooltip=""
+
+[Necropolis.A_SpittingSpider_Attack H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Spit"
+mTooltip="Shoots at fortifications dealing %d.min to %d.max %ICON_DARK Dark damage."
+
+[Dungeon.A_TamedWyvern_Attack H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Acid Spit"
+mTooltip="Shoots at fortifications dealing %d.min to %d.max %ICON_EARTH Earth damage."
+
+[haven.A_BallistaHaven_LevelProgress H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Warfare Skill"
+mTooltip=""
+
+[Sylvan.A_MotherTreant_Support_Buff_4_Ultimate H7BaseBuff]
+mName="Renewal"
+mTooltip="The creature regenerates %d1.min Health at start of it's turn.\nLasts for %durnow turn(s)."
+
+[Academy.A_GreatPyramid_Attack H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Great Prime Bolt"
+mTooltip="Shoots at fortifications dealing %d.min to %d.max %ICON_PRIME Prime damage."
+
+[Sylvan.A_MotherTreant_Support_Buff_3_Master H7BaseBuff]
+mName="Renewal"
+mTooltip="The creature regenerates %d1.min Health at start of it's turn.\nLasts for %durnow turn(s)."
+
+[Academy.A_HealingTent_Support H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded="Heals target friendly creature for %d3.min Health.\n(Not affected: Undead)"
+mName="Heal"
+mTooltip="Heals target friendly creature for %d1.min Health.\n(Not affected: Undead)"
+
+[Academy.A_SmallPyramid_Attack H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Prime Bolt"
+mTooltip="Shoots at target enemy creature dealing %d.min to %d.max %ICON_PRIME Prime damage."
+
+[Sylvan.A_GreaterEarthElemental_LevelProgress H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Warfare Skill"
+mTooltip=""
+
+[haven.A_BallistaHaven_Attack H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Missile"
+mTooltip="Shoots at target enemy creature dealing %d.min to %d.max damage."
+
+[Sylvan.A_MotherTreant_LevelProgress H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Warfare Skill"
+mTooltip=""
+
+[Academy.A_SmallPyramid_LevelProgress H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Warfare Skill"
+mTooltip=""
+
+[Stronghold.A_TamedCyclops_Attack H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rock Throw"
+mTooltip="Shoots at fortifications dealing %d.min to %d.max damage."
+
+[neutral.A_Harpoon_Attack H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Piercing Shot"
+mTooltip="Hits all targets in a line."
+
+[Sylvan.A_TowerSylvan_Attack H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Tower Attack"
+mTooltip="Shoots at an enemy creature dealing %d.min to %d.max damage."
+
+[Dungeon.A_TowerDungeon_Attack H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Tower Attack"
+mTooltip="Shoots at an enemy creature dealing %d.min to %d.max damage."
+
+[Necropolis.A_SpittingSpider_LevelProgress H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Warfare Skill"
+mTooltip=""
+
+[haven.A_HealingSister_Support H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded="Heals and resurrects target friendly creature for %d2.max Health.\n(Not affected: Undead and Constructs)"
+mName="Heal"
+mTooltip="Heals target friendly creature for %d1.max Health.\n(Not affected: Undead and Constructs)\n\nPerfect Warfare unlocks: The Healing Sister also resurrects fallen creatures."
+
+[haven.A_TowerHaven_Attack H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Tower Attack"
+mTooltip="Shoots at an enemy creature dealing %d.min to %d.max damage."
+
+[Sylvan.A_BallistaSylvan_Attack H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Missile"
+mTooltip="Shoots at target enemy creature dealing %d.min to %d.max damage."
+
+[Necropolis.A_Namtaru_LevelProgress H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Warfare Skill"
+mTooltip=""
+
+[Stronghold.A_Dreamcatcher_LevelProgress H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Warfare Skill"
+mTooltip=""
+
+[Dungeon.A_ShadowLurker_LevelProgress H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Warfare Skill"
+mTooltip=""
+
+[Academy.A_GreatPyramid_LevelProgress H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Warfare Skill"
+mTooltip=""
+
+[Academy.A_HealingTent_LevelProgress H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Warfare Skill"
+mTooltip=""
+
+[Necropolis.A_TowerNecropolis_Attack H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Tower Attack"
+mTooltip="Shoots at an enemy creature dealing %d.min to %d.max damage."
+
+[Sylvan.A_MotherTreant_Support_Buff_0_Unskilled H7BaseBuff]
+mName="Renewal"
+mTooltip="The creature regenerates %d1.min Health at start of it's turn.\nLasts for %durnow turn(s)."
+
+[haven.A_HealingSister_LevelProgress H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Warfare Skill"
+mTooltip=""
+
+[Necropolis.A_NamtaruCaller_AttackAbility H7WarfareAbility]
+mName="Dark Bolt"
+mTooltip="Shoots at target enemy creature dealing %d1.min to %d1.max %d1.icon Dark damage."
+
+[Dungeon.A_Faceless_Support H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded="Warps target friendly creature in a Death Cloak. The next time the creature is attacked in melee Death Cloak deals %buff2.buff.d1.min %ICON_DARK Dark damage to the attacker.\nWhen Death Cloak ends it deals %buff2.buff.d2.min %ICON_DARK damage to all neighbouring enemy units."
+mName="Death Cloak"
+mTooltip="Wraps target friendly creature in a Death Cloak. The next time the creature is attacked in melee Death Cloak deals %buff1.buff.d.min %ICON_DARK Dark damage to the attacker.\n\nPerfect Warfare unlocks: Death Cloak explodes when it ends."
+
+UCP 1.1
+
+[Dungeon.A_Faceless_Buff_0_Unskilled H7BaseBuff]
+mName="Death Cloak"
+mTooltip="Deals %d.min %ICON_DARK Dark damage to the next enemy creature attacking this creature in melee.\nLasts until end of combat round or until the creature is attacked in melee."
+
+[Dungeon.A_Faceless_Buff_1_Novice H7BaseBuff]
+mName="Death Cloak"
+mTooltip="Deals %d.min %ICON_DARK Dark damage to the next enemy creature attacking this creature in melee.\nLasts until end of combat round or until the creature is attacked in melee."
+
+[Dungeon.A_Faceless_Buff_2_Expert H7BaseBuff]
+mName="Death Cloak"
+mTooltip="Deals %d.min %ICON_DARK Dark damage to the next enemy creature attacking this creature in melee.\nLasts until end of combat round or until the creature is attacked in melee."
+
+[Dungeon.A_Faceless_Buff_3_Master H7BaseBuff]
+mName="Death Cloak"
+mTooltip="Deals %d.min %ICON_DARK Dark damage to the next enemy creature attacking this creature in melee.\nLasts until end of combat round or until the creature is attacked in melee."
+
+[Dungeon.A_Faceless_Buff_4_Ultimate H7BaseBuff]
+mName="Death Cloak"
+mTooltip="Deals %d1.min %ICON_DARK Dark damage to the next enemy creature attacking this creature in melee.\nLasts until end of combat round or until the creature is attacked in melee.\n\nWhen Death Cloak ends it deals %d2.min %ICON_DARK Dark damage to all neighbouring enemy units."
+
+[Dungeon.A_ShadowLurker_Attack H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Harrowing Vision"
+mTooltip="Creatures hit by an attack of this creature suffer again %buff.buff.special3 of the damage for %buff.buff.durini turns."
+
+[Dungeon.A_ShadowLurker_Attack_Buff H7BaseBuff]
+mName="Harrowing Vision"
+mTooltip="The creature gets %special1.val1 %ICON_DARK Dark damage at start of its turn.\nLasts for %durnow turn(s)."
+
+[Necropolis.A_Namtaru_Support H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltip="Dispels all negative Light effects from target friendly creature. Every single creature in the stack deals additional %buff1.buff.d.icon Dark damage with each hit. Lasts for %buff1.buff.durini turns."
+mTooltipUpgraded="Dispels all negative Light effects from target friendly creature. Every single creature in the stack deals additional %buff2.buff.d.icon Dark damage with each hit. Lasts for %buff2.buff.durini turns."
+mName="Dark Touch"
+
+[Necropolis.A_NamtaruCaller_SupportAbility H7WarfareAbility]
+mName="Dark Touch"
+mTooltip="Dispels all negative Light effects from target friendly creature. Every single creature in the stack deals additional %buff.buff.d.icon Dark damage with each hit. Lasts for %buff.buff.durini turns."
+
+[Necropolis.A_Namtaru_Support_Buff_0_Unskilled H7BaseBuff]
+mName="Dark Touch"
+mTooltip="The creature deals additional %d.min %ICON_DARK Dark damage with each attack.\nLasts for %durnow turn(s)."
+
+[Necropolis.A_Namtaru_Support_Buff_1_Novice H7BaseBuff]
+mName="Dark Touch"
+mTooltip="The creature deals additional %d.min %ICON_DARK Dark damage with each attack.\nLasts for %durnow turn(s)."
+
+[Necropolis.A_Namtaru_Support_Buff_2_Expert H7BaseBuff]
+mName="Dark Touch"
+mTooltip="The creature deals additional %d.min %ICON_DARK Dark damage with each attack.\nLasts for %durnow turn(s)."
+
+[Necropolis.A_Namtaru_Support_Buff_3_Master H7BaseBuff]
+mName="Dark Touch"
+mTooltip="The creature deals additional %d.min %ICON_DARK Dark damage with each attack.\nLasts for %durnow turn(s)."
+
+[Necropolis.A_Namtaru_Support_Buff_4_Ultimate H7BaseBuff]
+mName="Dark Touch"
+mTooltip="The creature deals additional %d.min %ICON_DARK Dark damage with each attack.\nLasts for %durnow turn(s)."

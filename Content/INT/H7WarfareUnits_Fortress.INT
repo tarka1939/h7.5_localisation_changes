@@ -1,0 +1,23 @@
+[A_BallistaFortress H7EditorWarUnit]
+mDesc="Attack Warfare Unit"
+mName="Fortress Ballista"
+mLore="Crossbows and siege engines are Dwarven specialties, and are vastly preferred to less complicated devices like bows, slings and the like. Dwarven ballista crews are deadly accurate, and can reload and fire fast enough to break up almost any enemy advance.\n\nPerfect Warfare unlocks: When ballista shots, every allied unit receives +5 defense for 3 turns. Enemy hit loses 5 attack.""
+
+[A_FireCannon H7EditorWarUnit]
+mDesc="Siege Warfare Unit"
+mName="Fire Cannon"
+mLore="The Fire Cannon is a good example of the Dwarves' talent when it comes to harnessing magic for practical uses. Powered by a Fire crystal (sometimes offered to the clan by an Ardent Dragon), the Fire Cannon uses intricate rune patterns to channel its energies into exploding balls of fire hurled at the enemy's fortifications."
+
+[A_RunicEmblem H7EditorWarUnit]
+mDesc="Support Warfare Unit"
+mName="Runestone"
+mLore="Runestones are like the codex of a clan's past history, brought to the battlefield to help the clan in its present-day conflicts. There is a power in stories, and the Dwarves' lengthy sagas have a purpose beyond self-gratification: when chanted with the proper words, these eddas have been known to strengthen the wills and mend the wounds of their clansmen."
+
+[A_TowerFortress H7TowerUnit]
+mName="Fortress Tower"
+mLore=""
+
+[A_RuneStone H7EditorWarUnit]
+mLore="Runestones are like the codex of a clan's past history, brought to the battlefield to help the clan in its present-day conflicts. There is a power in stories, and the Dwarves' lengthy sagas have a purpose beyond self-gratification: when chanted with the proper words, these eddas have been known to strengthen the wills and mend the wounds of their clansmen."
+[Fortress.A_BallistaFortress H7EditorWarUnit]
+mLore="Crossbows and siege engines are Dwarven specialties, and are vastly preferred to less complicated devices like bows, slings and the like. Dwarven ballista crews are deadly accurate, and can reload and fire fast enough to break up almost any enemy advance."

@@ -1,0 +1,181 @@
+[A_RuneAbility_Skip H7RuneAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Koniec Tury"
+mTooltip="Koñczy rundê jednosti."
+
+[A_RuneAbility_Wait H7RuneAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Czekaj"
+mTooltip="Jednostka runiczna bêdzie dzia³aæ póŸniej. Kolejnoœæ jednostek oczekuj¹cych jest odwrócona."
+
+[A_RuneOfDestruction_Ability_Active H7RuneAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded="Zadaje %d2.min obra¿eñ %icon_prime Magii Pierwotnej wszystkim stworzeniom znajduj¹cym siê w aurze runy. Mo¿e byæ aktywowana raz na bitwê."
+mName="Runa Destrukcji: Aktywacja"
+mTooltip="Zadaje %d1.min obra¿eñ %icon_prime Magii Pierwotnej wszystkim stworzeniom znajduj¹cym siê w aurze runy. Mo¿e byæ aktywowana raz na bitwê."
+
+[A_RuneOfDestruction_Ability_Aura_3x3 H7RuneAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Runa Destrukcji: Aura"
+mTooltip="Sojusznicze stworzenia znajduj¹ce siê w aurze dostaj¹ %buff1.buff.stat %icon_attack Ataku."
+
+[A_RuneOfDestruction_Ability_Aura_5x5 H7RuneAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Runa Destrukcji: Aura"
+mTooltip="Sojusznicze stworzenia znajduj¹ce siê w aurze dostaj¹ %buff1.buff.stat %icon_attack Ataku."
+
+[A_RuneOfDestruction_Ability_Aura_Buff H7BaseBuff]
+mName="Runa Destrukcji: Aura"
+mTooltip="%stat %icon_attack Ataku"
+
+[A_RuneOfDestruction_CreatureAbility_3x3 H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Runa Destrukcji"
+mTooltip="Przyjazne stworzenia w obszarze 3x3 wokó³ stwora otrzymuj¹ %buff1.buff.stat %icon_attack Ataku."
+
+[A_RuneOfDestruction_CreatureAbility_5x5 H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Runa Destrukcji"
+mTooltip="Przyjazne stworzenia w obszarze 5x5 wokó³ stwora otrzymuj¹ %buff1.buff.stat %icon_attack Ataku."
+
+[A_RuneOfDestruction_Rune H7EditorRuneUnit]
+mDesc=""
+mName="Runa Destrukcji"
+mLore=""
+
+[A_RuneOfFortune_Ability_Active H7RuneAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded="Nak³ada na wszystkie przyjazne jednostki znajduj¹ce siê w zasiêgu aury tarczê, która poch³ania do %buff2.buff.special.val1 obra¿eñ. Mo¿e byæ aktywowana tylko raz na walkê."
+mName="Runa Fortuny: Aktywacja"
+mTooltip="Nak³ada na wszystkie przyjazne jednostki znajduj¹ce siê w zasiêgu aury tarczê, która poch³ania do %buff1.buff.special.val1 obra¿eñ. Mo¿e byæ aktywowana tylko raz na walkê."
+
+[A_RuneOfFortune_Ability_Active_Buff H7BaseBuff]
+mName="Runa Fortuny Tarcza"
+mTooltip="Poch³ania do %special.val3 obra¿eñ."
+
+[A_RuneOfFortune_Ability_Active_Buff_Upgraded H7BaseBuff]
+mName="Runa Fortuny Tarcza"
+mTooltip="Poch³ania do %special.val3 obra¿eñ."
+
+[A_RuneOfFortune_Ability_Aura_3x3 H7RuneAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Runa Fortuny: Aura"
+mTooltip="Przyjazne istoty w obrêbie aury otrzymuj¹ %buff1.buff.stat %icon_luck Szczêœcia.\nWrogie istoty w obrêbie aury otrzymuj¹ %buff3.buff.stat %icon_luck Szczêœcia."
+
+[A_RuneOfFortune_Ability_Aura_5x5 H7RuneAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Runa Fortuny: Aura"
+mTooltip="Przyjazne istoty w obrêbie aury otrzymuj¹ %buff1.buff.stat %icon_luck Szczêœcia.\nWrogie istoty w obrêbie aury otrzymuj¹ %buff3.buff.stat %icon_luck Szczêœcia."
+
+[A_RuneOfFortune_Ability_Aura_Buff_Negative H7BaseBuff]
+mName="Runa Fortuny Aura"
+mTooltip="%stat %icon_luck Szczêœcia"
+
+[A_RuneOfFortune_Ability_Aura_Buff_Positive H7BaseBuff]
+mName="Runa Fortuny Aura"
+mTooltip="%stat %icon_luck Szczêœcia"
+
+[A_RuneOfFortune_CreatureAbility_3x3 H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Runa Fortuny"
+mTooltip="Przyjazne stworzenia w obszarze 3x3 wokó³ stwora otrzymuj¹ %buff1.buff.stat %icon_luck Szczêœcia.\nWrogie stworzenia w obszarze 3x3 wokó³ stwora otrzymuj¹ %buff3.buff.stat %icon_luck Szczêœcia."
+
+[A_RuneOfFortune_CreatureAbility_5x5 H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Runa Fortuny"
+mTooltip="Przyjazne stworzenia w obszarze 5x5 wokó³ stwora otrzymuj¹ %buff1.buff.stat %icon_luck Szczêœcia.\nWrogie stworzenia w obszarze 3x3 wokó³ stwora otrzymuj¹ %buff3.buff.stat %icon_luck Szczêœcia."
+
+[A_RuneOfFortune_Rune H7EditorRuneUnit]
+mDesc=""
+mName="Runa Fortuny"
+mLore=""
+
+[A_RuneOfResilience_Ability_Active H7RuneAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Runa Odpornoœci: Aktywacja"
+mTooltip="Odsuwa wszystkie stworzenia znajduj¹ce siê w aurze o 1 kamieñ od œrodka runy w kierunku radialnym."
+
+[A_RuneOfResilience_Ability_Aura_3x3 H7RuneAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Runa Odpornoœci: Aura"
+mTooltip="Sojusznicze stworzenia w obrêbie aury otrzymuj¹ %buff1.buff.stat %icon_defense Obrony."
+
+[A_RuneOfResilience_Ability_Aura_5x5 H7RuneAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Runa Odpornoœci: Aura"
+mTooltip="Sojusznicze stworzenia w obrêbie aury otrzymuj¹ %buff1.buff.stat %icon_defense Obrony."
+
+[A_RuneOfResilience_Ability_Aura_Buff H7BaseBuff]
+mName="Runa Odpornoœci Aura"
+mTooltip="%stat %icon_defense Obrony"
+
+[A_RuneOfResilience_CreatureAbility_3x3 H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Runa Odpornoœci"
+mTooltip="Sojusznicze stworzenia w obszarze 3x3 wokó³ stwora otrzymuj¹ %buff1.buff.stat %icon_defense Obrony."
+
+[A_RuneOfResilience_CreatureAbility_5x5 H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Runa Odpornoœci"
+mTooltip="Sojusznicze stworzenia w obszarze 5x5 wokó³ stwora otrzymuj¹ %buff1.buff.stat %icon_defense Obrony."
+
+[A_RuneOfResilience_Rune H7EditorRuneUnit]
+mDesc=""
+mName="Runa Odpornoœci"
+mLore=""
+
+UCP 1.3
+
+[A_RuneOfResilience_Ability_Active_5x5 H7RuneAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Runa Odpornoœci: Aktywacja"
+mTooltip="Odsuwa wszystkie stworzenia znajduj¹ce siê w aurze o 1 kamieñ od œrodka runy w kierunku radialnym."
+
+[A_RuneOfFortune_Ability_Active_5x5 H7RuneAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded="Nak³ada na wszystkie przyjazne stworzenia w zasiêgu aury tarczê, która poch³ania do %buff2.buff.special.val1 obra¿eñ. Mo¿e byæ aktywowana tylko raz na walkê."
+mName="Runa Fortuny: Aktywacja"
+mTooltip="Nak³ada na wszystkie przyjazne stworzenia w zasiêgu aury tarczê, która poch³ania do %buff1.buff.special.val1 obra¿eñ. Mo¿e byæ aktywowana tylko raz na walkê."
+
+[A_RuneOfDestruction_Ability_Active_5x5 H7RuneAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded="Zadaje %d2.min obra¿eñ %icon_prime Magii Pierwotnej wszystkim wrogim stworzeniom znajduj¹cym siê w aurze runy. Mo¿e byæ aktywowana tylko raz na walkê."
+mName="Runa Destrukcji: Aktywacja"
+mTooltip="Zadaje %d1.min obra¿eñ %icon_prime Magii Pierwotnej wszystkim wrogim stworzeniom znajduj¹cym siê w aurze runy. Mo¿e byæ aktywowana tylko raz na walkê."
+

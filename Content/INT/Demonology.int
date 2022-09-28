@@ -1,0 +1,110 @@
+
+[Demonologie_expert.A_ArcaneShield_Ability H7HeroAbility]
+mName="Coat of the Sheogh"
+mTooltip="Allied creatures gain a %buff2.buff.stat %icon_health HP bonus at the start of combat. This effect can be debuffed."
+
+[Demonologie_expert.A_Manteau_de_enfer_Buff H7BaseBuff]
+mName="Coat of the Sheogh"
+mTooltip="%stat %icon_health Health."
+
+
+[Demonologie_novice.A_BurningDetermination H7HeroAbility]
+mName="Novice Gate"
+mTooltip="Unlocks a 2nd spell: the hero can summon a %special1.val2% copy of the target creature to fight on his side once per combat.This only works for demonic creatures." 
+
+[Demonologie_expert.A_Fortune H7HeroAbility]
+mName="Advanced Gate"
+mTooltip="Unlocks a 3rd spell: the hero can summon a %special1.val2% copy of the target creature to fight on his side once per combat.This only works for demonic creatures." 
+
+[Demonologie_grand_maitre.A_destruction_vers H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Infernal Destruction"
+mTooltip="The creature deals %d.min Damage to all adjacent enemy creatures at the end of its turn."
+
+[Demonologie_grand_maitre.A_Regeneration_vers H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Regeneration of the Abyssal Worm"
+mTooltip="This creature heals %d.min %icon_health Health of all adjacent friendly units at the start of its turn."
+
+[Demonologie_grand_maitre.A_abyssal_ver_life_buff H7BaseBuff]
+mName="Vitality of the Abyssal Worm"
+mTooltip="Absorbs %special.val3 Damage."
+
+[Demonologie_grand_maitre.A_life_Abyssal_vers H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Vitality of the Abyssal Worm"
+mTooltip="Abyssal Worm can absorb %buff1.buff.special.val1 to %buff1.buff.special.val2 Damage."
+
+[Demonologie_grand_maitre.A_SummonElemental H7HeroAbility]
+mName="Summon of the Abyssal Worm"
+mTooltip="Summons an Abyssal Worm once per fight that inflicts 10 damage per hero level during its attack."
+
+[demonologie_maitre.A_ArcaneAttunement_Ability H7HeroAbility]
+mName="Infernal Stance"
+mTooltip="If an allied unit didn't deal damage during its turn or moral turn, it gains a 20% magic resistance until the end of its next turn."
+
+[demonologie_maitre.A_enferStance_CreatureAbility H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Infernal Stance"
+mTooltip="The creature takes %buff1.buff.res1 less %icon_magic magic damage if it did not deal damage during its turn until the end of its next turn." 
+
+[demonologie_maitre.A_Infernal_Stance_Buff_DefenseIncrease H7BaseBuff]
+mName="Infernal stance"
+mTooltip="The creature takes %res1 less %icon_magic Magic damage for %durnow turn(s)."
+
+[Demonologie_novice.A_ArcaneCatalyst_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Demonic Energy"
+mTooltip="%buff1.buff.stat1 to the base Damage of friendly creatures."
+
+[Demonologie_novice.A_dephasage_Buff H7BaseBuff]
+mName="Clarity"
+mTooltip=""
+
+[Demonologie_novice.A_force_demoniaque_Masterh H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Lord of the Hell"
+mTooltip="The hero starts with the Offense skill on novice rank and the %spell1.name ability. This ability increases base Damage of friendly creatures by additional +1."
+
+
+[Demonologie_novice.A_ArcaneChanneling_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Summoner"
+mTooltip="When the hero uses each Gating spell for the first time in the combat, they receive an additional turn.\nCannot apply more than once per each turn."
+
+[Demonologie_grand_maitre.byssal_vers H7Creature]
+mName="Abyssal Worm"
+mLore=""
+
+
+[Veyers_skill_demonologie_debug.A_BurningDetermination H7HeroAbility]
+mName="Gate"
+mTooltip="Unlocks a unique spell: the hero can summon a %special1.val2% copy of the target creature to fight on his side once per combat.This only works for demonic creatures." 
+
+change : 1.24 
+
+[Veyers_skill_demonologie_debug.A_Metamagic_Skill H7Skill]
+mDescriptions[0]="Increases the Gates power."
+mDescriptions[1]=""
+mDescriptions[2]="Unlock the summoning spell in the spell book and the hero receives +2 Magic %icon_magic.\nGates summon 1% creature per magic point %icon_magic"
+mDescriptions[3]="the hero receives +2 in Magic %icon_magic extra"
+mDescriptions[4]="the hero receives +2 in Magic %icon_magic extra"
+mName="Demonology"
+mTooltip="Increase the magic at each rank."
+
+
+

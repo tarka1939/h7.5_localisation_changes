@@ -1,0 +1,59 @@
+[Abilities.A_Sealstone_Attack H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Seal of the curse"
+mTooltip="Marks an enemy unit with a seal that sends out a random negative effect and inflicts %d.min to %d.max %icon_prime basic magic damage."
+
+[Abilities.A_Wormor_Attack H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Energy discharge"
+mTooltip="It fires at a fortification and inflicts %d.min to %d.max %ICON_PRIME basic magic damage."
+
+[Abilities.A_Wormor_LevelProgress H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Warfare Skill"
+mTooltip=""
+
+[Abilities.A_Wormor_Support H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded="The worm sacrifices itself and heals and revives all friendly units (including constructs) for %d2.max health (except undead)."
+mName="Sacrifice astral"
+mTooltip="The worm sacrifices itself and heals and revives all friendly units (including constructs) for %d1.max health (except undead)."
+
+[Abilities.A_Sealstone_Charge H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Load"
+mTooltip="Instead of attacking, the sealing stone will charge. Can only be used once per battle. On the next turn, it gains the ability: %spell1.name (The sealing stone releases all energy from enemy units that suffer random negative effects)."
+
+[Abilities.A_Sealstone_LevelProgress H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Warfare Skill"
+mTooltip=""
+
+[Abilities.A_Sealstone_Overload H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Overload"
+mTooltip="The sealing stone releases all energy from enemy units which suffer random negative effects."
+
+[Creatures.A_Wormor H7EditorWarUnit]
+mDesc="Unité de guerre de siège"
+mName="Cervor"
+mLore="The worms are creatures that the Xel summoned to Mondalar after regaining their full powers. They are astral worms that can concentrate energy into a powerful explosion, and subsequently damage walls. They were originally intended to be deployed against enemy troops, but their energy blast did not have the same effect on moving targets. If the worm's body is destroyed, the defence mechanisms are activated and the entire worm literally sinks into the ground due to the space-time rift it creates beneath it. However, the regeneration process will take some time and he will be able to return to full strength until the next fight. If his master demands it, he is able to sacrifice himself (inflicting heavy damage and disappearing into the rift) and use the remaining energy to heal and revive friendly units or even repair mechanisms."
+
+[Creatures.A_Sealstone H7EditorWarUnit]
+mDesc="Unité d'assaut et de soutien"
+mName="Sealing stone"
+mLore="The sealing stones date back to the time when the Mondalar guarded Sur and were able to transmit information quickly over long distances through these artefacts. At the same time, these stones were like "beacons" to which anyone from Sur could teleport. Over time, however, they fell into disuse until they were finally deactivated and left on Mondalar as mere decorations on the landscape. When the Xel entity awakened on the night that a huge storm swept the world, these stones were activated. However, the Xel radiation has made them effective weapons that can gradually weaken an opponent. Each stone can be charged and then recharged, weakening all enemy units. This process is however very energy intensive and can only be used once per battle."
+

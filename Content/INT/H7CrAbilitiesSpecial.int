@@ -1,0 +1,1122 @@
+[A_Stranglehold_Buff H7BaseBuff]
+mName="Stranglehold"
+mTooltip="The creature cannot move until the beginning of the turn of the creature that applied Stranglehold or until both creatures are no longer adjacent."
+
+[A_HexOfDisruption_Buff H7BaseBuff]
+mName="Hex of Disruption"
+mTooltip="%stat %ICON_DEFENSE Defence\n. Lasts for %durnow turn(s)."
+
+[A_Nimble_Buff H7BaseBuff]
+mName="Nimble"
+
+[A_Incapacitated_Immunity_Buff H7BaseBuff]
+mName="Immune to Incapacitation"
+mTooltip="The creature cannot get incapacitated for %durnow combat rounds."
+
+[A_NightmarishPresence H7CreatureAbility]
+mName="Nightmarish Presence"
+mTooltip="Neighbouring enemy creatures have %buff1.buff.stat %ICON_MORALE Morale."
+
+[A_Indomitable H7CreatureAbility]
+mName="Indomitable"
+mTooltip="The creature is immune to negative mind effects: It's immune to %ICON_MORALE Morale decreases and Mesmerize and ignores Face of Fear when being attacked."
+
+[A_AuraOfPurity H7CreatureAbility]
+mName="Aura of Purity"
+mTooltip="The creature and neighbouring friendly creatures cannot receive negative magical effects."
+
+[A_RuneTeleport H7CreatureAbility]
+mName="Rune Teleport"
+mTooltip="The creature teleports to the location of a friendly rune. The rune is destroyed and the creature gains it aura ability until the end of combat."
+
+[A_MagmaBlood H7CreatureAbility]
+mName="Magma Blood"
+mTooltip="The creature cannot be the target of negative Fire spells or effects. Fire damage from enemy attacks can only kill the top creature of the stack."
+
+[A_Regeneration_Dragon H7CreatureAbility]
+mName="Regeneration"
+mTooltip="The creature regenerates %d.min Health at end of its turn."
+
+[A_PiercingShot H7CreatureAbility]
+mName="Piercing Shot"
+mTooltip="The creature shoots at ALL units in a line."
+
+[A_Wild H7CreatureAbility]
+mName="Wild"
+mTooltip="Every time the creature gets damage from an enemy creatures' melee attack (not retaliation), it hits twice and incapacitates critically hit enemy creatures until end of its next turn."
+
+[A_AcidSpit H7CreatureAbility]
+mName="Acid Spit"
+mTooltip="Hit creatures receive half of the first hit's damage in the next turn and 25% the turn after the next turn."
+
+[A_ResistanceWater H7CreatureAbility]
+mName="Resistant to Water"
+mTooltip="Damage from Water spells and effects is halved and Water damage from enemy attacks is decreased by 25%."
+
+[A_EntanglingRoots H7CreatureAbility]
+mName="Entangling Roots"
+mTooltip="Creatures hit by the Treant in melee become unable to move and use movement based abilities. Lasts until the Treant moves."
+
+[A_AcidBreath_Buff H7BaseBuff]
+mName="Acid Breath"
+mTooltip="The creature gets %special1.val1 %ICON_EARTH Earth damage at start of its turn. This damage is halved every turn. Lasts for %durnow turn(s)."
+
+[A_Defensive H7CreatureAbility]
+mName="Defensive"
+mTooltip="When the creature activates the defend action it has unlimited retaliations and cannot be flanked until the beginning of its next turn."
+
+[A_FireShield H7CreatureAbility]
+mName="Fire Shield"
+mTooltip="Enemy creatures attacking or retaliating the creature in melee take %special1 of the damage dealt as fire damage."
+
+[A_Thorns_Buff H7BaseBuff]
+mName="Thorns"
+mTooltip="%stat %ICON_MOVEMENT Movement\nThe creature gets %d.min %ICON_EARTH Earth damage when it moves or is moved.\nLasts until end of turn."
+
+[A_Wild_Buff H7BaseBuff]
+mName="Wild"
+mTooltip="The creature always hits twice. Attacked creatures have the opportunity to retaliate after the first hit. Critical hits of the creature cannot be retaliated and make the attacked creature incapacitated until the end of its next turn."
+
+[A_AuraOfFire_Buff H7BaseBuff]
+mName="Aura of Fire"
+mTooltip="The creature is immune to Water magic effects."
+
+[A_Sweep H7CreatureAbility]
+mName="Sweep"
+mTooltip="The creature hits all neighbouring enemy units in an angle around the target unit."
+
+[A_Petrification H7CreatureAbility]
+mName="Petrification"
+mTooltip="Critical hit creatures become incapacitated until end of their next turn or until they get damage."
+
+[A_CorrodingVenom_Buff H7BaseBuff]
+mName="Corroding Venom"
+mTooltip="%stat %icon_defense Defense until the end of the creature's next turn."
+
+[A_Maneuver H7CreatureAbility]
+mName="Maneuver"
+mTooltip="When the creature is about to retaliate on a melee attack it moves away from the attacker first and then retaliates with its ranged attack."
+
+[A_PiercingClaws H7CreatureAbility]
+mName="Piercing Claws"
+mTooltip="The hits of the creature ignore half of the target unit's %ICON_DEFENSE Defence."
+
+[A_EntanglingRoots_Buff H7BaseBuff]
+mName="Entangling Roots"
+mTooltip="The creature cannot move and use movement based abilities."
+
+[A_AuraOfLight_Buff H7BaseBuff]
+mName="Aura of Light"
+mTooltip="The creature is immune to Dark magic."
+
+[A_LeafDaggers H7CreatureAbility]
+mName="Leaf Daggers"
+mTooltip="Once per combat the creature can shoot with %ICON_RANGE full range at all enemy units in a line. This shot ignores %ICON_DEFENSE Defence and cover."
+
+[A_ResistanceLight H7CreatureAbility]
+mName="Resistant to Light"
+mTooltip="Damage from Light spells and effects is halved and Light damage from enemy attacks is decreased by 25%."
+
+[A_NightmarishPresence_Buff H7BaseBuff]
+mName="Nightmarish Presence"
+mTooltip="%stat %ICON_MORALE Morale"
+
+[A_MightyPounce H7CreatureAbility]
+mName="Mighty Pounce"
+mTooltip="Once per combat the creature can pounce at double its normal movement range and attack all neighbouring units which cannot retaliate."
+
+[A_Rage_Buff H7BaseBuff]
+mName="Rage"
+mTooltip="%stat1 Damage and %stat3 %icon_movement Movement. The creature is immune to negative mind effects (it's immune to %ICON_MORALE Morale decreases and Mesmerize and ignores Face of Fear when being attacked). Lasts until end of the creature's next turn."
+
+[A_Mesmerize H7CreatureAbility]
+mName="Mesmerize"
+mTooltip="Critical hit creatures become incapacitated until end of their next turn or until they get damage."
+
+[A_NoRetaliation_Buff H7BaseBuff]
+mName="Lose Retaliation"
+
+[A_Backstab H7CreatureAbility]
+mName="Backstab"
+mTooltip="The creature's full flanking damage bonus is increased by 50 percentage points."
+
+[A_ImmunityPrime H7CreatureAbility]
+mName="Immune to Prime"
+mTooltip="The creature cannot be the target of negative Prime spells or effects. Prime damage from enemy attacks is halved."
+
+[A_FeralCharge_Buff H7BaseBuff]
+mName="Feral Charge"
+mTooltip=""
+
+[A_ImmunityDarkness H7CreatureAbility]
+mName="Immune to Dark"
+mTooltip="The creature cannot be the target of negative Dark spells or effects. Dark damage from enemy attacks is halved."
+
+[A_ChaosShield H7CreatureAbility]
+mName="Chaos Shield"
+mTooltip="Hostile creatures suffer from a random negative magic effect for each melee attack and retaliation."
+
+[A_HammerOfArkath H7CreatureAbility]
+mName="Hammer of Arkath"
+mTooltip="All creatures and warfare units adjacent to the target of the creature's melee attack (not retaliation) take %special1 of the damage dealt as fire damage."
+
+[A_DemonicLineage H7CreatureAbility]
+mName="Demonic Lineage"
+mTooltip="Resistant to Fire: Damage from Fire spells and effects is halved and Fire damage from enemy attacks is decreased by 25%.\nVulnerable to Light: The creature suffers 25% more Light damage."
+
+[A_SeaWarfare H7CreatureAbility]
+mName="Sea Warfare"
+mTooltip="Fighting on a ship the creature gets\n%buff.buff.stat6 base Damage, %buff.buff.stat2 Health\n%buff.buff.stat4 %ICON_ATTACK Attack, %buff.buff.stat5 %ICON_DEFENSE Defence\n%buff.buff.stat8 %ICON_MORALE Morale, %buff.buff.stat9 %ICON_LUCK Luck\n%buff.buff.stat3 %ICON_INITIATIVE Initiative, %buff.buff.stat1 %ICON_MAX_MOVEMENT Movement"
+
+[A_FatalStrike H7CreatureAbility]
+mName="Fatal Strike"
+mTooltip="The creature always kills at least one enemy creature if it can deal at least one point of damage."
+
+[A_WhirlingDeath H7CreatureAbility]
+mName="Whirling Death"
+mTooltip="The creature attacks all neighbouring enemy units."
+
+[A_ThrowingHammer_Buff H7BaseBuff]
+mName="Throwing Hammer"
+
+[A_HeartOfDarkness H7CreatureAbility]
+mName="Heart of Darkness"
+mTooltip="The creature and neighbouring friendly creatures are Resistant to Light and neighbouring enemy creatures are Vulnerable to Dark."
+
+[A_Regeneration_ShantiriTitan H7CreatureAbility]
+mName="Regeneration"
+mTooltip="The creature regenerates %d.min Health at end of its turn."
+
+[A_MagmaPond_Buff H7BaseBuff]
+mName="Magma Pond"
+
+[A_ImplodingArrow H7CreatureAbility]
+mName="Imploding Arrow"
+mTooltip="The creature performs a ranged attack against its target. All creatures within 3 tiles around the target creature are pulled and oriented towards the target creature. Once per Combat."
+
+[A_TrailOfFire H7CreatureAbility]
+mName="Trail of Fire"
+mTooltip="The creature leaves a trail of fire on its path while moving to a target tile or attacking a target creature. Creatures starting their turn or entering the trail get %buff1.buff.d1.min %icon_fire Fire Damage. The trail lasts until the end of the next combat round."
+
+[A_PreemptiveStrike H7CreatureAbility]
+mName="Preemptive Strike"
+mTooltip="The creature retaliates before it gets hit."
+
+[A_RangedRetaliation H7CreatureAbility]
+mName="Ranged Retaliation"
+mTooltip="The creature can retaliate ranged attacks with is own ranged attack, provided it's not in melee."
+
+[A_HeartOfDarkness_Buff_Vulnerability H7BaseBuff]
+mName="Heart of Darkness"
+mTooltip="Vulnerable to Dark: The creature suffers 25% more Dark damage."
+
+[A_Unfettered H7CreatureAbility]
+mName="Unfettered"
+mTooltip="The creature is immune to all kinds of movement reduction."
+
+[A_VulnerabilityAir H7CreatureAbility]
+mName="Vulnerable to Air"
+mTooltip="The creature suffers %res more Air damage."
+
+[A_ArmourPiercing H7CreatureAbility]
+mName="Armour Piercing"
+mTooltip="The creature's ranged attack ignores the target unit's %ICON_DEFENSE Defence."
+
+[A_RavangerCharge H7CreatureAbility]
+mName="Charge"
+mTooltip="The creature attacks with +2 %ICON_ATTACK Attack for for every tile crossed before the attack."
+
+[A_ResistanceEarth H7CreatureAbility]
+mName="Resistant to Earth"
+mTooltip="Damage from Earth spells and effects is halved and Earth damage from enemy attacks is decreased by 25%."
+
+[A_Rage H7CreatureAbility]
+mName="Rage"
+mTooltip="Every time the creature gets damage from an enemy creatures' range attack, it gets %buff.buff.stat1 Damage, %buff.buff.stat3 %icon_movement Movement and is immune to negative mind effects until end of its next turn."
+
+[A_InkSpray_Buff H7BaseBuff]
+mName="Ink Spray"
+mTooltip="All melee strikes have a 50% chance to miss. Lasts until the end of the creatures turn."
+
+[A_Shielding_Buff H7BaseBuff]
+mName="Shielded"
+mTooltip="The creatures gets only 25% of the damage from melee and range hits."
+
+[A_MagicImmunity H7CreatureAbility]
+mName="Magic Immunity"
+mTooltip="The creature cannot be the target of negative spells or effects from any magic school. All magic damage from enemy attacks is halved."
+
+[A_MagmaPond H7CreatureAbility]
+mName="Magma Pond"
+mTooltip="Creates a 4x4 magma pond below the creature that lasts until the end of the next combat round. Creatures entering or starting their turn in the magma pond suffer %buff1.buff.d1.min %icon_fire Fire Damage."
+
+[A_Vigilance H7CreatureAbility]
+mName="Vigilance"
+mTooltip="The creature cannot be flanked at all."
+
+[A_PiercingShot_Apprentice H7CreatureAbility]
+mName="Piercing Shot"
+mTooltip="The creature shoots at ALL units in a line."
+
+[A_AuraOfFire H7CreatureAbility]
+mName="Aura of Fire"
+mTooltip="The creature and neighbouring friendly creatures are immune to Water magic effects."
+
+[A_CripplingSting_Buff H7BaseBuff]
+mName="Crippling Sting"
+
+[A_InspiringPresence_Buff H7BaseBuff]
+mName="Inspiring Presence"
+mTooltip="%stat2 %ICON_MORALE Morale\n%stat1 %ICON_LUCK Luck"
+
+[A_OpportunityAttack_Buff H7BaseBuff]
+mName="OpportunityAttackBuff"
+
+[A_ImmunityEarth H7CreatureAbility]
+mName="Immune to Earth"
+mTooltip="The creature cannot be the target of negative Earth spells or effects. Earth damage from enemy attacks is halved."
+
+[A_HeartOfDarkness_Buff_Resistance H7BaseBuff]
+mName="Heart of Darkness"
+mTooltip="Resistant to Light: Light damage from spells is decreased by 50% and Light damage from creatures is decreased by 25%."
+
+[A_VulnerabilityEarth H7CreatureAbility]
+mName="Vulnerable to Earth"
+mTooltip="The creature suffers %res more Earth damage."
+
+[A_AuraOfCleansing H7CreatureAbility]
+mName="Aura Of Cleansing"
+mTooltip="The creature and neighbouring friendly creatures have %buff1.buff.stat %ICON_DEFENSE Defence and lose a random negative magical effect at start of their turn."
+
+[A_FeralCharge H7CreatureAbility]
+mName="Feral Charge"
+mTooltip="The creature attacks target unit without being limited in its movement range and without getting retaliated. It hits with %buff1.buff.stat2 %ICON_ATTACK Attack, but its %ICON_DEFENSE Defence is reduced to %buff4.buff.stat.norm until its next turn.\nOnce per combat."
+
+[A_ResistanceFire H7CreatureAbility]
+mName="Resistant to Fire"
+mTooltip="Damage from Fire spells and effects is halved and Fire damage from enemy attacks is decreased by 25%."
+
+[A_Blind H7CreatureAbility]
+mName="Blind"
+mTooltip="The creature is naturally blind and therefore immune to blinding effects."
+
+[A_VulnerabilityWater H7CreatureAbility]
+mName="Vulnerable to Water"
+mTooltip="The creature suffers %res more Water damage."
+
+[A_Bash H7CreatureAbility]
+mName="Bash"
+mTooltip="Critical hits of the creature cannot be retaliated and make the attacked creature incapacitated until the end of its next turn."
+
+[A_SixHeaded H7CreatureAbility]
+mName="Six-Headed"
+mTooltip="The creature hits all neighbouring enemy units in an wide angle around the target unit."
+
+[A_FireBreath_Buff H7BaseBuff]
+mName="Fire Breath"
+
+[A_AuraOfLight H7CreatureAbility]
+mName="Aura of Light"
+mTooltip="The creature and neighbouring friendly creatures are immune to Dark magic."
+
+[A_InspiringPresence H7CreatureAbility]
+mName="Inspiring Presence"
+mTooltip="The creature and neighbouring friendly creatures have %buff1.buff.stat1 %ICON_MORALE Morale and %ICON_LUCK Luck."
+
+[A_ImmunityFire H7CreatureAbility]
+mName="Immune to Fire"
+mTooltip="The creature cannot be the target of negative Fire spells or effects. Fire damage from enemy attacks is halved."
+
+[A_ForceArrows H7CreatureAbility]
+mName="Force Arrows"
+mTooltip="The ranged attacks of the creature ignore %special1.val1 %icon_defense Defense of the target."
+
+[A_Rebirth_Firebird H7CreatureAbility]
+mName="Rebirth"
+mTooltip="Once per combat if the creature is killed completely it is resurrected for half its original size and all effects are removed from it."
+
+[A_LongRange H7CreatureAbility]
+mName="Long Range"
+mTooltip="Small creatures cannot retaliate to the creature's attack."
+
+[A_FeralCharge_Buff_Penalty H7BaseBuff]
+mName="Feral Charge"
+mTooltip="The creature's %ICON_DEFENSE Defence is reduced to %stat.norm.\nLasts for %durnow turn."
+
+[A_ManaDrain H7CreatureAbility]
+mName="Mana Drain"
+mTooltip="Each single creature killed by the creature restores %special %ICON_MANA Mana for the hero. The Mana restored with one hit is limited by the hero's Magic."
+
+[A_NoRetaliation H7CreatureAbility]
+mName="No Retaliation"
+mTooltip="Enemy creatures cannot retaliate the creature's attacks."
+
+[A_TrailOfFire_Buff H7BaseBuff]
+mName="Trail of Fire"
+
+[A_MobileShooter H7CreatureAbility]
+mName="Mobile Shooter"
+mTooltip="The creature can either move and then shoot or shoot and then move."
+
+[A_Nimble H7CreatureAbility]
+mName="Nimble"
+mTooltip="The creature has %buff1.buff.stat1 %icon_defense Defense while being attacked or retaliated by large creatures. The creature cannot be flanked by large creatures."
+
+[A_TreantSynergy H7CreatureAbility]
+mName="Treant Synergy"
+mTooltip="The creature and neighbouring friendly creatures have %buff.buff.stat %ICON_DEFENSE Defence.\nThe creature heals neighbouring friendly Treants at end of its turn for %d.min Health."
+
+[A_CorrodingVenom H7CreatureAbility]
+mName="Corroding Venom"
+mTooltip="The target of attacks (not retaliations) from this creature get %buff.buff.stat %icon_defense Defense until the end of the target's next turn."
+
+[A_PoisonedBlades_Buff H7BaseBuff]
+mName="Poisoned Blades"
+mTooltip="The creature gets %special.val1 %ICON_DARK Dark damage at start of its turn. This damage increases every turn by adding the initial damage. Lasts for %durnow turn(s)."
+
+[A_AuraOfCleansing_Buff H7BaseBuff]
+mName="Aura of Cleansing"
+mTooltip="%stat %ICON_DEFENSE Defence\nThe creature loses a random negative magical effect at the start of its turn."
+
+[A_PoisonedBlades H7CreatureAbility]
+mName="Poisoned Blades"
+mTooltip="Hit creatures suffer additional damage at start of their turn. It starts with %buff.buff.special.val2 %ICON_DARK Dark damage per Shade and increases every turn by %buff.buff.special.val2 per Shade. Lasts for %buff.buff.durini turns."
+
+[A_WitheringBreath_Buff H7BaseBuff]
+mName="Withering Breath"
+mTooltip="The creature gets %special1.val1 %ICON_DARK Dark damage at start of its turn. This damage is halved every turn. Lasts for %durnow turn(s)."
+
+[A_VulnerabilityFire H7CreatureAbility]
+mName="Vulnerable to Fire"
+mTooltip="The creature suffers %res more Fire damage."
+
+[A_Construct H7CreatureAbility]
+mName="Construct"
+mTooltip="The creature is immune to poison, blindness, mind effects and morale effects. It cannot be healed or resurrected."
+
+[A_Resurrection H7CreatureAbility]
+mName="Resurrection"
+mTooltip="Heals and resurrects target friendly creature instantly with %d.min Health.\nOnce per combat.\n(Not affected: Undead and Constructs)"
+
+[A_ImmunityAir H7CreatureAbility]
+mName="Immune to Air"
+mTooltip="The creature cannot be the target of negative Air spells or effects. Air damage from enemy attacks is halved."
+
+[A_WitheringVenom_Buff H7BaseBuff]
+mName="Withering Venom"
+mTooltip="The creature gets %special %ICON_DARK Dark damage at start of its turn. This damage increases every turn by adding the initial damage. Lasts for %durnow turn(s)."
+
+[A_ImmunityLight H7CreatureAbility]
+mName="Immune to Light"
+mTooltip="The creature cannot be the target of negative Light spells or effects. Light damage from enemy attacks is halved."
+
+[A_SweepingBash H7CreatureAbility]
+mName="Sweeping Bash"
+mTooltip="The creature hits all neighbouring enemy units in a small angle around the target unit. Critical hit creatures become incapacitated until end of their next turn."
+
+[A_SeaWarfare_Buff H7BaseBuff]
+mName="Sea Warfare"
+
+[A_UnlimitedRetaliations H7CreatureAbility]
+mName="Unlimited Retaliations"
+mTooltip="The creature always retaliates if it has the opportunity."
+
+[A_DwarvenShieldwall H7CreatureAbility]
+mName="Dwarven Shieldwall"
+mTooltip="%special1.val1 %icon_defense Defense against non-flanking attacks. Non-flanking attacks and retaliations cannot render the creature Incapacitated."
+
+[A_BlindingLight H7CreatureAbility]
+mName="Blinding Light"
+mTooltip="Critical hits of the creature incapacitate the attacked creature until end of its next turn."
+
+[A_WitheringVenom H7CreatureAbility]
+mName="Withering Venom"
+mTooltip="Hit creatures suffer additional damage at start of their turn. It starts with %buff.buff.special.val2 %ICON_DARK Dark damage per Death Spider and increases every turn by %buff.buff.special.val2 per Death Spider. Lasts for %buff.buff.durini turns."
+
+[A_FieryEye H7CreatureAbility]
+mName="Fiery Eye"
+mTooltip="The creature shoots with full range dealing %d.min to %d.max %ICON_FIRE Fire damage."
+
+[A_Undead H7CreatureAbility]
+mName="Undead"
+mTooltip="The creature is not alive and has no Morale.\nIt cannot be healed or resurrected.\nIt is immune to poison, mind effects and fear.\nIt suffers %res2.norm more Light damage and is immune to positive Light spells and effects."
+
+[A_MightyPounce_Buff H7BaseBuff]
+mName="MightyPounce"
+mTooltip="Double Movement and remove attack action"
+
+[A_MagicAbsorption H7CreatureAbility]
+mName="Magic Absorption"
+mTooltip="All magic damage received from spells adds %ICON_PRIME Prime damage to the creature's next hit. The additional damage is limited by the number of creatures in the stack times their maximum base damage."
+
+[A_Charge H7CreatureAbility]
+mName="Charge"
+mTooltip="The creature attacks with +2 %ICON_ATTACK Attack for for every tile crossed before the attack."
+
+[A_MagicTouch H7CreatureAbility]
+mName="Magic Touch"
+mTooltip="Hit creature's suffer from a random negative magical effect."
+
+[A_Incapacitated_Buff H7BaseBuff]
+mName="Incapacitated"
+mTooltip="The creature cannot act or retaliate until the end of the combat round.\nThe creature becomes immune to incapacitation during the following two combat rounds."
+
+[A_VulnerabilityLight H7CreatureAbility]
+mName="Vulnerable to Light"
+mTooltip="The creature suffers %res more Light damage."
+
+[A_Stranglehold H7CreatureAbility]
+mName="Stranglehold"
+mTooltip="Small units that get attacked or retaliated by the creature cannot move until the beginning of the next turn of the creature with Stranglehold, until it died or until either creature is moved."
+
+[A_AuraOfPurity_Buff H7BaseBuff]
+mName="Aura of Purity"
+mTooltip="The creature cannot receive negative magical effects."
+
+[A_ArcaneWings H7CreatureAbility]
+mName="Arcane Wings"
+mTooltip="At the end of the creature's turn, all neighbouring enemy creatures suffers from a random magical effect."
+
+[A_VulnerabilityDarkness H7CreatureAbility]
+mName="Vulnerable to Dark"
+mTooltip="The creature suffers %res more Dark damage."
+
+[A_TreantSynergy_Buff H7BaseBuff]
+mName="Treant Synergy"
+mTooltip="%stat %ICON_DEFENSE Defence"
+
+[A_ResistanceAir H7CreatureAbility]
+mName="Resistant to Air"
+mTooltip="Damage from Air spells and effects is halved and Air damage from enemy attacks is decreased by 25%."
+
+[A_MobileShooter_Skip_Ability H7CreatureAbility]
+mName="End Turn"
+mTooltip="Ends the creature's turn."
+
+[A_Defensive_Buff H7BaseBuff]
+mName="Defensive"
+mTooltip="The creature has unlimited retaliations and cannot be flanked until the beginning of its next turn."
+
+[A_ImmunityWater H7CreatureAbility]
+mName="Immune to Water"
+mTooltip="The creature cannot be the target of negative Water spells or effects. Water damage from enemy attacks is halved."
+
+[A_ThrowingHammer H7CreatureAbility]
+mName="Throwing Hammer"
+mTooltip="The creature performs a range attack with full range and %buff1.buff.stat1 %icon_attack Attack. Can only be used once per combat. Recharges whenever a creature of the stack is killed."
+
+[A_LifeDrain_InsatiableThirst H7CreatureAbility]
+mName="Life Drain"
+mTooltip="The creature's hits restores Health equal in amount to 75% of the damage dealt. This also revives fallen creatures."
+
+[A_OpportunityRetaliation_Buff H7BaseBuff]
+mName="Opportunity Retaliation"
+mTooltip="The creature can retaliate with neighbouring allies."
+
+[A_RuneOfBalance_Rune H7EditorRuneUnit]
+mName="Rune of Balance"
+
+[A_Soulfire H7CreatureAbility]
+mName="Soulfire"
+mTooltip="Neighboring and passing friendly creatures get %buff1.buff.stat1 %icon_morale Morale and %buff1.buff.stat3 %icon_movement Movement."
+
+[A_Soulfire_Buff H7BaseBuff]
+mName="Fiery Soul"
+mTooltip="%stat1 %icon_morale Morale and %stat3 %icon_movement Movement until the end of the creature's next turn."
+
+[A_AcidSpit_Buff H7BaseBuff]
+mName="Acid Spit"
+mTooltip="The creature gets %special1.val1 %ICON_EARTH Earth damage at start of its turn. This damage is halved every turn. Lasts for %durnow turn(s)."
+
+[A_ResistanceDarkness H7CreatureAbility]
+mName="Resistant to Dark"
+mTooltip="Damage from Dark spells and effects is halved and Dark damage from enemy attacks is decreased by 25%."
+
+[A_DoubleShot H7CreatureAbility]
+mName="Double Shot"
+mTooltip="The creature hits a second time, if it killed at least one single creature with the first hit of its ranged attack. Attacked creatures have the opportunity to retaliate after the first hit."
+
+[A_Cleave_Buff_Penalty H7BaseBuff]
+mName="CleavePenalty"
+mTooltip="Duration: %t"
+[A_Charge_Buff H7BaseBuff]
+mName="Charge"
+[A_DoubleShot_Buff_Penalty H7BaseBuff]
+mName="DoubleShotPenalty"
+mTooltip="Duration: %t"
+[A_DragonAcidBreath_Buff H7BaseBuff]
+mName="Dragon Acid Breath"
+mTooltip="The creature stack receives a portion of the damage it received when this effect was applied."
+[A_MagicAbsorption_Buff H7BaseBuff]
+mName="Magic Absorption"
+mTooltip="The creature deals additional %ICON_PRIME Prime damage with its next hit."
+[A_Mesmerize_Buff H7BaseBuff]
+mName="Mesmerize"
+mTooltip="The creature cannot act or retaliate until the end of its next turn or until it gets damage."
+[A_PiercingClaws_Buff H7BaseBuff]
+mName="Piercing Claws"
+[A_Stunned_Buff H7BaseBuff]
+mName="Stunned"
+mTooltip="This creature lost its turn due to a might special ability."
+[A_Petrification_Buff H7BaseBuff]
+mName="Petrification"
+mTooltip="The creature cannot act or retaliate until the end of its next turn or until it gets damage."
+[A_OpportunityAttack_Buff_ReducedDamage H7BaseBuff]
+mName="Opportunity Attack DamageModifier"
+[A_StrikeAndReturn_Disable H7CreatureAbility]
+mName="Attack and Stay"
+mTooltip="The creature attacks without using the Strike and Return."
+
+[A_AuraOfPestilence_Buff H7BaseBuff]
+mName="Aura of Pestilence"
+mTooltip="%stat1 %ICON_ATTACK Attack\n%stat2 %ICON_MAX_MOVEMENT Movement\nLasts for %durnow turn(s)."
+
+UCP MOD
+
+[A_InkSpray H7CreatureAbility]
+mName="Ink Spray"
+mTooltip="The creature makes an attack with -70% damage hitting all neighbouring enemy units in an angle around the target unit. Target creatures have a 50% chance to miss their melee hits and retaliations until the end of their next turn."
+
+[A_CripplingSting H7CreatureAbility]
+mName="Crippling Sting"
+mTooltip="The creature makes a melee attack dealing %buff1.buff.stat1 Damage that cannot be retaliated and makes the attacked creature incapacitated until the end of its next turn. Once per combat."
+
+[A_Thorns H7CreatureAbility]
+mName="Thorns"
+mTooltip="Covers target 2x2 area with wooden thorns for %durini combat rounds. Enemy creatures starting their turn on the thorns get %buff1.buff.buff.buff.stat %ICON_MAX_MOVEMENT Movement for their turn and 10 %ICON_EARTH Earth damage for every Druid Elder if they move. Once per combat."
+
+[A_No_Meele_Penalty H7CreatureAbility]
+mName="No Melee Penalty"
+mTooltip="This creature has no penalty when fighting in melee."
+
+[A_PiercingShot_Apprentice H7CreatureAbility]
+mName="Magical Shot"
+mTooltip="The creature shoots at ALL units in a line, dealing damage by random magic school."
+
+UCP 1.1 (Brand New)
+
+[A_HolyBlades_Ability H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Holy Blades"
+mTooltip="All undead and demons adjacent to the target of the creature's melee attack (not retaliation) take %special1 of the damage dealt as %icon_light Light damage."
+
+[A_BlessedArrows H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Blessed Arrows"
+mTooltip="On moral turns, the creature's ranged attack ignores the target unit's %ICON_DEFENSE Defence."
+
+[A_BlessedArrows_Ability H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Blessed Arrows"
+mTooltip=""
+
+[A_LonelyWolf H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Lonely Wolf"
+mTooltip="%buff.buff.stat1 %icon_initiative Initiative and %buff.buff.stat3 %icon_movement Movement when the creature has no adjacent allies."
+
+[A_LonelyWolf_Buff_Increase H7BaseBuff]
+mName="Lonely Wolf"
+mTooltip=""
+
+[A_FormationDefensive H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Defensive Formation"
+mTooltip="The creature is switched into its defensive form: %buff1.buff.stat1 %icon_defense Defence and %buff1.buff.stat2 %icon_health maximum Health in addition to its ordinary %icon_Defense Defence bonus but its %icon_movement Movement is set to %buff1.buff.stat3."
+
+[A_FormationDefensive_Buff H7BaseBuff]
+mName="Defensive Formation"
+mTooltip="%stat1 %icon_defense Defence and %stat2 %icon_health maximum Health in addition to its ordinary %icon_Defense Defence bonus but %icon_movement Movement is set to %stat3."
+
+[A_FormationOffensive H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Offensive Formation"
+mTooltip="The creature is switched into its offensive form: %buff1.buff.stat1 %icon_attack Attack and %buff1.buff.stat2 %icon_movement Movement but its %icon_defense Defence is set to %buff1.buff.stat3."
+
+[A_FormationOffensive_Buff H7BaseBuff]
+mName="Offensive Formation"
+mTooltip="%stat1 %icon_attack Attack and %stat2 %icon_movement Movement but %icon_defense Defence is set to %stat3."
+
+[A_StunningBlow H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Stunning Blow"
+mTooltip="Each of the creature's attacks has a %buff.chance% chance to decrease target's %buff.buff.stat.icon Initiative to %buff.buff.d.min for %buff.buff.durini turns."
+
+[A_Incorporeal H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Incorporeal"
+mTooltip="Any unmagical attack against the creature has a %d.min% chance to fail."
+
+[A_Incorporeal_Buff H7BaseBuff]
+mName="Incorporeal"
+mTooltip=""
+
+[A_BarbarianAnger H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Barbarian Anger"
+mTooltip="Enemy creatures attacking the creature become targets of this creature's anger. All attacks (not retaliations) of creatures with this ability against these marked creatures will be critical for %buff.buff.durini turns."
+
+[A_BarbarianAnger_Buff H7BaseBuff]
+mName="Target of Barbarian Anger"
+mTooltip="All attacks (not retaliations) of creatures with the Barbarian Anger ability against this creature will be critical. Lasts for %durnow turn(s)."
+
+[A_CursedBlossom H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Cursed Blossom"
+mTooltip="Enemy creatures attacking the creature in melee get %buff.buff.stat %icon_luck Luck until end of their next turn."
+
+[A_CursedBlossom_Buff H7BaseBuff]
+mName="Cursed Blossom"
+mTooltip="%stat %icon_luck Luck until end of the creature's next turn."
+
+[A_ShadowArmour H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Shadow Armour"
+mTooltip="Whenever this creature becomes shrouded, it receives a shield, absorbing %stat.val damage per each hero level."
+
+[A_ShadowArmour_Buff H7BaseBuff]
+mName="Shadow Armour"
+mTooltip="Absorbs up to %special.val3 damage."
+
+[A_SolidAsAStone H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Solid Like a Stone"
+mTooltip="Whenever the creature receives damage, it gets %buff.buff.stat %buff.buff.stat.icon Defence until its next turn."
+
+[A_SolidAsAStone_Buff H7BaseBuff]
+mName="Solid Like a Stone"
+mTooltip=""
+
+[A_RhinocerosSkin H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rhinoceros Skin"
+mTooltip="+2 %icon_defense Defense for every tile crossed until the creature's next turn."
+
+[A_RhinocerosSkin_Buff H7BaseBuff]
+mName="Rhinoceros Skin"
+mTooltip=""
+
+[A_FlameStorm H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Flamestorm"
+mTooltip="At the beginning of each combat turn, each enemy creature has a %buff1.buff.d.chance% chance to receive %buff1.buff.d.min %icon_fire Fire damage by a storm of flames."
+
+[A_Flamestorm_Buff H7BaseBuff]
+mName="Flamestorm"
+mTooltip=""
+
+[A_FlamingArrows H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Flaming Arrows"
+mTooltip="Large creatures hit by the creature's ranged attack will be burned. Burning deals %buff.buff.special %ICON_Fire Fire damage to the creature at the start of its turn for %buff.buff.durini turns."
+
+[A_FlamingArrows_Buff H7BaseBuff]
+mName="Burning"
+mTooltip="Deals %special %ICON_Fire Fire damage to the creature at the start of its turn. Lasts for %durnow turn(s)."
+
+[A_ChildOfTheDarkness H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Child of the Darkness"
+mTooltip="The creature can walk through any other creature and it deals 1 %ICON_DARK Dark damage for every single creature in the stack when passing through an enemy creature."
+
+[A_ChildOfTheDarkness_Buff H7BaseBuff]
+mName="Child of the Darkness"
+mTooltip=""
+
+[A_Explosion H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Explosion"
+mTooltip="Whenever the creature receives damage, an explosion deals %d2.max %icon_fire Fire damage to all adjacent enemy creatures."
+
+[A_WindShield H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Wind Shield"
+mTooltip="The creature is immune against first damage received in each combat."
+
+[A_WindShield_Buff H7BaseBuff]
+mName="Wind Shield"
+mTooltip="The creature is immune against first damage received in each combat."
+
+[A_AuraOfRenewal H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Aura of Renewal"
+mTooltip="The creature and all neighbouring friendly creatures regenerate %d1.min Health at the start of this creature's turn. \n(Not affected: Undead and Constructs)"
+
+[A_IcePrison_Attack H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Ice Prison"
+mTooltip="This creature's ranged attack has a %d2.min% chance to imprison target enemy creature. Imprisoned creature cannot act and is treated as if not present until the start of the next combat round."
+
+[A_IcePrison_Buff H7BaseBuff]
+mName="Ice Prison"
+mTooltip="The creature inside the ice prison cannot act and is treated as if not present until the start of the next combat round."
+
+[A_TouchOfLight H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Touch of Light"
+mTooltip="The creature moves to the target friendly creature, removes all negative magic effects from it and fully regenerates its %icon_health Health."
+
+[A_ShadowOfDeath H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Shadow of Death"
+mTooltip="Hit creatures receive %buff.buff.stat %icon_health Health for %buff.buff.durini turns (is not stackable)."
+
+[A_ShadowOfDeath_Buff H7BaseBuff]
+mName="Shadow of Death"
+mTooltip="%stat %icon_health Health for %durnow turn(s)."
+
+[A_SirenSong H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Siren Song"
+mTooltip="Enemy creatures attacking the creature in melee become charmed until the end of their next turn. The creature is immune against damage done by charmed creatures.\nCreatures cannot be charmed twice in a row.\n(Not affected: Undead and Constructs)"
+
+[A_SirenSong_Buff H7BaseBuff]
+mName="Charmed"
+mTooltip="This creature deals no damage to creatures with the Siren Song ability. Effect lasts until the end of the creature's next turn."
+
+[A_SoulReaver_Buff H7BaseBuff]
+mName="Soul Reaver"
+mTooltip=""
+
+[A_DivingAttack_Initiative_Buff H7BaseBuff]
+mName="Arrival"
+mTooltip="%stat1.icon Initiative set to %stat1 and the creature cannot use the Diving Attack for %durnow turn(s)."
+
+UCP 1.1 (Improved descriptions)
+
+[A_Regeneration_Wyvern H7CreatureAbility]
+mName="Regeneration"
+mTooltip="The creature regenerates and resurrects %d.min Health at end of its turn."
+
+[A_Splash H7CreatureAbility]
+mName="Splash"
+mTooltip="The creature shoots at target 3x3 area once per combat. Target creatures receive %buff.buff.stat1 %icon_Movement Movement and %buff.buff.stat2 %ICON_INITIATIVE Initiative until the end of their next turn. Cannot be used while the creature attacks in melee."
+
+[A_Splash_Buff H7BaseBuff]
+mName="Splash"
+mTooltip="%stat1 %icon_Movement Movement and %stat2 %icon_Initiative Initiative until the end of the creature's next turn."
+
+[A_SoulReaver H7CreatureAbility]
+mName="Soul Reaver"
+mTooltip="Your hero receives %buff1.buff.stat1 %ICON_MANA Mana for each adjacent living enemy creature at the beginning of this creature's each turn."
+
+[A_DivingAttack_Buff_Movement H7BaseBuff]
+mTooltip=""
+
+[A_DivingAttack_Buff H7BaseBuff]
+mName=""
+
+[A_SolderingHands H7CreatureAbility]
+mName="Soldering Hands"
+mTooltip="Repairs instantly %d.min Health of target adjacent friendly construct."
+
+[A_LifeDrain H7CreatureAbility]
+mName="Life Drain"
+mTooltip="The creature's hits restore Health equal in amount to half of the damage dealt to the primary target. This also revives fallen creatures.\nThe creature gains no Health from Undead and Constructs."
+
+[A_StrikeAndReturn H7CreatureAbility]
+mName="Strike and Return"
+mTooltip="The creature returns back to its initial position after attacking if this position is still accessible."
+
+[A_RuneOfBalance_Ability_Active H7RuneAbility]
+mName="Rune of Balance: Activation"
+mTooltip="Removes all buffs from all creatures within the aura. Can be activated once per combat."
+
+[A_Nova H7CreatureAbility]
+mName="Nova"
+mTooltip="The creature shoots at target 3x3 area once per combat. Cannot be used while the creature is in melee."
+
+[A_FireNova H7CreatureAbility]
+mName="Nova"
+mTooltip="The creature shoots at target 3x3 area once per combat. Cannot be used while the creature is in melee."
+
+[A_LivingShelter_Buff_Treant H7BaseBuff]
+mName="Living Shelter"
+mTooltip="%stat1 %ICON_DEFENSE Defence\nThe creature provides cover for friendly creatures and they can pass through it. Any unmagical damage dealt to adjacent friendly units is redirected to this creature. Lasts until the creature moves or attacks."
+
+[A_LivingShelter H7CreatureAbility]
+mName="Living Shelter"
+mTooltip="The creature gets %stat %ICON_DEFENSE Defence and provides cover for friendly creatures. Friendly creatures can pass through it and any unmagical damage dealt to them is redirected to this creature. %name is active until the creature moves or attacks."
+
+[A_LivingShelter_Buff_Allies H7BaseBuff]
+mName="Tree Shield"
+mTooltip="Provides cover against ranged attacks. Any unmagical damage dealt to this creature is redirected to the adjacent creature using the Living Shelter ability."
+
+[A_AuraOfPestilence_Buff_Damage H7BaseBuff]
+mName="Aura Of Pestilence"
+mTooltip=""
+
+[A_AuraOfPestilence H7CreatureAbility]
+mName="Aura Of Pestilence"
+mTooltip="Neighbouring creatures get %d.min %ICON_EARTH Earth poison damage at the end of each combat turn and %buff.buff.buff.buff.stat1 %ICON_ATTACK Attack and %buff.buff.buff.buff.stat2 %ICON_MAX_MOVEMENT Movement for %buff.buff.buff.buff.durini turns.\n(Not affected: Undead and Constructs)"
+
+[A_DivingAttack H7CreatureAbility]
+mName="Diving Attack"
+mTooltip="The creature lifts off and attacks ALL creatures in target 2x2 area with %buff1.buff.stat %ICON_ATTACK Attack. The attack cannot be retaliated. Afterwards the creature lands close to the target area.\nThis creature's %icon_initiative Inititative is set to %buff1.buff.buff.buff.stat1 and it cannot use %name until end of its next turn."
+
+[A_Rooting_Buff_Base H7BaseBuff]
+mName="Rooting"
+mTooltip="%stat %ICON_MAX_MOVEMENT Movement for %durnow turn(s)."
+
+[A_Rooting_Buff_Critical H7BaseBuff]
+mName="Fatal Rooting"
+mTooltip="The creature cannot move and use movement based abilities for %durnow turn(s)."
+
+[A_Rooting H7CreatureAbility]
+mName="Rooting"
+mTooltip="Hit creatures get %buff1.buff.stat %ICON_MAX_MOVEMENT Movement for %buff1.buff.durini turns.\nCritical hit creatures become unable to move and use movement based abilities until end of their next turn instead."
+
+[A_RuneOfBalance_Ability_Aura_5x5 H7RuneAbility]
+mName="Rune of Balance: Aura"
+mTooltip="All unmagical damage to a friendly creature in the aura will be distributed equally between all friendly creatures within the aura."
+
+[A_RuneOfBalance_CreatureAbility_5x5 H7CreatureAbility]
+mName="Rune of Balance"
+mTooltip="All unmagical damage to a friendly creature in the 5x5 area around the creature will be distributed equally between all friendly creatures within that area."
+
+[A_RuneOfBalance_Ability_Aura_3x3 H7RuneAbility]
+mName="Rune of Balance: Aura"
+mTooltip="All unmagical damage to a friendly creature in the aura will be distributed equally between all friendly creatures within the aura."
+
+[A_RuneOfBalance_Ability_Aura_Buff H7BaseBuff]
+mName="Rune of Balance Aura"
+mTooltip="All unmagical damage dealt to the creature will be distributed equally amongst all friendly creatures within the aura of the rune of balance."
+
+[A_RuneOfBalance_CreatureAbility_3x3 H7CreatureAbility]
+mName="Rune of Balance"
+mTooltip="All unmagical damage to a friendly creature in the 3x3 area around the creature will be distributed equally between all friendly creatures within that area."
+
+[A_OpportunityAttack H7CreatureAbility]
+mName="Opportunity Attack"
+mTooltip="Provided the creature is not in melee, it gets one free immediate shot per combat round at the first enemy creature that's attacked in melee. This free shot deals -50% less damage."
+
+[A_AcidBreath H7CreatureAbility]
+mName="Acid Breath"
+mTooltip="The creature blows a cone of acid at enemy units during its attack (not retaliation). This damage doesn't apply flanking.\nHit creatures are inflicted half of the attack's damage on their next turn and 25% the turn after that."
+
+[A_DragonAcidBreath H7CreatureAbility]
+mName="Dragon Acid Breath"
+mTooltip="The creature blows a cone of acid in direction of the attacked unit during its attack (not retaliation). This damage doesn't apply flanking.\nHit creatures are inflicted half of the attack's damage on their next turn and 25% the turn after that."
+
+[A_BreathOfLight H7CreatureAbility]
+mName="Breath of Light"
+mTooltip="The creature casts a ray of light at enemy units during its attack (not retaliation). This damage doesn't apply flanking.\nCritical hit creatures become incapacitated until end of their next turn."
+
+[A_WitheringBreath H7CreatureAbility]
+mName="Withering Breath"
+mTooltip="The creature blows a cone of Dark magic at enemy units during its attack (not retaliation). This damage doesn't apply flanking.\nHit creatures are inflicted half of the attack's damage at their next turn and 25% the turn after that."
+
+[A_FireBreath H7CreatureAbility]
+mName="Fire Breath"
+mTooltip="The creature blows a cone of Fire magic at enemy units during its attack (not retaliation). This damage doesn't apply flanking.\nThe hit tiles are set afire until the end of the next combat round. Creatures stepping or starting their turn on burning tiles take %buff1.buff.d1.min %buff1.buff.d1.icon Fire damage."
+
+UCP 1.2
+
+[A_ScatterShot H7CreatureAbility]
+mName="Scatter Shot"
+mTooltip="The creature attacks all units in target 4x4 area dealing 25% damage."
+
+[A_LongRange_Buff H7BaseBuff]
+mName="Long Range"
+
+[A_SHIELDING H7CreatureAbility]
+mName="Shielding"
+mTooltip="Neighbouring friendly creatures (except Legionnaires) take only 25% damage from melee and range hits while the Legionnaire also takes 25% of the damage."
+
+[A_OpportunityRetaliation H7CreatureAbility]
+mName="Opportunity Retaliation"
+mTooltip="The creature gets a free retaliation on a neighbouring enemy creature which attacks a friendly creature. The ability can activate only once per each creature's turn on condition that the target of attack survives."
+
+[A_WindShield_NotUsed_Buff H7BaseBuff]
+mName="Wind Shield"
+mTooltip="The creature is immune against first damage received in each combat."
+
+[A_LifeDrain_LustForBlood H7CreatureAbility]
+mName="Life Drain"
+mTooltip="The creature's hits restore Health equal in amount to 10% of the damage dealt to the primary target. This also revives fallen creatures.\nThe creature gains no Health from Undead and Constructs."
+
+[A_MagicCatalyst H7CreatureAbility]
+mName="Magic Catalyst"
+mTooltip="All neighbouring enemy creatures receive %buff1.buff.res1.norm more direct damage from spells (except prime magic)."
+
+[A_MagicCatalyst_Buff H7BaseBuff]
+mName="Magic Catalyst"
+mTooltip="The creature receives %res1.norm more direct damage from spells (except prime magic)."
+
+[A_GiftOfLife_Buff_Marker H7BaseBuff]
+mName="Gift Of Life"
+
+[A_ShieldProtection H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Shield Protection"
+mTooltip="This creature and all adjacent friendly creatures get a cover against ranged attacks."
+
+[A_ShieldProtection_Buff H7BaseBuff]
+mName="Shield Protection"
+mTooltip="The creatures gets a cover against ranged attacks."
+
+[A_ArdentAura_Buff H7BaseBuff]
+mName="Ardent Aura"
+mTooltip="Vulnerable to Fire: The creature suffers 25% more %icon_fire Fire damage."
+
+[A_ArdentAura H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Ardent Aura"
+mTooltip="All neighbouring enemy creatures are Vulnerable to Fire."
+
+[A_Contagion H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Contagion"
+mTooltip="The creature's Aura of Pestilence becomes contagious, spreading from infected targets at the start of their turn to adjacent living creatures."
+
+[A_GriffinResolve H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Griffin Resolve"
+mTooltip="Every attack or retaliation of this creature increases its %icon_attack Attack by +%buff.buff.stat.norm for %buff.buff.durini turns."
+
+[A_GriffinResolve_Buff H7BaseBuff]
+mName="Griffin Resolve"
+mTooltip=""
+
+UCP 1.3 modified
+
+[A_HexOfDisruption H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Hex of Disruption"
+mTooltip="The creature's ranged attack reduces the %ICON_DEFENSE Defence of the target creature and all enemy creatures around it by %buff.buff.buff1.buff.stat.norm for %buff.buff.buff1.buff.durini turns."
+
+[A_HexOfDisruption_Primary_Buff H7BaseBuff]
+mName="Hex of Disruption"
+
+[A_LivingShelter H7CreatureAbility]
+mName="Living Shelter"
+mTooltip="As long as this creature is on its initial position, adjacent friendly creatures (except Treants and Ancient Treants) receive a cover against ranged attacks and get %buff1.buff.stat1 %ICON_DEFENSE Defence."
+
+[A_LivingShelter_Ability H7CreatureAbility]
+mName="Living Shelter"
+
+[A_LivingShelter_Buff_Allies H7BaseBuff]
+mName="Living Shelter"
+mTooltip="The creatures gets a cover against ranged attacks and %stat1 %stat1.icon Defence."
+
+[A_Cleave H7CreatureAbility]
+mName="Cleave"
+mTooltip="The creature always hits twice (except retaliation). Attacked creatures have the opportunity to retaliate after the first hit."
+
+[A_GiftOfLife H7CreatureAbility]
+mName="Gift of Life"
+mTooltip="Renewal of the Mother Treant also revives Dryads in addition to the regeneration. All other healing or regenerating effects cast on friendly creatures will be copied on this creature as well."
+
+[A_RuneOfBalance H7CreatureAbility]
+mName="Rune of Balance"
+mTooltip="The controlling player can deploy the Rune of Balance. It has a 3x3 aura that distributes all unmagical damage to one friendly creature in the aura between all friendly creatures in the aura. Creatures in the area are also protected against the effect of the %spell.\nOnce per combat the rune can remove all buffs from all creatures within its aura."
+
+[A_StunningBlow_Buff H7BaseBuff]
+mName="Stunning Blow"
+mTooltip="%stat.icon Initiative set to %d.min for %durnow turn(s)."
+
+[A_SoulFlayingBreath H7CreatureAbility]
+mName="Soul Flaying Breath"
+mTooltip="The creature blows a ray of Dark magic at enemy units during its attack (not retaliation), damaging all units in a certain angle. This damage doesn't apply flanking.\nHit creatures also lose two positive effects."
+
+UCP 1.3 new
+
+[A_TimeLord H7CreatureAbility]
+mName="Time Lord"
+mTooltip="Adjacent friendly creatures get %buff1.buff.stat1 %ICON_INITIATIVE Initiative for %buff1.buff.durini turns after this ability is used."
+
+[A_TimeLord_Buff H7BaseBuff]
+mName="Time Lord"
+mTooltip="%stat1 %stat1.icon Initiative for %durnow turns."
+
+[A_MarkOfTiger H7CreatureAbility]
+mName="Tiger Mark"
+mTooltip="Enemy creatures attacking the creature in melee receive the Mark of Tiger.\nWhenever the creature retaliates, all marked creatures receive additional damage equal to the damage dealt by retaliation, equally distributed among all these creatures."
+
+[A_MarkOfTiger_Buff H7BaseBuff]
+mName="Mark of Tiger"
+mTooltip="This creature will get damage whenever enemy creatures with the Tiger Mark ability retaliate."
+
+[A_MarkOfTiger_MainTarget_Buff H7BaseBuff]
+mName="Mark of Tiger"
+mTooltip="This creature will get damage whenever enemy creatures with the Tiger Mark ability retaliate."
+
+[A_LastKiss H7CreatureAbility]
+mName="Last Kiss"
+mTooltip="If the creature kills an enemy by its ranged attack, it can attack again. Cannot be used more than once per turn."
+
+[A_LastKiss_Buff H7BaseBuff]
+mName="Last Kiss"
+
+[A_LastKiss_Used_Marker H7BaseBuff]
+mName="Last Kiss"
+
+[A_RuneOfBalance_Ability_Active_5x5 H7RuneAbility]
+mName="Rune of Balance: Activation"
+mTooltip="Removes all buffs from all creatures within the aura. Can be activated once per combat."
+
+[A_FieryShot H7CreatureAbility]
+mName="Fiery Shot"
+mTooltip="This creature's ranged attacks can deal damage to multiple small enemy creatures in a small (2x2) area."
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+[A_heal_immunity H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Magic Immunity"
+mTooltip="The creature cannot be the target of negative spells or effects from any magic school. All magic damage from enemy attacks is halved."
+
+[Anti_heal.A_IceStrike_Buff H7BaseBuff]
+mName="Healing Freeze "
+mTooltip="The creature can no longer receive or heal itself. During %durnow turn(s).(does not work on type units "construct")"
+
+[Anti_heal.A_Nova H7HeroAbility]
+mTooltipMagicGuild="Target creature can no longer receive or be healed. (Does not work on construct type units) "
+mTooltipMagicGuildRankLine="Inflicts %d %icon_water. Targeted creatures in a 4x4 area can no longer receive healing or be cured for %buff1.buff.durini turns. Does not work on construct type units."
+mTooltipUpgraded="Deals %d %icon_water. Targeted creatures in a 4x4 area can no longer be healed or cured for %buff1.buff.durini turns. Does not work on construct units."
+mName="Healing Freeze "
+mTooltip="Deals %d %icon_water.Creature can no longer be healed.During %buff1.buff.durini turns. Does not work on construct type units."
+
+

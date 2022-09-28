@@ -1,0 +1,77 @@
+[Abilities.A_PathogenicField H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Pathogen field"
+mTooltip="Adjacent Xel units get %buff1.buff.stat1 %icon_attack to attack and %buff1.buff.stat3 %icon_defense to defend. Other adjacent units gain %buff2.buff.stat1 %icon_attack to attack and %buff2.buff.stat3 %icon_defense to defend (excluding undead and constructs). Field effects only apply to adjacent units and last for %buff1.buff.durini rounds."
+
+[Abilities.A_MarkOfTheSearcher_LuckIncrease H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Mark of Destiny"
+mTooltip="Successful attacks against enemy units marked by the Explorer receive a +15 %icon_LUCK bonus to luck."
+
+[Abilities.A_Imprison_Buff H7BaseBuff]
+mName="Imprisoned"
+mTooltip="The unit cannot move and use special abilities based on movement."
+
+[Abilities.A_Enslave_BuffElite H7BaseBuff]
+mName="Bondage: elite unit"
+mTooltip="The unit misses its turn without action."
+
+[Abilities.A_Imprison H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Imprisonment"
+mTooltip="If successful, there is a 30% chance of trapping the target, who cannot move. It lasts until the jailer moves."
+
+[Abilities.A_Enslave_BuffCore H7BaseBuff]
+mName="Servo: basic unit"
+mTooltip="The unit will mindlessly attack the nearest target with a bonus of %stat1 %icon_ATTACK to attack and %stat2 %icon_DEFENSE to defend."
+
+[Abilities.A_Enslave_BuffChargeCounter H7BaseBuff]
+mName="False charge counter"
+mTooltip=""
+
+[Abilities.A_PathogenicField_Buff H7BaseBuff]
+mName="Pathogen (reinforcement)"
+mTooltip="%stat1 %icon_attack to attack and %stat3 %icon_defense to defend until the end of the unit's next turn."
+
+[Abilities.A_PathogenicField_Debuff H7BaseBuff]
+mName="Pathogen (weakening)"
+mTooltip="%stat1 %icon_attack to attack and %stat3 %icon_defense to defend until the end of the unit's next turn."
+
+[Abilities.A_PathogenicField_Buff_Marker H7BaseBuff]
+mName=""
+mTooltip=""
+
+[Abilities.Enrage H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Enraged"
+mTooltip="The unit has a 30% chance to enter a furious trance when damaged by an enemy, increasing attack by %buff1.buff.stat1 %icon_attack, maximum damage by %buff1.buff.stat2 %icon_might_damage and movement by %buff1.buff.stat3 %icon_movement for %buff1.buff.durini rounds."
+
+[Abilities.Enrage_Buff H7BaseBuff]
+mName="Enraged"
+mTooltip="The unit is in a furious trance state. %stat1 %icon_attack to attack, %stat2 %icon_might_damage to inflict maximum damage and %stat3 %icon_movement to move for %durnow turns."
+
+
+
+[Abilities.Execution H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Punishment"
+mTooltip="The jailer has a 30% chance to inflict additional damage to a unit marked with %spell3.name for %d.min to %d.max %d.icon."
+
+[Creatures.A_CreatureEnslaver H7Creature]
+mName="Ogre Rat "
+mLore="Rat Ogres are among the higher life forms that mutated after the mutations of the entity Xel, they became these ferocious monsters. At first they could still be seen running on all fours, but over time their gait became more upright and impressive. The blindness caused by the mutation has been replaced by an excellent sense of smell and the ability to "see" radiation in everything, which increases their excitement when an opponent is marked by the Xel gene ."
+
+[Creatures.A_CreatureJailer H7Creature]
+mName="Mutant Rat "
+mLore="The physical and mental resistance of the mutant rats have allowed the xel entity to carry out numerous experiments in order to improve the power of its mastodons. Their appearance and behaviour inspires courage in their congeners and fear in their opponents."
+

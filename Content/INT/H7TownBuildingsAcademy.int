@@ -1,0 +1,261 @@
+[A_Academy_ThundercloudColiseum H7TownDwelling]
+mName="Thundercloud Coliseum"
+mDesc="Champion dwelling upgrade.\nEnables recruitment and upgrade of Colossi to Titans."
+
+[A_Academy_UniversityOfMagic H7TownDwelling]
+mName="University of Magic"
+mDesc="Elite Dwelling Upgrade, allows recruitment of Disciples."
+
+[A_Academy_ArcaneTower H7TownDwelling]
+mName="Arcane Tower"
+mDesc="Champion dwelling.\nEnables recruitment of Arcane Eagles with a growth of 1 per week."
+
+[A_Academy_AltarOfWishes H7TownDwelling]
+mName="Altar of Wishes"
+mDesc="Elite dwelling.\nEnables recruitment of Djinns with a growth of 4 per week."
+
+[A_Academy_ArcanePortal H7TownTearOfAsha]
+mName="Arcane Portal"
+mDesc="Provides 5000 %ICON_GOLD Gold per day and increases the creature growth in this town by 50%.\n+100 maximum %ICON_MANA Mana to all your heroes."
+
+[A_Academy_MagicGuild1 H7TownMagicGuild]
+mName="Magic Guild Level 1"
+mDesc="Provides 5 random spells of tier 1 in this town.\nThey are granted to all visiting heroes that fulfill the requirements."
+
+[A_Academy_PinnacleOfWishes H7TownDwelling]
+mName="Pinnacle of Wishes"
+mDesc="Elite dwelling upgrade.\nEnables recruitment and upgrade of Djinns to Djinn Channelers."
+
+[A_Academy_MagicGuild4 H7TownMagicGuild]
+mName="Magic Guild Level 4"
+mDesc="Provides 1 random spell of tier 4 in this town.\nIt is granted to all visiting heroes that fulfill the requirements."
+
+[A_Academy_GolemFoundry H7TownDwelling]
+mName="Golem Foundry"
+mDesc="Core dwelling upgrade.\nEnables recruitment and upgrade of Golems to Sandstone Golems."
+
+[A_Academy_TownPortal H7TownPortal]
+mName="Town Portal"
+mDesc="Provides the spell Instant Recall to all heroes visiting this town.\nEnables Heroes with this spell to return to this town if it is the nearest town available."
+
+[A_Academy_GoldenPavillion H7TownDwelling]
+mName="Golden Pavilion"
+mDesc="Elite dwelling upgrade.\nEnables recruitment and upgrade of Rakshasas to Rakshasa Rajas."
+
+[A_Academy_HallOfHeroes H7TownBuilding]
+mName="Hall of Heroes"
+mDesc="Provides the option to enlist new and defeated heroes. The selection of new heroes changes at the start of a new week."
+
+[A_Academy_CloudColiseum H7TownDwelling]
+mName="Cloud Coliseum"
+mDesc="Champion dwelling.\nEnables recruitment of Colossi with a growth of 1 per week."
+
+[A_Academy_VillageHall H7TownHall]
+mName="Village Hall"
+mDesc="Provides the option to build new structures in this town.\nProvides 500 %ICON_GOLD Gold per day."
+
+[A_Academy_MagicGuild3 H7TownMagicGuild]
+mName="Magic Guild Level 3"
+mDesc="Provides 3 random spells of tier 3 in this town.\nThey are granted to all visiting heroes that fulfill the requirements."
+
+[A_Academy_CityHall H7TownHall]
+mName="City Hall"
+mDesc="Provides additional 1000 %ICON_GOLD Gold per day."
+
+[A_Academy_FirePit H7TownDwelling]
+mName="Fire Pit"
+mDesc="Core dwelling upgrade.\nEnables recruitment and upgrade of Cabeiri to Cabir Masters."
+
+[A_Academy_SilverPavillion H7TownDwelling]
+mName="Silver Pavilion"
+mDesc="Elite dwelling\nEnables recruitment of Rakshasas with a growth of 2 per week."
+
+[A_Academy_StoneParapet H7TownDwelling]
+mName="Stone Parapet"
+mDesc="Core dwelling.\nEnables recruitment of Gargoyles with a growth of 18 per week."
+
+[A_Academy_LightningPyramid H7TownTower]
+mName="Lightning Pyramid"
+mDesc="Equips the town with 2 towers in siege combats."
+
+[A_Academy_ArtifactRecycler H7ArtifactRecycler]
+mName="Artefact Recycler"
+mDesc="Provides the option to convert artefacts into resources."
+
+[A_Academy_ResourceSilo H7TownSiloBuilding]
+mName="Resource Silo"
+mDesc="Provides 1 %icon_Crystal Dragon Blood Crystal, %icon_Dragonsteel Dragon Steel, %icon_Shadowsteel Shadowsteel or %icon_Starsilver Starsilver at random per day."
+
+[A_Academy_WishingWell H7TownGrowthEnhancer]
+mName="Wishing Well"
+mDesc="Elite dwelling upgrade.\n+4 growth of Djinns or Djinn Channelers per week."
+
+[A_Academy_ManaCore H7TownBuilding]
+mName="Mana Core"
+mDesc="Doubles the visiting hero's maximum %ICON_MANA Mana until end of the week and fully replenishes it."
+
+[A_Academy_SchoolOfMagic H7TownDwelling]
+mName="School of Magic"
+mDesc="Elite dwelling.\nEnables recruitment of Apprentices with a growth of 5 per week."
+
+[A_Academy_GolemForge H7TownDwelling]
+mName="Golem Forge"
+mDesc="Core dwelling.\nEnables recruitment of Golems with a growth of 8 per week."
+
+[A_Academy_CastingStage H7TownCastingStage]
+mName="Casting Stage"
+mDesc="Enables your heroes to apply two random negative magical effects on two random enemy creatures at the start of each combat in this town's area of control."
+
+[A_Academy_FireCave H7TownDwelling]
+mName="Fire Cave"
+mDesc="Core dwelling.\nEnables recruitment of Cabeiri with a growth of 15 per week."
+
+[A_Academy_Fortification1 H7TownGuardBuilding]
+mName="Fortifications Level 1"
+mDesc="Equips the town with walls and gate in siege combats and a local guard of Gargoyles and Cabeiri."
+
+[A_Academy_MarketPlace H7TownMarketplace]
+mName="Marketplace"
+mDesc="Provides the option to trade resources."
+
+[A_Academy_ThievesGuild H7TownThiefGuild]
+mName="Thieves Guild"
+mDesc="Provides the option to pay for information about your opponents."
+
+[A_Academy_ArcaneVortex H7TownDwelling]
+mName="Arcane Vortex"
+mDesc="Champion dwelling upgrade.\nEnables recruitment and upgrade of Arcane Eagles to Simurghs."
+
+[A_Academy_StarsilverFoundry H7TownGrowthEnhancer]
+mName="Starsilver Foundry"
+mDesc="Core dwelling upgrade.\n+4 growth of Golems or Sandstone Golems per week."
+
+[A_Academy_LavaPool H7TownGrowthEnhancer]
+mName="Lava Pool"
+mDesc="Core dwelling upgrade.\n+8 growth of Cabirs or Cabir Masters per week."
+
+[A_Academy_PyramidalCraft H7TownUtilityUnitDwelling]
+mName="Pyramidal Craft"
+mDesc="Warfare unit production.\nProvides the option to buy Small Pyramids."
+
+[A_Academy_RoaringTower H7TownGrowthEnhancer]
+mName="Roaring Tower"
+mDesc="Elite dwelling upgrade.\n+2 growth of Rakshasas or Rakshasa Rajas per week."
+
+[A_Academy_AlchemistLab H7TownBuilding]
+mName="Alchemist Lab"
+mDesc="Provides 1 %icon_Crystal Dragon Blood Crystal per day."
+
+[A_Academy_Fortification2 H7TownGuardBuilding]
+mName="Fortifications Level 2"
+mDesc="Increases the hit points of walls and gate in siege combats.\nAdds Djinns and Apprentices to the local guard.\nIncreases the capacities and growth of creatures in the local guard."
+
+[A_Academy_Fortification3 H7TownGuardBuilding]
+mName="Fortifications Level 3"
+mDesc="Increases the hit points of walls and gate in siege combats.\nIncreases the capacities and growth of creatures in the local guard."
+
+[A_Academy_CabirFoundry H7TownGrowthEnhancer]
+mName="Cabir Foundry"
+mDesc="Core dwelling upgrade.\n+9 growth of Gargoyles or Obsidian Gargoyles per week."
+
+[A_Academy_MageHousings H7TownGrowthEnhancer]
+mName="Mage Housings"
+mDesc="Elite dwelling upgrade.\n+5 growth of Apprentices or Disciples per week."
+
+[A_Academy_MagicGuild2 H7TownMagicGuild]
+mName="Magic Guild Level 2"
+mDesc="Provides 4 random spells of tier 2 in this town.\nThey are granted to all visiting heroes that fulfill the requirements."
+
+[A_Academy_SilverParapet H7TownDwelling]
+mName="Silver Parapet"
+mDesc="Core dwelling upgrade.\nEnables recruitment and upgrade of Gargoyles to Obsidian Gargoyles."
+
+[A_Academy_Moat H7TownMoat]
+mName="Moat"
+mDesc="Equips the town with a moat in siege combats.\nEnemy creatures stepping into it will be interrupted, receive damage of a random magic school and lose all effects applied to them."
+
+[A_Academy_Inscriber H7Inscriber]
+mName="Inscriber"
+mDesc="Provides the option to buy scrolls."
+
+[A_Academy_Workshop H7TownUtilityUnitDwelling]
+mName="Workshop"
+mDesc="Warfare unit production.\nProvides the option to buy Healing Tents."
+
+[A_Academy_ArcaneLibrary H7TownArcaneLibrary]
+mName="Arcane Library"
+mDesc="Adds two tier 1 and tier 2 spells and one tier 3 and tier 4 spell to the magic guild."
+
+[academybuildingabilities.A_Academy_ArcanePortal_Ability H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip=""
+
+[academybuildingabilities.A_Academy_ArcanePortal_HeroBuff H7BaseBuff]
+mName="Arcane Portal"
+mTooltip=""
+
+[academybuildingabilities.A_Academy_ArcanePortal_TownBuff H7BaseBuff]
+mName="Arcane Portal"
+mTooltip=""
+
+[academybuildingabilities.A_Academy_CastingStage_Ability H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Casting Stage Ability"
+mTooltip=""
+
+[academybuildingabilities.A_Academy_CastingStage_ApplyDebuff H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Casting Stage"
+mTooltip=""
+
+[academybuildingabilities.A_Academy_CastingStage_Buff H7BaseBuff]
+mName="Casting Stage"
+mTooltip="The hero will cast two random debuffs on two random creatures at the start of the next combat."
+
+[academybuildingabilities.A_Academy_ManaCore_Ability H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Mana Core Ability"
+mTooltip=""
+
+[A_AcademyUniversityOfMagic H7TownDwelling]
+mDesc="Elite dwelling upgrade.\nEnables recruitment and upgrade of Apprentices to Disciples."
+[academybuildingabilities.A_AcademyManaCore_Ability H7BaseAbility]
+mName="Mana Core Ability"
+[academybuildingabilities.A_AcademyManaCore_Buff H7BaseBuff]
+mName="Mana Core"
+mTooltip="Doubles visiting hero's maximum %ICON_MANA Mana until end of the week."
+[academybuildingabilities.A_CastingStage_Ability H7BaseAbility]
+mName="Casting Stage Ability"
+[academybuildingabilities.A_CastingStage_Buff H7BaseBuff]
+mName="Casting Stage"
+mTooltip="The hero will apply two random negative magical effects on two random enemy creatures at the start of a combat in the current area of control."
+
+UCP 1.1 
+
+[A_Academy_Capitol H7TownHall]
+mName="Capitol"
+mDesc="Provides additional 2000 %ICON_GOLD Gold per day. You can only have one Capitol."
+
+[A_Academy_TownHall H7TownHall]
+mName="Town Hall"
+mDesc="Provides additional 500 %ICON_GOLD Gold per day."
+
+7.5_mod
+
+
+[A_Academy_chambre_homme_chacal H7TownDwelling]
+mName="Desert Tents"
+mDesc="Allows a Sandstone Golem to be sacrificed to recruit a powerful elite creature - Anoukis."
+
+[A_Academy_chambre_shantirie H7TownDwelling]
+mName="Shantiri Ruins"
+mDesc="Allows to recruit a powerful champion creature - Guardian Shantiri. \Can be recruited using the "recruit all" function"

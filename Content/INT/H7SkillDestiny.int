@@ -1,0 +1,111 @@
+[A_ChaosMagic_HeroAbility H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="ChaosMagic"
+mTooltip=""
+
+[A_ChaosMagic_Buff_DeadlyStrike H7BaseBuff]
+mName="Good Luck"
+mTooltip="The damage is increased by 75% percent."
+
+[A_DeadlyStrike_Buff H7BaseBuff]
+mName="Good Luck"
+mTooltip="The damage is increased by 75%."
+
+[A_FickleMagic_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[A_PerfectStrike_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Perfect Strike"
+mTooltip="Critical hits of friendly creatures cannot be retaliated."
+
+[A_BlessedGround_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Blessed Ground"
+mTooltip="Governor: All friendly heroes in this town's area of control get %buff1.buff.stat %buff1.buff.stat.icon Destiny."
+
+[A_DeadlyStrike_CreatureAbility_Luck H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Deadly Strike"
+mTooltip="Tooltip"
+
+[A_PerfectStrike_CreatureAbility H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Perfect Strike"
+mTooltip="Critical hits of the creature cannot be retaliated."
+
+[A_Destiny_Skill H7Skill]
+mDescriptions[0]="Increases the hero's %stat1.icon Destiny."
+mDescriptions[1]=""
+mDescriptions[2]="Increases the hero's %stat1.icon Destiny by %stat1.norm."
+mDescriptions[3]="Increases the hero's %stat1.icon Destiny by additional %stat1.norm."
+mDescriptions[4]="Increases the hero's %stat1.icon Destiny by additional %stat1.norm."
+mName="Destiny"
+mTooltip="Destiny Skill Tooltip"
+
+[A_ChaosMagic_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Chaos Magic"
+mTooltip="The hero has a luck roll based on Destiny when casting a damage spell. A successful roll increases the spell's damage up to %spell.spell.buff1.buff.special (%spell.spell.buff2.buff.special with Deadly Strike)."
+
+[A_PerfectStrike_Buff_SuppressRetaliation H7BaseBuff]
+mName="no retaliation"
+mTooltip=""
+
+[A_FickleMagic_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Fickle Magic"
+mTooltip="Spells and magical effects from an enemy source cast on creatures you control have a %spell1.spell.buff.chance% chance to fail."
+
+[A_BlessedGround_Buff H7BaseBuff]
+mName="Blessed Ground"
+mTooltip="%stat %stat.icon Destiny in this area of control"
+
+[A_FickleMagic_CreatureAbility H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Fickle Magic"
+mTooltip=""
+
+UCP MOD
+
+[A_DeadlyStrike_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Deadly Strike"
+mTooltip="Critical hits of friendly creatures now deal 200% damage instead of 150%."
+
+UCP 1.2
+
+[A_TreasureFinder_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Treasure Finder"
+mTooltip="Treasure Chests picked up by the hero contain %stat1.norm more %icon_Gold Gold."
+
+[A_TravellersLuck_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Traveller's Luck"
+mTooltip="The hero gets a random temporary boost every week (except the first one)."
+
+

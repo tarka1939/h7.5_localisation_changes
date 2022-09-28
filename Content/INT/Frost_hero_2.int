@@ -1,0 +1,135 @@
+[A_magic_shield H7BaseBuff]
+mName="Magic Boost"
+mTooltip="Creature gains %stat %icon_health hp bonus until end of combat turn."
+
+[Archetype.A_Grikald H7EditorHero]
+mName="Grikald"
+mLore=""
+
+[Archetype.A_mushy H7EditorHero]
+mName="Mushy"
+mLore=""
+
+[Archetype.A_Vexes H7EditorHero]
+mName="Vexes"
+mLore=""
+
+[Hero_specialisation.A_berseker_of_ice H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Berserker of the Cold"
+mTooltip="This hero increases his damage by %stat1 %icon_water per level. Creature he attacks suffers %buff3.buff.res1 damage until end of combat turn."
+
+[Hero_specialisation.A_Marque_bersekeur_ice_Buff H7BaseBuff]
+mName="Mark of the Ice Berseker"
+mTooltip="Target creature takes %res1 additional damage until end of turn."
+
+[Hero_specialisation.A_Percing_figth H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Piercing Cold "
+mTooltip="At the start of the fight, place a buff on all allies creatures ignoring 25% of enemy defense, during 3 turns."
+
+[Hero_specialisation.A_Puissance_up H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Vault Hunter"
+mTooltip="Whenever hero opens a chest he gains %stat %icon_attack attack."
+
+[Hero_specialisation.A_specialisation_boost_t4 H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Magic Boost"
+mTooltip="At the start of the fight, and each time his hero targets an ally Kshatriya ou  Kshatriya Kali to give him a buff, he places a magic reinforcement, which increases by %buff.buff.stat %icon_health until the end of the combat turn."
+
+[Heros_names.A_Grikald_Name H7GlobalName]
+mName="Grikald"
+
+[Heros_names.A_Mushy_Name H7GlobalName]
+mName="Mushy"
+
+[Heros_names.A_Vexes_Name H7GlobalName]
+mName="Vexes"
+
+
+[Archétype.A_Chairtmin H7EditorHero]
+mName=""
+mLore=""
+
+[Heros_names.A_Chairtmin_Name H7GlobalName]
+mName="Chairtmin"
+
+[Hero_specialisation.A_Percing_figth H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Piercing Cold "
+mTooltip="At the start of the fight, place a buff on all allies: Allied creatures ignore 25% of enemy defense , during 3 turns."
+
+[heropédya.A_HeroBio_Chairmin H7HeroBioData]
+mText="For several centuries Chairtmin was the leader of Hrimthurses and keeper of their traditions. Despite his considerable age, his mind is still clear, and his body is filled with strength. Realizing how warlike his kindred can be sometimes, the giant skillfully cools their ardor, directing it in the right way. After the arrival of the chosen champion, Chairtmin made the difficult decision to leave mountains and, as a sign of goodwill, personally led his tribe to meet with representatives of the Union in order to prepare for the destined battle together with new allies. Although there are many Hrimturses who are dissatisfied with Chairtmin's decision, only those who are ready to challenge him to a duel for the title of leader can openly object to him. At the moment, there are no daredevils capable of withstanding his mighty blows, which easily break even the most durable armor."
+
+[Archétype.A_Fiur H7EditorHero]
+mName=""
+mLore=""
+
+[Hero_specialisation.A_Recruiter_fiur_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Recruiter"
+mTooltip="Governor: Recruiting creatures in this town costs %special1% less Gold."
+
+[Hero_specialisation.A_Recruiter_fiur_TownBuff H7BaseBuff]
+mName="Recruiter (Town Buff)"
+mTooltip=""
+
+[Hero_specialisation.A_specialisation_boost_t4 H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Reinforcement Magic Boost"
+mTooltip="At the start of the fight, hero targets an allied creature to place a magic reinforcement, which increases by %buff.buff.stat %icon_health until the end of the combat turn."
+
+
+[heropédya.A_HeroBio_fiur H7HeroBioData]
+mText="When the Ice Spires Union decided to reveal itself to the world, Fiur, being the head of the most influential trading guild, took over the establishment of relations with the leading countries of Ashan. Personally taking part in all important negotiations, he skillfully achieved his goals and concluded many mutually beneficial trade agreements. Soon, caravans with valuable goods started to travel along the roads of the Union, and that activity could not but attract the attention of surrounding bandits. For such occasions, Fiur's quiver was always full of sharp arrows, but he also knew that it's possible to achieve a lot with money and did not hesitate to bribe the warring gangs, setting them against each other."
+
+[Heros_names.A_Fiur_Name H7GlobalName]
+mName="Fiur"
+
+[Archétype.A_Lily_Rose H7EditorHero]
+mName=""
+mLore=""
+
+[heropédya.A_HeroBio_lily_rose H7HeroBioData]
+mText="Even wise Naga mentors, who were once invited from Shanria to teach young Lily Rose, were forced to admit their powerlessness, calling her the avatar of the Wrecker in human form. Their techniques involved unity with the water and achieving inner peace, but the talent of the young sorceress manifested itself in causing destruction. Avalanches, snowstorms, giant tidal waves - Lily Rose can create them literally at the snap of her fingers, radically changing the usual point of view at the well-known principle "The best defense is a good offense". Seeing how skillfully the young sorceress controls the water element, unleashing one spell after another on the enemies, her troops somehow feel more secure"
+
+[Heros_names.A_lily_rose_Name H7GlobalName]
+mName="Lily Rose"
+
+[Hero_specialisation.A_Defenseur_de_givre H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Frost Resistance "
+mTooltip="This hero increases by %stat1 %icon_defense each time he inflicts damage with a water spell."
+
+[Hero_specialisation.A_percing_figth_Buff H7BaseBuff]
+mName="Piercing cold "
+mTooltip="Creatures under the hero's control gain a buff allowing them to override %special %icon_defense enemies.During %durnow turns "
+
+
+[heropedya.A_HeroBio_grikald H7HeroBioData]
+mText="Grikald was one of those, who believed that knowledge should be of benefit to others, and did everything to make life easier for ordinary people, who desperately tried to survive in the harsh climate of Dragon Causeway. After many years of studying the Mashana's initiation the magician managed to create a magical ritual, which could make all citizens of the Union completely immune to the cold, yet the Council of Sages considered it too dangerous. In response, the Archmage voluntarily performed the ritual on himself, but was forced to admit that it was far from perfect, and only the initiation could give the protection from its negative consequences. Continuing his research, Grikald developed a more simplified version of the ritual, which he often tests during battles, increasing the vitality of his warriors."
+
+[heropedya.A_HeroBio_Mushi H7HeroBioData]
+mText="Being the daughter of a simple blacksmith and a hotel proprietress, Mushy always wanted to provide a better life for her family. Unlike her peers, who actively learned the basics of housekeeping, she chose the military path for herself, spending several hours on training every day. The girl's efforts were crowned with success when she managed to enlist in the military school of Ukur and graduate with honors. Few years later, Mushy was appointed as the commander of garrison in her hometown, Entil. After returning from military campaigns, she transfers part of the obtained trophies to the treasury, and either sends the remaining money to her family or purchases the materials of highest quality. Believing that her warriors should have best weapons, Mushy is always ready to return to the family business for a bit and lock herself in the forge for a few days."
+
+
+[heropedya.A_HeroBio_vexes H7HeroBioData]
+mText="Although the Mashana's initiation bestows arcane knowledge about the nature of cold, not everyone can fully comprehend it. Having received the blessing of one of the oldest daughters of Shalassa, Vexes got the status of the Lesser Enlightened One, but that gift turned out to be a too heavy burden for him. Each time the young prophet entered a trance, the power contained in his body was unleashed in the form of snowstorm, which became stronger and more extensive with each new journey to the Spirit World. Eventually, it covered the whole city of Lamak, and by the decision of the Council one of the Archmages was sent there to take control of the situation. Under his strict guidance, Vexes managed to suppress the unstable elemental energy, reaching a precarious balance between body, mind and spirit."

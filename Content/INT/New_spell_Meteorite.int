@@ -1,0 +1,11 @@
+[A_meteorite_Buff H7BaseBuff]
+mName="Vulnerable to fire "
+mTooltip="Increases by %res damage from source attacks %icon_fire fire that this creature undergoes during %durnow turns"
+
+[A_Firebolt H7HeroAbility]
+mTooltipMagicGuild="Deals %d.icon Fire damage to the target enemy unit, instantly."
+mTooltipMagicGuildRankLine="%d.min to %d.max %d.icon"
+mTooltipUpgraded="Deals %d.min to %d.max %d.icon Fire damage has all enemy units, then makes them vulnerable to fire for %buff.buff.durini turns ."
+mName="Meteorite rain "
+mTooltip="Deals %d.min to %d.max %d.icon Fire damage to all enemy units "
+

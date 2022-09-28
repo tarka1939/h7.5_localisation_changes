@@ -1,0 +1,10 @@
+[Armure_de_givre.A_armure_givre_Buff H7BaseBuff]
+mName="Frost Armor"
+mTooltip="During %durnow.norm turns. The creature is buffed %stat1 %icon_defense and has a 50% chance to freeze enemies that attack it in melee."
+
+[Armure_de_givre.A_BurningDetermination H7HeroAbility]
+mTooltipMagicGuild="Increase the defense of the targeted ally and has a 50% chance to freeze enemies that attack it in melee"
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded="Increases the defense of targeted allies in an area by 4X4 at %buff1.buff.stat1 %icon_defense and has a 50% chance to freeze enemies that attack it in melee during %buff1.buff.durini.norm turns "
+mName="Frost Armor "
+mTooltip="Increases the defense of the target ally by %buff1.buff.stat1 and has a 50% chance to freeze enemies that attack it in melee during %buff1.buff.durini.norm turns "

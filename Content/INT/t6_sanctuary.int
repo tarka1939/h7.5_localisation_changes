@@ -1,0 +1,41 @@
+[Ability.A_Resurrection H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Meditation "
+mTooltip="Creature will act later, but it increases its final damage by %buff4.buff.stat1 and its Chance for next attacks by %buff4.buff.stat2 %icon_luck. %spell4.name dissipates at end of turn or if this creature takes damage."
+
+[Ability.A_mille_lames_Buff H7BaseBuff]
+mName="Prey"
+mTooltip="This creature is marked . Takes %durnow turns.                         "
+
+[Ability.A_Meditation_Buff H7BaseBuff]
+mName="Meditation"
+mTooltip="Creature acts later, but it increases %stat1 its final damage and %stat2 %stat2.icon its chance for next attacks. %spell4.name dissipates at end of turn or if this creature takes damage. "
+
+[A_Creature_t6_lv2 H7Creature]
+mName="Daimyo"
+mLore="While most shugos prefer to care for the small territories bestowed upon them and train recruits, some of them still manage to partially regain their former influence. To earn the trust of the inhabitants of Shanria, who relentlessly guard their independence and wary about the infiltration of spies from Hashima, one must possess not only martial skills or wisdom, but also a purity of mind. Only such Nagas get the opportunity to become Daimyos and devote themselves entirely to the service of Shanria and its people. Spending evenings in meditation sessions, they renounce thoughts of worldly fuss and strive to find inner peace."
+
+[A_Creature_t6_base H7Creature]
+mName=" Ronin"
+mLore="The rebellion of Oshiro the Accursed was the first link in a chain of events that shook Hashima to its core, when influential daimyos began to oppose the Eternal Empress, challenging her right to lead the Naga. In the end, many rebels who managed to avoid execution went into self-imposed exile and were publicly declared to be Ronins who tarnished their honor. Deprived of all lands and privileges, the renegades were forced to go on a long journey, until they finally reached Shanria, where they got the opportunity to start a new life as shugos - leaders of small provinces."
+
+[Ability.A_mille_lames H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Thousand Blades
+mTooltip="When this creature deals a critical hit, target gets %spell4.name. Target marked with %spell4.name has a 10% chance to get up to 3 times %d1 additional %icon_air damage when this creature deals damage. %spell4.name dissipates at the end of the combat round. "
+
+[Ability.A_guerrier_valeureux H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Warrior Value"
+mTooltip="When this unit loses at least one creature from its stack, it gets %stat1 added to its final damage and %stat2 %stat2.icon Chance ."
+
+[Ability.A_guerrier_valeurs_Buff H7BaseBuff]
+mName="Warrior Value"
+mTooltip=""
+

@@ -1,0 +1,284 @@
+[A_Despair H7HeroAbility]
+mTooltipMagicGuild="Decreases the %buff.buff.stat.icon Morale of the target enemy creature for %buff.buff.durini turns."
+mTooltipMagicGuildRankLine="%buff.buff.stat %buff.buff.stat.icon Morale"
+mTooltipUpgraded="Decreases by %buff.buff.stat.norm the %buff.buff.stat.icon Morale of all enemy creatures in the target 4x4 area for %buff.buff.durini turns."
+mName="Despair"
+mTooltip="Decreases by %buff.buff.stat.norm the %buff.buff.stat.icon Morale of the target enemy creature for %buff.buff.durini turns."
+
+[Imprinted.A_FaceOfFear_Imprinted_Buff_Fear H7BaseBuff]
+mName="Fear"
+mTooltip="%stat %stat.icon Morale\nLasts for %durnow turn(s)."
+
+[Imprinted.A_HauntingPlague_Imprinted H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Haunting Plague"
+mTooltip="%buff1.buff.special1 random enemy creatures get the debuff "Haunting Plague" when the spell is cast and at the start of the next 2 combat rounds. Afflicted creatures have %buff2.buff.stat %icon_attack Attack and get %buff2.buff.d %icon_dark dark damage at the end of a combat round."
+
+[A_FaceOfFear_Buff H7BaseBuff]
+mName="Face of Fear"
+mTooltip="The creatures' melee attacks make enemies run 2 tiles away instead of retaliating and decreases their %ICON_MORALE Morale by %buff2.buff.stat.norm for %buff2.buff.durini turns.\nLasts for %durnow turn(s)."
+
+[A_Despair_Buff H7BaseBuff]
+mName="Despair"
+mTooltip="%stat %stat.icon Morale\nLasts for %durnow turn(s)."
+
+[A_Weakness H7HeroAbility]
+mTooltipMagicGuild="Decreases the %buff.buff.stat.icon Attack of the target enemy creature for %buff.buff.durini turns."
+mTooltipMagicGuildRankLine="%buff.buff.stat %ICON_ATTACK Attack"
+mTooltipUpgraded="Decreases by %buff.buff.stat.norm the %buff.buff.stat.icon Attack of all enemy creatures in the 4x4 target area for %buff.buff.durini turns."
+mName="Weakness"
+mTooltip="Decreases by %buff.buff.stat.norm the %buff.buff.stat.icon Attack of the target enemy creature for %buff.buff.durini turns."
+
+[Imprinted.A_HauntingPlague_Imprinted_Buff_Hero H7BaseBuff]
+mName="Haunting Plague"
+mTooltip="The haunting plague will affect %special1 random enemy creatures at the beginning of each combat round. Lasts %durnow combat round(s)."
+
+[A_ShadowImage_Buff_Upgraded H7BaseBuff]
+mName="Shadow Image"
+mTooltip="This Shadow Image is destroyed when it receives any damage."
+
+[Imprinted.A_Purge_Imprinted H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Purge"
+mTooltip="Removes %special1 positive magical effect(s) from the target enemy creature, instantly."
+
+[A_MalassasTemptation H7HeroAbility]
+mTooltipMagicGuild="Increases the chances that neutral armies offer to join the hero, until the end of the day."
+mTooltipMagicGuildRankLine="%buff.buff.stat chance"
+mTooltipUpgraded=""
+mName="Malassa's Temptation"
+mTooltip="Increases by %buff.buff.stat.norm the chances that neutral armies offer to join the hero, until the end of the day."
+
+[Imprinted.A_ShadowImage_Imprinted_Buff H7BaseBuff]
+mName="Shadow Image"
+mTooltip="This Shadow Image is destroyed when it receives any damage."
+
+[Imprinted.A_FaceOfFear_Imprinted_Buff H7BaseBuff]
+mName="Face of Fear"
+mTooltip="The creatures' melee attacks make enemies run 2 tiles away instead of retaliating and decreases their %ICON_MORALE Morale by %buff1.buff.buff2.buff.stat for %buff1.buff.buff2.buff.durini turns. Lasts for %durnow turn(s)."
+
+[Imprinted.A_Agony_Imprinted H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Agony"
+mTooltip="Deals %buff.buff.d.min to %buff.buff.d.max %buff.buff.d.icon Dark damage to target enemy creature at start of its next %buff.buff.durini turns."
+
+[Imprinted.A_ShadowImage_Imprinted H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Shadow Image"
+mTooltip="Summons a copy of the target creature stack, sized %special1.val2 of the original. The copy is destroyed when it receives any damage."
+
+[Imprinted.A_Despair_Imprinted H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Despair"
+mTooltip="Decreases the %buff.buff.stat.icon Morale of the target enemy creature by %buff.buff.stat.norm for %buff.buff.durini turns."
+
+[A_ShadowImage_Buff H7BaseBuff]
+mName="Shadow Image"
+mTooltip="This Shadow Image is destroyed when it receives any damage."
+
+[Imprinted.A_ShadowImage_Imprinted_Artifact H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Shadow Image"
+mTooltip="Summons a copy of the target creature stack, sized %special1 of the original. The copy is destroyed when it receives any damage."
+
+[A_Agony_Buff H7BaseBuff]
+mName="Agony"
+mTooltip="Deals %d.min to %d.max %d.icon Dark damage to the creature at the start of its turn. Lasts for %durnow turn(s)."
+
+[A_Weakness_FromMoat_Buff H7BaseBuff]
+mName="Weakness"
+mTooltip="%stat %stat.icon Attack\nLasts for %durnow turn(s)."
+
+[Imprinted.A_MalassasTemptation_Imprinted H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Malassa's Temptation"
+mTooltip="Increases by %buff.buff.stat.norm the chances that neutral armies offer to join the hero, until end of the day."
+
+[A_Weakness_FromCreature_Buff_Champion H7BaseBuff]
+mName="Weakness"
+mTooltip="%stat %stat.icon Attack\nLasts for %durnow turn(s)."
+
+[A_HauntingPlague_Buff_Creature H7BaseBuff]
+mName="Haunting Plague"
+mTooltip="%stat %icon_attack Attack until the end of the combat round. The creature will get %d.min to %d.max %icon_dark dark damage at the end of the combat round."
+
+[A_Weakness_FromCreature_Buff_Elite H7BaseBuff]
+mName="Weakness"
+mTooltip="%stat %stat.icon Attack\nLasts for %durnow turn(s)."
+
+[Imprinted.A_HauntingPlague_Imprinted_Buff_Creature H7BaseBuff]
+mName="Haunting Plague"
+mTooltip="%stat %icon_attack Attack until the end of the combat round. The creature will get %d.min to %d.max %icon_dark dark damage at the end of the combat round."
+
+[A_Purge_Buff_Curse H7BaseBuff]
+mName="Curse"
+mTooltip="The creature cannot be targeted by positive spells or effects. Lasts for %durnow turn(s)."
+
+[Imprinted.A_MalassasTemptation_Imprinted_Buff H7BaseBuff]
+mName="Malassa's Temptation"
+mTooltip="%stat higher chance that neutral armies offer to join the hero.\nLasts until end of the day."
+
+[A_Purge H7HeroAbility]
+mTooltipMagicGuild="Removes a number of positive magical effect(s) from the target enemy creature, instantly."
+mTooltipMagicGuildRankLine="%special1 effects and %special3 %ICON_MANA Mana casting cost"
+mTooltipUpgraded="Removes %special1 positive magical effect(s) from the target enemy creature instantly, and makes it immune to positive spells or effects for %buff.buff.durini turns."
+mName="Purge"
+mTooltip="Removes %special1 positive magical effect(s) from the target enemy creature, instantly."
+
+[Imprinted.A_Weakness_Imprinted H7HeroAbility]
+mTooltipMagicGuild="Decreases the %buff.buff.stat.icon Attack of the target enemy creature for %buff.buff.durini turns."
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded="Decrease the %buff.buff.stat.icon Attack of all enemy creatures in the target 4x4 area by %buff.buff.stat.norm %buff.buff.stat.icon for %buff.buff.durini turns."
+mName="Weakness"
+mTooltip="Decreases the %buff.buff.stat.icon Attack of the target enemy creature by %buff.buff.stat.norm for %buff.buff.durini turns."
+
+[A_FaceOfFear H7HeroAbility]
+mTooltipMagicGuild="Melee attacks of the target allied creature make enemies run 2 tiles away instead of retaliating and decreases their %ICON_MORALE Morale for %buff1.buff.buff2.buff.durini turns. Lasts for %buff1.buff.durini turns."
+mTooltipMagicGuildRankLine="%buff1.buff.buff2.buff.stat %ICON_MORALE Morale"
+mTooltipUpgraded="Melee attacks of the target allied creature make enemies run 2 tiles away instead of retaliating and decreases their %ICON_MORALE Morale by %buff2.buff.buff2.buff.stat.norm for %buff2.buff.buff2.buff.durini turns. Frightened creatures cannot retaliate. Lasts for %buff2.buff.durini turns."
+mName="Face of Fear"
+mTooltip="Melee attacks of the target allied creature make enemies run 2 tiles away instead of retaliating and decreases their %ICON_MORALE Morale by %buff1.buff.buff2.buff.stat.norm for %buff1.buff.buff2.buff.durini turns. Lasts for %buff1.buff.durini turns."
+
+[A_Weakness_Buff H7BaseBuff]
+mName="Weakness"
+mTooltip="%stat %stat.icon Attack\nLasts for %durnow turn(s)."
+
+[A_Agony H7HeroAbility]
+mTooltipMagicGuild="Deals %buff.buff.d.icon Dark damage to the target enemy creature at the start of its next %buff.buff.durini turns."
+mTooltipMagicGuildRankLine="%buff.buff.d.min to %buff.buff.d.max %ICON_DARK"
+mTooltipUpgraded="Deals %buff.buff.d.min to %buff.buff.d.max %buff.buff.d.icon Dark damage to all enemy creatures in the target 4x4 area at the start of their next %buff.buff.durini turns."
+mName="Agony"
+mTooltip="Deals %buff.buff.d.min to %buff.buff.d.max %buff.buff.d.icon Dark damage to the target enemy creature at the start of its next %buff.buff.durini turns."
+
+[A_FaceOfFear_Buff_Upgraded H7BaseBuff]
+mName="Face of Fear"
+mTooltip="The creatures' melee attacks make enemies run 2 tiles away instead of retaliating and decreases their %ICON_MORALE Morale by %buff2.buff.stat.norm for %buff2.buff.durini turns. Frightened creatures cannot retaliate.\nLasts for %durnow turn(s)."
+
+[A_Agony_FromMoat_Buff H7BaseBuff]
+mName="Agony"
+mTooltip="Deals %d.min to %d.max %d.icon Dark damage to the creature at start of its turn. Lasts for %durnow turn(s)."
+
+[A_HauntingPlague_Buff_Hero H7BaseBuff]
+mName="Haunting Plague"
+mTooltip="The haunting plague will affect %special1 random enemy creatures at the beginning of each combat round. Lasts %durnow combat round(s)."
+
+[Imprinted.A_FaceOfFear_Imprinted H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Face of Fear"
+mTooltip="Melee attacks of the target allied creature make enemies run 2 tiles away instead of retaliating and decreases their %ICON_MORALE Morale by %buff1.buff.buff2.buff.stat for %buff1.buff.buff2.buff.durini turns. Lasts for %buff1.buff.durini turns."
+
+[Imprinted.A_Agony_Imprinted_Buff H7BaseBuff]
+mName="Agony"
+mTooltip="Deals %d.min to %d.max %d.icon Dark damage to the creature at the start of its turn. Lasts for %durnow turn(s)."
+
+[A_HauntingPlague H7HeroAbility]
+mTooltipMagicGuild="A number of random enemy creatures get the debuff "Haunting Plague" when the spell is cast and at the start of the next 2 combat rounds. Afflicted creatures have %buff2.buff.stat %icon_attack Attack and get %icon_dark dark damage at the end of a combat round."
+mTooltipMagicGuildRankLine="%buff1.buff.special1 affected enemy creatures. Targets get %buff2.buff.d %icon_dark dark damage."
+mTooltipUpgraded=""
+mName="Haunting Plague"
+mTooltip="%buff1.buff.special1 random enemy creatures get the debuff "Haunting Plague" when the spell is cast and at the start of the next 2 combat rounds. Afflicted creatures have %buff2.buff.stat %icon_attack Attack and get %buff2.buff.d %icon_dark dark damage at the end of a combat round."
+
+[Imprinted.A_Despair_Imprinted_Buff H7BaseBuff]
+mName="Despair"
+mTooltip="%stat %stat.icon Morale\nLasts for %durnow turn(s)."
+
+[A_MalassasTemptation_Buff H7BaseBuff]
+mName="Malassa's Temptation"
+mTooltip="%stat higher chance that neutral armies offer to join the hero.\nLasts until the end of the day."
+
+[Imprinted.A_Weakness_Imprinted_Buff H7BaseBuff]
+mName="Weakness"
+mTooltip="%stat %stat.icon Attack\nLasts for %durnow turn(s)."
+
+UCP 1.1
+
+
+
+[A_ShadowCloak_Buff H7BaseBuff]
+mName="Shadow Cloak"
+mTooltip="The next %d.min attacks automatically miss the creature. Lasts for %durnow turn(s) or until all attacks have missed."
+
+[Imprinted.A_ShadowCloak_Imprinted H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Shadow Cloak"
+mTooltip="The next %buff.buff.d.min attacks automatically miss the target friendly creature. Lasts for %buff.buff.durini turns or until all attacks have missed."
+
+[Imprinted.A_ShadowCloak_Imprinted_Buff H7BaseBuff]
+mName="Shadow Cloak"
+mTooltip="The next %d.min attacks automatically miss the creature. Lasts for %durnow turn(s) or until all attacks have missed."
+
+[A_ShadowImage_Buff_ShadowCloak H7BaseBuff]
+mName="Shadow Cloak"
+mTooltip="The next %d.min attacks automatically miss the creature. Lasts for %durnow turn(s) or until all attacks have missed."
+
+UCP 1.1 New Buff
+
+[A_ShadowCloak_Buff_Upgraded H7BaseBuff]
+mName="Shadow Cloak"
+mTooltip="The next %d.min attacks automatically miss the creature. Lasts for %durnow turn(s) or until all attacks have missed."
+
+UCP 1.3 / 7.5_mod
+
+[A_ShadowCloak_Buff_resist H7BaseBuff]
+mName="Shadow Cloak"
+
+[A_ShadowCloak_Buff_Resist_Upgraded H7BaseBuff]
+mName="Shadow Cloak"
+
+[A_ShadowImage_Buff_Shadowcloak_Resist H7BaseBuff]
+mName="Shadow Image"
+
+[A_FaceOfFear_Buff_CatatonicFear H7BaseBuff]
+mName="Catatonic Fear"
+mTooltip="The creature cannot retaliate and receives %stat %stat.icon Morale.\nLasts for %durnow turn(s)."
+
+[A_FaceOfFear_Buff_Fear H7BaseBuff]
+mName="Fear"
+mTooltip="%stat %stat.icon Morale\nLasts for %durnow turn(s)."
+
+[rework3.A_BurningDetermination H7HeroAbility]
+mTooltipMagicGuild="Summons a copy of the target creature stack. The copy is destroyed when it receives any damage."
+mTooltipMagicGuildRankLine="sized %special1.val1 of the original"
+mTooltipUpgraded="Summons a copy of the target creature stack, sized %special1.val2 of the original. The copy is destroyed when it receives any damage. The first attack automatically misses the copy, unless it is not attacked for 3 turns."
+mName="Shadow Image"
+mTooltip="Summons a copy of the target creature stack, sized %special1.val2 of the original. The copy is destroyed when it receives any damage."
+
+[rework.A_BurningDetermination H7HeroAbility]
+mTooltipMagicGuild="Melee attacks of the target allied creature make enemies run 2 tiles away instead of retaliating and decreases their %ICON_MORALE Morale for %buff1.buff.buff2.buff.durini turns. Lasts for %buff1.buff.durini turns."
+mTooltipMagicGuildRankLine="%buff1.buff.buff2.buff.stat %ICON_MORALE Morale"
+mTooltipUpgraded="Melee attacks of the target allied creature make enemies run 2 tiles away instead of retaliating and decreases their %ICON_MORALE Morale by %buff2.buff.buff2.buff.stat.norm for %buff2.buff.buff2.buff.durini turns. Frightened creatures cannot retaliate. Lasts for %buff2.buff.durini turns."
+mName="Face of Fear"
+mTooltip="Melee attacks of the target allied creature make enemies run 2 tiles away instead of retaliating and decreases their %ICON_MORALE Morale by %buff1.buff.buff2.buff.stat.norm for %buff1.buff.buff2.buff.durini turns. Lasts for %buff1.buff.durini turns."
+
+
+[rework1.A_BurningDetermination H7HeroAbility]
+mTooltipMagicGuild="A number of random enemy creatures get the debuff "Haunting Plague" when the spell is cast and at the start of the next 2 combat rounds. Afflicted creatures have %buff2.buff.stat %icon_attack Attack and get %icon_dark dark damage at the end of a combat round."
+mTooltipMagicGuildRankLine="%buff1.buff.special1 affected enemy creatures. Targets get %buff2.buff.d %icon_dark dark damage."
+mTooltipUpgraded=""
+mName="Haunting Plague"
+mTooltip="%buff1.buff.special1 random enemy creatures get the debuff "Haunting Plague" when the spell is cast and at the start of the next 2 comb
+
+[rework2.A_BurningDetermination H7HeroAbility]
+mTooltipMagicGuild="The next attacks automatically miss the target friendly creature. Lasts for %buff.buff.durini turns or until all attacks have missed."
+mTooltipMagicGuildRankLine="%buff.buff.d.min attacks and %special1 %ICON_MANA Mana casting costs"
+mTooltipUpgraded=""
+mName="Shadow Cloak"
+mTooltip="The next %buff.buff.d.min attacks automatically miss the target friendly creature. Lasts for %buff.buff.durini turns or until all attacks have missed."

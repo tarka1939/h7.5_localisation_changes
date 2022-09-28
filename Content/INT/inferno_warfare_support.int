@@ -1,0 +1,32 @@
+[Ability.A_Akuma_Buff_0_expert H7BaseBuff]
+mName="Blasphemy"
+mTooltip="The creature receives - %stat.norm %stat.icon and increases by %res.norm the damage of type %icon_fire Additional fire during %durnow.norm"
+
+[Ability.A_Akuma_Buff_0_Master H7BaseBuff]
+mName="Blasphemy"
+mTooltip="The creature receives - %stat.norm %stat.icon and increases by %res.norm the damage of type %icon_fire Additional fire during %durnow.norm"
+
+[Ability.A_Akuma_Buff_0_Novice H7BaseBuff]
+mName="Blasphemy"
+mTooltip="The creature receives - %stat.norm %stat.icon and increases by %res.norm the damage of type %icon_fire Additional fire during %durnow.norm"
+
+[Ability.A_Akuma_Buff_0_ultimate H7BaseBuff]
+mName="Blasphemy"
+mTooltip="The creature receives - %stat.norm %stat.icon and increases by %res.norm the damage of type %icon_fire Additional fire during %durnow.norm"
+
+[Ability.A_Akuma_Buff_0_Unskilled H7BaseBuff]
+mName="Blasphemy"
+mTooltip="The creature receives - %stat.norm %stat.icon and increases by %res.norm the damage of type %icon_fire Additional fire during %durnow.norm"
+
+[Ability.A_Akuma_Support H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Blasphemy"
+mTooltip="The creature's morale will be decreased by %buff1.buff.stat1.norm %icon_morale and suffers %buff1.buff.res1.norm additional fire damage sources %icon_fire during %buff1.buff.durini.norm"
+
+[Unit.A_Akuma H7EditorWarUnit]
+mDesc="Support Warfare Unit"
+mName="Akuma"
+mLore=""
+

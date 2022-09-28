@@ -1,0 +1,36 @@
+[A_heal_immunity H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Magie-Immunität"
+mTooltip="Die Kreatur kann nicht das Ziel von negativen Zaubern oder Effekten einer beliebigen magischen Schule sein. Jeglicher magische Schaden durch gegnerische Angriffe wird halbiert."
+
+[Anti_heal.A_IceStrike_Buff H7BaseBuff]
+mName="Heilen Einfrieren"
+mTooltip="Die Kreatur kann für %durnow Runde(n) keine Heilung empfangen oder sich selbst heilen. (funktioniert nicht bei Einheiten vom Typ Konstrukt)"
+
+[Anti_heal.A_Nova H7HeroAbility]
+mTooltipMagicGuild="Die Zielkreatur kann keine Heilung empfangen oder sich selbst heilen. (Funktioniert nicht bei Einheiten vom Typ Konstrukt) "
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Einfrieren der Heilung"
+mTooltip="Verursacht %d %icon_water Wasserschaden. Die Kreatur kann für %buff1.buff.durini Runde(n) nicht mehr geheilt werden. Wirkt nicht auf Einheiten vom Typ Konstrukt."
+
+[Armure_de_givre.A_armure_givre_Buff H7BaseBuff]
+mName="Frost-Rüstung"
+mTooltip="Während %durnow Runden. Die Kreatur erhält %stat1 %icon_defense Verteidigung und friert die Gegner ein, die sie im Nahkampf angreifen."
+
+[Armure_de_givre.A_BurningDetermination H7HeroAbility]
+mTooltipMagicGuild="Erhöht die Verteidigung des anvisierten Verbündeten und friert alle Angreifer im Nahkampf ein"
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded="Erhöht die %icon_defense Verteidigung des anvisierten Verbündeten in einem Gebiet um 4X4 um %buff1.buff.stat1 und friert alle Gegner ein, die ihn im Nahkampf während %buff1.buff.durini Runden angreifen."
+mName="Frost-Rüstung"
+mTooltip="Erhöht die %icon_defense Verteidigung des anvisierten Verbündeten um %buff1.buff.stat1 und friert alle Gegner ein, die ihn im Nahkampf während %buff1.buff.durini Runden angreifen."
+
+[Ice_lance.A_Nova H7HeroAbility]
+mTooltipMagicGuild="Verursacht %d.icon Wasserschaden an allen Einheiten in der Angriffslinie und hat dann eine Chance von 30%, sie einzufrieren. "
+mTooltipMagicGuildRankLine="%d.min bis %d.max %d.icon"
+mTooltipUpgraded="Verursacht %d.min bis %d.max %d.icon Wasserschaden an allen Einheiten in der Angriffszone und hat eine Chance von 60%, sie einzufrieren. "
+mName="Eisspeer"
+mTooltip="Verursacht %d.min bis %d.max %d.icon Wasserschaden in der Trefferzone und hat eine Chance von 30%, sie einzufrieren."
+

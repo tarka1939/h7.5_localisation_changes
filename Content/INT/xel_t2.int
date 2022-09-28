@@ -1,0 +1,56 @@
+[Abilities.A_ProtectiveShell H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Protective shell"
+mTooltip="The unit is protected against all magic spells and effects by a special shell. All magic damage is halved and the unit cannot be flanked."
+
+[Abilities.A_SummonCocoon_Buff H7BaseBuff]
+mName="Reproduction"
+mTooltip="Each round, this unit increases by %special1 until the effect is exhausted (does not increase blast damage).\NThe multiplication ends in %durnow rounds."
+
+[Abilities.A_CocoonSummoner H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="The summoner of torment"
+mTooltip="Allows the hero to summon a cocoon once per battle, which is filled with a volatile explosive that explodes over time."
+
+[Abilities.A_VoidShield_Buff H7BaseBuff]
+mName="Shield of the void"
+mTooltip="A shield that surrounds the unit and absorbs all magic (makes the unit immune). Lasts for %durnow rounds."
+
+[Abilities.A_Cocoon_Explosion_Buff H7BaseBuff]
+mName="Explosion hazard"
+mTooltip="The cocoon will explode over time, inflicting %icon_damage to all nearby units for %d1.min to %d1.max.the remaining turns before the explosion: %durnow turns."
+
+[Abilities.A_Cocoon_Explosion H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Unstable"
+mTooltip="This organism is filled with a dangerous substance that ignites and explodes under %buff.buff.durini turns.\nIf it is destroyed prematurely, the birds are neutralised and the explosion does not occur."
+
+[Abilities.A_SummonCocoon H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Invoquation de cocon"
+mTooltip="Invoque %special1.val1 Cocoon(s) sur une tuile 1x1 gratuite sur le champ de bataille."
+
+[Abilities.A_VoidShield H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Shield of the void"
+mTooltip="Once per combat, he can summon a shield that surrounds another friendly target unit and absorbs all magic. Lasts for %buff1.buff.durini rounds."
+
+[Creatures.A_CreatureMineBeetle H7Creature]
+mName="Mine Soldier"
+mLore="The Mine soldiers , the first creature controlled and modified by the xel entity to stand and think like humans, they quickly learned to use weapons with uncommon dexterity and speed."
+
+
+[Creatures.A_CreatureMineDevil H7Creature]
+mName="Mine Sentinel"
+mLore="The strongest soldiers of the mine in combat are chosen to protect the important points of the xel nest, earning the rank of sentry."
+

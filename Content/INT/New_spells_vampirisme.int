@@ -1,0 +1,11 @@
+[A_BurningDetermination H7HeroAbility]
+mTooltipMagicGuild="Target creature gains Vampirism and heals it self when dealing damage.Lasts: %buff.buff.durini turns."
+mTooltipMagicGuildRankLine="Target creature gains Vampirism and heals it self when dealing damage.Lasts: %buff.buff.durini turns."
+mTooltipUpgraded="Creatures targeted in a 6X6 area gain Vampirism and heal for %buff.buff.d1 %icon_health when dealing damage.Harsh: %buff.buff.durini turns."
+mName="Vampirism"
+mTooltip="Target creature gains Vampirism and heals it self for %buff.buff.d1 %icon_health when dealing damage.Harsh: %buff.buff.durini turns."
+
+[A_BurningDetermination_Buff H7BaseBuff]
+mName="Vampirism"
+mTooltip="The creature heals for %d1 %icon_health Hp when it deals damage.Lasts: %durnow turn (s)."
+

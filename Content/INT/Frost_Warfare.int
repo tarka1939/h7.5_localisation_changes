@@ -1,0 +1,54 @@
+[Balista.A_elementaire_ice H7EditorWarUnit]
+mDesc="Attack Warfare Unit"
+mName="Ice Golem"
+mLore="Union archmages used the construct knowledge they had brought from the Seven Cities to create their own golems. They used the ubiquitous ice as a shell, and inside they placed various gems and minerals, thanks to which the Ice Golems are more mobile than ordinary ones, and they can use magic enchanted in them."
+
+[CATAPULTE.A_frost_troll_catapulte H7EditorWarUnit]
+mDesc="Siege Warfare Unit"
+mName="Troll"
+mLore="Trolls are the Behemoth's mountain cousins. While they are often considered naked snow monkeys, this is not true. They usually live in ravines or near chasms. They are not very intelligent, but it takes a long time to tame them. They have enormous strength, which is why they are most often used as live battering rams or for throwing stones."
+
+[CATAPULTE.A_GreaterEarthElemental_Attack H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rock Throw"
+mTooltip="Shoots at fortifications dealing %d.min to %d.max damage."
+
+[Warfar_unit.A_baliste_ice_Attack H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Missile"
+mTooltip=""
+
+7.5_v2
+
+[Balista.A_armure_givre_Buff_warfare_expert H7BaseBuff]
+mName="Frost Armor"
+mTooltip="Creature receives %stat1 %icon_defense Defense and freezes enemies that attack it in melee during %durnow turn(s)."
+
+[Balista.A_armure_givre_Buff_warfare_master H7BaseBuff]
+mName="Frost Armor"
+mTooltip="Creature receives %stat1 %icon_defense Defense and freezes enemies that attack it in melee during %durnow turn(s)."
+
+[Balista.A_armure_givre_Buff_warfare_novice H7BaseBuff]
+mName="Frost Armor"
+mTooltip="Creature receives %stat1 %icon_defense Defense and freezes enemies that attack it in melee during %durnow turn(s)."
+
+[Balista.A_armure_givre_Buff_warfare_unskill H7BaseBuff]
+mName="Frost Armor"
+mTooltip="Creature receives %stat1 %icon_defense Defense and freezes enemies that attack it in melee during %durnow turn(s)."
+
+[Balista.A_elementaire_ice H7EditorWarUnit]
+mDesc="Attack & Support Unit"
+mName="Ice Elemental"
+mLore=""
+
+[Warfar_unit.A_baliste_ice_support H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Frost Protection"
+mTooltip="The target unit receives %spell1.name for %buff2.buff.durini.norm turns, providing %icon_defense Defense bonus and freezing attackers."
+

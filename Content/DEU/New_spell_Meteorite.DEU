@@ -1,0 +1,10 @@
+[A_meteorite_Buff H7BaseBuff]
+mName="Verwundbar durch Feuer"
+mTooltip="Erhöht den Schaden durch %icon_fire Feuerschaden, die diese Kreatur während %durnow Runde(n) erleidet, um %res."
+
+[A_Firebolt H7HeroAbility]
+mTooltipMagicGuild="Fügt der gegnerischen Zieleinheit %d.icon Feuerschaden zu."
+mTooltipMagicGuildRankLine="%d.min bis %d.max %d.icon"
+mTooltipUpgraded="Verursacht %d.min bis %d.max %d.icon Feuerschaden an allen gegnerischen Einheiten und macht sie dann für %buff.buff.durini Runde(n) verwundbar."
+mName="Meteoritenschauer"
+mTooltip="Verursacht %d.min bis %d.max %d.icon Feuerschaden an allen gegnerischen Einheiten "

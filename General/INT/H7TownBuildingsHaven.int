@@ -1,0 +1,21 @@
+
+[A_Haven_chambre_des_michael H7TownDwelling]
+mName="Stairway to Heaven"
+mDesc="Allows a Cuirassier to be sacrificed to recruit a powerful chempion - Archangel."
+
+[A_Haven_chambre_des_pretresse H7TownDwelling]
+mName="Chapel"
+mDesc="Allows a Imperial Griffin to be sacrificed to recruit a powerful creature - Divine Priestess."
+
+
+[A_Haven_SlaughterhouseWolves H7TownGrowthEnhancer]
+mName="Slaughterhouse"
+mDesc="Core dwelling upgrade.\n+10 growth of Griffin or Imperial Griffin per week."
+
+[A_Haven_BeastDenWolves H7TownDwelling]
+mName="Beast Den"
+mDesc="Core dwelling upgrade.\nEnables recruitment and upgrade of Griffin to Imperial Griffins."
+
+[A_Haven_BeastLairWolves H7TownDwelling]
+mName="Beast Lair"
+mDesc="Core dwelling.\nEnables recruitment of Griffin with a growth of 10 per week."

@@ -1,0 +1,30 @@
+[Projectil.A_RangedAttack H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Spiritual tornado"
+mTooltip="Inflicts %d %icon_air on all enemy units online."
+
+[Ability.A_art_de_la_guerre_Buff_setting H7BaseBuff]
+mName="art_war_setting"
+mTooltip=""
+
+[Ability.A_Art_de_la_guerre H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Art of war "
+mTooltip="This creature gets %buff1.buff.buff.stat1 to all its stats for each adjacent enemy unit at the beginning of its turn."
+
+[Ability.A_art_de_la_guerre_Buff_extra H7BaseBuff]
+mName="art_war_setting"
+mTooltip=""
+
+[A_Creature_sanctuary_Samourai H7Creature]
+mName="Bushi Jinja"
+mLore="Part of the population of the coastal cities in Hashima consists of the members of other races who are very interested in various aspects of the mysterious Naga culture. After the exile, the rebellious daimyos were followed by many devoted vassals, among whom were foreign warriors who once chose the path of the sword. In Shanria, they had to adapt to the new conditions, and develop a fighting style using two swords, which would allow them to withstand the onslaught of several opponents at once. According to rumors, some of these swordsmen have become so skilled that their blades are capable of creating real storms that sweep away everything in their path."
+
+[Ability.A_art_guerresetting H7BaseBuff]
+mName="war"
+mTooltip=""
+

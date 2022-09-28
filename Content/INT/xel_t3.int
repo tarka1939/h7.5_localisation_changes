@@ -1,0 +1,59 @@
+[Abilities.A_Burns_Buff H7BaseBuff]
+mName="Burn"
+mTooltip="Inflicts %d.min to %d.max fire damage to %d.icon at the start of the round. Lasts for %durnow rounds."
+
+[Abilities.A_DevouringInfection H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Infectious ingestion"
+mTooltip="All nearby living enemy units will be affected by the infection (%buff1.buff.stat1 %ICON_ATTACK to attack, %buff1.buff.stat2 %ICON_DEFENSE to defend), which lasts as long as the units are in the vicinity of the scavenger. Attacks on infected units replenish the scavenger's health."
+
+[A_triple_attack_Buff_DamageDecrease H7BaseBuff]
+mName=""
+mTooltip=""
+
+[Abilities.A_LifeDrain H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Life Drain"
+mTooltip="The blows suffered by the creature give it back a number of health points equal to half the damage inflicted. This also revives creatures that have fallen in battle."
+
+[Abilities.A_DevouringInfection_Buff H7BaseBuff]
+mName="Infectious ingestion"
+mTooltip="%stat1 %ICON_ATTACK to attack, %stat2 %ICON_DEFENSE to defend. Lasts as long as the unit is near the scavenger."
+
+[Abilities.A_Nova H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Demolisher"
+mTooltip="This attack inflicts 3 times %d1 Earth damage %icon_earth to the target, this value is not affected by the creature's attack and the target's defense."
+
+[Abilities.dammage_triple H7BaseBuff]
+mName="Enraged"
+mTooltip="The unit is in a furious trance state. %stat1 %icon_attack to attack, %stat2 %icon_might_damage to inflict maximum damage and %stat3 %icon_movement to move for %durnow rounds."
+
+[Abilities.triple_tir H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Wildfire"
+mTooltip="A melee attack has a 15% Luck of releasing a volatile substance that the mine bug immediately ignites, inflicting %d1.min to %d1.max fire damage to all nearby enemy units. In addition, the attacker may be burned."
+
+[Abilities.WildFire H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Wildfire"
+mTooltip="A melee attack has a 15% luck of releasing a volatile substance that the mine bug immediately ignites, inflicting %d1.min to %d1.max fire damage to all nearby enemy units. In addition, the attacker may be burned."
+
+[Creatures.A_CreatureScavenger H7Creature]
+mName="Scavenger"
+mLore="The xel conaissance allowed the fabrication of a weapon. Composed of a tank containing powerful earth magic, an archaic crank system and a metal tube, this weapon can send several magical projectiles with frightening speed. But all this machinery requires two soldiers to be used."
+
+[Creatures.A_CreatureSpawn H7Creature]
+mName="Iron chewer"
+mLore="The Iron chewers have a better body protection, to make their armour, they use metal which they knead beforehand."
+

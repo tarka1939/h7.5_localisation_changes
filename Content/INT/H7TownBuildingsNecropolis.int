@@ -1,0 +1,299 @@
+[A_NecropolisThievesGuild H7TownThiefGuild]
+mName="Thieves Guild"
+mDesc="Provides the option to pay for information about your opponents."
+
+[A_NecropolisEmbassy H7TownBuilding]
+mName="Embassy"
+mDesc="+15% chance for negotiations with neutral armies for your heroes in this town's area of control."
+
+[A_NecropolisMagicGuild1 H7TownMagicGuild]
+mName="Magic Guild Level 1"
+mDesc="Provides 5 random spells of tier 1 in this town.\nThey are granted to all visiting heroes that fulfill the requirements."
+
+[A_NecropolisMagicGuild4 H7TownMagicGuild]
+mName="Magic Guild Level 4"
+mDesc="Provides 1 random spell of tier 4 in this town.\nIt is granted to all visiting heroes that fulfill the requirements."
+
+[A_NecropolisSpiderNest H7TownDwelling]
+mName="Spider Nest"
+mDesc="Core dwelling.\nEnables recruitment of Ebon Spiders with a growth of 10 per week."
+
+[A_NecropolisMoonAltar H7TownGrowthEnhancer]
+mName="Moon Altar"
+mDesc="Elite dwelling upgrade.\n+6 growth of Liches or Archliches per week."
+
+[necropolisbuildingabilities.A_NecropolisAshasUndyingResolve_Ability H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip=""
+
+[A_NecropolisDarkMoonStables H7TownDwelling]
+mName="Dark Moon Stables"
+mDesc="Champion dwelling.\nEnables recruitment of Grim Riders with a growth of 1 per week."
+
+[A_NecropolisResourceSilo H7TownSiloBuilding]
+mName="Resource Silo"
+mDesc="Provides 1 %icon_Crystal Dragon Blood Crystal, %icon_Dragonsteel Dragon Steel, %icon_Shadowsteel Shadowsteel or %icon_Starsilver Starsilver at random per day."
+
+[A_NecropolisHauntedTower H7TownDwelling]
+mName="Haunted Tower"
+mDesc="Core dwelling upgrade.\nEnables recruitment and upgrade of Ghosts to Banshees."
+
+[necropolisbuildingabilities.A_NecropolisAshasUndyingResolve_TownBuff H7BaseBuff]
+mName="Elrath's Infinite Mercy"
+mTooltip=""
+
+
+
+[A_NecropolisMarketPlace H7TownMarketplace]
+mName="Marketplace"
+mDesc="Provides the option to trade resources."
+
+[A_NecropolisPileOfBones H7TownGrowthEnhancer]
+mName="Pile of Bones"
+mDesc="Core dwelling upgrade.\n+13 growth of Skeletons or Skeleton Hoplites per week."
+
+[A_NecropolisHowlingParapet H7TownGrowthEnhancer]
+mName="Howling Parapet"
+mDesc="Core dwelling upgrade.\n+9 growth of Ghosts or Banshees per week."
+
+[necropolisbuildingabilities.A_NecropolisAshasHourglass_BuffHero H7BaseBuff]
+mName="Asha's Hourglass"
+mTooltip="The hero moves 20% slower over land and all creatures in the hero's army get %buff1.buff.stat1 Initiative and %buff1.buff.stat2 Movement in the current area of control."
+
+[necropolisbuildingabilities.A_NecropolisAshasUndyingResolve_HeroBuff H7BaseBuff]
+mName="Asha's Undying Resolve"
+mTooltip="Necromancy raises additional %stat% of the Health of losses per combat."
+
+[A_NecropolisFortification1 H7TownGuardBuilding]
+mName="Fortifications Level 1"
+mDesc="Equips the town with walls and gate in siege combats and a local guard of Skeletons and Ghosts."
+
+[A_NecropolisMoat H7TownMoat]
+mName="Moat"
+mDesc="Equips the town with a moat in siege combats.\nEnemy creatures stepping into it will be interrupted, receive dark magic damage and get Weakness applied."
+
+[necropolisbuildingabilities.A_NecropolisChoirOfDespair_Buff_Creatures H7BaseBuff]
+mName="Choir of Despair"
+mTooltip="%stat %stat.icon Morale."
+
+[necropolisbuildingabilities.A_NecropolisAshasHourglass_BuffCreature H7BaseBuff]
+mName="Asha's Hourglass"
+mTooltip="%stat1 %stat1.icon Initiative and %stat2 %stat2.icon Movement in the current area of control."
+
+[A_NecropolisBoneyard H7TownDwelling]
+mName="Boneyard"
+mDesc="Core dwelling upgrade.\nEnables recruitment and upgrade of Skeletons to Skeleton Hoplites."
+
+[A_NecropolisNamtaruTemple H7TownTower]
+mName="Namtaru Temple"
+mDesc="Equips the town with 2 towers in siege combats."
+
+[A_NecropolisVampireMansion H7TownDwelling]
+mName="Vampire Mansion"
+mDesc="Elite dwelling.\nEnables recruitment of Vampires with a growth of 2 per week."
+
+[necropolisbuildingabilities.A_NecropolisTowerOfNecromancy_Ability H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="TowerOfNecromancyAbility"
+mTooltip=""
+
+[A_NecropolisPestilentTomb H7TownDwelling]
+mName="Pestilent Tomb"
+mDesc="Elite dwelling.\nEnables recruitment of Lamasus with a growth of 6 per week."
+
+[necropolisbuildingabilities.A_NecropolisMoonlightAmplifier_Ability H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip=""
+
+[A_NecropolisFortification3 H7TownGuardBuilding]
+mName="Fortifications Level 3"
+mDesc="Increases the hit points of walls and gate in siege combats.\nIncreases the capacities and growth of creatures in the local guard."
+
+[A_NecropolisPitOfEternalWings H7TownDwelling]
+mName="Pit of Eternal Wings"
+mDesc="Champion dwelling upgrade.\nEnables recruitment and upgrade of Bone Dragons to Spectral Dragons."
+
+[necropolisbuildingabilities.A_NecropolisAshasHourglass_BuffAlliedHero H7BaseBuff]
+mName="Asha's Hourglass"
+mTooltip=""
+
+[A_NecropolisBloodTank H7TownGrowthEnhancer]
+mName="Blood Tank"
+mDesc="Elite dwelling upgrade.\n+2 growth of Vampires or Vampire Lords per week."
+
+[A_NecropolisTownPortal H7TownPortal]
+mName="Town Portal"
+mDesc="Provides the spell Instant Recall to all heroes visiting this town.\nEnables Heroes with this spell to return to this town if it is the nearest town available."
+
+[A_NecropolisNamtaruNest H7TownUtilityUnitDwelling]
+mName="Namtaru Nest"
+mDesc="Warfare unit production.\nProvides the option to buy Namtarus."
+
+[A_NecropolisEternalMoonStables H7TownDwelling]
+mName="Eternal Moon Stables"
+mDesc="Champion dwelling upgrade.\nEnables recruitment and upgrade of Grim Riders to Grim Reapers."
+
+[A_NecropolisAshasUndyingResolve_TearOfAsha H7TownTearOfAsha]
+mName="Asha's Undying Resolve"
+mDesc="Provides 5000 %ICON_GOLD Gold per day and increases the creature growth in this town by 50%.\n Necromancy rate is increased by 10 percentage points."
+
+[A_NecropolisCaveOfEternalWings H7TownDwelling]
+mName="Cave of Eternal Wings"
+mDesc="Champion dwelling.\nEnables recruitment of Bone Dragons with a growth of 1 per week."
+
+[A_NecropolisFortification2 H7TownGuardBuilding]
+mName="Fortifications Level 2"
+mDesc="Increases the hit points of walls and gate in siege combats.\nAdds Lamasus and Liches to the local guard.\nIncreases the capacities and growth of creatures in the local guard."
+
+[A_NecropolisMoonlightAmplifier H7TownBuilding]
+mName="Moonlight Amplifier"
+mDesc="Prime spells cast by your heroes are cast on the next higher rank in this town's area of control."
+
+[A_NecropolisSepulcher H7TownDwelling]
+mName="Sepulchre"
+mDesc="Elite dwelling.\nEnables recruitment of Liches with a growth of 6 per week."
+
+[A_NecropolisVampirePalace H7TownDwelling]
+mName="Vampire Palace"
+mDesc="Elite dwelling upgrade.\nEnables recruitment and upgrade of Vampires to Vampire Lords."
+
+[necropolisbuildingabilities.A_NecropolisChoirOfDespair_Ability H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="ChoirOfDespairAbility"
+mTooltip=""
+
+[necropolisbuildingabilities.A_NecropolisAshasHourglass_Ability H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="AshasHourglassAbility"
+mTooltip=""
+
+[necropolisbuildingabilities.A_NecropolisMoonlightAmplifier_HeroBuff H7BaseBuff]
+mName="Moonlight Amplifier"
+mTooltip="All Prime spells of the hero are cast on the next higher rank in the current area of control."
+
+[necropolisbuildingabilities.A_NecropolisEmbassy_Ability H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip=""
+
+[A_NecropolisMausoleum H7TownDwelling]
+mName="Mausoleum"
+mDesc="Elite dwelling upgrade.\nEnables recruitment and upgrade of Liches to Archliches."
+
+[A_NecropolisMagicGuild2 H7TownMagicGuild]
+mName="Magic Guild Level 2"
+mDesc="Provides 4 random spells of tier 2 in this town.\nThey are granted to all visiting heroes that fulfill the requirements."
+
+[A_NecropolisRuinedTower H7TownDwelling]
+mName="Ruined Tower"
+mDesc="Core dwelling.\nEnables recruitment of Ghosts with a growth of 18 per week."
+
+[necropolisbuildingabilities.A_NecropolisChoirOfDespair_Buff_Hero H7BaseBuff]
+mName="Choir of Despair"
+mTooltip="%buff1.buff.stat %buff1.buff.stat.icon Morale to enemy creatures for the next %durnow combat(s)."
+
+[A_NecropolisDeepCatacomb H7TownGrowthEnhancer]
+mName="Deep Catacomb"
+mDesc="Elite dwelling upgrade.\n+6 growth of Lamasus or Plague Lamasus per week."
+
+[A_NecropolisDragonbloodLaboratory H7TownBuilding]
+mName="Dragonblood Laboratory"
+mDesc="Provides 1 %icon_Crystal Dragon Blood Crystal per day."
+
+[necropolisbuildingabilities.A_NecropolisTowerOfNecromancy_Buff H7BaseBuff]
+mName="Tower Of Necromancy"
+mTooltip="Necromancy raises creatures with additional %stat.norm percentage points."
+
+[A_NecropolisPestilentCatacomb H7TownDwelling]
+mName="Pestilent Catacomb"
+mDesc="Elite dwelling upgrade.\nEnables recruitment and upgrade of Lamasus to Plague Lamasus."
+
+[A_NecropolisMagicGuild3 H7TownMagicGuild]
+mName="Magic Guild Level 3"
+mDesc="Provides 3 random spells of tier 3 in this town.\nThey are granted to all visiting heroes that fulfill the requirements."
+
+[A_NecropolisSpiderLair H7TownDwelling]
+mName="Spider Lair"
+mDesc="Core dwelling upgrade.\nEnables recruitment and upgrade of Ebon Spiders to Death Spiders."
+
+[A_NecropolisIckyWeb H7TownGrowthEnhancer]
+mName="Icky Web"
+mDesc="Core dwelling upgrade.\n+5 growth of Ebon Spiders or Death Spiders per week."
+
+[A_NecropolisHallOfHeroes H7TownBuilding]
+mName="Hall of Heroes"
+mDesc="Provides the option to enlist new and defeated heroes. The selection of new heroes changes at the start of a new week."
+
+[A_NecropolisAshasHourglass H7TownBuilding]
+mName="Asha's Hourglass"
+mDesc="Enemy heroes move 20% slower over land and the %icon_initiative Initiative and %icon_max_movement Movement of all enemy creatures is decreased in this town's area of control."
+
+[A_NecropolisGraveyard H7TownDwelling]
+mName="Graveyard"
+mDesc="Core dwelling.\nEnables recruitment of Skeletons with a growth of 25 per week."
+
+[A_NecropolisChoirOfDespair H7TownBuilding]
+mName="Choir of Despair"
+mDesc="Visiting heroes decrease the %ICON_MORALE Morale of enemy creatures by 10 for the next 3 combats."
+
+[A_NecropolisAshasUndyingResolve H7TownBuilding]
+mName="Asha's Undying Resolve"
+mDesc="Provides 5000 %ICON_GOLD gold per day and increases the growth in this town by %buff6.buff.stat1%.\nNecromancy raises additional %buff1.buff.stat% of the Health of losses per combat."
+[necropolisbuildingabilities.A_NecropolisEmbassy_Buff H7BaseBuff]
+mName="Embassy"
+mTooltip="+15% chance for negotiations with neutral armies in the current area of control."
+[A_NecropolisAshasUndyingResolve H7TownTearOfAsha]
+mName="Asha's Undying Resolve"
+mDesc="Provides 5000 %ICON_GOLD Gold per day and increases the creature growth in this town by 50%.\nNecromancy raises creatures with additional 10 percentage points."
+
+[A_NecropolisVillageHall H7TownHall]
+mName="Village Hall"
+mDesc="Provides the option to build new structures in this town.\nProvides 500 %ICON_GOLD Gold per day."
+
+[A_NecropolisCityHall H7TownHall]
+mName="City Hall"
+mDesc="Provides additional 1000 %ICON_GOLD Gold per day."
+
+UCP 1.1
+
+[A_NecropolisTownHall H7TownHall]
+mName="Town Hall"
+mDesc="Provides additional 500 %ICON_GOLD Gold per day."
+
+[A_NecropolisCapitol H7TownHall]
+mName="Capitol"
+mDesc="Provides additional 2000 %ICON_GOLD Gold per day. You can only have one Capitol."
+
+UCP 1.3 / 7.5 mod
+
+[A_NecropolisTowerOfNecromancy H7TownBuilding]
+mName="Tower of Necromancy"
+mDesc="Visiting Necropolis heroes receive a bonus for Necromancy, raising creatures with additional 5 percentage points."
+
+7.5 mod : 
+
+[A_Necropolis_chambre_des_vampire_originel H7TownDwelling]
+mName="The House of the Void "
+mDesc="Allows to recruit a powerful champion creature - Wright. \Can be recruited using the "recruit all" function"
+
+[A_Necropolis_chambre_des_seigneur_des_tenebre H7TownDwelling]
+mName="Vampire Palace "
+mDesc="Allows a Death Spider to be sacrificed to recruit a powerful elite creature - Vampire Prince."
+
+[A_NecropolisAltarOfSacrifice H7TownUnitConverter]
+mName="Altar of Sacrifice"
+mDesc="Provides 400 gold %icon_gold and 2 ore %icon_ore per day"

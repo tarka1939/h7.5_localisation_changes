@@ -1,0 +1,51 @@
+[Abilities.A_Nova H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Seismic wave"
+mTooltip="This creature hits hard, causing a %d1.min to %d1.max %icon_earth that damages walls and towers. All enemy units on the ground lose their balance, reducing their %icon_initiative initiative and %icon_defense by half for the rest of the round. May be used once per combat."
+
+[Abilities.A_MarkOfTheSearcher_AttackIncrease H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Trakers's mark: attack"
+mTooltip="Successful attacks against marked enemy units receive a +5 %icon_ATTACK bonus to the attack."
+
+[Abilities.A_proliferation_charognard H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Putrid proliferation"
+mTooltip="When this creature dies, allied units have a 30% chance to increase their stack by 10%. "
+
+[Abilities.A_proliferation_charognard_Buff H7BaseBuff]
+mName="Proliferation "
+mTooltip="Each round, this unit has a 30% chance of increasing its stack size by %special1 until the effect is exhausted.\n The proliferation lasts %durnow turns."
+
+[Abilities.A_ThickSkin H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Thick skin"
+mTooltip="The skin on this unit is very strong, so a full ambush will always be reduced to an ambush only. In addition, it adds %stat2 %icon_defense."
+
+[Abilities.A_SeismicWave_Buff_Ini H7BaseBuff]
+mName="Loss of balance"
+mTooltip="%stat1 %stat1.icon to initiate and %stat2 %stat2.icon to defend until the end of the round."
+
+[Abilities.Tremor H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Epileptic seizure"
+mTooltip="This creature causes a minor earthquake from %d1.min to %d1.max %icon_earth with its body, damaging all small units (1x1) on the battlefield. May be used once per battle."
+
+[Creatures.A_CreatureLeviathan H7Creature]
+mName="Xel Abomination"
+mLore=""
+
+[Creatures.A_CreatureMoloch H7Creature]
+mName="Xel Monstrosity"
+mLore=""
+

@@ -1,0 +1,21 @@
+[TheWorld:PersistentLevel.H7CombatObstacleObject_1 H7CombatObstacleObject]
+mObstacleName="Small Rock"
+
+[TheWorld:PersistentLevel.H7CombatObstacleObject_3 H7CombatObstacleObject]
+mObstacleName="Small Rock"
+
+[TheWorld:PersistentLevel.H7CombatObstacleObject_36 H7CombatObstacleObject]
+mObstacleName="Small Rock"
+
+[TheWorld:PersistentLevel.H7CombatObstacleObject_37 H7CombatObstacleObject]
+mObstacleName="Small Rock"
+
+[TheWorld:PersistentLevel.H7CombatObstacleObject_8 H7CombatObstacleObject]
+mObstacleName="Small Rock"
+
+[TheWorld:PersistentLevel.H7CombatObstacleObject_9 H7CombatObstacleObject]
+mObstacleName="Small Rock"
+
+[TheWorld:PersistentLevel.WorldInfo_0.H7MapInfoCombat_0 H7MapInfoCombat]
+mName="Icescape"
+

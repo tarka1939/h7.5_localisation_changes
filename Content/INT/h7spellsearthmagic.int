@@ -1,0 +1,215 @@
+[A_PoisonCloud_Buff H7BaseBuff]
+mName="Poison Cloud"
+
+[Imprinted.A_PoisonSpray_Imprinted_Buff H7BaseBuff]
+mName="Poison Spray"
+mTooltip="Deals %d.min %d.icon Earth damage to the target creature at the start of its turn.\nLasts for %durnow turn(s)."
+
+[A_StoneSkin_Buff H7BaseBuff]
+mName="Stone Skin"
+mTooltip="%stat %ICON_DEFENSE Defence\nLasts for %durnow turn(s)."
+
+[A_Earthquake H7HeroAbility]
+mTooltipMagicGuild="Deals %icon_earth Earth damage to all units standing on the ground, town walls and towers, instantly. Damaged fortifications take double damage."
+mTooltipMagicGuildRankLine="%d3.min %d3.icon to units and %d1.min %d1.icon to structures"
+mTooltipUpgraded="Deals %d7.min %d7.icon Earth damage to all units standing on the ground and deals %d4.min %d4.icon Earth damage to all town walls and towers, instantly. Enemy units and already damaged fortifications take double damage."
+mName="Earthquake"
+mTooltip="Deals %d3.min %d3.icon Earth damage to all units standing on the ground and deals %d1.min %d1.icon Earth damage to all town walls and towers, instantly. Damaged fortifications take double the damage."
+
+[Imprinted.A_Regeneration_Imprinted_Buff H7BaseBuff]
+mName="Regeneration"
+mTooltip="Heals and resurrects %d.min Health of the creature at the start of its turn.\nLasts for %durnow turn(s)."
+
+[A_PoisonCloud H7HeroAbility]
+mTooltipMagicGuild="Creates a poison cloud on the target 3x3 area that expands by 1 in each direction for %durini turns. It deals %buff1.buff.d1.min %buff1.buff.d1.icon Earth damage to all creatures in the area instantly and at the start of all creatures' turn and to creatures entering the cloud."
+mTooltipMagicGuildRankLine="%buff1.buff.d1.min %buff1.buff.d1.icon"
+mName="Poison Cloud"
+mTooltip="Creates a poison cloud on the target 3x3 area that expands by 1 in each direction for %durini turns. It deals %buff1.buff.d1.min %buff1.buff.d1.icon Earth damage to all creatures in the area instantly and at the start of all creatures' turn and to creatures entering the cloud."
+
+[Imprinted.A_Entangle_Imprinted H7HeroAbility]
+mName="Entangle"
+mTooltip="Decreases by %buff1.buff.stat1.norm the %buff1.buff.stat1.icon Movement of the target enemy creature and prevents it from using movement based abilities for %buff1.buff.durini turns. Does not affect teleporting creatures."
+
+[A_StoneSkin H7HeroAbility]
+mTooltipMagicGuild="Increases the %ICON_DEFENSE Defence of the target friendly creature for %buff.buff.durini turns."
+mTooltipMagicGuildRankLine="%buff.buff.stat %buff.buff.stat.icon Defense"
+mTooltipUpgraded="Increases by %buff.buff.stat.norm the %ICON_DEFENSE Defence of all friendly creatures in the target 4x4 area for %buff.buff.durini turns."
+mName="Stone Skin"
+mTooltip="Increases by %buff.buff.stat.norm the %ICON_DEFENSE Defence of the target friendly creature for %buff.buff.durini turns."
+
+[Imprinted.A_PoisonCloud_Imprinted_Buff H7BaseBuff]
+mName="Poison Cloud"
+
+[A_PoisonSpray_Buff_Upgraded H7BaseBuff]
+mName="Poison Spray"
+mTooltip="Deals %d.min %d.icon Earth damage to the target creature at the start of its turn.\nLasts for the whole combat."
+
+[A_Entangle_FromCreature_Buff H7BaseBuff]
+mName="Entangle"
+mTooltip="%stat %stat.icon Movement\nThe creature cannot use movement based abilities.\nLasts for %durnow turn(s)."
+
+[A_Entangle_Buff_Upgraded H7BaseBuff]
+mName="Entangle"
+mTooltip="%stat1 %stat1.icon Movement\n The creature cannot use movement based abilities and receives %dam.min %dam.icon Earth damage when it moves. \nLasts for %durnow turn(s)."
+
+[A_Entangle H7HeroAbility]
+mTooltipMagicGuild="Decreases the %buff1.buff.stat1.icon Movement of the target enemy creature and prevents it from using movement based abilities for %buff1.buff.durini turns."
+mTooltipMagicGuildRankLine="%buff1.buff.stat1 %buff1.buff.stat1.icon Movement"
+mTooltipUpgraded="Decreases by %buff1.buff.stat1.norm the %buff1.buff.stat1.icon Movement of the target enemy creature and prevents it from using movement based abilities for %buff1.buff.durini turns. The entangled target takes %buff2.buff.d.min %buff2.buff.d.icon Earth damage when moving, for %buff2.buff.durini turns. Does not affect teleporting creatures."
+mName="Entangle"
+mTooltip="Decreases by %buff1.buff.stat1.norm the %buff1.buff.stat1.icon Movement of the target enemy creature and prevents it from using movement based abilities for %buff1.buff.durini turns."
+
+[A_PoisonSpray_Buff H7BaseBuff]
+mName="Poison Spray"
+mTooltip="Deals %d.min %d.icon Earth damage to the target creature at the start of its turn.\nLasts for %durnow turn(s)."
+
+[A_Regeneration_Buff H7BaseBuff]
+mName="Regeneration"
+mTooltip="Heals and resurrects %d.min Health of the creature at the start of its turn.\nLasts for %durnow turn(s)."
+
+[Imprinted.A_PoisonCloud_Imprinted H7HeroAbility]
+mName="Poison Cloud"
+mTooltip="Creates a poison cloud on the target 3x3 area that expands by 1 in each direction for %durini turns. It deals %buff1.buff.d1.min %buff1.buff.d1.icon Earth damage to all creatures in the area instantly and at the start of all creatures' turn and to creatures entering the cloud."
+
+[A_SylannasBounty H7HeroAbility]
+mTooltipMagicGuild="Doubles the production rate of the target Sawmill or Ore Pit in the same area of control for the next days."
+mTooltipMagicGuildRankLine="%buff1.buff.durini days"
+mName="Sylanna's Bounty"
+mTooltip="Doubles the production rate of the target Sawmill or Ore Pit in the same area of control for %buff1.buff.durini days."
+
+[A_SylannasBounty_Buff H7BaseBuff]
+mName="Sylanna's Bounty"
+mTooltip="Production is doubled for the next %durnow day(s)."
+
+[Imprinted.A_PoisonSpray_Imprinted H7HeroAbility]
+mName="Poison Spray"
+mTooltip="Deals %buff1.buff.d.min %buff1.buff.d.icon Earth damage to the target enemy creature at start of its next %buff1.buff.durini1 turns."
+
+[Imprinted.A_StoneSkin_Imprinted H7HeroAbility]
+mName="Stone Skin"
+mTooltip="Increases by %buff.buff.stat.norm the %ICON_DEFENSE Defence of the target friendly creature for %buff.buff.durini turns."
+
+[Imprinted.A_Entangle_Imprinted_Buff H7BaseBuff]
+mName="Entangle"
+mTooltip="%stat %stat.icon Movement\nThe creature cannot use movement based abilities.\nLasts for %durnow turn(s)."
+
+[A_Entangle_Buff H7BaseBuff]
+mName="Entangle"
+mTooltip="%stat %stat.icon Movement\n The creature cannot use movement based abilities.\nLasts for %durnow turn(s)."
+
+[Imprinted.A_Earthquake_Imprinted H7HeroAbility]
+mName="Earthquake"
+mTooltip="Deals %d3.min %d3.icon Earth damage to all units standing on the ground and deals %d1.min %d1.icon Earth damage to all town walls and towers, instantly. Damaged fortifications take double the damage."
+
+[A_StoneSpikes H7HeroAbility]
+mTooltipMagicGuild="Deals %ICON_EARTH Earth damage to all units in the target plus-shaped area, instantly."
+mTooltipMagicGuildRankLine="%d.min %d.icon"
+mTooltipUpgraded="Deals %d.min %d.icon Earth damage to all units in the target plus-shaped area instantly. The unit in the centre takes double damage."
+mName="Stone Spikes"
+mTooltip="Deals %d.min %d.icon Earth damage to all units in the target plus-shaped area, instantly."
+
+[A_PoisonSpray H7HeroAbility]
+mTooltipMagicGuild="Deals %ICON_EARTH Earth damage to the target enemy creature at the start of its next %buff1.buff.durini1 turns."
+mTooltipMagicGuildRankLine="%buff1.buff.d.min %buff1.buff.d.icon"
+mTooltipUpgraded="Deals %buff2.buff.d.min %buff2.buff.d.icon Earth damage to the target enemy creature at the start of its turn.\nLasts until the end of combat."
+mName="Poison Spray"
+mTooltip="Deals %buff1.buff.d.min %buff1.buff.d.icon Earth damage to the target enemy creature at the start of its next %buff1.buff.durini1 turns."
+
+[Imprinted.A_StoneSpikes_Imprinted H7HeroAbility]
+mName="Stone Spikes"
+mTooltip="Deals %d.min %d.icon Earth damage to all units in the target plus-shaped area, instantly."
+
+[Imprinted.A_StoneSkin_Imprinted_Buff H7BaseBuff]
+mName="Stone Skin"
+mTooltip="%stat %ICON_DEFENSE Defence\nLasts for %durnow turn(s)."
+
+[Imprinted.A_StoneSpikes_Imprinted_Artifact H7HeroAbility]
+mName="Stone Spikes"
+mTooltip="Deals %d.min %d.icon Earth damage to all units in the target plus-shaped area, instantly."
+
+[Imprinted.A_SylannasBounty_Imprinted H7HeroAbility]
+mName="Sylanna's Bounty"
+mTooltip="Doubles the production rate of the target Sawmill or Ore Pit in the same area of control for %buff1.buff.durini days."
+
+[Imprinted.A_SylannasBounty_Imprinted_Artifact H7HeroAbility]
+mName="Sylanna's Bounty"
+mTooltip="Doubles the production rate of the target Sawmill or Ore Pit in the same area of control for %buff1.buff.durini days."
+
+[Imprinted.A_SylannasBounty_Imprinted_Artifact_Buff H7BaseBuff]
+mName="Sylanna's Bounty"
+mTooltip="Production is doubled."
+
+[Imprinted.A_SylannasBounty_Imprinted_Buff H7BaseBuff]
+mName="Sylanna's Bounty"
+mTooltip="Production is doubled for the next %durnow day(s)."
+
+[A_Poisoned_Buff H7BaseBuff]
+mName="Poisoned"
+mTooltip="Deals %d1.min to %d1.max %d.icon Earth damage to the creature at the start of its turn.\nLasts for %durnow turn(s)."
+
+
+
+UCP MOD
+
+[Imprinted.A_Regeneration_Imprinted H7HeroAbility]
+mName="Regeneration"
+mTooltip="Heals and resurrects %buff.buff.d.min Health of the target friendly creature at the start of its next %buff.buff.durini turns.\n(Not affected: Undead and Constructs)"
+
+[A_Regeneration H7HeroAbility]
+mTooltipMagicGuild="Heals and resurrects the target friendly creature at the start of its next %buff.buff.durini turns.\n(Not affected: Undead and Constructs)"
+mTooltipMagicGuildRankLine="%buff.buff.d.min Health"
+mTooltipUpgraded="Heals and resurrects %buff.buff.d.min Health of all friendly creatures in the target 3x3 area at the start of their next %buff.buff.durini turns.\n(Not affected: Undead and Constructs)"
+mName="Regeneration"
+mTooltip="Heals and resurrects %buff.buff.d.min Health of the target friendly creature at the start of its next %buff.buff.durini turns.\n(Not affected: Undead and Constructs)"
+
+UCP 1.3 / 7.5_mod
+
+[Imprinted.A_WaspSwarm_Imprinted H7HeroAbility]
+mName="Wasp Swarm"
+mTooltip="Cast a wasp swarm on target enemy creature. The swarm deals %buff1.buff.d.min %icon_earth Earth damage when it is applied and the creature has %buff1.buff.buff1.buff.stat %icon_destiny Luck until the end of its next turn. At the start of the turn of a creature with the swarm or when a creature with the swarm dies, the swarm moves on to another enemy creature.\nThe swarm will attack enemies for %buff2.buff.durini turn(s)."
+
+[Imprinted.A_WaspSwarm_Imprinted_Artifact H7HeroAbility]
+mName="Wasp Swarm"
+mTooltip="Cast a wasp swarm on target enemy creature. The swarm deals %buff1.buff.d.min %icon_earth Earth damage when it is applied and the creature has %buff1.buff.buff1.buff.stat %icon_destiny Luck until the end of its next turn. At the start of the turn of a creature with the swarm or when a creature with the swarm dies, the swarm moves on to another enemy creature.\nThe swarm will attack enemies for %buff2.buff.durini turn(s)."
+
+[rework2.A_Nova H7HeroAbility]
+mTooltipMagicGuild="Launch a swarm of wasps at target enemy creature. The swarm inflicts %d.norm %icon_earth Earth Damage when applied, and the creature has %buff1.buff.buff2.buff.stat %icon_destiny Chance until the end of its next turn. At the start of a creature with the swarm's turn or when a creature with the swarm dies, the swarm passes to another enemy creature, this for %buff2.buff.durini.norm turns. "
+mTooltipMagicGuildRankLine="%buff1.buff.d.min %icon_earth Earth damage. Affects enemies for %buff2.buff.durini turn(s)."
+mTooltipUpgraded=""
+mName="Wasp Swarm"
+mTooltip="Launch a swarm of wasps at target enemy creature. The swarm inflicts %d.norm %icon_earth Earth Damage when applied, and the creature has %buff1.buff.buff2.buff.stat %icon_destiny Chance until the end of its next turn. At the start of a creature with the swarm's turn or when a creature with the swarm dies, the swarm passes to another enemy creature, this for %buff2.buff.durini.norm turns. "
+
+[A_WaspSwarm_Luck_Buff H7BaseBuff]
+mName="Wasp Swarm"
+mTooltip="%stat %icon_destiny Luck until the end of the creature's next turn." 
+
+[A_WaspSwarm_Hero_Buff H7BaseBuff]
+mName="Wasp Swarm"
+mTooltip="The swarm effect will attack enemies for %durnow turn(s).This attack inflicts %d1.norm %icon_earth Earth to a random enemies."
+
+[Imprinted.A_WaspSwarm_Imprinted_Artifact_Hero_Buff H7BaseBuff]
+mName="Wasp Swarm"
+mTooltip="The swarm effect will attack enemies for %durnow turn(s)."
+
+[Imprinted.A_WaspSwarm_Imprinted_Hero_Buff H7BaseBuff]
+mName="Wasp Swarm"
+mTooltip="The swarm effect will attack enemies for %durnow turn(s)."
+
+[rework.A_Nova H7HeroAbility]
+mTooltipMagicGuild="Creates a poison cloud on the target 3x3 area that expands by 1 in each direction for %durini turns. It deals %buff1.buff.d1.min %buff1.buff.d1.icon Earth damage to all creatures in the area instantly and at the start of all creatures' turn and to creatures entering the cloud."
+mTooltipMagicGuildRankLine="%buff1.buff.d1.min %buff1.buff.d1.icon"
+mTooltipUpgraded=""
+mName="Poison Cloud"
+mTooltip="Creates a poison cloud on the target 3x3 area that expands by 1 in each direction for %durini turns. It deals %buff1.buff.d1.min %buff1.buff.d1.icon Earth damage to all creatures in the area instantly and at the start of all creatures' turn and to creatures entering the cloud."
+
+
+[Rework.A_Burningdetermination H7HeroAbility]
+mTooltipMagicGuild="Increases the %ICON_DEFENSE Defence of the target friendly creature for %buff.buff.durini turns."
+mTooltipMagicGuildRankLine="%buff.buff.stat %buff.buff.stat.icon Defense"
+mTooltipUpgraded="Increases by %buff.buff.stat.norm the %ICON_DEFENSE Defence of all friendly creatures in the target 4x4 area for %buff.buff.durini turns."
+mName="Stone Skin"
+mTooltip="Increases by %buff.buff.stat.norm the %ICON_DEFENSE Defence of the target friendly creature for %buff.buff.durini turns."
+
+[A_WaspSwarm_Marker_Buff H7BaseBuff]
+mName="Mark by the swarm"
+mTooltip="The swarm is on this creature."

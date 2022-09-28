@@ -1,0 +1,40 @@
+[Abilities.A_Nova H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip=""
+
+[Abilities.A_ChemicalBurns H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Acid"
+mTooltip="When attacking, the unit has a 20% chance of reducing the enemy unit's %icon_defence to %buff.buff.stat.val for %buff.buff.durini rounds."
+
+[Abilities.A_MarkOfTheSearcher_RangeIncrease H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Tracker accuracy"
+mTooltip="Ranged attacks against enemy units marked by the Explorer ignore the range penalty."
+
+[Abilities.A_ChemicalBurns_Buff H7BaseBuff]
+mName="Acid"
+mTooltip="Reduces %icon_defense to %stat . During %durnow."
+
+[Creatures.A_CreatureScapular H7Creature]
+mName="Acid Ghorgogne"
+mLore="The Acid Ghorgogne, having accelerated the process of evolution, have filled their bodies and veins with a dangerous acid that can not only seriously corrode living organisms and literally eat away at their defences, whatever they may be, but also damage inanimate creatures and buildings. "
+
+[Abilities.Xenostorm H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Xenoborie"
+mTooltip="At the start of each of his turns, the Ghorgogne has a 20% chance to summon a powerful storm that hits all enemy units for %d.min to %d.max air damage %d.icon."
+
+[Creatures.A_CreatureXenophage H7Creature]
+mName="Ghorgogne"
+mLore="The Ghorgognes, contrary to their brother the rats, are issued from a mutation of bovine creature, the entity xel it is tried thus on several species in order to find the best genetic asset for its future armies. It could be that it is at the origin of the appearance of the first minotaure."
+

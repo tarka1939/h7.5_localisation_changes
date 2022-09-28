@@ -1,0 +1,153 @@
+[A_Mercenary_TownLv1 H7Town]
+mName=""
+
+[ability_faction.A_ennemies_faction_lumiere_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Alliance of Lights "
+mTooltip="Creatures under the control of the hero belonging to the Shadow Alliance (Necropolis / Dungeon / Sanctuary / Inferno/Stronghold ) Subissent une pénalité de %buff.buff.stat %icon_morale supplementaire."
+
+[ability_faction.A_ennemies_faction_ombre_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Shadow Alliance"
+mTooltip="Creatures under the control of hero belonging to the Light Alliance ( Haven / tower / Fortress / Sylvan / Academie ) suffer an additional %buff.buff.stat %icon_moral penalty."
+
+[ability_faction.A_ennemis_faction_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[Building.A_bonus_pool_elite_dungeon H7TownGrowthEnhancer]
+mName="Employer"
+mDesc="Improvement of elite housing.\n+2 growth of Elf Noir per week"
+
+[Building.A_bonus_pool_elite_haven H7TownGrowthEnhancer]
+mName="Employer"
+mDesc="Improvement of elite housing.\n+2 growth of the teacher per week"
+
+[Building.A_bonus_pool_elite_necropol H7TownGrowthEnhancer]
+mName="Employer"
+mDesc="Improvement of elite housing.\n+2 growth of Original Vampire per week"
+
+[Building.A_bonus_pool_elite_Sylvan H7TownGrowthEnhancer]
+mName="Employer"
+mDesc="Improvement of elite housing.\n+2 Unicorn growth per week"
+
+[Building.A_bonus_pool_t1 H7TownGrowthEnhancer]
+mName="Employer"
+mDesc="Improvement of elite housing.\n+2 Nemesis growth per week"
+
+[Building.A_bonus_pool_t2_sylvan H7TownGrowthEnhancer]
+mName="Employer"
+mDesc="Improvement of elite housing.\n+2 growth of Pantheon Sylvan per week"
+
+[Building.A_mercenary_elite_Dungeon H7TownDwelling]
+mName="Tavern"
+mDesc="Allows you to recruit Black Elves: 2 per week"
+
+[Building.A_mercenary_elite_haven H7TownDwelling]
+mName="Tavern"
+mDesc="Allows the recruitment of Pretresses: 2 per week"
+
+[Building.A_mercenary_elite_necropol H7TownDwelling]
+mName="Tavern"
+mDesc="Allows you to recruit Original Vampires: 2 per week"
+
+[Building.A_mercenary_elite_Sylvan H7TownDwelling]
+mName="Tavern"
+mDesc="Allows you to recruit Unicorns: 2 per week".
+
+[Building.A_mercenary_t1 H7TownDwelling]
+mName="Tavern"
+mDesc="Allows you to recruit Nemesis: 2 per week".
+
+[Building.A_mercenary_t2_sylvan H7TownDwelling]
+mName="Tavern"
+mDesc="Allows you to recruit Pantheon Sylvans: 2 per week".
+
+[Building.A_mercenary_VillageHall H7TownHall]
+mName="Village Hall"
+mDesc="Provides the option to build new structures in this town.\nProvides 2500 %ICON_GOLD Gold per day."
+
+[Champion_phoenix_Gold_dragon.A_mercenary_elite_Gold_Dragon H7TownDwelling]
+mName="Tavern"
+mDesc="Allows you to recruit Demonic Centaurs: 2 per week"
+
+[Champion_phoenix_Gold_dragon.A_mercenary_elite_Phoenix H7TownDwelling]
+mName="Tavern"
+mDesc="Allows you to recruit phoenixes: 2 per week"
+
+[Elite_Academie_Stronghold.A_bonus_pool_elite_Academie H7TownGrowthEnhancer]
+mName="Employer"
+mDesc="Improvement of elite housing.\n+2 growth of Anoukis per week"
+
+[Elite_Academie_Stronghold.A_bonus_pool_elite_Strongolhd H7TownGrowthEnhancer]
+mName="Employer"
+mDesc="Improvement of elite housing.\n+2 growth of Garuna per week"
+
+[Elite_Academie_Stronghold.A_mercenary_elite_academie H7TownDwelling]
+mName="Tavern"
+mDesc="Allows you to recruit Anoukis: 2 per week"
+
+[Elite_Academie_Stronghold.A_mercenary_elite_Stronghold H7TownDwelling]
+mName="Tavern"
+mDesc="Allows you to recruit Garunas: 2 per week"
+
+[Elite_Fortress_Sanctuary.A_bonus_pool_elite_fortress H7TownGrowthEnhancer]
+mName="Employer"
+mDesc="Improvement of elite housing.\n+2 Runic Matriarch growth per week"
+
+[Elite_Fortress_Sanctuary.A_bonus_pool_elite_Sanctuary H7TownGrowthEnhancer]
+mName="Employer"
+mDesc="Improvement of elite housing.\n+2 growth of Bushi Jinja per week"
+
+[Elite_Fortress_Sanctuary.A_mercenary_elite_Fortress H7TownDwelling]
+mName="Tavern"
+mDesc="Allows you to recruit Runic Matriarchs : 2 per week"
+
+[Elite_Fortress_Sanctuary.A_mercenary_elite_Sancuary H7TownDwelling]
+mName="Tavern"
+mDesc="Allows you to recruit Bushi Jinjas: 2 per week"
+
+[Elite_inferno_frost.A_bonus_pool_elite_frost H7TownGrowthEnhancer]
+mName="Employer"
+mDesc="Improvement of elite housing.\n+2 growth of Cryofriend per week"
+
+[Elite_inferno_frost.A_bonus_pool_elite_inferno H7TownGrowthEnhancer]
+mName="Employer"
+mDesc="Improvement of elite housing.\n+2 Demonic Dreadnought growth per week".
+
+[Elite_inferno_frost.A_mercenary_elite_Frost H7TownDwelling]
+mName="Tavern"
+mDesc="Allows the recruitment of Cryofiends: 2 per week"
+
+[Elite_inferno_frost.A_mercenary_elite_Inferno H7TownDwelling]
+mName="Tavern"
+mDesc="Allows you to recruit Demon Crusader: 2 per week"
+
+[Faction.H7Faction_mercenary H7Faction]
+mFactionName="Mercenary"
+mFactionFortName="Neutral Fort"
+mFactionArmyName=""
+
+[fortification.A_mercenary_Fortification1 H7TownGuardBuilding]
+mName="Garde Local"
+mDesc="Provided protection of the tavern by mercenaries"
+
+[H7mercenaryTownNames H7GenericTownNames]
+mTownNames[0]="Black Tavern"
+mTownNames[1]="Tavern Shadows"
+mTownNames[2]="Tavern "
+mTownNames[3]="Tarven From the Community"
+
+[Name.A_mercenay_Town_Lv1_Name H7GlobalName]
+mName="Tavern"
+
+[production.A_mercenary_fonderie H7TownHallOfIntrigue]
+mName="Slave market "
+mDesc="Provides 2 %ICON_ORE and 2 %icon_wood  per day."
+
+
+

@@ -1,0 +1,85 @@
+[A_Volunteers_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[A_NecessaryAlliance_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[A_DiplomaticImmunity_TownAbility H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Town Ability"
+mTooltip=""
+
+[A_DiplomaticImmunity_Buff H7BaseBuff]
+mName="Diplomatic Immunity"
+mTooltip="%stat %ICON_DEFENSE Defence while outside any friendly town's area of control."
+
+[A_SilverTongued_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Silver-Tongued"
+mTooltip="Halves the %ICON_GOLD Gold cost to recruit neutral creatures from Elemental Conflux and Magic Menagerie."
+
+[A_Volunteers_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Volunteers"
+mTooltip="Governor: The weekly base growth of core dwellings in this town is increased by %buff1.buff.stat.norm."
+
+[A_GoldenTongued_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Golden-Tongued"
+mTooltip="Neutral armies ask for %stat.norm less %ICON_GOLD Gold when they offer to join the hero."
+
+[A_Amnesty_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Amnesty"
+mTooltip="Surrender in combat is for free now."
+
+[A_Suzerain_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Suzerain"
+mTooltip="Governor: The hero supports all your towns with all his governor bonuses. Each governor bonus can still be applied only once per town."
+
+[A_NecessaryAlliance_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Necessary Alliance"
+mTooltip="When the hero's army contains creatures from different factions each creature gets +5 %ICON_MORALE Morale instead of a -10 %ICON_MORALE Morale penalty."
+
+[A_GlobalRuler_Ability H7HeroAbility]
+mName="Global Ruler"
+mTooltip="Governor: All towns of the player benefit from the hero's governor abilities. Effects cannot be applied multiple times to the same town."
+[A_ProfitAndLoss_Ability H7HeroAbility]
+mName="Profit and Loss"
+mTooltip="When visiting or being in the garrison, town level layers can be dismantled instead of destroyed to regain some resources."
+
+UCP 1.3
+
+[A_Diplomacy_Skill H7Skill]
+mDescriptions[0]="Increases the chance that neutral armies offer to join the hero and decreases the amount of %ICON_GOLD gold they require for that."
+mDescriptions[1]=""
+mDescriptions[2]="%stat1.norm higher chance that neutral armies offer to join the hero, and %stat7 to the amount of %ICON_GOLD gold they require for that."
+mDescriptions[3]="Additional %stat1.norm higher chance that neutral armies offer to join the hero, and additional %stat7 to the amount of %ICON_GOLD gold they require for that."
+mDescriptions[4]="Additional %stat1.norm higher chance that neutral armies offer to join the hero, and additional %stat7 to the amount of %ICON_GOLD gold they require for that."
+mName="Diplomacy"
+mTooltip="Diplomacy Skill Tooltip"
+
+[A_DiplomaticImmunity_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Diplomatic Immunity"
+mTooltip="The hero gets +1 %ICON_DEFENSE Defence for every temporary buff from a neutral building they possess."

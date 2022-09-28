@@ -1,0 +1,348 @@
+[Army.A_ArmyBioTitan H7AdventureArmy]
+mName=""
+
+[Army.A_ArmyCocoon H7AdventureArmy]F
+mName=""
+
+[Army.A_ArmyDeathbringer H7AdventureArmy]
+mName=""
+
+[Army.A_ArmyEnslaver H7AdventureArmy]
+mName=""
+
+[Army.A_ArmyJailer H7AdventureArmy]
+mName=""
+
+[Army.A_ArmyLeviathan H7AdventureArmy]
+mName=""
+
+[Army.A_ArmyLurker H7AdventureArmy]
+mName=""
+
+[Army.A_ArmyMineBeetle H7AdventureArmy]
+mName=""
+
+[Army.A_ArmyMineDevil H7AdventureArmy]
+mName=""
+
+[Army.A_ArmyMoloch H7AdventureArmy]
+mName=""
+
+[Army.A_ArmyMorlor H7AdventureArmy]
+mName=""
+
+[Army.A_ArmyRiftDemon H7AdventureArmy]
+mName=""
+
+[Army.A_ArmyRipper H7AdventureArmy]
+mName=""
+
+[Army.A_ArmyScapular H7AdventureArmy]
+mName=""
+
+[Army.A_ArmyScavenger H7AdventureArmy]
+mName=""
+
+[Army.A_ArmySearcher H7AdventureArmy]
+mName=""
+
+[Army.A_ArmySpawn H7AdventureArmy]
+mName=""
+
+[Army.A_ArmyStormViper H7AdventureArmy]
+mName=""
+
+[Army.A_ArmyVermin H7AdventureArmy]
+mName=""
+
+[Army.A_ArmyWerewolf H7AdventureArmy]
+mName=""
+
+[Army.A_ArmyXenophage H7AdventureArmy]
+mName=""
+
+[Town_Xel.A_Xel_Background H7TownBuilding]
+mName="Background"
+mDesc=""
+
+[Town_Xel.A_Xel_Capitol H7TownHall]
+mName="Capitol"
+mDesc="Provides an additional 2000 Gold %ICON_GOLD per day. You can only have one capitol."
+
+[Town_Xel.A_Xel_CityHall H7TownHall]
+mName="City Hall"
+mDesc="Provides an additional 1000 Gold additional %ICON_GOLD per day."
+
+[Town_Xel.A_Xel_Deathbringer_1 H7TownDwelling]
+mName="Temple of Death "
+mDesc="Elite Creature Dwelling.\nAllows you to recruit Ogre Rats with a growth rate of 2 per week."
+
+[Town_Xel.A_Xel_Deathbringer_2 H7TownDwelling]
+mName="Temple of the Void "
+mDesc="Improved elite creature dwelling.\nAllows you to recruit Mutant Rats and upgrade existing Ogre Rats."
+
+[Town_Xel.A_Xel_Deathbringer_add H7TownGrowthEnhancer]
+mName="Accelerators "
+mDesc="Improved elite creature dwelling.\n+2 in growth in the number of Ogre Rats and Mutant Rats."
+
+[Town_Xel.A_Xel_Enslaver_1 H7TownDwelling]
+mName="Hall of Pain"
+mDesc="Improved elite creature dwelling.\nAllows you to recruit Reapers with a growth rate of 5 per week."
+
+[Town_Xel.A_Xel_Enslaver_2 H7TownDwelling]
+mName="Hall of Torment"
+mDesc="Improved elite creature dwelling.\nAllows you to recruit Spectral Reapers and upgrade existing Reapers."
+
+[Town_Xel.A_Xel_Enslaver_add H7TownGrowthEnhancer]
+mName="Torture chamber"
+mDesc="Improved elite creature dwelling.\n+5 in growth of Reapers and Spectral Reapers."
+
+[Town_Xel.A_Xel_Fortification1 H7TownGuardBuilding]
+mName="Fortifications level 1"
+mDesc="Equips the city with ramparts and a gate during sieges, as well as a militia."
+
+[Town_Xel.A_Xel_Fortification2 H7TownGuardBuilding]
+mName="Fortifications level 2"
+mDesc="Increases the health point of the ramparts and the gate during sieges.\nIncreases the capacity of the militia and the growth of its creatures."
+
+[Town_Xel.A_Xel_Fortification3 H7TownGuardBuilding]
+mName="Fortifications level 3"
+mDesc="Increases the health point of the ramparts and the gate during sieges.\nIncreases the capacity of the militia and the growth of its creatures."
+
+[Town_Xel.A_Xel_Grail H7TownTearOfAsha]
+mName="Pa'Raktos"
+mDesc="Provides 5000 Gold %ICON_GOLD per day and increases the growth of creatures in this city by 50.\nThe hero receives the legendary Pa'Raktos artifact."
+
+[Town_Xel.A_Xel_HallOfHeroes H7TownBuilding]
+mName="Hall of Heroes"
+mDesc="Allows you to enlist heroes, both new and defeated. The choice of new heroes changes at the beginning of each week."
+
+[Town_Xel.A_Xel_MagicGuild1 H7TownMagicGuild]
+mName="Magic guild level 1"
+mDesc="Provides 5 random level 1 spells in this town.\nAll visiting heroes who meet the necessary conditions learn them."
+
+[Town_Xel.A_Xel_MagicGuild2 H7TownMagicGuild]
+mName="Magic guild level 2"
+mDesc="Provides 4 random level 2 spells in this town.\nAll visiting heroes who meet the necessary conditions learn them."
+
+[Town_Xel.A_Xel_MagicGuild3 H7TownMagicGuild]
+mName="Magic guild level 3"
+mDesc="Provides 3 random level 3 spells in this town.\nAll visiting heroes who meet the necessary conditions learn them."
+
+[Town_Xel.A_Xel_MagicGuild4 H7TownMagicGuild]
+mName="Magic guild level 4"
+mDesc="Provides 1 random level 4 spells in this town.\nAll visiting heroes who meet the necessary conditions learn them."
+
+[Town_Xel.A_Xel_Marketplace H7TownMarketplace]
+mName="Market"
+mDesc="Allows for the exchange of resources."
+
+[Town_Xel.A_Xel_MineBeetle_1 H7TownDwelling]
+mName="Incubator"
+mDesc="Basic creature dwelling.\nAllows you to recruit Mine Soldiers with a growth rate of 19 per week."
+
+[Town_Xel.A_Xel_MineBeetle_2 H7TownDwelling]
+mName="burrow"
+mDesc="Improved basic creature dwelling.\nAllows you to recruit Mine Sentinels and upgrade existing Mine Soldiers."
+
+[Town_Xel.A_Xel_MineBeetle_add H7TownGrowthEnhancer]
+mName="Drive shafts"
+mDesc="Improved basic creature dwelling.\n+9 in growth of Mine Soldiers or Mine Wardens per week."
+
+[Town_Xel.A_Xel_Moat H7TownMoat]
+mName="Moats"
+mDesc="Equips the city with moats for sieges.\nEnemy creatures that pass through them are interrupted and small ones are paralysed until the end of their next turn."
+
+[Town_Xel.A_Xel_Moloch2 H7TownDwelling]
+mName="Tower of Hate"
+mDesc="Improved Legendary Creature Dwelling.\nAllows you to recruit Xel Abominations and upgrade existing Xel Monstrosities."
+
+[Town_Xel.A_Xel_Moloch_1 H7TownDwelling]
+mName="Tower of Malice"
+mDesc="Legendary creature dwelling.\nAllows you to recruit Xel Monstrosities with a growth rate of 2 per week."
+
+[Town_Xel.A_Xel_ResourceSilo H7TownSiloBuilding]
+mName="Storage"
+mDesc="Randomly provides 1 unit of Dragon's Blood Crystals %icon_Crystal, of Draconic Steel  %icon_Dragonsteel, of Shadowsteel %icon_Shadowsteel or Starsilver %icon_Starsilver per day."
+
+[Town_Xel.A_Xel_Ripper_1 H7TownDwelling]
+mName="Black Palace"
+mDesc="Legendary creature dwelling.\nAllows you to recruit Giant Scorpions with a growth rate of 2 per week."
+
+[Town_Xel.A_Xel_Ripper_2 H7TownDwelling]
+mName="Obsidian Palace"
+mDesc="Improved Legendary Creature Dwelling.\nAllows you to recruit Xel Scorpions and upgrade existing Giant Scorpions."
+
+[Town_Xel.A_Xel_Scavenger_1 H7TownDwelling]
+mName="Dark laboratory"
+mDesc="Basic creature dwelling.\nAllows you to recruit Scavengers with a growth rate of 9 per week."
+
+[Town_Xel.A_Xel_Scavenger_2 H7TownDwelling]
+mName="Damage laboratory"
+mDesc="Improved basic creature dwelling.\nAllows you to recruit Iron Scavengers and upgrade existing Scavengers."
+
+[Town_Xel.A_Xel_Scavenger_add H7TownGrowthEnhancer]
+mName="Support tanks"
+mDesc="Improved basic creature dwelling.\n+9 in growth of Scavengers or Iron Chewers per week."
+
+[Town_Xel.A_Xel_Sealstone H7TownUtilityUnitDwelling]
+mName="Stone workshop"
+mDesc="Production of military units.\nAllows you to buy Seal Stones."
+
+[Town_Xel.A_Xel_Searcher_1 H7TownDwelling]
+mName="Monitoring Centre"
+mDesc="Basic creature dwelling.\nAllows the recruitment of Creeping tracker with a growth of 20 per week."
+
+[Town_Xel.A_Xel_Searcher_2 H7TownDwelling]
+mName="Centre alert"
+mDesc="Improved basic creature dwelling.\nAllows you to recruit Screamer and upgrade existing Creeping tracker."
+
+[Town_Xel.A_Xel_Searcher_add H7TownGrowthEnhancer]
+mName="Observatory"
+mDesc="Improved basic creature dwelling.\n+10 in Creeping tracker or Screamer growth per week.
+
+[Town_Xel.A_Xel_Special1 H7TownTower]
+mName="Storm generator"
+mDesc="Equips the city with 2 towers during sieges."
+
+[Town_Xel.A_Xel_Special2 H7TownBuilding]
+mName="Door of the rift"
+mDesc="Your units receive the Rift Cape at the beginning of the next combat."
+
+[Town_Xel.A_Xel_Special3 H7TownBuilding]
+mName="Charging station"
+mDesc="Increases the %icon_movement of visiting heroes by +5 points and the maximum mana of %icon_mana by +15 points until the end of the week."
+
+[Town_Xel.A_Xel_Special4 H7TownBuilding]
+mName="Reactor"
+mDesc="Affects all enemy heroes in the city control area: -50% in movement points %icon_movement , -3 in attack %icon_attack and -3 in defence %icon_defense."
+
+[Town_Xel.A_Xel_Special5 H7TownBuilding]
+mName="Totem Protector"
+mDesc="At the start of the next combat, the Protection Ritual will be cast on 2 random allied units (+5 in defence %ICON_DEFENSE and this unit cannot be taken back for 3 turns)."
+
+[Town_Xel.A_Xel_Special6 H7TownBuilding]
+mName="Deposit"
+mDesc="Provides 2 units of %icon_Ore per day."
+
+[Town_Xel.A_Xel_Special7 H7TownBuilding]
+mName="Transmitter"
+mDesc="In the control area of this city, %icon_earth spells cast by your heroes receive a 1 rank bonus."
+
+[Town_Xel.A_Xel_Special8 H7TownBuilding]
+mName="Recycling pits"
+mDesc="Provides 500 %icon_gold coins."
+
+[Town_Xel.A_Xel_ThievesGuild H7TownThiefGuild]
+mName="Thieves' Guild"
+mDesc="Allows you to pay for information about your opponents."
+
+[Town_Xel.A_Xel_Town_ChargingStation_Ability H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Charging station capacity"
+mTooltip=""
+
+[Town_Xel.A_Xel_Town_ChargingStation_Buff H7BaseBuff]
+mName="Charging station"
+mTooltip="Visiting heroes get %stat1 in Movement points %icon_movement and %stat2 in maximum mana points %icon_mana until the end of the week."
+
+[Town_Xel.A_Xel_Town_ProtectiveTotem_Ability H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Protective totem capacity"
+mTooltip=""
+
+[Town_Xel.A_Xel_Town_ProtectiveTotem_Buff H7BaseBuff]
+mName="Totem Protector"
+mDesc="At the start of the next combat, the Protection Ritual will be cast on 2 random allied units (Visiting heroes get +5 defence %ICON_DEFENSE and that unit can't be overpowered for 3 turns)."
+
+[Town_Xel.A_Xel_Town_Reactor_Ability H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Hourglass capacity of Ashas"
+mTooltip=""
+
+[Town_Xel.A_Xel_Town_Reactor_Buff H7BaseBuff]
+mName="Reactor"
+mTooltip="The movement points %icon_movement of the opponent heroes are reduced by 50%. Their %icon_attack and %icon_defense are reduced as long as they stay in the city's control area."
+
+[Town_Xel.A_Xel_Town_RiftGate_Ability H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rift gate capacity"
+mTooltip=""
+
+[Town_Xel.A_Xel_Town_RiftGate_Buff H7BaseBuff]
+mName="Gateway to the rift"
+mTooltip="All allied creatures receive Rift Cloak at the start of each battle."
+
+[Town_Xel.A_Xel_Town_Transmitter_Ability H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Transmitter capacity"
+mTooltip=""
+
+[Town_Xel.A_Xel_Town_Transmitter_Buff H7BaseBuff]
+mName="Transmitter"
+mTooltip="All  spells Earth %icon_earth  are cast at master level."
+mDesc="All Earth spells are cast at master level."
+
+[Town_Xel.A_Xel_TownHall H7TownHall]
+mName="Town Hall"
+mDesc="Provides an additional 1000 Gold additional %ICON_GOLD per day."
+
+[Town_Xel.A_Xel_TownPortal H7TownPortal]
+mName="Return Portal"
+mDesc="Provides the Immediate Recall spell to all heroes who visit this city.\nAllows heroes with this spell to return to this city if it is the closest available."
+
+[Town_Xel.A_Xel_VillageHall H7TownHall]
+mName="Village Hall"
+mDesc="Allows you to construct new buildings in this city.\nProvides 500 Gold %ICON_GOLD per day."
+
+[Town_Xel.A_Xel_Xenophage_1 H7TownDwelling]
+mName="Xenostation"
+mDesc="Elite creature dwelling.\nAllows you to recruit Gorgons with a growth rate of 6 per week."
+
+[Town_Xel.A_Xel_Xenophage_2 H7TownDwelling]
+mName="Xenostation Extent"
+mDesc="Improved elite creature dwelling.\nAllows you to recruit Acid Gorgons and upgrade existing Gorgons."
+
+[Town_Xel.A_Xel_Xenophage_add H7TownGrowthEnhancer]
+mName="Storage disks"
+mDesc="Improved elite creature dwelling.\n+6 in Gorgonian or Acid Gorgonian growth per week.
+
+[Town_Xel.A_XelTownLv1 H7Town]
+mName=""
+
+[New_Build.A_Xel_chambre_bio_titan H7TownDwelling]
+mName="Nuclear Power Plant"
+mDesc="Allows you to recruit a powerful warrior Xel Colossus \n Can be recruited using the "recruit all" function"
+
+[Town_Xel.H7XelTownNames H7GenericTownNames]
+mTownNames[0]="Taeqruk"
+mTownNames[1]="Riheth"
+mTownNames[2]="Trauk"
+mTownNames[3]="Thrugvox"
+mTownNames[4]="Bhet"
+mTownNames[5]="Aloi"
+mTownNames[6]="Saste"
+mTownNames[7]="Qholzin"
+mTownNames[8]="Vrirqik"
+mTownNames[9]="Yalzun"
+mTownNames[10]="Uscits"
+mTownNames[11]="Icciek"
+mTownNames[12]="Kegnox"
+mTownNames[13]="Zuth"
+mTownNames[14]="Chingell"
+mTownNames[15]="Ilkuh"
+mTownNames[16]="Bhorok"
+mTownNames[17]="Qols"
+mTownNames[18]="Ruhith"
+mTownNames[19]="Vixuk"
+

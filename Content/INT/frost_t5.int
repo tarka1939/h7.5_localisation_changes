@@ -1,0 +1,45 @@
+[A_Creature_t5_base H7Creature]
+mName="Savant"
+mLore="Savants are eminent wizards with extensive knowledge of general magic, alchemy, metallurgy, and minerals. Their knowledge of pure primal magic and its various aspects, surpass the mages of the Silver Cities. The path to becoming a Savant is difficult and arduous. There are no young people among them for nothing."
+
+[A_Creature_t5_upregate H7Creature]
+mName="Wizard Tutor"
+mLore="Before a Savant becomes Archmage, he becomes a Wizard Tutor. He specializes in one field and is perfecting in it not only to be a master in it, but also to discover or invent something new in it. Its task is also to teach new Savants. Wizadr Toutors are also loyal servants of Asha and you can say that they are her priests."
+
+[Ability.A_dome_Buff H7BaseBuff]
+mName="Magic Dome"
+mTooltip="The creature receives %res1 damage from all sources for %durnow turn(s)."
+
+[Ability.A_dome_Buff_lv1 H7BaseBuff]
+mName="Magic Dome"
+mTooltip="The creature receives %res1 damage from all sources for %durnow turn(s)."
+
+[Ability.A_dome_Buff_lv2 H7BaseBuff]
+mName="Magic Dome"
+mTooltip="The creature receives %res1 damage from all sources for %durnow turn(s)."
+
+[Ability.A_dome_Buff_lv3 H7BaseBuff]
+mName="Magic Dome"
+mTooltip="The creature receives %res1 damage from all sources for %durnow turn(s)."
+
+[Ability.A_Nova H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Avalanche"
+mTooltip="Deals %d %ICON_Water Water damage to all enemies in a very large area once per combat."
+
+[Ability.A_RangedAttack_Ice_Projectile H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Ranged Attack"
+mTooltip="Range Attack"
+
+[Ability.A_Resurrection H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Magic Dome"
+mTooltip="All adjacent friendly creatures will receive protection against all sources of damage, dependent on their Cold Blood level: \nNo cold blood : %buff1.buff.res1 \n Lv.1 %buff8.buff.res1 \n Lv.2 %buff3.buff.res1 \n Lv.3 %buff4.buff.res1.\nThe aura lasts until the end of the current turn."
+

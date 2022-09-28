@@ -1,0 +1,19 @@
+[IvanCampaign H7CampaignDefinition]
+mName="The Stuff of Future Memory"
+mDescription=""I am but a man... and this story is for men. Men who fight beside me. Men who die for the right to forge their own destinies.""
+mQuickInfo="Ivan's story"
+mIvanCampaignSelectText[0]="I know nothing, somebody talk to me!"
+mIvanCampaignSelectText[1]="ivan1"
+mIvanCampaignSelectText[2]="ivan2"
+mIvanCampaignSelectText[3]="ivan3"
+mIvanCampaignSelectText[4]="ivan4"
+mIvanCampaignSelectText[5]="ivan5"
+mIvanCampaignSelectText[6]="ivan6"
+mStartCampaignText=""
+mContinueCampaignText=""
+mRestartCampaignText=""
+
+UPC MOD
+
+mBonusDescription="Victory in the Ten Years War. The Griffin Empire has been established."
+

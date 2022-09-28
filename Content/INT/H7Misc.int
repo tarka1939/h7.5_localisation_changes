@@ -1,0 +1,33 @@
+[Hints.A_LoadscreenHints H7LoadingHints]
+mHints[0]="Moving diagonally costs 1.41 Movement."
+mHints[1]="A Saved game is created automatically at the end of each Day."
+mHints[2]="Heroes can ascend up to level 30 in official campaigns and scenarios."
+mHints[5]="Armies suffer from -10 Morale if they contain creatures from different factions."
+mHints[6]="You can remove messages appearing at the right side of the screen with a right-click."
+mHints[7]="You can drag and drop spells from the spell book into the quick bar at the left side of the screen."
+mHints[8]="Heroes can cast only one spell per day outside of combat."
+mHints[9]="Heroes regenerate Mana every day depending on their Spirit."
+mHints[10]="You can assign one hero per town as governor. This way the town benefits from the hero's governor abilities."
+mHints[12]="Pressing the Alt-key (default key binding) will highlight all interactive objects on the Adventure map."
+mHints[13]="Holding the right mouse button in combat over an enemy creature will show additional combat information."
+mHints[14]="Flank enemy creatures in combat to deal an additional 25% damage."
+mHints[15]="Attack enemy creatures from behind (full flanking) to deal an additional 50% damage."
+mHints[18]="The damage a creature deals heavily depends on its Attack and the target's Defence."
+mHints[20]="Creatures' Luck is increased by the hero's Destiny."
+mHints[21]="Creatures' Morale is increased by the hero's Leadership."
+mHints[22]="Most creatures will only retaliate once per combat round."
+mHints[24]="When killing an enemy stack in combat your creatures will receive a +10 morale bonus."
+mHints[25]="When one of your creature stacks dies in combat your creatures will receive -20 morale."
+mHints[26]="You can define a creatures viewing direction by holding the mouse button during a move command."
+
+UCP 1.1
+
+mHints[16]="Creatures can have neither less than -75 Morale and Luck or more than +75 Morale and Luck."
+mHints[17]="You can modify the game features in the game editor."
+mHints[3]="There is one extra strong core and elite creature for every faction."
+mHints[4]="Don't forget to check your favourite mods for new updates and fixes!"
+
+UCP 1.2
+mHints[11]="Using a button in a lower right corner, you can order a caravan and reinforce your heroes outside towns with additional troops."
+mHints[19]="Creatures can be upgraded in towns, habitats or training grounds."
+mHints[23]="During games with classic skilling enabled, most factions have a forbidden magic school whose spells they cannot learn."

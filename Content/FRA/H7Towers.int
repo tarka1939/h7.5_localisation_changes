@@ -1,0 +1,77 @@
+[A_towerpowerBuff H7BaseBuff]
+mName="Tower power"
+mTooltip=""
+
+[A_Wait H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Tower power "
+mTooltip="The creature will act later. The order of waiting units is inverted."
+
+[Academy.A_TowerAcademy_Attack H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Tower Attack"
+mTooltip="Shoots at an enemy creature dealing %d.min to %d.max damage."
+
+[Academy.H7AcademyTowerUnit H7TowerUnit]
+mName="Tour de l'Académie"
+mLore=""
+
+[Dungeon.A_TowerDungeon_Attack H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Tower Attack"
+mTooltip="Shoots at an enemy creature dealing %d.min to %d.max damage."
+
+[Dungeon.H7DungeonTowerUnit H7TowerUnit]
+mName="Dungeon Tower"
+mLore=""
+
+[Haven.A_TowerHaven_Attack H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Tower Attack"
+mTooltip="Shoots at an enemy creature dealing %d.min to %d.max damage."
+
+[Haven.H7HavenTowerUnit H7TowerUnit]
+mName="Tour du Havre"
+mLore=""
+
+[Necropolis.A_TowerNecropolis_Attack H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Tower Attack"
+mTooltip="Shoots at an enemy creature dealing %d.min to %d.max damage."
+
+[Necropolis.H7NecropolisTowerUnit H7TowerUnit]
+mName="Necropolis Tower"
+mLore=""
+
+[Stronghold.A_TowerStronghold_Attack H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Tower Attack"
+mTooltip="Shoots at an enemy creature dealing %d.min to %d.max damage."
+
+[Stronghold.H7StrongholdTowerUnit H7TowerUnit]
+mName="Tour du Bastion"
+mLore=""
+
+[Sylvan.A_TowerSylvan_Attack H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Tower Attack"
+mTooltip="Shoots at an enemy creature dealing %d.min to %d.max damage."
+
+[Sylvan.H7SylvanTowerUnit H7TowerUnit]
+mName="Sylvan Tower"
+mLore=""
+

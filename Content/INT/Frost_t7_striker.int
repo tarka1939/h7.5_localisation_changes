@@ -1,0 +1,49 @@
+[Ability.A_Colere_du_sang H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Angry Blood"
+mTooltip="At the start of each turn, increase this creature's minimum and maximum damage according to its level of Cold Blood:\nLv.1: %buff1.buff.stat1\nLv.2: %buff2.buff.stat1\nLv.3: %buff3.buff.stat1."
+
+[Ability.A_Colere_du_sang_Buff_expert H7BaseBuff]
+mName="Angry Blood"
+mTooltip="Increases this creature's damage by %stat1."
+
+[Ability.A_Colere_du_sang_Buff_master H7BaseBuff]
+mName="Angry Blood"
+mTooltip="Increases this creature's damage by %stat1."
+
+[Ability.A_Colere_du_sang_Buff_novice H7BaseBuff]
+mName="Angry Blood"
+mTooltip="Increases this creature's damage by %stat1."
+
+[Ability.A_PiercingShot H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Fount from Mountain"
+mTooltip="All enemy creatures in a line suffer %d1 %ICON_Water Water damage.\n2 Time per combat."
+
+[Ability.bUFF_hiver_come H7BaseBuff]
+mName="Winter is Coming"
+mTooltip="Triggers a powerful attack that inflicts %buff3.buff.d1 damage to enemies and heals allies for %buff3.buff.d2 %icon_health Health in %durnow turn(s).
+
+[Ability.bUFF_hiver_come_dommage_master H7BaseBuff]
+mName="Winter is Coming"
+mTooltip="Inflicts %d1 to all enemies and heals all allies for %d2 %icon_health Health at the end of turn."
+
+[Ability.hiver_come H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Winter is Coming"
+mTooltip="When the creature reaches Cold Blood lv. 3, at the end of its next turn, it unleashes a powerful attack that inflicts %d %icon_water Water damage to all enemies and heals %d %icon_health Health of all allies."
+
+[Champion_frost.A_Creature_champion_frost H7Creature]
+mName="Destroyer"
+mLore="In the easternmost part of Entil, where the icy rays of the sun appear on the mountain tops first for the refugees from the Holy Empire to settle. Worshiping both the sun, to which they are closer in the high mountains, and the ice lady Mashana, formed a caste of Destroyers. These mighty warriors train their muscles in the coldest caves, swim on the coldest lakes, run in the deepest snow to become one with the frost, only warmed by the weak sun of Jerosh."
+
+[Champion_frost.A_Creature_champion_frost_1_upregate H7Creature]
+mName="Mountain Striker"
+mLore="The steepest peaks seem never to be reached by man.  Nothing could be more wrong. These are hermitages of the Mountain Strikers. They are beings who have lost their humanity to become one with snow, cold and mountains. Few manage to become such. And the final test is to climb the as yet unconquered peak. This is said to be the guardians of the mountains."
+

@@ -1,0 +1,135 @@
+[A_magic_shield H7BaseBuff]
+mName="Magieschub"
+mTooltip="Kreatur erhält %stat %icon_health HP Bonus bis zum Ende der Runde."
+
+[Archetype.A_Grikald H7EditorHero]
+mName="Grikald"
+mLore="Defensive Magie ist ein Gebiet, auf das sich Grikald spezialisiert hat. Er wird manchmal als Meister der Kraftunterstützung bezeichnet und kann Stärkungszauber anwenden, die dich praktisch immun gegen jeglichen Schaden machen. Er verwendet Eismagie in Kombination mit Erdmagie und heilender Lichtmagie und einigen Geheimnissen der Urmagie. Er hat nie jemandem die Geheimnisse seiner erstaunlichen Fähigkeit verraten."
+
+[Archetype.A_mushy H7EditorHero]
+mName="Mushy"
+mLore=""
+
+[Archetype.A_Vexes H7EditorHero]
+mName="Vexes"
+mLore=""
+
+[Hero_specialisation.A_berseker_of_ice H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Berserker der Kälte"
+mTooltip="Dieser Held erhöht seinen Schaden um %stat1 %icon_water pro Stufe. Kreaturen, die er angreift, erleiden bis zum Ende des Kampfzuges %buff3.buff.res1 Schaden."
+
+[Hero_specialisation.A_Marque_bersekeur_ice_Buff H7BaseBuff]
+mName="Zeichen des Eis-Berserkers"
+mTooltip="Eine Kreatur deiner Wahl erleidet bis zum Ende des Zuges %res1 zusätzlichen Schaden."
+
+[Hero_specialisation.A_Percing_figth H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Durchdringende Kälte"
+mTooltip="Lege zu Beginn des Kampfes einen Stärkungszauber auf alle verbündeten Kreaturen, der 25% der gegnerischen Abwehr ignoriert, während 3 Runden."
+
+[Hero_specialisation.A_Puissance_up H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Gewölbejäger"
+mTooltip="Immer wenn der Held eine Truhe öffnet, erhält er %stat %icon_attack Angriff."
+
+[Hero_specialisation.A_specialisation_boost_t4 H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Magieverstärkung"
+mTooltip="Zu Beginn des Kampfes und jedes Mal, wenn sein Held einen Verbündeten Kashriyta oder Kashriyta Kalis anvisiert, um ihm einen Stärkungszauber zu geben, setzt er eine magische Verstärkung ein, die bis zum Ende der Kampfrunde um %buff.buff.stat %icon_health erhöht."
+
+[Heros_names.A_Grikald_Name H7GlobalName]
+mName="Grikald"
+
+[Heros_names.A_Mushy_Name H7GlobalName]
+mName="Mushy"
+
+[Heros_names.A_Vexes_Name H7GlobalName]
+mName="Vexes"
+
+
+[Archétype.A_Chairtmin H7EditorHero]
+mName=""
+mLore=""
+
+[Heros_names.A_Chairtmin_Name H7GlobalName]
+mName="Chairtmin"
+
+[Hero_specialisation.A_Percing_figth H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Durchdringende Kälte"
+mTooltip="Legt zu Beginn des Kampfes einen Stärkungszauber auf alle Verbündeten: Verbündete Kreaturen ignorieren für 3 Runden 25% der gegnerischen Abwehr."
+
+[heropédya.A_HeroBio_Chairtmin H7HeroBioData]
+mText="Mehrere Jahrhunderte lang war Chairtmin der Anführer der Hrimthursen und Bewahrer ihrer Traditionen. Trotz seines beträchtlichen Alters ist sein Geist noch klar und sein Körper voller Kraft. Da er weiß, wie kriegerisch seine Verwandten manchmal sein können, kühlt der Riese ihren Eifer geschickt ab und lenkt ihn in die richtigen Bahnen. Nach der Ankunft des auserwählten Champions traf Chairtmin die schwierige Entscheidung, die Berge zu verlassen, und führte seinen Stamm als Zeichen des guten Willens persönlich zu einem Treffen mit Vertretern der Union, um sich gemeinsam mit neuen Verbündeten auf die bevorstehende Schlacht vorzubereiten. Es gibt zwar viele Hrimturs, die mit Chairtmins Entscheidung unzufrieden sind, aber nur diejenigen, die bereit sind, ihn zu einem Duell um den Titel des Anführers herauszufordern, können ihm offen widersprechen. Im Moment gibt es keine Wagemutigen, die seinen mächtigen Schlägen widerstehen könnten, die selbst die widerstandsfähigste Rüstung mit Leichtigkeit durchbrechen."
+
+[Archétype.A_Fiur H7EditorHero]
+mName=""
+mLore=""
+
+[Hero_specialisation.A_Recruiter_fiur_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rekrutierer"
+mTooltip="Statthalter: Das Rekrutieren von Kreaturen in dieser Stadt kostet %special1% weniger Gold."
+
+[Hero_specialisation.A_Recruiter_fiur_TownBuff H7BaseBuff]
+mName="Rekrutierer (Statthalter-Fähigkeit)"
+mTooltip=""
+
+[Hero_specialisation.A_specialisation_boost_t4 H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Verstärkungsmagie"
+mTooltip="Zu Beginn des Kampfes zielt der Held auf eine verbündete Kreatur, um eine magische Verstärkung zu platzieren, die bis zum Ende des Kampfzuges die %icon_health Lebenspunkte um %buff.buff.stat erhöht."
+
+[heropédya.A_HeroBio_fiur H7HeroBioData]
+mText="Als die Eisspitzen-Union beschloss, sich der Welt zu offenbaren, übernahm Fiur als Oberhaupt der einflussreichsten Handelsgilde den Aufbau von Beziehungen zu den führenden Ländern von Ashan. Indem er persönlich an allen wichtigen Verhandlungen teilnahm, erreichte er geschickt seine Ziele und schloss viele für beide Seiten vorteilhafte Handelsabkommen. Schon bald begannen Karawanen mit wertvollen Waren die Straßen der Union zu befahren, was die Aufmerksamkeit der umliegenden Banditen auf sich zog. Für solche Gelegenheiten hatte Fiur immer scharfe Pfeile im Köcher, aber er wusste auch, dass man mit Geld viel erreichen kann, und zögerte nicht, die kriegführenden Banden zu bestechen und sie gegeneinander aufzuhetzen."
+
+[Heros_names.A_Fiur_Name H7GlobalName]
+mName="Fiur"
+
+[Archétype.A_Lily_Rose H7EditorHero]
+mName=""
+mLore=""
+
+[heropédya.A_HeroBio_lily_rose H7HeroBioData]
+mText="Selbst weise Naga-Mentoren, die einst von Shanria eingeladen wurden, um die junge Lily Rose zu unterrichten, mussten ihre Machtlosigkeit eingestehen und nannten sie den Avatar des Zerstörers in Menschengestalt. Ihre Techniken beinhalteten die Einheit mit dem Wasser und das Erreichen von innerem Frieden, aber das Talent der jungen Zauberin manifestierte sich darin, Zerstörung zu verursachen. Lawinen, Schneestürme, riesige Flutwellen - Lily Rose kann sie buchstäblich mit einem Fingerschnippen herbeiführen und damit die übliche Sichtweise auf das bekannte Prinzip "Die beste Verteidigung ist ein guter Angriff" radikal verändern. Wenn man sieht, wie gekonnt die junge Zauberin das Wasserelement beherrscht und einen Zauber nach dem anderen auf die Feinde loslässt, fühlen sich ihre Truppen irgendwie sicherer.
+
+[heros_names.A_lily_rose_Name H7GlobalName]
+mName="Lily Rose"
+
+[Hero_specialisation.A_Defenseur_de_givre H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Frostwiderstand"
+mTooltip="Dieser Held erhöht jedes Mal, wenn er mit einem Wasserzauber Schaden anrichtet, seine Abwehr um %stat1 %icon_defense."
+
+[Hero_specialisation.A_percing_figth_Buff H7BaseBuff]
+mName="Durchdringende Kälte"
+mTooltip="Kreaturen unter der Kontrolle des Helden erhalten einen Stärkungszauber, der es ihnen erlaubt, %special %icon_defense Feinde außer Kraft zu setzen. Hält %durnow Runde(n)"
+
+
+[heropedya.A_HeroBio_grikald H7HeroBioData]
+mText="Grikald war einer von denen, die daran glaubten, dass Wissen anderen zugute kommen sollte, und er tat alles, um das Leben der einfachen Leute zu erleichtern, die verzweifelt versuchten, im rauen Klima von Dragon Causeway zu überleben. Nach vielen Jahren des Studiums der Mashana-Einweihung gelang es dem Magier, ein magisches Ritual zu schaffen, das alle Bürger der Union völlig immun gegen die Kälte machen konnte, doch der Rat der Weisen hielt es für zu gefährlich. Daraufhin führte der Erzmagier das Ritual freiwillig an sich selbst durch, musste aber zugeben, dass es bei weitem nicht perfekt war und nur die Einweihung Schutz vor den negativen Folgen bieten konnte. Grikald setzte seine Forschungen fort und entwickelte eine vereinfachte Version des Rituals, die er oft während Schlachten testet, um die Vitalität seiner Krieger zu steigern."
+
+[heropedya.A_HeroBio_Mushi H7HeroBioData]
+mText="Als Tochter eines einfachen Schmieds und einer Hotelbesitzerin wollte Mushy immer für ein besseres Leben ihrer Familie sorgen. Im Gegensatz zu Gleichaltrigen, die aktiv die Grundlagen der Hauswirtschaft erlernten, wählte sie den militärischen Weg für sich und verbrachte täglich mehrere Stunden mit dem Training. Die Bemühungen des Mädchens waren von Erfolg gekrönt, als es ihr gelang, in die Militärschule von Ukur aufgenommen zu werden und diese mit Auszeichnung abzuschließen. Wenige Jahre später wurde Mushy zur Kommandantin der Garnison in ihrer Heimatstadt Entil ernannt. Nach der Rückkehr von Kriegszügen überweist sie einen Teil der errungenen Trophäen an die Schatzkammer und schickt das restliche Geld entweder an ihre Familie oder kauft Material von höchster Qualität. Da sie der Meinung ist, dass ihre Krieger die besten Waffen haben sollten, ist Mushy immer bereit, für eine Weile in das Familienunternehmen zurückzukehren und sich für ein paar Tage in die Schmiede einzuschließen."
+
+
+[heropedya.A_HeroBio_vexes H7HeroBioData]
+mText="Obwohl die Einweihung der Mashana arkanes Wissen über die Natur der Kälte verleiht, kann es nicht jeder vollständig verstehen. Nachdem er den Segen einer der ältesten Töchter Shalassas erhalten hatte, bekam Vexes den Status eines geringeren Erleuchteten, aber diese Gabe erwies sich als eine zu schwere Bürde für ihn. Jedes Mal, wenn sich der junge Prophet in Trance versetzte, wurde die in seinem Körper enthaltene Kraft in Form eines Schneesturms entfesselt, der mit jeder neuen Reise in die Geisterwelt stärker und umfangreicher wurde. Schließlich bedeckte er die gesamte Stadt Lamak, und auf Beschluss des Rates wurde einer der Erzmagier dorthin geschickt, um die Situation unter Kontrolle zu bringen. Unter seiner strengen Führung gelang es Vexes, die instabile elementare Energie zu unterdrücken und ein prekäres Gleichgewicht zwischen Körper, Geist und Seele zu erreichen."
+

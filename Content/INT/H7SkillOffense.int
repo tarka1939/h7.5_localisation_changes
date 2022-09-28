@@ -1,0 +1,97 @@
+[A_Accuracy_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Accuracy"
+mTooltip="%buff1.buff.stat1 to the base Damage of friendly ranged creatures."
+
+[A_Accuracy_Archery_Master_Buff H7BaseBuff]
+mName="Accuracy"
+mTooltip=""
+
+[A_Accuracy_Buff H7BaseBuff]
+mName="Accuracy"
+mTooltip=""
+
+[A_Archery_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Archery"
+mTooltip="All friendly ranged creatures shoot with %buff1.buff.stat1 %icon_Attack and the unit always attacks with full range."
+
+[A_Archery_Buff H7BaseBuff]
+mName="Archery"
+mTooltip=""
+
+[A_BattleFrenzy_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Battle Frenzy"
+mTooltip="%buff1.buff.stat1 to the base Damage of friendly melee creatures."
+
+[A_BattleFrenzy_Buff H7BaseBuff]
+mName="Battle Frenzy"
+mTooltip=""
+
+[A_BattleFrenzy_Buff_Frenzy_Spec H7BaseBuff]
+mName="Battle Frenzy"
+mTooltip=""
+
+[A_GiantSlayer_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Giant Slayer"
+mTooltip="Friendly creatures get %spell1.spell.special.val1 %ICON_ATTACK Attack while attacking or retaliating against large creatures."
+
+[A_GiantSlayer_CreatureAbility H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip=""
+
+[A_Homeland_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Homeland"
+mTooltip="Governor: All friendly heroes in this town's area of control get %buff1.buff.stat %buff1.buff.stat.icon Might."
+
+[A_Homeland_Buff H7BaseBuff]
+mName="Homeland"
+mTooltip="%stat %stat.icon Might in this area of control"
+
+[A_MasterFlanker_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Master Flanker"
+mTooltip="Friendly creatures' flanking and full flanking damage bonuses are increased by %buff1.buff.stat.norm percentage points."
+
+[A_MasterFlanker_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[A_Offense_Skill H7Skill]
+mDescriptions[0]="Increases the hero's Might."
+mDescriptions[1]=""
+mDescriptions[2]="Increases hero's Might by %stat1.norm %stat1.icon."
+mDescriptions[3]="Increases hero's Might by additional %stat1.norm %stat1.icon."
+mDescriptions[4]="Increases hero's Might by additional %stat1.norm %stat1.icon."
+mName="Offense"
+mTooltip="This is the Offense Skill Tooltip"
+
+[A_PerfectOffense_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Perfect Offense"
+mTooltip="Whenever a friendly creature attacks, its %ICON_ATTACK Attack is raised to match the defender's %ICON_DEFENSE Defence."
+
+[A_PerfectOffense_Buff H7BaseBuff]
+mName="Perfect Offense"
+mTooltip=""
+

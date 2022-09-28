@@ -1,0 +1,240 @@
+[Hero_Magic.A_Aleas H7EditorHero]
+mName=""
+mLore=""
+
+[Hero_Magic.A_Daphne H7EditorHero]
+mName=""
+mLore=""
+
+[Hero_Magic.A_Garmadon H7EditorHero]
+mName=""
+mLore=""
+
+[Hero_Magic.A_Hinata H7EditorHero]
+mName=""
+mLore=""
+
+[Hero_Magic.A_Kabuki H7EditorHero]
+mName=""
+mLore=""
+
+[Hero_Magic.A_Kankichi H7EditorHero]
+mName=""
+mLore=""
+
+[Hero_Magic.A_Karmah H7EditorHero]
+mName=""
+mLore=""
+
+[Hero_Magic.A_Kawa H7EditorHero]
+mName=""
+mLore=""
+
+[Hero_Magic.A_Natsu H7EditorHero]
+mName=""
+mLore=""
+
+[Hero_Magic.A_Onigchua H7EditorHero]
+mName=""
+mLore=""
+
+[Hero_Magic.A_Salazard H7EditorHero]
+mName=""
+mLore=""
+
+[Hero_Magic.A_Suangeen H7EditorHero]
+mName=""
+mLore=""
+
+[Hero_migth.A_Chengya H7EditorHero]
+mName=""
+mLore=""
+
+[Hero_migth.A_Chihiro H7EditorHero]
+mName=""
+mLore=""
+
+[Hero_migth.A_Koroki H7EditorHero]
+mName=""
+mLore=""
+
+[Hero_migth.A_Naske H7EditorHero]
+mName=""
+mLore=""
+
+[Hero_migth.A_Orochi H7EditorHero]
+mName=""
+mLore=""
+
+[Hero_migth.A_Rilakkuma H7EditorHero]
+mName=""
+mLore=""
+
+[Hero_migth.A_Ruka_Osudu H7EditorHero]
+mName=""
+mLore=""
+
+[Hero_migth.A_Salassa H7EditorHero]
+mName=""
+mLore=""
+
+[Hero_migth.A_Sirius H7EditorHero]
+mName=""
+mLore=""
+
+[Hero_migth.A_Stheno H7EditorHero]
+mName=""
+mLore=""
+
+[Hero_migth.A_Sujgin H7EditorHero]
+mName=""
+mLore=""
+
+[Hero_migth.A_Trohan H7EditorHero]
+mName=""
+mLore=""
+
+[heropedya.A_HeroBio_aleas H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Chengya H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Chihiro H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Daphne H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_garmadon H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Hinata H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Kabuki H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Kankichi H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Karmah H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Kawa H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Koroki H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Naske H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Natsu H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Onigchua H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Orochi H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Rilakkuma H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_ruka_Usuku H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Salassa H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Salazar H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Sirius H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Stheno H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Suangeen H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Sujgin H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Trohan H7HeroBioData]
+mText=""
+
+[Name.A_Aleas_Name H7GlobalName]
+mName="Aleas"
+
+[Name.A_Chihiro_Name H7GlobalName]
+mName="Chihiro"
+
+[Name.A_Daphne_Name H7GlobalName]
+mName="Daphne"
+
+[Name.A_Garmadon_Name H7GlobalName]
+mName="Garmadon"
+
+[Name.A_Hinata_Name H7GlobalName]
+mName="Hinata"
+
+[Name.A_Kabuki_Name H7GlobalName]
+mName="Kabuki"
+
+[Name.A_Kankichi_Name H7GlobalName]
+mName="Kankichi"
+
+[Name.A_Karmah_Name H7GlobalName]
+mName="Karmah"
+
+[Name.A_kawa_Name H7GlobalName]
+mName="Kawa"
+
+[Name.A_Koroki_Name H7GlobalName]
+mName="Koroki"
+
+[Name.A_Naske_Name H7GlobalName]
+mName="Naske"
+
+[Name.A_Natsu_Name H7GlobalName]
+mName="Natsu"
+
+[Name.A_Onigchua_Name H7GlobalName]
+mName="Onigchua"
+
+[Name.A_Orochi_Name H7GlobalName]
+mName="Orochi"
+
+[Name.A_Rilakkuma_Name H7GlobalName]
+mName="Rilakkuma"
+
+[Name.A_Ruka_Changya_Name H7GlobalName]
+mName="Changya"
+
+[Name.A_Ruka_Osudu_Name H7GlobalName]
+mName="Ruka Osudu"
+
+[Name.A_Ruka_Salassa_Name H7GlobalName]
+mName="Salassa"
+
+[Name.A_Salazard_Name H7GlobalName]
+mName="Salazard"
+
+[Name.A_Sirius_Name H7GlobalName]
+mName="Sirius"
+
+[Name.A_Stheno_Name H7GlobalName]
+mName="Stheno"
+
+[Name.A_Suangeeni_Name H7GlobalName]
+mName="Suangeen"
+
+[Name.A_Sujgini_Name H7GlobalName]
+mName="Sujgin"
+
+[Name.A_Trohan_Name H7GlobalName]
+mName="Trohan"
+

@@ -1,0 +1,84 @@
+[Dungeon.A_ShadowLurker H7EditorWarUnit]
+mDesc="Attack Warfare Unit"
+mName="Shadow Lurker"
+mLore="The Shadow Lurker is a minor Spirit of Darkness in the shape of a floating orb of shadows with a single central purple and glowing eye and several eyestalks framing its body like tentacles, each ending in a smaller eye.\n\nPerfect Warfare unlock: Unit hit by Lurker loses 15 defense for 5 turns."
+
+[Academy.A_GreatPyramid H7EditorWarUnit]
+mDesc="Siege Warfare Unit"
+mName="Great Pyramid"
+mLore="It needs a major display of spellpower to bring down a castle’s fortifications. The Great Pyramid, a bigger and more complex type of Arcane Focus, is meant to provide such destructive capabilities."
+
+[Academy.A_HealingTent H7EditorWarUnit]
+mDesc="Support Warfare Unit"
+mName="Healing Tent"
+mLore="Wizards would rather stay at a safe distance from the battlefield, letting their servants do the fighting for them. That doesn’t mean they’ll let said servants die without lifting a finger to help them: the healers and alchemists of the Healing Tent are there to tend the wounded. Sometimes, Wizard generals also affect Cabirs to the Tent, so that damaged Constructs can be repaired as well."
+
+[Sylvan.A_GreaterEarthElemental H7EditorWarUnit]
+mDesc="Siege Warfare Unit"
+mName="Greater Earth Elemental"
+mLore="Earth Elementals generally take the form of an animated mineral creature, as though rocks themselves pulled together to form a strange amalgam. These spirits are sometimes found rising up from the heart of Elven cities as they pay tribute to Sylanna, and sometimes accompany the Elves to war. The strongest of their kind can produce earthquakes powerful enough to damage even the most solid buildings and walls."
+
+[Stronghold.A_TamedCyclops H7EditorWarUnit]
+mDesc="Siege Warfare Unit"
+mName="Tamed Cyclops"
+mLore="The Cyclops' strength is so great that they are often deployed as siege machines to destroy gates, towers or city ramparts. These gargantuan monsters are so wild and fierce that even the Orcs are afraid of them, and use heavy chains to prevent them from going on a rampage."
+
+[Sylvan.A_BallistaSylvan H7EditorWarUnit]
+mDesc="Attack Warfare Unit"
+mName="Sylvan Ballista"
+mLore="The Elves of Irollan don’t need to move huge war machines across the land. When they need them, they simply ask Dryads to give nearby trees the appropriate shape. \n\nPerfect Warfare unlocks: When ballista shots, every allied unit receives +10 destiny for 3 turns. Enemy hit suffers penalty -1 movement and -5 initiative."
+
+[Dungeon.A_TamedWyvern H7EditorWarUnit]
+mDesc="Siege Warfare Unit"
+mName="Cave Wyvern"
+mLore="The Cave Wyverns of Ygg-Chall have large, bat-like wings, and their body resembles a dragon's head atop a supple, cat-like body covered with reptilian scales. Their saliva is also highly corrosive, leaving flesh intact but dissolving wood and stone, making them quite useful as “siege engines”."
+
+[Academy.A_SmallPyramid H7EditorWarUnit]
+mDesc="Attack Warfare Unit"
+mName="Small Pyramid"
+mLore="Built with conductor materials and rare crystals, Pyramids are Arcane Foci conceived to channel and redirect magical energies. Originally conceived to help Wizards during difficult rituals, their role on the battlefield is mainly to hurl deadly magic missiles at the enemy troops.\n\nPerfect Warfare unlocks: Enemies hit by Pyramid receive 25% more damage from spells."
+
+[Stronghold.A_Dreamcatcher H7EditorWarUnit]
+mDesc="Attack and Support Unit"
+mName="Dreamwalker"
+mLore="To become a Dreamwalker, a shaman must first undertake a dream journey to the Spirit World to meet the spirits of his ancestors. Having tamed the raging Chaos of his body and soul during this journey, the Dreamwalker can use the powers of Mother Earth to assist his tribe both with healing rituals and offensive magic.\n\nPerfect Warfare unlocks: When dreamwalker shots, units receive +2 battlerage."
+
+[haven.A_CatapultHaven H7EditorWarUnit]
+mDesc="Siege Warfare Unit"
+mName="Catapult"
+mLore="Catapults have been one the main siege engines since the days of the ancient Shantiris. While they vary in design (some rely on the sudden release of tension on wooden beams or twisted cords, others are powered by a counterweight), their purpose remains the same: to hurl a large rock at the enemy’s walls."
+
+[Dungeon.A_Faceless H7EditorWarUnit]
+mDesc="Support Warfare Unit"
+mName="Faceless"
+mLore="The Faceless are the most mysterious and unknown of all the followers of the Dragon gods. What little can be said of them is that they are clothed in shadow and mystery; if they are perceived at all it is a fleeting image from the corner of the eye, an odd moment of déjà vu, a strange sense that one is being watched... They rarely take part to the battle, preferring to provide support from the shadows."
+
+[haven.A_BallistaHaven H7EditorWarUnit]
+mDesc="Attack Warfare Unit"
+mName="Haven Ballista"
+mLore="Often described by common folk as the “big crossbows”, ballistae are war machines designed to launch heavy projectiles (usually large arrows, stakes or stones) at a distant target. Ballistae are mostly used on the battlefield to help bring down the most impressive creatures.\n\nPerfect Warfare unlocks: When ballista shots, every allied unit receives +10 morale for 3 turns. Enemy hit deals 10% less damage."
+
+[neutral.A_Harpoon H7EditorWarUnit]
+mDesc="Attack Warfare Unit"
+mName="Harpoon"
+
+[Necropolis.A_Namtaru H7EditorWarUnit]
+mDesc="Attack and Support Unit"
+mName="Namtaru"
+mLore="Avatar of the Spider Goddess, a Namtaru will often be present at the founding of a Necropolis, fortifying the foundations and encouraging its growth, like the queen of a hive. Namtarus can assume fully humanoid or arachnid forms, and all the steps in-between.\n\nPerfect Warfare unlocks: Enemies hit by Namtaru receive -20 morale for 5 turns."
+
+[Necropolis.A_SpittingSpider H7EditorWarUnit]
+mDesc="Siege Warfare Unit"
+mName="Spitting Spider"
+mLore="The giant spitting spiders of the Heresh Mountains have been used in siege battles by Necromancers for centuries. They hurl balls of Darkness-imbued venom at the enemy fortifications, corrosive enough to dissolve the most robust walls."
+
+[haven.A_HealingSister H7EditorWarUnit]
+mDesc="Support Warfare Unit"
+mName="Healing Sister"
+mLore="The Sisters of Elrath are devoted to the worship of the Dragon of Light. Chosen for their spiritual gifts, these women have dedicated their lives to bringing light and warmth to all the people in need, and in war times they follow the armies to care for the wounded. Sisters are considered blessed by Elrath and possess great healing powers, sometimes performing true miracles."
+
+[Sylvan.A_MotherTreant H7EditorWarUnit]
+mDesc="Support Warfare Unit"
+mName="Mother Treant"
+
+mLore="Treants begin life as saplings, only gaining sentience if the Dragon-Blood infuses the sap of the tree and brings it to enchanted life. Depending of the species of the original tree, Treants can be either genderless or specifically show male or female characteristics. Mother Treants are usually very protective of Elves and other denizens of the forest."

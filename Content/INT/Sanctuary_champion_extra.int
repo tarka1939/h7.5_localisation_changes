@@ -1,0 +1,29 @@
+[Ability.A_Nova H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Purifying Torrent
+mTooltip="Remove all negative effects from allied creatures. Then inflict %d Water Damage %icon_water to creatures in the area. Once per battle"
+
+[Ability.A_Musou_buff H7BaseBuff]
+mName="Musou"
+mTooltip="This creature gets %stat1 to all its stats."
+
+[Ability.A_Clean_water H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Purity "
+mTooltip="Removes all of the target's positive effects when that creature deals damage to it."
+
+[A_Creature_Poseidon H7Creature]
+mName="Umi no kami"
+mLore="Many settlements and cities of Shanria were founded on the site of the Shantiri ruins. Exploring the dilapidated temples and shrines of an ancient civilization, the Naga found miraculously preserved descriptions of the rituals that were performed by the priesthood of the past to praise the Dragon God of Water. One of those rituals made it possible to open the way to the underwater lands located in the Spirit World and summon greater water spirits of Shalassa. Materialized in the form in which they were accustomed to be seen by the people of the Shantiri Empire, the mighty Umi no Kami command the swift water streams which bring cleansing from corruption."
+
+[Ability.A_Musou H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Musou"
+mTooltip="When a creature in this unit drops below 10% health it gets %spell1.name until the end of the combat turn (%spell1.name increases all characteristics of this creature by %buff1.buff.stat1)"
+

@@ -1,0 +1,279 @@
+[A_Fortress_ArkathsEternalFlame H7TownTearOfAsha]
+mName="Arkath's Eternal Flame"
+mDesc="Provides 5000 %ICON_GOLD Gold per day and increases the growth of creatures by 50% in this town. Provides four major artifacts, four relics and the artifact The Fire Drake when built."
+
+[A_Fortress_Armory H7TownUtilityUnitDwelling]
+mName="Armory"
+mDesc="Warfare unit production.\nProvides the option to buy Fortress Ballistae."
+
+[A_Fortress_BearPens H7TownDwelling]
+mName="Bear Pens"
+mDesc="Core dwelling.\nEnables recruitment of Bears with a growth of 7 per week."
+
+[A_Fortress_BlackbearCages H7TownDwelling]
+mName="Blackbear Cages"
+mDesc="Core dwelling upgrade.\nEnables recruitment and upgrade of Bears to Blackbears."
+
+[A_Fortress_BlazingMaiden H7TownGrowthEnhancer]
+mName="Blazing Maiden"
+mDesc="Elite dwelling upgrade.\n+6 growth of Disir or Valkyries per week."
+
+[A_Fortress_CradleOfFire H7TownDwelling]
+mName="Cradle of Fire"
+mDesc="Champion dwelling.\nEnables recruitment of Red Dragons with a growth of 1 per week."
+
+[A_Fortress_DisBonfire H7TownDwelling]
+mName="Dis Bonfire"
+mDesc="Elite dwelling.\nEnables recruitment of Disir with a growth of 6 per week."
+
+[A_Fortress_Embassy H7TownEmbassy]
+mName="Embassy"
+mDesc="+15% chance for negotiations with neutral armies for your heroes in this town's area of control."
+
+[A_Fortress_ExchequerOffice H7TownBank]
+mName="Exchequer Office"
+mDesc="At start of every week the building generates 10% of your current gold, capped at 20000 gold. This applies before all other gold income."
+
+[A_Fortress_FishingPond H7TownGrowthEnhancer]
+mName="Fishing Pond"
+mDesc="Core dwelling upgrade.\n+4 growth of Bears or Blackbears per week."
+
+[A_Fortress_FlamingPillar H7TownGrowthEnhancer]
+mName="Flaming Pillar"
+mDesc="Elite dwelling upgrade.\n+2 growth of Rune Priests or Rune Patriarchs per week."
+
+[A_Fortress_Foundry H7TownTower]
+mName="Foundry"
+mDesc="Equips the town with 2 towers in siege combats."
+
+
+
+[A_Fortress_Granary H7TownGrowthEnhancer]
+mName="Granary"
+mDesc="Core dwelling upgrade.\n+12 growth of Kobold Scouts or Kobold Pathfinders per week."
+
+[A_Fortress_HallOfHeroes H7TownBuilding]
+mName="Hall of Heroes"
+mDesc="Provides the option to enlist new and defeated heroes."
+
+[A_Fortress_HearthOfEinherjars H7TownDwelling]
+mName="Hearth of Einherjars"
+mDesc="Champion dwelling upgrade.\nEnables recruitment and upgrade of Fire Giants to Einherjars."
+
+[A_Fortress_HearthOfGiants H7TownDwelling]
+mName="Hearth of Giants"
+mDesc="Champion dwelling.\nEnables recruitment of Fire Giants with a growth of 1 per week."
+
+[A_Fortress_KoboldBurrows H7TownDwelling]
+mName="Kobold Burrows"
+mDesc="Core dwelling.\nEnables recruitment of Kobold Scouts with a growth of 23 per week."
+
+[A_Fortress_KoboldWarrens H7TownDwelling]
+mName="Kobold Warrens"
+mDesc="Core dwelling upgrade.\nEnables recruitment and upgrade of Kobold Scouts to Kobold Pathfinders."
+
+[A_Fortress_LavaConflux H7TownDwelling]
+mName="Lava Conflux"
+mDesc="Elite dwelling.\nEnables recruitment of Lava Elementals with a growth of 6 per week."
+
+[A_Fortress_MagicGuild_Level1 H7TownMagicGuild]
+mName="Magic Guild Level 1"
+mDesc="Provides 5 random spells of tier 1 in this town.\nThey are granted to all visiting heroes that fulfill the requirements."
+
+[A_Fortress_MagicGuild_Level2 H7TownMagicGuild]
+mName="Magic Guild Level 2"
+mDesc="Provides 4 random spells of tier 2 in this town.\nThey are granted to all visiting heroes that fulfill the requirements."
+
+[A_Fortress_MagicGuild_Level3 H7TownMagicGuild]
+mName="Magic Guild Level 3"
+mDesc="Provides 3 random spells of tier 3 in this town.\nThey are granted to all visiting heroes that fulfill the requirements."
+
+[A_Fortress_MagicGuild_Level4 H7TownMagicGuild]
+mName="Magic Guild Level 4"
+mDesc="Provides 1 random spell of tier 4 in this town.\nIt is granted to all visiting heroes that fulfill the requirements."
+
+[A_Fortress_MagmaConflux H7TownDwelling]
+mName="Magma Conflux"
+mDesc="Elite dwelling upgrade.\nEnables recruitment and upgrade of Lava Elementals to Magma Elementals."
+
+[A_Fortress_Marketplace H7TownMarketplace]
+mName="Marketplace"
+mDesc="Provides the option to trade resources."
+
+[A_Fortress_MountainOfFire H7TownDwelling]
+mName="Mountain of Fire"
+mDesc="Champion dwelling upgrade.\nEnables recruitment and upgrade of Red Dragons to Ardent Dragons."
+
+[A_Fortress_RuneAtelier H7TownBuilding]
+mName="Rune Atelier"
+mDesc="Rune auras of friendly heroes are 50% stronger in the town's area of control. Not affected: Rune of Balance."
+
+[A_Fortress_RuneDesigner H7TownUtilityUnitDwelling]
+mName="Rune Designer"
+mDesc="Warfare unit production.\nProvides the option to buy Rune Stones."
+
+[A_Fortress_RunicChapel H7TownDwelling]
+mName="Runic Chapel"
+mDesc="Elite dwelling.\nEnables recruitment of Rune Priests with a growth of 2 per week."
+
+[A_Fortress_RunicTemple H7TownDwelling]
+mName="Runic Temple"
+mDesc="Elite dwelling upgrade.\nEnables recruitment and upgrade of Rune Priests to Rune Patriarchs."
+
+[A_Fortress_SacredFire H7TownBuilding]
+mName="Sacred Fire"
+mDesc="Visiting heroes benefit from +2 %icon_might Might  and +5 %icon_leadership Leadership during the next 3 combats."
+
+[A_Fortress_ShieldBarracks H7TownDwelling]
+mName="Shield Barracks"
+mDesc="Core dwelling.\nEnables recruitment of Defenders with a growth of 22 per week."
+
+[A_Fortress_ShieldHalls H7TownDwelling]
+mName="Shield Halls"
+mDesc="Core dwelling upgrade.\nEnables recruitment and upgrade of Defenders to Shieldguards."
+
+[A_Fortress_ShrineOfArkath H7TownBuilding]
+mName="Shrine of Arkath"
+mDesc="Fire spells cast by your heroes are cast on the next higher rank in this town's area of control."
+
+[A_Fortress_ThievesGuild H7TownThiefGuild]
+mName="Thieves Guild"
+mDesc="Provides the option to pay for information about your opponents."
+
+[A_Fortress_TownPortal H7TownPortal]
+mName="Town Portal"
+mDesc="Provides the spell Instant Recall to all heroes visiting this town.\nEnables Heroes with this spell to return to this town if it is the nearest town available."
+
+[A_Fortress_ValkyrieBonfire H7TownDwelling]
+mName="Valkyrie Bonfire"
+mDesc="Elite dwelling upgrade.\nEnables recruitment and upgrade of Disir to Valkyries."
+
+[A_Fortress_VolcanicChimney H7TownGrowthEnhancer]
+mName="Volcanic Chimney"
+mDesc="Elite dwelling upgrade.\n+6 growth of Lava Elementals or Magma Elementals per week."
+
+[A_Fortress_Workshop H7TownGrowthEnhancer]
+mName="Workshop"
+mDesc="Core dwelling upgrade.\n+11 growth of Defenders or Shieldguards per week."
+
+
+[fortressbuildingabilities.A_Fortress_ArkathsEternalFlame_Ability H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip=""
+
+[fortressbuildingabilities.A_Fortress_Embassy_Ability H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip=""
+
+[fortressbuildingabilities.A_Fortress_RuneAtelier_Ability H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip=""
+
+[fortressbuildingabilities.A_Fortress_RuneAtelier_Buff_Hero H7BaseBuff]
+mName="Rune Atelier"
+mTooltip="The aura abilities of the runes from the Rune Magic skill are 50% stronger while in this area of control."
+
+[fortressbuildingabilities.A_Fortress_RuneAtelier_Buff_Rune H7BaseBuff]
+mName="Rune Atelier"
+mTooltip="The aura ability of this Rune is 50% stronger."
+
+[fortressbuildingabilities.A_Fortress_SacredFire_Ability H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip=""
+
+[fortressbuildingabilities.A_Fortress_SacredFire_Buff_Hero H7BaseBuff]
+mName="Sacred Fire"
+mTooltip="%stat1 %icon_attack Attack and %stat2 %icon_morale Leadership for the next %durnow combat(s)."
+
+[fortressbuildingabilities.A_Fortress_ShrineOfArkath_Ability H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip=""
+
+[fortressbuildingabilities.A_Fortress_RunicFortifications_Ability H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip=""
+
+[fortressbuildingabilities.A_Fortress_ShrineOfArkath_Buff_Hero H7BaseBuff]
+mName="Shrine of Arkath"
+mTooltip="The hero casts Fire spells one rank higher in the current area of control."
+
+[A_Fortress_CityHall H7TownHall]
+mName="City Hall"
+mDesc="Provides additional 1000 %ICON_GOLD Gold per day."
+
+[A_Fortress_VillageHall H7TownHall]
+mName="Village Hall"
+mDesc="Provides the option to build new structures in this town.\nProvides 500 %ICON_GOLD Gold per day."
+
+UCP MOD
+
+[A_Fortress_Fortifications_Level1 H7TownGuardBuilding]
+mName="Fortifications Level 1"
+mDesc="Equips the town with walls and gate in siege combats and a local guard of Defenders and Kobold Scouts."
+
+[A_Fortress_Fortifications_Level2 H7TownGuardBuilding]
+mName="Fortifications Level 2"
+mDesc="Increases the hit points of walls and gate in siege combats.\nAdds Dis and Lava Elementals to the local guard.\nIncreases the capacities and growth of creatures in the local guard."
+
+[A_Fortress_Fortifications_Level3 H7TownGuardBuilding]
+mName="Fortifications Level 3"
+mDesc="Increases the hit points of walls and gate in siege combats.\nIncreases the capacities and growth of creatures in the local guard."
+
+[A_Fortress_Moat H7TownMoat]
+mName="Moat"
+mDesc="Equips the town with a moat in siege combats.\nEnemy creatures stepping into it will be interrupted and receive Fire magic vulnerability."
+
+UCP 1.1
+
+[fortressbuildingabilities.A_Fortress_RunicFortifications_Buff_Custom H7BaseBuff]
+mName="Runic Fortifications"
+mTooltip="Each enemy creature has a %d.min% chance, on each of its turns, to become immobile for its turn during each combat in the area of control of this town."
+
+[A_Fortress_RunicFortifications H7TownFortificationEnhancer]
+mName="Runic Fortifications"
+mDesc="The town's walls, gate and towers have 30% more health points. At the start of each combat in the area of control of this town, your heroes receive the Rune Trap ability: each enemy creature has a 20% chance, on each of its turns, to become immobile for its turn."
+
+[A_Fortress_TownHall H7TownHall]
+mName="Town Hall"
+mDesc="Provides additional 500 %ICON_GOLD Gold per day."
+
+[A_Fortress_Capitol H7TownHall]
+mName="Capitol"
+mDesc="Provides additional 2000 %ICON_GOLD Gold per day. You can only have one Capitol."
+
+
+7.5_mod : 
+
+[A_Fortress_chambre_des_matriache H7TownDwelling]
+mName="Temple of the Flame Runes"
+mDesc="Allows a Blackbear to be sacrificed to recruit a powerful elite creature - Runic Matriarch."
+
+[A_Fortress_chambre_des_ramparts H7TownDwelling]
+mName="Runic Golem Forge"
+mDesc="Allows to recruit a powerful champion creature - Rune Golem. \Can be recruited using the "recruit all" function"
+
+[A_Fortress_Furnace H7TownFurnace]
+mName="Furnace"
+mDesc="Produces 2 units of %icon_ore ore and 250 units of %icon_gold per day."
+
+
+
+

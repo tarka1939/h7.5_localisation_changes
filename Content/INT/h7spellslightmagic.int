@@ -1,0 +1,204 @@
+[Imprinted.A_Resurrection_Imprinted H7HeroAbility]
+mName="Resurrection"
+mTooltip="Heals and resurrects %d.min Health of the target friendly creature, instantly. The target creature heals and resurrects %buff1.buff.d.min Health of all adjacent friendly creatures for %buff1.buff.durini turns.\n(Not affected: Undead and Constructs)"
+
+[A_ChosenOfTheLight_Buff H7BaseBuff]
+mName="Chosen of the Light"
+mTooltip="%stat1 %ICON_ATTACK Attack\n%stat2 %ICON_DEFENSE Defence\n%stat4 %ICON_MORALE Morale\n%stat3 %ICON_LUCK Luck\nThe creature always deals maximum damage.\nLasts for %durnow turn(s)."
+
+[Imprinted.A_CelestialArmor_Imprinted_Buff H7BaseBuff]
+mName="Celestial Armour"
+mTooltip="Absorbs up to %special.val3 damage.\nLasts for %durnow turn(s) or until all damage was absorbed."
+
+[A_ElrathsConviction_Buff H7BaseBuff]
+mName="Elrath's Conviction"
+mTooltip="%stat1 %ICON_DEFENSE Defence\n%stat2 %ICON_LEADERSHIP Leadership\nLasts for %durnow combat(s)."
+
+[A_Bedazzled_Buff H7BaseBuff]
+mName="Bedazzled"
+mTooltip="%stat1 %ICON_ATTACK Attack\n%stat2 %ICON_DEFENSE Defence\nLasts for %durnow turn(s)."
+
+[A_ElrathsConviction H7HeroAbility]
+mTooltipMagicGuild="Increases the hero's %ICON_DEFENSE Defence and %ICON_LEADERSHIP Leadership for the next combat."
+mTooltipMagicGuildRankLine="%buff.buff.stat1 %buff.buff.stat1.icon Defence and %buff.buff.stat2 %buff.buff.stat2.icon Leadership"
+mName="Elrath's Conviction"
+mTooltip="Increases the hero's %ICON_DEFENSE Defence by %buff.buff.stat1.norm and %ICON_LEADERSHIP Leadership by %buff.buff.stat2.norm for the next combat."
+
+[A_Bedazzled_FromCreature_Buff_Elite H7BaseBuff]
+mName="Bedazzled"
+mTooltip="%stat1 %ICON_ATTACK Attack\n%stat2 %ICON_DEFENSE Defence\nLasts for %durnow turn(s)."
+
+[A_SunBeam H7HeroAbility]
+mTooltipMagicGuild="Deals %d.icon Light damage to the target enemy unit, instantly."
+mTooltipMagicGuildRankLine="%d.min to %d.max %ICON_LIGHT"
+mTooltipUpgraded="Deals %d.min to %d.max %ICON_LIGHT Light damage to the target enemy unit instantly, and decreases its %ICON_ATTACK Attack and %ICON_DEFENSE Defence by %buff.buff.stat1.norm for %buff.buff.durini turns."
+mName="Sun Beam"
+mTooltip="Deals %d.min to %d.max %d.icon Light damage to the target enemy unit, instantly."
+
+[A_Retribution H7HeroAbility]
+mTooltipMagicGuild="Deals %buff1.buff.d.icon Light damage to each creature attacking the target friendly creature. Lasts for %buff1.buff.durini turns."
+mTooltipMagicGuildRankLine="%buff1.buff.d.min to %buff1.buff.d.max %buff1.buff.d.icon"
+mTooltipUpgraded="Casts %spell.name on all friendly creatures in target 4x4 area. Enemy creatures attacking them take %buff1.buff.d.min to %buff1.buff.d.max %buff1.buff.d.icon Light damage. Lasts for %buff1.buff.durini turns."
+mName="Retribution"
+mTooltip="Deals %buff1.buff.d.min to %buff1.buff.d.max %buff1.buff.d.icon Light damage to each creature attacking the target friendly creature. Lasts for %buff1.buff.durini turns."
+
+[A_Resurrection_Buff H7BaseBuff]
+mName="Elrath's Touch"
+mTooltip="Heals and resurrects %d.min Health of all adjacent friendly creatures, at the start of its turn.\n(Not affected: Undead and Constructs)\nLasts for %durnow turn(s)."
+
+[A_CelestialArmor_Buff H7BaseBuff]
+mName="Celestial Armour"
+mTooltip="Absorbs up to %special.val3 damage.\nLasts for %durnow turn(s) or until all damage was absorbed."
+
+[A_CelestialArmor H7HeroAbility]
+mTooltipMagicGuild="Absorbs damage from the target friendly creature for %buff1.buff.durini turns."
+mTooltipMagicGuildRankLine="%buff1.buff.special.val1 damage absorb"
+mTooltipUpgraded="Absorbs up to %buff1.buff.special.val1 damage from all friendly creatures in target 3x3 area for %buff1.buff.durini turns."
+mName="Celestial Armour"
+mTooltip="Absorbs up to %buff1.buff.special.val1 damage from the target friendly creature for %buff1.buff.durini turns."
+
+[Imprinted.A_CelestialArmor_Imprinted H7HeroAbility]
+mName="Celestial Armour"
+mTooltip="Absorbs up to %buff1.buff.special.val1 damage from target friendly creature for %buff1.buff.durini turns."
+
+[A_Bedazzled_FromCreature_Buff_Champion H7BaseBuff]
+mName="Bedazzled"
+mTooltip="%stat1 %ICON_ATTACK Attack\n%stat2 %ICON_DEFENSE Defence\nLasts for %durnow turn(s)."
+
+[A_SunBurst H7HeroAbility]
+mTooltipMagicGuild="Deals %d.icon Light damage to enemy units hit by 1 of 8 rays emerging from the target spot into 8 directions. Units and obstacles block the rays. The target spot must be a free tile."
+mTooltipMagicGuildRankLine="%d.min to %d.max %ICON_LIGHT"
+mTooltipUpgraded="Deals %d.min to %d.max %ICON_LIGHT Light damage to enemy units hit by 1 of 8 rays emerging from the target spot into 8 directions. %ICON_ATTACK Attack and %ICON_DEFENSE Defence of hit creatures is decreased by %buff.buff.stat1.norm for %buff.buff.durini turns. Units and obstacles block the rays. The target spot must be a free tile."
+mName="Sun Burst"
+mTooltip="Deals %d.min to %d.max %d.icon Light damage to enemy units hit by 1 of 8 rays emerging from the target spot into 8 directions. Units and obstacles block the rays. The target spot must be a free tile."
+
+[A_CleansingLight H7HeroAbility]
+mTooltipMagicGuild="Removes a number of negative magical effects from the target friendly creature, instantly."
+mTooltipMagicGuildRankLine="%special1 effects and %special4 %ICON_MANA Mana casting costs"
+mTooltipUpgraded="Removes %special1 negative magical effect(s) from all friendly creatures in the target 4x4 area, instantly."
+mName="Cleansing Light"
+mTooltip="Removes %special1 negative magical effect(s) from the target friendly creature, instantly."
+
+[A_Retribution_Buff H7BaseBuff]
+mName="Retribution"
+mTooltip="Deals %d.min to %d.max %d.icon Light damage to each creature attacking this creature. Lasts for %durnow turn(s)."
+
+[Imprinted.A_CleansingLight_Imprinted H7HeroAbility]
+mName="Cleansing Light"
+mTooltip="Removes %special1 negative magical effect(s) from the target friendly creature, instantly."
+
+[Imprinted.A_ElrathsConviction_Imprinted H7HeroAbility]
+mName="Elrath's Conviction"
+mTooltip="Increases the hero's %ICON_DEFENSE Defence by %buff.buff.stat1.norm and %ICON_LEADERSHIP Leadership by %buff.buff.stat2.norm for the next combat."
+
+[Imprinted.A_ElrathsConviction_Imprinted_Buff H7BaseBuff]
+mName="Elrath's Conviction"
+mTooltip="%stat1 %ICON_DEFENSE Defence\n%stat2 %ICON_LEADERSHIP Leadership\nLasts for %durnow combat(s)."
+
+
+[Imprinted.A_Resurrection_Imprinted_Buff H7BaseBuff]
+mName="Elrath's Touch"
+mTooltip="Heals and resurrects %d.min Health of all adjacent friendly creatures, at the start of its turn.\n(Not affected: Undead and Constructs)\nLasts for %durnow turn(s)."
+
+[Imprinted.A_Retribution_Imprinted H7HeroAbility]
+mName="Retribution"
+mTooltip="Deals %buff1.buff.d.min to %buff1.buff.d.max %buff1.buff.d.icon Light damage to each creature attacking the target friendly creature. Lasts for %buff1.buff.durini turns."
+
+[Imprinted.A_Retribution_Imprinted_Buff H7BaseBuff]
+mName="Retribution"
+mTooltip="Deals %d.min to %d.max %d.icon Light damage to each creature attacking this creature. Lasts for %durnow turn(s)."
+
+[Imprinted.A_SummonGoldDragon_Imprinted H7HeroAbility]
+mName="Summon Gold Dragon"
+mTooltip="Summons %special.val1 Gold Dragons on the target 2x2 area."
+
+[Imprinted.A_SummonGoldDragon_Imprinted_Artifact H7HeroAbility]
+mName="Summon Gold Dragon"
+mTooltip="Summons %special.val1 Gold Dragons on the target 2x2 area."
+
+[Imprinted.A_SunBeam_Imprinted H7HeroAbility]
+mTooltipMagicGuild="Deals %d.icon light damage to the target enemy unit, instantly."
+mTooltipUpgraded="Deals %d.min to %d.max %d.icon light damage to the target enemy unit, instantly. Creatures damaged by Sun Beam have a %buff.chance% chance to be restricted to moving and defending and cannot retaliate until the end of their next turn."
+mName="Sun Beam"
+mTooltip="Deals %d.min to %d.max %d.icon Light damage to the target enemy unit, instantly."
+
+[Imprinted.A_SunBurst_Imprinted H7HeroAbility]
+mName="Sun Burst"
+mTooltip="Deals %d.min to %d.max %d.icon Light damage to enemy units hit by 1 of 8 rays emerging from the target spot into 8 directions. Units and obstacles block the rays. The target spot must be a free tile."
+
+[A_Blinded_Buff H7BaseBuff]
+mName="Blinded"
+mTooltip="The creature skips its next turn."
+
+[A_Retribution_Buff_Upgraded H7BaseBuff]
+mName="Retribution"
+mTooltip="Deals %d.min to %d.max %d.icon Light damage to each creature attacking this creature. Lasts for %durnow turn(s)."
+
+[Imprinted.A_Martyr_Imprinted_Buff_MartyrAdoration H7BaseBuff]
+mName="Martyr Adoration"
+mTooltip="%stat %icon_leadership Morale. Lasts as long as there is another friendly creature with the Martyr buff."
+
+[A_Martyr_Buff_MartyrAdoration H7BaseBuff]
+mName="Martyr Adoration"
+mTooltip="%stat %icon_leadership Morale. Lasts as long as there is another friendly creature with the Martyr buff."
+
+UCP 1.1 
+
+[A_Martyr_Buff_Martyr H7BaseBuff]
+mName="Martyr"
+mTooltip="%buff1.buff.special1 of the unmagical damage any other friendly creature would get is redirected to this creature. Lasts for %durnow combat rounds."
+
+[Imprinted.A_Martyr_Imprinted_Artifact H7HeroAbility]
+mName="Martyr"
+mTooltip="Target friendly creature becomes the martyr. Whenever any other friendly creature receives unmagical damage %buff1.buff.buff1.buff.special1 of that damage is redirected to the martyr. All other creatures have %buff1.buff.buff1.buff.stat %icon_leadership Morale. Lasts for %buff1.buff.durini combat rounds or until the martyr dies."
+
+[Imprinted.A_Martyr_Imprinted_Buff_Martyr H7BaseBuff]
+mName="Martyr"
+mTooltip="%buff1.buff.special1 of the unmagical damage any other friendly creature would get is redirected to this creature. Lasts for %durnow combat rounds."
+
+
+
+[Imprinted.A_Martyr_Imprinted H7HeroAbility]
+mName="Martyr"
+mTooltip="Target friendly creature becomes the martyr. Whenever any other friendly creature receives unmagical damage %buff1.buff.buff1.buff.special1 of that damage is redirected to the martyr. All other creatures have %buff1.buff.buff1.buff.stat %icon_leadership Morale. Lasts for %buff1.buff.durini combat rounds or until the martyr dies."
+
+[Imprinted.A_Heal_Imprinted H7HeroAbility]
+mName="Heal"
+mTooltip="Heals and resurrects %d1.min Health of the target friendly creature.\n(Not affected: Undead and constructs)"
+
+
+UCP 1.1 New Effect
+
+[Imprinted.A_Resurrection_Imprinted_Artefact H7HeroAbility]
+mName="Resurrection"
+mTooltip="Heals and resurrects %d.min Health of the target friendly creature, instantly. The target creature heals and resurrects %buff1.buff.d.min Health of all adjacent friendly creatures for %buff1.buff.durini turns. (Not affected: Undead and Constructs)"
+
+
+7.5_mod :
+
+[Rework.A_Burningdetermination H7HeroAbility]
+mTooltipMagicGuild="Absorbs damage from the target friendly creature for %buff1.buff.durini turns."
+mTooltipMagicGuildRankLine="%buff1.buff.special.val1 damage absorb"
+mTooltipUpgraded="Absorbs up to %buff1.buff.special.val1 damage from all friendly creatures in target 3x3 area for %buff1.buff.durini turns."
+mName="Celestial Armour"
+mTooltip="Absorbs up to %buff1.buff.special.val1 damage from the target friendly creature for %buff1.buff.durini turns."
+
+[rework1.A_Regeneration H7HeroAbility]
+mTooltipMagicGuild="Heals and resurrects the target friendly creature.\n(Not affected: Undead and constructs)"
+mTooltipMagicGuildRankLine="%d1.min Health %icon_light"
+mTooltipUpgraded="Heals and resurrects %d1.min Health of all friendly creatures in target 4x4 area.\n(Not affected: Undead and constructs)"
+mName="Heal"
+mTooltip="Heals and resurrects %d1.min Health of the target friendly creature.\n(Not affected: Undead and constructs)"
+
+[Rework1.A_Burningdetermination H7HeroAbility]
+mTooltipMagicGuild="Target friendly creature becomes the martyr. Whenever any other friendly creature receives unmagical damage, a percentage of that damage is redirected to the martyr. All other creatures have %buff1.buff.buff1.buff.stat %icon_leadership Morale. Lasts for %buff1.buff.durini combat rounds or until the martyr dies."
+mTooltipMagicGuildRankLine="%buff1.buff.buff1.buff.special1 damage redirection."
+mName="Martyr"
+mTooltip="Target friendly creature becomes the martyr. Whenever any other friendly creature receives unmagical damage %buff1.buff.buff1.buff.special1 of that damage is redirected to the martyr. All other creatures have %buff1.buff.buff1.buff.stat %icon_leadership Morale. Lasts for %buff1.buff.durini combat rounds or until the martyr dies."
+
+
+[Rework2.A_Regeneration H7HeroAbility]
+mTooltipMagicGuild="Heals and resurrects the target friendly creature instantly. The target creature heals and resurrects all adjacent friendly creatures for %buff1.buff.durini turns.\n(Not affected: Undead and Constructs)"
+mTooltipMagicGuildRankLine="%d.min Health on target and %buff1.buff.d.min Health around"
+mName="Resurrection"
+mTooltip="Heals and resurrects %d.min Health of the target friendly creature, instantly. The target creature heals and resurrects %buff1.buff.d.min Health of all adjacent friendly creatures for %buff1.buff.durini turns.\n(Not affected: Undead and Constructs)"

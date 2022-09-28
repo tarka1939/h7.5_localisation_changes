@@ -1,0 +1,97 @@
+[A_RuneOfChanneling_Buff_Creature_Hostile H7BaseBuff]
+mName=""
+mTooltip=""
+
+[A_RuneOfSundering_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rune of Sundering"
+mTooltip="The active abilities of the Rune of Destruction deals 50% more damage. The shield from the Rune of Fortune absorbs 15 more damage."
+
+
+[A_RuneMagic_Skill H7Skill]
+mDescriptions[0]="Enables the deployment of up to three runes that provide passive aura effects and active abilities."
+mDescriptions[1]=""
+mDescriptions[2]="The hero gets the Rune of Fortune."
+mDescriptions[3]="The hero gets the Rune of Destruction."
+mDescriptions[4]="The hero gets the Rune of Resilience."
+mName="Rune Magic"
+mTooltip="Fortress faction skill."
+
+[A_RuneOfBerserking_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rune of Berserking"
+mTooltip="The hero's base damage is increased by %special for every friendly rune aura affecting target creature."
+
+[A_FriendlyRuneMarker_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[A_RuneOfHealing_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rune of Healing"
+mTooltip="The support warfare unit Runestone also heals all friendly creatures inside the aura of any own rune. These heal effects can stack up."
+
+[A_RuneOfScattering_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rune of Scattering"
+mTooltip="Whenever an enemy creature in an aura of a friendly rune is attacked in melee, additional %buff.buff.special3 of the dealt damage is dealt again equally distributed to all other enemy creatures in an aura of any friendly rune."
+
+[A_RuneOfChanneling_Buff_Hero H7BaseBuff]
+mName="Mana Rune"
+mTooltip=""
+
+[A_RuneOfInitiative_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rune of Initiative"
+mTooltip="%buff.buff.stat %icon_initiative Iniative for all friendly Runes."
+
+[A_RuneOfChanneling_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rune of Channeling"
+mTooltip="At the end of every combat round the hero regains 1 Mana for every creature standing in the aura of at least one of your runes."
+
+[A_RuneOfChanneling_Buff_Creature_Friendly H7BaseBuff]
+mName=""
+mTooltip=""
+
+[A_RuneOfHealing_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[A_RuneOfInitiative_Buff H7BaseBuff]
+mName="Fast Runes"
+mTooltip=""
+
+UCP 1.3
+
+[A_RuneOfRadiance_Buff H7BaseBuff]
+mName="Rune of Radiance"
+mTooltip="%stat to all aura effects and inititative of this rune for %durnow combat round(s)."
+
+[A_RuneOfRadiance_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rune of Radiance"
+mTooltip="All runes from the rune magic skill get a second active ability that triples the effect of its aura ability and inititative until the end of the next combat round. It can only be activated once per combat."
+
+[A_RuneOfRadiance_RuneAbility H7RuneAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rune of Radiance"
+mTooltip="Triples the aura effect and inititative of the rune until end of the next combat round. Can be activated only once per combat."
+
+

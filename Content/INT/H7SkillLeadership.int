@@ -1,0 +1,115 @@
+[A_Reinforcements_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipUpgraded=""
+mName="Reinforcements"
+mTooltip="The number of friendly creatures is increased by %buff.buff.special1 at the start of combat. Creatures added this way will not remain in the army after combat."
+
+[A_RousingSpeech_Buff H7BaseBuff]
+mName="Rousing Speech"
+mTooltip="%stat1 %stat1.icon Morale\n%stat2 %stat2.icon Initiative.\nStill lasts for %durnow turn(s)."
+
+[A_Leadership_Skill H7Skill]
+mDescriptions[0]="Increases the hero's Leadership."
+mDescriptions[1]=""
+mDescriptions[2]="Increases the hero's Leadership by %stat1.norm %stat1.icon."
+mDescriptions[3]="Increases the hero's Leadership by additional %stat1.norm %stat1.icon."
+mDescriptions[4]="Increases the hero's Leadership by additional %stat1.norm %stat1.icon."
+mName="Leadership"
+mTooltip="Leadership Skill Tooltip"
+
+[A_Reinforcements_Buff H7BaseBuff]
+mName="Reinforcements"
+mTooltip="Reinforcements"
+
+[A_Patriot_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Patriot"
+mTooltip="Governor: All friendly heroes in this town's area of control get %buff1.buff.stat %buff1.buff.stat.icon Leadership."
+
+[A_Patriot_Buff H7BaseBuff]
+mName="Patriot"
+mTooltip="%stat %stat.icon Leadership in this area of control"
+
+[A_LeadingByExample_Buff H7BaseBuff]
+mName="Leading by Example"
+mTooltip=""
+
+[A_Resolution_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Resolution"
+mTooltip="Morale of friendly creatures cannot fall below 5."
+
+[A_Resolution_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[A_Outnumbering_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Outnumbering"
+mTooltip="The hero can deploy up to %stat.norm creature stacks."
+
+[A_RousingSpeech_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rousing Speech"
+mTooltip="%buff.buff.stat1 %buff.buff.stat1.icon Morale and %buff.buff.stat2 %buff.buff.stat2.icon Initiative to friendly creatures during the first %buff.buff.durini combat rounds."
+
+
+[A_AdvancedTactics_Ability H7HeroAbility]
+mName="Advanced Tactics"
+mTooltip="The hero can deploy 9 individual creature stacks during tactics phase."
+[A_Ambush_Ability H7HeroAbility]
+mName="Ambush"
+mTooltip="The Initiative and Morale of creatures in the hero's army are increased each by 5 for the first three combat rounds."
+[A_Ambush_Buff H7BaseBuff]
+mName="Ambush"
+mTooltip="Morale and Initiative is increased by 5."
+[A_DesignateTarget_Ability H7HeroAbility]
+mName="Designate Target"
+mTooltip="If the hero attacks an enemy creature all your creatures attack this creature with +5 attack for this combat round."
+[A_DesignateTarget_Buff H7BaseBuff]
+mName="Designate Target Buff"
+mTooltip="Increase attack value by 5"
+[A_DesignateTarget_Buff_Marker H7BaseBuff]
+mName="Designate Target Marker"
+mTooltip="The creature was marked for the remainder of the current combat round. All creatures attacking will have +5 attack."
+[A_HomeFlag_Ability H7HeroAbility]
+mName="Home Flag"
+mTooltip="Governor: All friendly heroes in the town's area of control get +5 Leadership."
+[A_HomeFlag_Buff H7BaseBuff]
+mName="Home Flag"
+mTooltip="Leadership is increased by 5."
+[A_PepTalk_Ability H7HeroAbility]
+mName="Pep Talk"
+mTooltip="When a friendly creature wouldn't be able to act during its turn because of bad morale, it gets a half turn instead."
+[A_PepTalk_Buff_Marker H7BaseBuff]
+mName="Pep Talk"
+[A_Resolution_Buff_Marker H7BaseBuff]
+mName="Resolution"
+
+UCP 1.2
+
+[A_LeadingByExample_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Leading by Example"
+mTooltip="After the hero attacks an enemy creature, all friendly creatures get %buff.buff.special.val1 %ICON_ATTACK Attack while attacking the same creature in melee during this combat round."
+
+[A_LeadingByExample_Buff_Marker H7BaseBuff]
+mName="Leading by Example"
+mTooltip="Enemy creatures get %special.val1 %ICON_ATTACK Attack while attacking the creature in melee. Lasts until the end of the combat round."
+
+[A_Tactics_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Tactics"
+mTooltip="The hero can deploy creatures in the first %stat1.norm rows."

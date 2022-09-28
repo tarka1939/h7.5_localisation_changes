@@ -1,0 +1,620 @@
+[Buff_test_ability_defense.A_Inactif_Buff H7BaseBuff]
+mName="Setting inactif buff"
+mTooltip=""
+
+[Buff_test_ability_defense.A_Inactif_creature_Buff H7BaseBuff]
+mName="Inactive"
+mTooltip="This creature didn't deal damage this turn and didn't move, so it gets %stat1 %stat1.icon, %stat2 damage and %stat3 %stat3.icon for %durnow turns (this effect can be accumulated up to 3 times)."
+
+[haven_specialisation.A_Chaplain_dresseur H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Celestial Fervour"
+mTooltip="This hero increases the hp of Abbots and Chaplains by %buff1.buff.stat1 %icon_health and these creatures always attack at full range."
+
+[haven_specialisation.A_Chaplain_Dresseur_Buff H7BaseBuff]
+mName="Kobold Trainer"
+mTooltip="Bonus of %stat1 %icon_health and this creature always attacks at full range."
+
+[haven_specialisation.A_SonOfThegriffin H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="The Griffin's Son"
+mTooltip="No penalty after using %spell1.name for all creatures in hero's army."
+
+[haven_specialisation.A_wolf_Tamer_Ridonna_Buff H7BaseBuff]
+mName="Wolf Tamer"
+mTooltip=""
+
+[haven_specialisation.A_wolfTamer_ridonna H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Wolf Tamer"
+mTooltip="Dire wolves and Silverbacks in the hero's army have %buff.buff.stat1 %buff.buff.stat1.icon Defense, %buff.buff.stat2 %buff.buff.stat2.icon Health and get the %spell3.name ability."
+
+[heropedya.A_HeroBio_A_Azaghal H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Asdis H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Bjormlir H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Durin H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Gimmily H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Hraunsmidur H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Mashaka H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_Thorgrim H7HeroBioData]
+mText=""
+
+[heropedya.A_HeroBio_trebor H7HeroBioData]
+mText=""
+
+[MagicSchool.A_affaiblissement_magique H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Magic Weakening"
+mTooltip="The enemy hero's Magic is reduced by %buff.buff.stat1 %Icon_magic Magic each time they inflict damage to allied units."
+
+[MagicSchool.A_affaiblissement_magique_Buff H7BaseBuff]
+mName="Magic Weakening"
+mTooltip="The hero's magic power is reduced by %stat1 each time they deal damage to allied units."
+
+[MagicSchool.A_brasier H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Brazier"
+mTooltip="This hero inflicts %d Fire damage %icon_fire to all enemies at the start of the fight."
+
+[MagicSchool.A_Defensur_des_flammes H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Flame Defender"
+mTooltip="The hero's Magic power is increased by %stat %stat.icon Magic whenever they cast a positive spell on allied fire-based creatures."
+
+[MagicSchool.A_FlameWielder H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Flame Manipulator"
+mTooltip="The hero's Magic power is increased by %stat %stat.icon Magic each time they cast a fire-based offensive spell."
+
+[Mightshcool.A_BearTamer H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Bear Tamer"
+mTooltip="Bears and Black bears in the hero's army have %buff.buff.stat1 %buff.buff.stat1.icon Defense, %buff.buff.stat2 %buff.buff.stat2.icon Health and get the ability %spell3.name."
+
+[Mightshcool.A_BearTamer_Buff H7BaseBuff]
+mName="Bear Tamer"
+mTooltip=""
+
+[Mightshcool.A_Damager H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Offensive"
+mTooltip="This hero increases the damage dealt by all units in the hero's army by %buff.buff.stat2 %buff.buff.stat2.icon."
+
+[Mightshcool.A_Damager_Buff H7BaseBuff]
+mName="Offencive"
+mTooltip="The creature's damage is increased by %stat1."
+
+[Mightshcool.A_Devoreur_ame H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Survivalist"
+mTooltip="When an allied creature stack is destroyed,\n this hero gives %buff1.buff.buff1.buff.stat1 hp %icon_health bonus to allied creatures until the end of their next turn."
+
+[Mightshcool.A_devoreur_ame_Buff H7BaseBuff]
+mName="Soul Devourer"
+mTooltip="When an allied creature stack dies, all allies get %buff1.buff.stat1 to their maximum hp %icon_health until the end of their next turn."
+
+[Mightshcool.A_devoreur_ame_creature_Buff H7BaseBuff]
+mName="Survival "
+mTooltip="Creature's %icon_health hp is increased by %stat1 until the end of the next turn."
+
+[Mightshcool.A_DwarvenResistance H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Dwarf Resistance"
+mTooltip="All dwarves, kobolds, bears and Shantiri golems in the hero's army get the %spell1.name ability."
+
+[Mightshcool.A_epuisement H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Exhaustion"
+mTooltip="This hero reduces the attack of the creature it attacks by %buff.buff.stat2 %buff.buff.stat2.icon during %buff.buff.durini turns. This value changes depending on the hero's %icon_magic level."
+
+[Mightshcool.A_epuisement_Buff H7BaseBuff]
+mName="Exhaustion"
+mTooltip="The creature has its Attack reduced by %stat1.norm %icon_attack."
+
+[Mightshcool.A_Magog_master H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Fire Line"
+mTooltip="Child of Chaos" and "Magog" creatures firing at full range."
+
+[Mightshcool.A_magog_master_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[Mightshcool.A_Mobilite_strategique H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Strategy Mobility"
+mTooltip="Governor: This hero provides %buff1.buff.stat2 %icon_movement to all allied heroes. This value is doubled if the hero possesses the ability: %spell3.name\n(requires reassigning the hero as a governor once the ability is learned)."
+
+[Mightshcool.A_Mobilite_strategique_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[Mightshcool.A_moisson H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Harvest of Souls"
+mTooltip="Each stack of enemy creatures destroyed in the battle gains %buff.buff.special %icon_gold to hero."
+
+[Mightshcool.A_moisson_creature_Buff H7BaseBuff]
+mName="Harvest"
+mTooltip=""
+
+[Mightshcool.A_Recruiter_core_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Horde Leader"
+mTooltip="Governor : Recruiting creatures in this city costs :\n %special1% less gold %icon_gold."
+
+[Mightshcool.A_Recruiter_core_TownBuff H7BaseBuff]
+mName="Recruiter (Town Buff)"
+mTooltip=""
+
+[Mightshcool.A_Tresorier H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Treasurer"
+mTooltip="Governor: This hero provides %buff1.buff.stat2 %icon_gold per day. This value is doubled if the hero has the ability: %spell3.name (requires reassigning the hero as a governor once the ability is learned)."
+
+[Mightshcool.A_Tresorier_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[New_hero.A_Asdis H7EditorHero]
+mName=""
+mLore=""
+
+[New_hero.A_Asdis_Name H7GlobalName]
+mName="Asdis"
+
+[New_hero.A_Azaghal H7EditorHero]
+mName=""
+mLore=""
+
+[New_hero.A_Azaghal_Name H7GlobalName]
+mName="Azaghal"
+
+[New_hero.A_Bjormlir H7EditorHero]
+mName=""
+mLore=""
+
+[New_hero.A_Bjormlir_Name H7GlobalName]
+mName="Bjormlir"
+
+[New_hero.A_Durin H7EditorHero]
+mName=""
+mLore=""
+
+[New_hero.A_Durin_Name H7GlobalName]
+mName="Durin"
+
+[New_hero.A_Fasolt H7EditorHero]
+mName=""
+mLore=""
+
+[New_hero.A_Guimmily_Name H7GlobalName]
+mName="Guimmily"
+
+[New_hero.A_Hraunsmidur H7EditorHero]
+mName=""
+mLore=""
+
+[New_hero.A_Hraunsmidur_Name H7GlobalName]
+mName="Hraunsmidur"
+
+[New_hero.A_Mashaka H7EditorHero]
+mName=""
+mLore=""
+
+[New_hero.A_Mashaka_Name H7GlobalName]
+mName="Mashaka"
+
+[New_hero.A_Thorgrim H7EditorHero]
+mName=""
+mLore=""
+
+[New_hero.A_Thorgrim_Name H7GlobalName]
+mName="Thorgrim"
+
+[New_hero.A_Trebor_Name H7GlobalName]
+mName="Trebor"
+
+[New_hero.Trebor H7EditorHero]
+mName="Brook"
+mLore=""
+
+[Specialisation_Academie.A_CabirLord H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Lord Cabir"
+mTooltip="Cabirs and Cabir Masters in the hero's army get the abilities %spell1.name and %spell2.name."
+
+[Specialisation_Academie.A_Gargoils_Builder H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Gargoyle Builder"
+mTooltip="Governor: Increases the %buff1.buff.stat growth of Gargoyles and Obsidian Gargoyles in the city's control area."
+
+[Specialisation_Academie.A_Gargoils_Builder_Buff H7BaseBuff]
+mName="Golem Builder"
+mTooltip=""
+
+[Specialisation_Academie.A_Mage_master H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Magistrale"
+mTooltip="This hero increases hp of Apprentices and Disciples in their army by %buff1.buff.stat1 %icon_health and these creatures always attack at full range."
+
+[Specialisation_Academie.A_Mage_master_Buff H7BaseBuff]
+mName="Magistral"
+mTooltip="Bonus of %stat1 %icon_health.\nThis creature always attacks at full range."
+
+[Specialisation_Academie.A_Windspeaker H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Word of the Wind"
+mTooltip="%buff.buff.stat1 %buff.buff.stat1.icon Initiative for all units in the hero's army."
+
+[Specialisation_Academie.A_Windspeaker_Buff H7BaseBuff]
+mName="Windspeaker"
+mTooltip=""
+
+[Specialisation_Dungeon.A_Chtonian_trainer H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Bloody Blades"
+mTooltip="Assassins and Shades in the hero's army have %buff.buff.stat1 %buff.buff.stat1.icon Defense, %buff.buff.stat2 %buff.buff.stat2.icon Hp and get the %spell3.name ability."
+
+[Specialisation_Dungeon.A_Chtonien_trainer_Buff H7BaseBuff]
+mName="Bear Tamer"
+mTooltip=""
+
+[Specialisation_Dungeon.A_Fortune_Mastero_Buff H7BaseBuff]
+mName="Fortune"
+mTooltip="%stat %stat.icon Luck\nLasts for %durnow turn(s)."
+
+[Specialisation_Dungeon.A_Hydra_master H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Mother of Hydras"
+mTooltip="This hero increases the hp %icon_health of Cave Hydras and Dark Hydras in their army by %buff1.buff.stat1."
+
+[Specialisation_Dungeon.A_Hydra_master_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[Specialisation_Dungeon.A_Marionettiste_trainer H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Puppeteer"
+mTooltip="Striders and Soulless in the hero's army have %buff.buff.stat1 %buff.buff.stat1.icon Defense, %buff.buff.stat2 %buff.buff.stat2.icon Hp and get the %spell3.name ability."
+
+[Specialisation_Dungeon.A_Marionettiste_trainer_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[Specialisation_Dungeon.A_master_of_destiny H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Master of Destiny"
+mTooltip=" At the start of each combat, all allied ranged creatures receive %spell.name. This spell is cast at expert rank."
+
+[Specialisation_Dungeon.A_stalker_trainer H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Shadow Trainer"
+mTooltip="This hero increases the hp of Trackers and Stalkers in their army by %buff1.buff.stat1 %icon_health and these creatures always attack at full range."
+
+[Specialisation_Dungeon.A_stalker_trainer_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[Specialisation_fortress.A_DaughterOfArkath H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Daughter of Arkath"
+mTooltip="Dis and Valkyries in the hero's army have %buff.buff.stat1 %buff.buff.stat1.icon Luck, %buff.buff.stat2 %buff.buff.stat2.icon Health and get the %spell3.name ability."
+
+[Specialisation_fortress.A_DaughterOfArkath_Buff H7BaseBuff]
+mName="Daughter Of Arkath"
+mTooltip=""
+
+[Specialisation_fortress.A_giant_fire_master H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Divine Hammer"
+mTooltip="Creature Einherjar in the hero's army can use the ability: Hammer Throw without counter charge limit."
+
+[Specialisation_fortress.A_Kobolt_dresseur H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Kobold Trainer"
+mTooltip="This hero increases the hp of Kobold Pathfinders and Kobold Scouts by %buff1.buff.stat1 %icon_health, and these creatures always attack at full range."
+
+[Specialisation_fortress.A_Kobolt_Dresseur_Buff H7BaseBuff]
+mName="Kobold Trainer"
+mTooltip="Bonus of %stat1 %icon_health.\nThis creature always attacks at full range."
+
+[Specialisation_fortress.A_LavaSmith H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Soul of the Lava"
+mTooltip="Lava Elementals and Magma Elementals in the hero's army get the abilities %spell1.name and %spell2.name."
+
+[Specialisation_fortress.A_Resistance_naine H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Dwarf Resistance"
+mTooltip="All damage from enemy attacks is reduced by 15%."
+
+[Specialisation_fortress.A_SacredHammer_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Sacred Hammer"
+mTooltip="%buff.buff.buff.buff.stat %buff.buff.buff.buff.stat.icon Power for each light spell cast. Lasts until the end of the fight."
+
+[Specialisation_fortress.A_SacredHammer_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[Specialisation_fortress.A_SacredHammer_Buff_Might H7BaseBuff]
+mName="Sacred Hammer"
+mTooltip=""
+
+[Specialisation_fortress.A_ThrowingHammer H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Throwing Hammer Enhanced"
+mTooltip="The creature performs a range attack with full range and %buff1.buff.stat1 %icon_attack Attack. Can only be used once per combat. Recharges whenever a creature of the stack is killed."
+
+[Specialisation_fortress.A_Vitalite_naine_ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Dwarf Vitality"
+mTooltip="Gouveneur: Base creatures of all allied heroes gain %buff1.buff.buff.stat %icon_health."
+
+[Specialisation_fortress.A_Vitalite_naine_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[Specialisation_fortress.A_Vitalite_naine_hero_Buff H7BaseBuff]
+mName="Recruiter (Town Buff)"
+mTooltip=""
+
+[Specialisation_necropolis.A_Inlassable H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Output of Earth"
+mTooltip="Skeleton and Skeleton Hoplits under the hero's control gain %spell1.name (resurrects 30% of the stack after death)."
+
+[Specialisation_necropolis.A_RangedAttack_Dark_Bullet H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Shadow Cloth"
+mTooltip="Deals %d Dark damage %icon_dark."
+
+[Specialisation_necropolis.A_Rebirth_Squeletton H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Output of Earth"
+mTooltip="Once per battle, if the creature is killed completely, it is resurrected with %buff.buff.special of its original size and all effects are removed."
+
+[Specialisation_necropolis.A_Rebirth_Squelleton_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[Specialisation_necropolis.A_spider_boost H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Weaver of the Void"
+mTooltip="Death spiders and ebony spiders in the hero's army get %spell1.name abilities and can attack at range."
+
+[Specialisation_necropolis.A_Walking_dead_ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Walking Dead"
+mTooltip="Governor: All allied heroes gain %buff1.buff.buff.stat %icon_Magic at the start of each combat at the town's area of control and the spell %spell3.name is unblocked in their spellbook as long as this hero is a governor."
+
+[Specialisation_necropolis.A_Walking_dead_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[Specialisation_necropolis.A_Walking_dead_hero_Buff H7BaseBuff]
+mName="Recruiter (Town Buff)"
+mTooltip=""
+
+[Specialisation_sylvan.A_amis_de_la_nature_specialisation H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Friends of Nature".
+mTooltip="At the beginning of each combat, all allied melee creatures receive %spell.name. This spell is cast at expert rank."
+
+[Specialisation_sylvan.A_Archer_lumineux_ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Light Archery"
+mTooltip="Governor: Ranged creatures of all allied heroes gain the ability: %Spell4.name as long as this hero is a governor."
+
+[Specialisation_sylvan.A_Archer_lumineux_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[Specialisation_sylvan.A_Archer_lumineux_hero_Buff H7BaseBuff]
+mName="Recruiter (Town Buff)"
+mTooltip=""
+
+[Specialisation_sylvan.A_Burning_allied_Buff H7BaseBuff]
+mName="Aura of Fire"
+mTooltip="The creature burns its target on a critical hit and inflicts %icon_fire damage for %buff1.buff.durini turn(s)."
+
+[Specialisation_sylvan.A_Burning_Buff H7BaseBuff]
+mName="Burned"
+mTooltip="Creature takes %d fire damage %icon_fire. Lasts %durnow turn(s)."
+
+[Specialisation_sylvan.A_Dragon_master H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Mother of Dragons"
+mTooltip="This hero increases the hp %icon_health of Green Dragons and Emerald Dragons in their army by %buff1.buff.stat1."
+
+[Specialisation_sylvan.A_Dragon_master_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[Specialisation_sylvan.A_elemntal_terrer_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[Specialisation_sylvan.A_elemntaliste_terre_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Earth Elementalist"
+mTooltip="After the hero cast a positive %icon_earth earth spell in combat he gets a second turn for this combat round. Spell cast in this second turn will be cast with %buff1.buff.stat2 %ICON_MAGIC Magic."
+
+
+[Specialisation_sylvan.A_fire_rangered H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Against Nature"
+mTooltip="Ranged units under the hero's control burn their target if they make a critical hit. Burned creatures take damage according to the hero's level for 3 turns."
+
+[Specialisation_sylvan.A_Maitre_lame H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Fine Blade"
+mTooltip="Blade Dancers and Blade Masters in the hero's army get %spell1.name and %spell2.name abilities."
+
+[Specialisation_sylvan.A_Regeneration_trebor_Buff H7BaseBuff]
+mName="Regeneration"
+mTooltip="The creature recovers %d.min Health at the start of its turn.\nLasts for %durnow turn(s)."
+
+[Specialisation_sylvan.A_Treant_master H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Sylvan Spirit"
+mTooltip=Treants and Ancients Treants in the hero's army shoot at full range."
+
+[Specialisation_sylvan.A_Treant_master_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[Strongoldh_specialisation.A_BloodDrinker H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Blood Drinker"
+mTooltip="Hero gains %buff1.buff.stat.norm %buff1.buff.stat.icon Might after killing a stack of creatures."
+
+[Strongoldh_specialisation.A_BloodDrinker_Buff H7BaseBuff]
+mName="Blood Drinker"
+mTooltip=""
+
+[Strongoldh_specialisation.A_CyclopsRevenge H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Revenge of Cyclops"
+mTooltip="Cyclops and Enraged Cyclops in the hero's army get the %spell1.name ability."
+
+[Strongoldh_specialisation.A_FlightChampion H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Flying Champion"
+mTooltip="%buff.buff.stat1 %buff.buff.stat1.icon Initiative and %buff.buff.stat2 %buff.buff.stat2.icon Movement for Harpies and Furies in the hero's army."
+
+[Strongoldh_specialisation.A_FlightChampion_Buff H7BaseBuff]
+mName="Flying Champion"
+mTooltip=""
+
+[Strongoldh_specialisation.A_PirateOfTheSavageSea H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Pirate of the Wild Sea"
+mTooltip="All Brutes, Basilisk Riders, Cyclops, and their respective upgrades in the hero's army gain the ability %spell1.name."
+
+[Strongoldh_specialisation.A_Tormentor H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Tormentor"
+mTooltip="%buff.buff.stat1 %buff.buff.stat1.icon Defence and %buff.buff.stat2 %buff.buff.stat2.icon Hp for Brutes and Crushers in the hero's army."
+
+[Strongoldh_specialisation.A_Tormentor_Buff H7BaseBuff]
+mName="Tormentor"
+mTooltip=""
+

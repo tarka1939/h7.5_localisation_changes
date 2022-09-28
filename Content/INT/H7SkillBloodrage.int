@@ -1,0 +1,84 @@
+[A_Rush_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rush"
+mTooltip="Friendly creatures in Bloodrage get %buff.buff.stat %buff.buff.stat.icon Movement."
+
+[A_WarlordsFury_Buff H7BaseBuff]
+mName="Warlord's Fury"
+mTooltip="%stat1 to the base Damage of the hero."
+
+[A_BurstingRage_Buff H7BaseBuff]
+mName="Bursting Rage"
+mTooltip=""
+
+[A_BurstingRage_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Bursting Rage"
+mTooltip="All friendly creatures deal damage to enemy units around when Bloodrage ends. The damage is 70 times the number of full combat rounds Bloodrage lasted."
+
+[A_Bloodrage_Buff H7BaseBuff]
+mName="Bloodrage"
+mTooltip="%stat5 %ICON_ATTACK Attack\n\n%stat5.norm Bloodrage\n-2 at end of combat round or if the creature does wait or use the defend action."
+
+[A_FieryRage_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Fiery Rage"
+mTooltip="Friendly creatures in Bloodrage get %buff1.buff.stat1 %ICON_INITIATIVE Initiative."
+
+[A_Rush_Buff H7BaseBuff]
+mName="Rush"
+mTooltip="%stat %stat.icon Movement while Bloodrage is active."
+
+[A_WarlordsFury_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Warlord's Fury"
+mTooltip="7 times the current Bloodrage to the base Damage of the hero."
+
+[A_MightOverMagic_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Might Over Magic"
+mTooltip="Friendly creatures in Bloodrage suffer only half of direct damage from spells."
+
+[A_Bloodrage_Buff_DefendWaitMalus H7BaseBuff]
+mName=""
+mTooltip=""
+
+[A_FatherSkysFury_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Father Sky's Fury"
+mTooltip="The hero starts with 1 more Bloodrage.\nBloodrage is increased by 3 every time any creature stack is killed."
+
+[A_Bloodlust_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Bloodlust"
+mTooltip="Two times the current Bloodrage is added to the Morale of all friendly creatures."
+
+[A_Bloodrage_Buff_Marker H7BaseBuff]
+mName="Bloodrage Marker - Creature performed an attack"
+[A_Bloodrage_Buff_NoAttackMalus H7BaseBuff]
+mName="Bloodrage"
+
+UCP 1.1
+
+[A_Bloodrage_Skill H7Skill]
+mDescriptions[0]="The army starts combats totally enraged. This allows to hit fast and hard but the anger recedes over time."
+mDescriptions[1]=""
+mDescriptions[2]="The hero starts with 5 Bloodrage. Bloodrage is added to friendly creatures' %ICON_ATTACK Attack, but it decreases during combat:\n%buff2.buff.stat every time a creature uses the wait or defend action.\n%stat4 at end of each combat round.\nBloodrage is over once it reaches 0.\n(Not affected: Undead and Constructs)"
+mDescriptions[3]="The hero starts with additional 1 Bloodrage."
+mDescriptions[4]="The hero starts with additional 1 Bloodrage."
+mName="Bloodrage"
+mTooltip="Stronghold faction skill."

@@ -1,0 +1,965 @@
+[CustomEffects.A_BallistaCommander H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Ballista Commander"
+mTooltip="The hero starts with a Haven ballista unit. Haven ballistae in this hero's army get %buff.buff.stat %buff.buff.stat.icon Attack."
+
+[CustomEffects.A_BallistaCommander_Buff H7BaseBuff]
+mName="Ballista Commander"
+mTooltip=""
+
+[CustomEffects.A_BlackMarketeer H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Black Marketeer"
+mTooltip="The hero provides 1 random rare resource per day to this kingdom."
+
+[CustomEffects.A_Cautious H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Cautious"
+mTooltip="All creatures of the hero that only moved without attacking during their turn receive the defend buff."
+
+[CustomEffects.A_Cautious_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[CustomEffects.A_Charismatic H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Charismatic"
+mTooltip="%stat1.norm higher chance that neutral armies offer to join the hero. Neutral armies ask for %stat2.norm less %ICON_GOLD Gold when they offer to join the hero."
+
+[CustomEffects.A_Chef H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Chef"
+mTooltip="Friendly living creatures regenerate %d.min Health at the end of each combat round. Friendly living creatures get %buff.buff.stat %buff.buff.stat.icon Morale."
+
+[CustomEffects.A_Chef_Buff H7BaseBuff]
+mName="Chef"
+mTooltip=""
+
+[CustomEffects.A_FeralChild H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Feral Child"
+mTooltip="The abilities of Bears and Black Bears in the hero's army trigger on both, being attacked in melee and on range."
+
+[CustomEffects.A_FeralChild_Buff_Bear H7BaseBuff]
+mName="Feral Child"
+mTooltip="The Wild ability is also triggered when the creature is attacked on range."
+
+[CustomEffects.A_FeralChild_Buff_BlackBear H7BaseBuff]
+mName="Feral Child"
+mTooltip="The Wild ability is also triggered when the creature is attacked on range.\nThe Rage ability is also triggered when the unit is attacked on melee."
+
+[CustomEffects.A_FireHeart_Buff H7BaseBuff]
+mName="Fireheart"
+mTooltip=""
+
+[CustomEffects.A_GhostConjurer H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Ghost Conjurer"
+mTooltip="The size of any Ghost or Banshee stack in the hero's army is increased by %spell.spell.buff.buff.special every time it kills at least one non-dead, non-construct enemy creature."
+
+[CustomEffects.A_GhostConjurer_Buff H7BaseBuff]
+mName="GC"
+mTooltip=""
+
+[CustomEffects.A_GhostConjurer_CReatureAbility H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip=""
+
+[CustomEffects.A_Hotheaded H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Hotheaded"
+mTooltip="The hero starts with a Sylvan ballista. Sylvan ballistae in the hero's army get %buff1.buff.stat %buff1.buff.stat.icon Initiative. All friendly units get %buff2.buff.stat %buff2.buff.stat.icon Initiative in the first combat round."
+
+[CustomEffects.A_Hotheaded_Buff H7BaseBuff]
+mName="Hotheaded"
+mTooltip=""
+
+[CustomEffects.A_Hotheaded_Buff_Ballista H7BaseBuff]
+mName="Hotheaded"
+mTooltip=""
+
+[CustomEffects.A_Ingineer H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Ingineer"
+mTooltip="The hero starts with a Rune Stone and a Dwarven Ballista. As long as the hero doesn't own a support or attack warfare unit at the end of any battle he receives the corresponding Dwarven unit."
+
+[CustomEffects.A_InsatiableThirst H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Insatiable Thirst"
+mTooltip="The Life Drain ability of Vampires and Vampire Lords in the hero's army regenerates 70% of the damage they deal as Health instead of half the damage."
+
+[CustomEffects.A_KoboldElder H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Kobold Elder"
+mTooltip="Kobold Scouts and Kobold Pathfinders in the hero's army have %buff.buff.stat1 %icon_destiny and %buff.buff.stat2 %icon_morale Morale."
+
+[CustomEffects.A_KoboldElder_Buff H7BaseBuff]
+mName="Kobold Elder"
+mTooltip=""
+
+[CustomEffects.A_Marauder H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Marauder"
+mTooltip="The hero gains twice the amount of resources from plundering."
+
+[CustomEffects.A_Pugnacious H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Pugnacious"
+mTooltip="The hero attack deals additional %stat1 damage per hero level."
+
+[CustomEffects.A_RuneKeeper H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rune Keeper"
+mTooltip="The auras of all friendly runes affect a 5x5 area."
+
+[CustomEffects.A_Shieldmaiden H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Shieldmaiden"
+mTooltip="Defenders and Shieldguards in the hero's army cannot get "Incapacitated" from any creature attack."
+
+[CustomEffects.A_Shieldmaiden_Buff H7BaseBuff]
+mName="Shieldmaiden"
+mTooltip="The creature is immune against getting incapacitated."
+
+[CustomEffects.A_SpiritChanneler H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Spirit Channeler"
+mTooltip="The hero regenerates additional %stat.norm Mana per day."
+
+[CustomEffects.A_Vestal H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Vestal"
+mTooltip="The hero starts with a Healing Sister unit. Healing Sisters in the hero's army also heal all friendly units next  to its target."
+
+[CustomEffects.A_Vestal_Buff H7BaseBuff]
+mName="Vestal (Buff)"
+mTooltip=""
+
+[CustomEffects.A_Vikingr H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Vikingr"
+mTooltip="All Defenders, Kobold Scouts, Rune Priest, and their respective upgrades in the hero's army gain the %spell1.name creature ability."
+
+[StartingAttributeIncrease.A_EagleEye H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Eagle Eye"
+mTooltip="The hero starts with %stat Scouting Radius."
+
+[SpellSpecializations.A_RegenerationAdept H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Regeneration Adept"
+mTooltip="The hero starts with the Earth magic skill on novice rank and the %spell1.name spell. This spell is cast one rank above the current rank in this magic school. %stat1 %ICON_MAGIC Magic when casting this spell on Master rank."
+
+UCP 1.2 
+note - many specs are originally from HeroSpecializations but updated, they can stay only here or in the original file as well (they won't be used there)
+
+[CreatureGrowthBonus.A_MedusaQueen H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Medusa Queen"
+mTooltip="Governor: %buff1.buff.stat Medusa and Medusa Sorceress growth in the town's area of control."
+
+[CreatureGrowthBonus.A_MedusaQueen_Buff H7BaseBuff]
+mName="Medusa Queen"
+mTooltip=""
+
+[MagicSchool.A_MasterOfAir H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Disciple of Air"
+mTooltip="The hero has +1 %icon_magic Magic per each two hero levels when casting Air spells."
+
+[MagicSchool.A_MasterOfDarkness H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Disciple of Darkness"
+mTooltip="The hero has +1 %icon_magic Magic per each two hero levels when casting Dark spells."
+
+[MagicSchool.A_MasterOfEarth H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Disciple of Earth"
+mTooltip="The hero has +1 %icon_magic Magic per each two hero levels when casting Earth spells."
+
+[MagicSchool.A_MasterOfFire H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Disciple of Fire"
+mTooltip="The hero has +1 %icon_magic Magic per each two hero levels when casting Fire spells."
+
+[MagicSchool.A_MasterOfLight H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Disciple of Light"
+mTooltip="The hero has +1 %icon_magic Magic per each two hero levels when casting Light spells."
+
+[MagicSchool.A_MasterOfPrime H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Disciple of Prime"
+mTooltip="The hero has +1 %icon_magic Magic per each two hero levels when casting Prime spells."
+
+[MagicSchool.A_MasterOfWater H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Disciple of Water"
+mTooltip="The hero has +1 %icon_magic Magic per each two hero levels when casting Water spells."
+
+[MightAbility.A_ArcheryMaster H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Archery Master"
+mTooltip="The hero starts with the Offense skill on novice rank and the %spell1.name ability.\nThis ability increases base Damage of friendly ranged creatures by additional +1."
+
+[MightAbility.A_ArtilleryMaster H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Artillery Master"
+mTooltip="The hero starts with a warfare unit, the Warfare skill on novice rank and the %spell1.name ability.\nThis ability adds additional 100% Health to the hero's warfare units."
+
+[MightAbility.A_Catalyst H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Catalyst"
+mTooltip="The hero starts with the Prime magic skill on novice rank and the %spell1.name ability.\nThis ability adds hero additional +10 %icon_mana Mana after a combat."
+
+[MightAbility.A_Enlightened H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Enlightened"
+mTooltip="The hero starts with the Paragon skill on novice rank and the %spell1.name ability. \nGovernor: All heroes in this town's area of control gain 20% more experience in addition to the ability bonus."
+
+[MightAbility.A_Explorer H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Explorer"
+mTooltip="The hero starts with the Exploration skill on novice rank and the %spell1.name ability.\nGovernor: Your heroes move 10% faster in the town's area of control while moving on land in addition to the ability bonus."
+
+[MightAbility.A_Frenzy H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Frenzy"
+mTooltip="The hero starts with the Offense skill on novice rank and the %spell1.name ability.\nThis ability inreases base Damage of friendly melee creatures by additional +1."
+
+[MightAbility.A_Lucky H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Lucky"
+mTooltip="The hero starts with the Destiny skill on novice rank and the %spell1.name ability.\nThe hero gets two temporary random boosts instead of one thanks to this ability."
+
+[MightAbility.A_MasterBuilder H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Master Builder"
+mTooltip="The hero starts with the Economy skill on novice rank and the %spell1.name ability.\nGovernor: The Gold costs of buildings in this town are decreased by additional -10%."
+
+[MightAbility.A_MasterOfWarcries H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Master of Warcries"
+mTooltip="The hero starts with the Warcries skill on novice rank and the %spell1.name ability.\nThe Advance! warcry increases friendly creatures' flanking and full flanking damage bonus by additional +25%."
+
+[MightAbility.A_Plenipotentiary H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Plenipotentiary"
+mTooltip="The hero starts with the Diplomacy skill on novice rank and the %spell1.name ability.\nWhen the hero's army contains creatures from different factions each creature gets additional +10 %icon_morale Morale."
+
+[MightAbility.A_Protector H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Protector"
+mTooltip="The hero starts with the Defence skill on novice rank and the %spell1.name ability.\nGovernor: The local guard's core creature capacities in this town are increased by additional +30 and for elite creatures by +10."
+
+[MightAbility.A_Seafarer H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Seafarer"
+mTooltip="The hero starts with the Exploration skill on novice rank and the %spell1.name ability.\nThe hero is faster when sailing with a ship by additional 25%."
+
+[MightAbility.A_Tactician H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Tactician"
+mTooltip="The hero starts with the Leadership skill on novice rank and the %spell1.name ability.\nThe hero can deploy creatures in the first 4 rows thanks to this ability."
+
+[MightAbility.A_TreasureHunter H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Treasure Hunter"
+mTooltip="The hero starts with the Destiny skill on novice rank and the %spell1.name ability.\nTreasure Chests picked up by the hero contain additional +25% more %icon_Gold Gold."
+
+[MightAbility.A_Vitality H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Vitality"
+mTooltip="The hero starts with the Defence skill on novice rank and the %spell1.name ability.\nThis ability increases Health of friendly creatures during combat by additional +2."
+
+[SpellSpecializations.A_BlizzardMaster H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Blizzard Adept"
+mTooltip="The hero starts with the Water magic skill on novice rank and the %spell1.name spell.\nThis spell is cast one rank above the current rank in this magic school. %stat1 %ICON_MAGIC Magic when casting this spell on Master rank."
+
+[SpellSpecializations.A_EarthquakeSpecialist_Buff_Marker H7BaseBuff]
+mName="Earthquake Immunity Marker"
+mTooltip="Marker Buff"
+
+[SpellSpecializations.A_FireBallSpecialist H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Fire Ball Specialist"
+mTooltip="The hero starts with the %spell1.name spell.\n%stat1 %ICON_MAGIC Magic when casting %spell1.name on Novice, %stat2 %ICON_MAGIC Magic on Expert and %stat3 %ICON_MAGIC Magic on Master rank."
+
+[SpellSpecializations.A_FireBoltMaster H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Fire Bolt Adept"
+mTooltip="The hero starts with the Fire magic skill on novice rank and the %spell1.name spell.\nThis spell is cast one rank above the current rank in this magic school. %stat1 %ICON_MAGIC Magic when casting this spell on Master rank."
+
+[SpellSpecializations.A_HealMaster H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Heal Adept"
+mTooltip="The hero starts with the Light magic skill on novice rank and the %spell1.name spell.\nThis spell is cast one rank above the current rank in this magic school. %stat1 %ICON_MAGIC Magic when casting this spell on Master rank."
+
+[SpellSpecializations.A_LightningMaster H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Lightning Adept"
+mTooltip="The hero starts with the Air magic skill on novice rank and the %spell1.name spell.\nThis spell is cast one rank above the current rank in this magic school. %stat1 %ICON_MAGIC Magic when casting this spell on Master rank."
+
+[SpellSpecializations.A_Mad H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Mad"
+mTooltip="The hero starts with the %spell1.name spell and can cast it on Novice rank. Mana needed to cast this spell is halved."
+
+[SpellSpecializations.A_Mad_Frenzy_Buff H7BaseBuff]
+mName="Frenzy (Norm)"
+mTooltip=""
+
+[SpellSpecializations.A_StoneSkinMaster H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Stone Skin Adept"
+mTooltip="The hero starts with the Earth magic skill on novice rank and the %spell1.name spell.\nThis spell is cast one rank above the current rank in this magic school. %stat1 %ICON_MAGIC Magic when casting this spell on Master rank."
+
+[SpellSpecializations.A_TimeMaster H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Time Adept"
+mTooltip="The hero starts with the Prime magic skill on novice rank and the %spell1.name spell.\nThis spell is cast one rank above the current rank in this magic school. %stat1 %ICON_MAGIC Magic when casting this spell on Master rank."
+
+[SpellSpecializations.A_WeaknessMaster H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Weakness Adept"
+mTooltip="The hero starts with the Dark magic skill on novice rank and the %spell1.name spell.\nThis spell is cast one rank above the current rank in this magic school. %stat1 %ICON_MAGIC Magic when casting this spell on Master rank."
+
+[StartingAttributeIncrease.A_AcolyteOfFortune H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Acolyte of Fortune"
+mTooltip="The hero has +2 %stat.icon Destiny for every three hero levels."
+
+[StartingAttributeIncrease.A_Gladiator H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Gladiator"
+mTooltip="The hero has +1 %stat.icon Might for every three hero levels."
+
+[StartingAttributeIncrease.A_NaturalBornLeader H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Natural Born Leader"
+mTooltip="The hero has +2 %stat.icon Leadership for every three hero levels."
+
+[StartingAttributeIncrease.A_Painless H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Painless"
+mTooltip="The hero has +1 %ICON_DEFENSE Defence for every three hero levels."
+
+[StartingAttributeIncrease.A_Spellweaver H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Spellweaver"
+mTooltip="The hero has +1 %stat.icon Magic for every three hero levels."
+
+[StartingAttributeIncrease.A_SpiritWalker H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Spirit Walker"
+mTooltip="The hero gets +5 %stat.icon maximum Mana for each hero level."
+
+[StartingAttributeIncrease.A_Terrain_Expert H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Terrain Expert"
+mTooltip="The hero gets one extra movement point for each four hero levels."
+
+[Unique.A_Aerial_Storm_Buff H7BaseBuff]
+mName="Aerial Storm"
+mTooltip=""
+
+[Unique.A_AerialStorm_Ability H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Aerial Storm"
+
+[Unique.A_AerialStorm_Attack H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Aerial Storm"
+
+[Unique.A_Archaeologist H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Archaeologist"
+mTooltip="The hero starts with two Shantiri artifacts which cannot be exchanged."
+
+[Unique.A_Archaeologist_Major_OffHand_CursedDice H7HeroItem]
+mName="Cursed Dice"
+mTooltip="%buff1.buff.stat %buff1.buff.stat.icon Luck to enemy creatures."
+
+[Unique.A_Archaeologist_Major_Torso_ShantiriArmour H7HeroItem]
+mName="Shantiri Armour"
+mTooltip="%stat %ICON_DEFENSE Defence\nAll friendly creatures receive %buff1.buff.res1.norm less %ICON_PRIME Prime damage."
+
+[Unique.A_Archmage H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Archmage"
+mTooltip="The hero starts with the %spell1.name ability. Each spell the hero casts increases Metamagic by additional +1."
+
+[Unique.A_Archmage_ArcaneCatalyst_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Archmage"
+
+[Unique.A_AshasWill H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Asha's Will"
+mTooltip="Hero's necromancy is increased by additional +%buff.buff.stat.norm."
+
+[Unique.A_AshasWill_Buff H7BaseBuff]
+mName="Asha's Will"
+mTooltip="Necromancy raises creatures with additional %stat.norm percentage points."
+
+[Unique.A_CelestialGuard H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Celestial Guard"
+mTooltip="+%buff.buff.stat1.norm %buff.buff.stat1.icon Movement and +%buff.buff.stat2.norm %buff.buff.stat2.icon Defence for all Seraphs and Celestials in hero's army."
+
+[Unique.A_CelestialGuard_Buff H7BaseBuff]
+mName="Celestial Guard"
+mTooltip="%stat1.norm %stat1.icon Movement and  %stat2.norm %stat2.icon Defence  "
+
+[Unique.A_Curse H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Curse"
+mTooltip="Governor: All enemy heroes in this town's area of control become cursed: during first 3 turns of each combat in this area of control, up to three random creatures (except undead and constructs) in enemy hero's army will deal minimal damage."
+
+[Unique.A_Curse_Debuff H7BaseBuff]
+mName="Curse"
+mTooltip="The creature deals minimum damage for %durnow turns."
+
+[Unique.A_Curse_HeroBuff H7BaseBuff]
+mName="Cursed"
+mTooltip="During first 3 turns of each combat in this area of control, up to three random creatures (except undead and constructs) in hero's army will deal minimal damage. "
+
+[Unique.A_Curse_Spell H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Curse"
+mTooltip="Target enemy creature (except undead and constructs) deals minimal damage for %buff.buff.durini turns."
+
+[Unique.A_DaughterOfEarth H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Daughter of Earth"
+mTooltip="The hero starts with the %spell1.name spell. This spell will be cast on all friendly melee creatures at the beginning of each combat."
+
+[Unique.A_DaughterOfSky H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Daughter of Sky"
+mTooltip="The hero starts with the %spell1.name spell. This spell will be cast on all friendly ranged creatures at the beginning of each combat."
+
+[Unique.A_Dispeller H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Dispeller"
+mTooltip="The hero starts with the %spell1.name spell. This spell can be cast in 4x4 area."
+
+[Unique.A_DreamWalker H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Dreamwalker"
+mTooltip="The hero starts with a Dreamcatcher unit. The Dreamcatcher unit is considered maximum level for this hero."
+
+[Unique.A_DruidTraveller H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Druid Traveller"
+mTooltip="All Druids and Druid Elders in hero's army get +%buff1.buff.stat1.norm %buff1.buff.stat1.icon Initiative and the %spell2.name ability in each combat."
+
+[Unique.A_DruidTraveller_Buff H7BaseBuff]
+mName="Druid Traveller"
+mTooltip=""
+
+[Unique.A_EconomicalProsperity H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Economical Prosperity"
+mTooltip="Governor: buy and sell prices of artefacts in this dungeon town are %buff1.buff.stat2 better."
+
+[Unique.A_EconomicalProsperity_Buff H7BaseBuff]
+mName="Economical Prosperity"
+mTooltip=""
+
+[Unique.A_EternalLife H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Eternal Life"
+mTooltip="After any friendly creature dies in the combat, it will be resurrected with 10% of the original size. Each creature can be resurrected only once. "
+
+[Unique.A_EternalLife_Buff H7BaseBuff]
+mName="Eternal Life"
+mTooltip="After this creature dies, it will be resurrected with 10% of the original size."
+
+[Unique.A_EternalShadow H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Eternal Shadow"
+mTooltip="All creatures in hero's army become immune against light magic."
+
+[Unique.A_Fanaticism H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Fanaticism"
+mTooltip="All ranged attacks of creatures in hero's army remove a random positive effect from the target."
+
+[Unique.A_Fanaticism_Ability H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Fanaticism"
+mTooltip="This creature's ranged attacks remove a random positive effect from the target."
+
+[Unique.A_Fanaticism_Buff H7BaseBuff]
+mName="Fanaticism"
+mTooltip=""
+
+[Unique.A_FatherOfGolems H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Father of Golems"
+mTooltip="Abilities %spell1.name and %spell2.name of Sandstone Golems in hero's army have no negative effects."
+
+[Unique.A_FatherOfGolems_Buff H7BaseBuff]
+mName="Father of Golems"
+mTooltip="Abilities %spell1.name and %spell2.name have no negative effects."
+
+[Unique.A_Firestorm_Buff H7BaseBuff]
+mName="Firestorm"
+mTooltip=""
+
+[Unique.A_FireStorm_Master H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Firestorm Master"
+mTooltip="All enemy creatures have a 25% chance to receive %buff1.buff.d.min %buff1.buff.d.icon Fire damage at the beginning of each combat turn."
+
+[Unique.A_GuardianOfJustice H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Guardian of Justice"
+mTooltip="All enemy creatures have 0 %icon_luck Luck."
+
+[Unique.A_GuardianOfJustice_Buff H7BaseBuff]
+mName="Guardian of Justice"
+mTooltip="This creature's %icon_luck Luck is set to 0."
+
+[Unique.A_ImperialPresence H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Imperial Presence"
+mTooltip="All friendly creatures get +%buff1.buff.buff.buff.stat.norm %buff1.buff.buff.buff.stat.icon Initiative until the end of their next turn whenever an enemy creature dies."
+
+[Unique.A_ImperialPresence_Buff H7BaseBuff]
+mName="Imperial Presence"
+mTooltip="+%stat.norm %stat.icon Initiative until the end of creature's next turn."
+
+[Unique.A_ImperialPresence_EnemyMarker_Buff H7BaseBuff]
+mName="Imperial Presence"
+
+[Unique.A_InfiniteFreedom H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Infinite Freedom"
+mTooltip="All friendly creatures in hero's army get +%buff1.buff.stat1.norm %buff1.buff.stat1.icon Movement if they have no adjacent friendly creatures."
+
+[Unique.A_InfiniteFreedom_Buff_Increase H7BaseBuff]
+mName="Infinite Freedom"
+mTooltip=""
+
+[Unique.A_Meditation H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Meditation"
+mTooltip="The hero can restore the whole %icon_mana Mana. Can be used only once per week."
+
+[Unique.A_Meditation_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Meditation"
+mTooltip="The hero can replenish their %icon_mana Mana. Can be used only once per week."
+
+[Unique.A_Meditation_Buff H7BaseBuff]
+mName="Meditation"
+
+[Unique.A_Obliteration H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Obliteration"
+mTooltip="All creatures in hero's army get +%buff1.buff.stat.norm %icon_movement Movement during their first combat turn."
+
+[Unique.A_Obliteration_Buff H7BaseBuff]
+mName="Obliteration"
+mTooltip="The creature gets +%stat.norm %icon_movement Movement in the first turn."
+
+[Unique.A_OpenMinded H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Open-minded"
+mTooltip="The hero gets daily a magic school bonus corresponding to the current day. The ability starts with a new week if the hero is hired in the middle."
+
+[Unique.A_OpenMinded_Buff_1 H7BaseBuff]
+mName="Ashda"
+mTooltip="The hero has %stat %stat.icon Magic when casting %icon_prime Prime spells."
+
+[Unique.A_OpenMinded_Buff_2 H7BaseBuff]
+mName="Malda"
+mTooltip="The hero has %stat %stat.icon Magic when casting %icon_dark Dark spells."
+
+[Unique.A_OpenMinded_Buff_3 H7BaseBuff]
+mName="Elda"
+mTooltip="The hero has %stat %stat.icon Magic when casting %icon_light Light spells."
+
+[Unique.A_OpenMinded_Buff_4 H7BaseBuff]
+mName="Arda"
+mTooltip="The hero has %stat %stat.icon Magic when casting %icon_fire Fire spells."
+
+[Unique.A_OpenMinded_Buff_5 H7BaseBuff]
+mName="Sylada"
+mTooltip="The hero has %stat %stat.icon Magic when casting %icon_earth Earth spells."
+
+[Unique.A_OpenMinded_Buff_6 H7BaseBuff]
+mName="Shalda"
+mTooltip="The hero has %stat %stat.icon Magic when casting %icon_water Water spells."
+
+[Unique.A_OpenMinded_Buff_7 H7BaseBuff]
+mName="Ylda"
+mTooltip="The hero has %stat %stat.icon Magic when casting %icon_air Air spells."
+
+[Unique.A_Perfectionist H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Perfectionist"
+mTooltip="Whenever the hero casts a Light magic spell, all friendly units deal maximum damage until the end of the current turn."
+
+[Unique.A_Perfectionist_Buff H7BaseBuff]
+mName="Perfectionist"
+mTooltip="The creature deals maximum damage until the end of the current turn."
+
+[Unique.A_Plunderer H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Plunderer"
+mTooltip="The hero gets one random rare resource whenever he wins a combat."
+
+[Unique.A_PositionWar H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Positional War"
+mTooltip="At the beginning of each combat, all melee creatures in hero's army get +%buff1.buff.stat.norm %icon_defense Defence until they move."
+
+[Unique.A_PositionWar_Buff H7BaseBuff]
+mName="Position War"
+mTooltip="The creature gets %stat.norm %stat.icon Defence until it moves."
+
+[Unique.A_ProtectorOfTheWeak H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Protector of the Weak"
+mTooltip="Governor: All friendly heroes in this town's area of control get %buff1.buff.stat %buff1.buff.stat.icon Defence."
+
+[Unique.A_ProtectorOfTheWeak_Buff H7BaseBuff]
+mName="Protector of the Weak"
+mTooltip="%stat %stat.icon Defence in this area of control"
+
+[Unique.A_PrudentLeader H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Prudent Leader"
+mTooltip="All creatures in hero's army get +%buff1.buff.buff.buff.stat.norm %buff1.buff.buff.buff.stat.icon Attack for their next turn if they do not attack in the combat round."
+
+[Unique.A_PrudentLeader_Buff H7BaseBuff]
+mName="Prudent Leader"
+mTooltip="The creature gets %stat.norm %stat.icon Attack until the end of its next turn."
+
+[Unique.A_PrudentLeader_Buff_Marker H7BaseBuff]
+mName="Prudent Leader"
+
+[Unique.A_Revengeful H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Revengeful"
+mTooltip="First enemy creature in every combat round attacking a friendly creature gets -%buff1.buff.buff1.buff.stat.norm %buff1.buff.buff1.buff.stat.icon Defence for %buff1.buff.buff1.buff.durini turns."
+
+[Unique.A_Revengeful_Buff H7BaseBuff]
+mName="Revengeful"
+mTooltip="The creature gets %stat %stat.icon Defence for %durnow turns."
+
+[Unique.A_Revengeful_Buff_Prepare H7BaseBuff]
+mName="Revengeful"
+mTooltip=""
+
+[Unique.A_Reviver H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Reviver"
+mTooltip="The hero receives the spell %spell to cast during a combat. This spell's effect improves with Dark Magic skill."
+
+[Unique.A_Reviver_AnimateDead_Spell H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Animate Dead"
+mTooltip="Revives fallen dead creatures up to %d.min Health."
+
+[Unique.A_ShadowCommander H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Shadow Commander"
+mTooltip="The hero starts with a Shadow Lurker warfare unit. Shadow lurkers in this hero's army get %buff.buff.stat1 %buff.buff.stat1.icon Attack and %buff.buff.stat2 %buff.buff.stat2.icon Initiative."
+
+[Unique.A_ShadowCommander_Buff H7BaseBuff]
+mName="Shadow Commander"
+mTooltip=""
+
+[Unique.A_SonOfTheWolf H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Son of the Wolf"
+mTooltip="No penalty after using the %spell1.name ability for all creatures in hero's army."
+
+[Unique.A_SpyMaster H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Spy Master"
+mTooltip="Spies can sabotage and plunder two additional targets."
+
+[Unique.A_Spymaster_Player_Buff H7BaseBuff]
+mName="Spymaster"
+mTooltip="Spies can sabotage and plunder two additional targets."
+
+[Unique.A_SylvanPriestess_Spec H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Sylvan Priestess"
+mTooltip="The hero starts with the %spell.name spell. This spell is cast with %stat %stat.icon Magic. The bonds with the vestals also provide the hero with a healing sister warfare unit."
+
+[Unique.A_Untouchable H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Untouchable"
+mTooltip="Whenever the friendly creatures are shrouded, they can benefit from the %spell.name ability."
+
+[Unique.A_WisdomOfAncestors H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Wisdom of Ancestors"
+mTooltip="Creatures in hero's army do not lose Bloodrage when they wait or defend."
+
+[CustomEffects.A_FireHeart H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Fireheart"
+mTooltip="After the hero cast a fire spell in combat he gets a second turn for this combat round. Spell cast in this second turn will be cast with %buff1.buff.stat2 %ICON_MAGIC Magic."
+
+UCP 1.3
+
+[Unique.A_LightGuard H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Light Guard"
+mTooltip="The hero starts with the %spell1.name spell. This spell will be cast on all friendly small creatures at the beginning of each combat."
+
+[SpellSpecializations.A_EarthquakeSpecialist H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Earthquake Specialist"
+mTooltip="Friendly creatures are immune against the %spell1.name spell."
+
+[Unique.A_LustForBlood H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Lust For Blood"
+mTooltip="All creatures (except those with the %spell3.name ability and constructs) in hero's army can suck life from living enemy creatures: their hits restore Health equal in amount to 3 % of the damage dealt. This also revives fallen creatures."
+
+[Unique.A_Glamour H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Glamour"
+mTooltip="The hero provides %special %special.icon Starsilver per day to this kingdom as long as having the %spell1.name buff. This buff also gives hero +3 %icon_attack Attack."
+
+[Unique.A_Glamour_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Glamour"
+mTooltip="The hero provides %special %special.icon Starsilver per day to this kingdom as long as having %spell1.name buff. This buff also gives hero +3 %icon_attack Attack."
+
+[Unique.A_AerialStorm H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Aerial Storm"
+mTooltip="Spells summoning elementals cast by this hero summon always Air Elementals.\nAll attacks of Air Elementals in hero's army also hit all enemy creatures adjacent to target."
+
+
+
+

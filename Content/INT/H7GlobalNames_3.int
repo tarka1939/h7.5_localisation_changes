@@ -1,0 +1,34 @@
+UCP 1.2 - 1.3 New
+
+[Academy.A_Asalah_Name H7GlobalName]
+mName="Asalah"
+
+[Dungeon.A_Himiko_Name H7GlobalName]
+mName="Himiko"
+
+[Dungeon.A_Lorelei_Name H7GlobalName]
+mName="Lorelei"
+
+[Fortress.A_Iark_Name H7GlobalName]
+mName="Iark"
+
+[Fortress.A_Roek_Name H7GlobalName]
+mName="Roek"
+
+[Necropolis.A_Haffayad_Name H7GlobalName]
+mName="Haffayad"
+
+[Necropolis.A_Scatha_Name H7GlobalName]
+mName="Scatha"
+
+[Stronghold.A_Mokka_Name H7GlobalName]
+mName="Mokka"
+
+[Stronghold.A_Ruqav_Name H7GlobalName]
+mName="Ruqav"
+
+[Sylvan.A_Adowyn_Name H7GlobalName]
+mName="Adowyn"
+
+
+

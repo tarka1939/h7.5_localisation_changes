@@ -1,0 +1,161 @@
+[Hero_test.A_Sanctuary_Warrior_Ice_Balanced H7HeroClass]
+mName="Ice Warrior"
+
+[Skill_rang_novice_roue_des_talent.A_humidite_allie_Buff H7BaseBuff]
+mName="Humidity "
+mTooltip="Creature takes %res1 additional Air %icon_air and Water %icon_water damage. "
+
+[Skill_rang_expert_roue_des_talent.A_Bulle_d_eau_combat_warfare_Buff H7BaseBuff]
+mName="Water Bubble"
+mTooltip="This creature is encased in a water bubble that absorbs %special.val3 Damage from the first attack it suffers. This creature gains a %buff1.buff.stat1 bonus to Attack %icon_attack and Defense %icon_defense ."   
+
+[Skill_rang_expert_roue_des_talent.A_karma_allie_Buff H7BaseBuff]
+mName="Karma"
+mTooltip=""
+
+[Skill_Rang_grand_maitre_roue_talent.A_Cleave_honneur H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Shrine Honor
+mTooltip="As long as this creature is surrounded by water bubble: Deal extra damage to target, if it hasn't been attacked yet (has Honorable Adversary buff)"
+
+[Skill_rang_expert_roue_des_talent.A_warfare_Buff H7BaseBuff]
+mName="warfare buff"
+mTooltip=""
+
+[Skill_Rang_grand_maitre_roue_talent.A_Honneur_du_sanctuaire_Buff H7BaseBuff]
+mName="Shrine Honor
+mTooltip="As long as this creature is encased by water bubble: Deal 2 times damage of its attack to its target, if it hasn't been attacked yet (has Honorable Adversary buff)"
+
+[Skill_rang_expert_roue_des_talent.A_LightningBolt H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="War bubble
+mTooltip="War machines have a 50% chance of being enveloped by : %spell1.name .\n%spell1.name absorbs damage. In addition the bubble increases Attack %icon_attack and defense %icon_defense by %buff1.buff.buff1.buff.stat1 , as long as it is enveloped by %spell1.name ."
+
+[Skill_Rang_grand_maitre_roue_talent.A_BurningDetermination H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Honor of the Sanctuary
+mTooltip="Enemy units receive: %spell1.name at the beginning of each turn.Allied creatures deal extra damage to targets marked with %spell1.name, provided they are encased in water bubble. %spell1.name is dispelled when the target takes damage for the first time in the combat round."
+
+[Skill_Rang_grand_maitre_roue_talent.A_creature_honorable_Buff H7BaseBuff]
+mName="Honorable adversary"
+mTooltip="As long as this creature takes no damage this turn, it is considered an honest opponent."
+
+[Skill_rang_novice_roue_des_talent.A_humidite_Buff H7BaseBuff]
+mName="Humidity "
+mTooltip="Creature takes %res1 additional Air %icon_air and Water %icon_water damage. "
+
+[Skill_rang_novice_roue_des_talent.A_ArcaneChanneling_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Perfect Bubble
+mTooltip="Creatures wrapped by : %spell2.name get %buff1.buff.stat %icon_luck until end of turn , or %spell2.name is removed."
+
+[Skill_faction.A_Bulle_d_eau_maitre_description H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Water Bubble
+mTooltip="Allied creatures have a 75% chance to get %spell.name at the beginning of each turn of combat."
+
+[Skill_faction.A_Bulle_d_eauy_expert_description H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Water Bubble "
+mTooltip="Allied creatures have a 50% chance to get %spell.name at the beginning of each turn of combat."
+
+[Skill_faction.A_Bulle_d_eau_combat_elite_Buff H7BaseBuff]
+mName="Water Bubble"
+mTooltip="This creature is encased in a water bubble that absorbs %special.val3 Damage from the first attack it takes. This creature deals %d Extra damage to enemies marked with %spell.4name. "
+
+[Skill_rang_novice_roue_des_talent.A_ArcaneCatalyst_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Splash"
+mTooltip="If allied creature is wrapped in %spell1.name , mingled attackers receive %spell2.name for %buff2.buff.buff.durini turns."
+
+[Skill_faction.A_Bulle_d_eau_créature_expert_Buff H7BaseBuff]
+mName="Water bubble"
+mTooltip=""
+
+[Skill_rang_master_roue_des_talent.A_ArcaneAttunement_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Bubble of devastation "
+mTooltip="Mixed creatures wrapped by%spell4.name get %buff1.buff.stat1 to the damage they deal until end of turn , or %spell4.name is removed."
+
+[Skill_faction.A_Bulle_d_eau_créature_master_Buff H7BaseBuff]
+mName="Water bubble"
+mTooltip=""
+
+[Skill_rang_expert_roue_des_talent.A_karma_Buff H7BaseBuff]
+mName="Karma"
+mTooltip="The creature receives %stat1 %stat1.icon and %stat2 %stat2.icon during %durnow tours ."
+
+[Skill_faction.A_Bulle_d_eau_combat_Buff H7BaseBuff]
+mName="Water Bubble"
+mTooltip="This creature is encased in a water bubble that absorbs %special.val3 Damage from the first attack it suffers.This creature deals %d Extra Damage to enemies marked by : %spell4.name "
+
+[Skill_rang_master_roue_des_talent.A_Bulle_devastation_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[Skill_faction.A_Bulle_d_eau_créature_novice_Buff H7BaseBuff]
+mName="Water bubble"
+mTooltip=""
+
+[Skill_rang_novice_roue_des_talent.A_Bulle_parfaite_Buff H7BaseBuff]
+mName="Perfect Bubble"
+mTooltip="Creature gains %stat %icon.stat until end of turn."
+
+[Skill_rang_novice_roue_des_talent.A_bulle_electrique_Buff H7BaseBuff]
+mName="Lightning bubble "
+mTooltip="Inflicts %d damage %icon_air to adjacent enemies at the end of the combat turn"
+
+[Skill_rang_novice_roue_des_talent.A_ArcaneShield_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Lightning Bubble
+mTooltip="Creatures enveloped by %spell1.name at end of turn receive %spell3.name at beginning of next combat turn.( At end of each creature's turn, allied units enveloped by %spell3.name inflict %icon_air damage to adjacent enemies. Damage value changes with hero's level.%spell3.name dissipates if allied creature takes damage. )"
+
+[Skill_faction.A_Bulle_d_eauy_novice_description H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Water Bubble
+mTooltip="Allied creatures have a 25% chance to get %spell.name at the beginning of each turn of combat."
+
+[Skill_faction.Metamagic_skill H7Skill]
+mDescriptions[0]="Allied creatures have a chance to be enveloped by %spell1.name which absorbs damage. %spell1.name lasts until end of turn or allied creature takes damage"
+
+mDescriptions[1]="Allied creatures have a chance to be enveloped in a water bubble that absorbs damage .%spell1.name lasts until the end of the turn or the allied creature takes damage"
+
+mDescriptions[2]="Allied creatures have a 25% chance to be enveloped by %spell1.name at the beginning of each turn. %spell1.name lasts until end of turn or allied creature takes damage"
+
+mDescriptions[3]="Allied creatures have a 50% chance to be enveloped by %spell1.name at the start of each turn. %spell1.name lasts until end of turn or allied creature takes damage"
+
+mDescriptions[4]="Allied creatures have a 75% chance to be enveloped by %spell1.name at the beginning of each turn. %spell1.name lasts until end of turn or allied creature takes damage.
+
+mName="Hydromantie"
+mTooltip="Sanctuary faction skill."
+
+[Skill_rang_expert_roue_des_talent.A_ArcaneBrillance_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Karma "
+mTooltip=" If the allied creature is wrapped in %spell1.name , the attackers receive %spell2.name for %buff2.buff.buff.durini turns."
+
+[Skill_faction.A_Bulle_d_eau_combat_champion_Buff H7BaseBuff]
+mName="Water Bubble"
+mTooltip="This creature is encased in a water bubble that absorbs %special.val3 Damage from the first attack it suffers.This creature deals %d Extra Damage to enemies marked by : %spell4.name."

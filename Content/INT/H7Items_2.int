@@ -1,0 +1,203 @@
+[Items_NoSet.A_Minor_Head_DefenderHelmet H7HeroItem]
+mName="Defender Helmet"
+mTooltip="%stat %icon_defense Defense"
+
+[Consumables.A_Scroll_Light_Martyr H7HeroItem]
+mName="Scroll of Martyr"
+mTooltip="Consume the scroll to cast the Light spell Martyr."
+
+[Abilities.A_DragonHelmet_Buff_Creature H7BaseBuff]
+mName="Dragon Helmet"
+mTooltip="The creature receives 20% less damage from damage of any magic school."
+
+[Abilities.A_DragonHelmet_Buff_Hero H7BaseBuff]
+mName="Dragon Helmet"
+mTooltip="20% slower movement while within a distance of 16 tiles of an enemy hero wearing the Dragon Helmet."
+
+[Abilities.A_DwarvenWarHarness_Buff H7BaseBuff]
+mName="Dwarven War Harness"
+mTooltip=""
+
+[Abilities.A_ElvenRing_Buff H7BaseBuff]
+mName="Elven Ring"
+mTooltip=""
+
+[Abilities.A_ShantiriScepter_Buff H7BaseBuff]
+mName="Shantiri Scepter"
+mTooltip=""
+
+[Items_NoSet.A_Major_MainHand_HearthguardSpear H7HeroItem]
+mName="Hearthguard Spear"
+mTooltip="%stat1 hero Damage per level. Every activated rune reduces the mana cost of the next spell cast by the hero by %special.norm."
+
+[Items_NoSet.A_Minor_MainHand_RitualDagger H7HeroItem]
+mName="Ritual Dagger"
+mTooltip="Creatures targeted by the hero attack receive 30% of the initial damage as %ICON_MIGHT Might damage at the beginning of their turn for %buff.buff.durini turns."
+
+[Abilities.A_TheDragonheart_Buff_Marker H7BaseBuff]
+mName=""
+mTooltip=""
+
+[Items_NoSet.A_Minor_OffHand_Telescope H7HeroItem]
+mName="Telescope"
+mTooltip="At start of the day reveal the area around the hero with +4 scouting radius."
+
+[Items_NoSet.A_Major_MainHand_WardensSpear H7HeroItem]
+mName="Warden's Spear"
+mTooltip="%stat1 hero Damage per level.\nThe hero attack ignores 50% of the attacked creature's %icon_defense Defense."
+
+[Abilities.A_ShanriyaArmour_Buff H7BaseBuff]
+mName="Shanriya Armour"
+mTooltip="Enemy creatures get %d1.min %d1.icon water damage at start of every combat round."
+
+[Items_NoSet.A_Minor_MainHand_GoldenAxe H7HeroItem]
+mName="Golden Axe"
+mTooltip="%buff1.buff.stat1 Damage for friendly non-ranged creatures"
+
+[Abilities.A_CabirScales_Buff H7BaseBuff]
+mName="Cabir Scales"
+mTooltip="The creature receives 15% less damage from magic school Fire."
+
+[Abilities.A_DragonHelmet_Ability_Hero H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip=""
+
+[Consumables.A_Scroll_Fire_FireSentry H7HeroItem]
+mName="Scroll of Fire Sentry"
+mTooltip="Consume the scroll to cast the Fire spell Fire Sentry."
+
+[Items_RunicForge.A_Relic_Hands_ElvenRing H7HeroItem]
+mName="Elven Ring"
+mTooltip="%stat %icon_spirit Spirit.\n%buff1.buff.stat %icon_initiative Initiative for friendly creatures.\n\nPermits casting of the Earth spell %spell3 once per combat."
+
+[Items_RunicForge.A_Relic_Head_BloodforgedBroach H7HeroItem]
+mName="Bloodforged Broach"
+mTooltip="%stat1 %icon_magic Magic.\n%stat2 %icon_mana Mana.\n%stat3 Mana per day."
+
+[Items_RunicForge.A_Relic_Head_DragonHelmet H7HeroItem]
+mName="Dragon Helmet"
+mTooltip="%stat %icon_magic Magic.\nAll friendly creatures receive 20% less damage.\nEnemy heroes in a range of 16 are 20% slower."
+
+[Items_RunicForge.A_Relic_MainHand_HallowedSword H7HeroItem]
+mName="Hallowed Sword"
+mTooltip="%stat1 hero Damage per level.\n\nPermits casting of the Light spell %spell1 once per combat.\n%special %special.icon Gold per day"
+
+[Items_RunicForge.A_Relic_MainHand_ShantiriScepter H7HeroItem]
+mName="Shantiri Scepter"
+mTooltip="%stat1 %icon_destiny Destiny.\n%buff.buff.stat %icon_magic Magic until the end of combat for every spell cast.\n%stat2 XP rate."
+
+[Items_RunelordSet.A_Major_MainHand_HammerOfFate H7HeroItem]
+mName="Hammer of Fate"
+mTooltip="%stat1 hero Damage per level.\n%stat3 %icon_destiny Destiny."
+
+[Items_RunelordSet.A_Major_OffHand_RunicShield H7HeroItem]
+mName="Runic Shield"
+mTooltip="%stat %icon_defense Defense.\nAll friendly creatures receive 5% less damage from all magic schools."
+
+[Items_RunicForge.A_Relic_Torso_DwarvenWarHarness H7HeroItem]
+mName="Dwarven War Harness"
+mTooltip="%stat1 %icon_Might Might\n%buff1.buff.stat Health for friendly creatures.\n%stat2 %icon_defense Defense"
+
+[Items_NoSet.A_Relic_Neck_TheDragonheart H7HeroItem]
+mName="The Fire Drake"
+mTooltip="%stat1 %icon_magic Magic\n%stat2 %icon_might Might\n%stat3 %icon_spirit Spirit\nFire spells cast by the hero deal 90% less damage to friendly creatures."
+
+[Items_RunelordSet.A_Minor_Feet_GreavesOfTheRunelord H7HeroItem]
+mName="Greaves of the Runelord"
+mTooltip="Regain %buff.buff.stat %icon_movement Hero Movement points after a combat."
+
+[Abilities.A_GoldenAxe_Buff H7BaseBuff]
+mName="Golden Axe"
+mTooltip=""
+
+[Abilities.A_GreavesOfTheRunelord_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[Abilities.A_HearthguardSpear_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[Abilities.A_HearthguardSpear_Buff_Marker H7BaseBuff]
+mName=""
+mTooltip=""
+
+[Abilities.A_RitualDagger_Buff H7BaseBuff]
+mName="Bleeding"
+mTooltip="The creature receives %special.val1 damage at the beginning of its turn. Lasts for %durnow turn(s)."
+
+[Items_NoSet.A_Minor_Torso_CabirScales H7HeroItem]
+mName="Cabir Scales"
+mTooltip="All friendly creatures receive 15% less damage from magic school Fire."
+
+[Items_NoSet.A_Relic_MainHand_FlailOfDominion H7HeroItem]
+mName="Flail of Dominion"
+mTooltip="%stat1 hero Damage per level. Creatures targeted by the hero attack get %buff.buff.stat %icon_defense Defense until the end of the combat round."
+
+[Items_NoSet.A_Relic_MainHand_DruidicStaff H7HeroItem]
+mName="Druidic Staff"
+mTooltip="%stat %icon_magic Magic.\n\nPermits casting of the Earth spell %spell1 once per combat.\nPermits casting of the Earth spell %spell3 once per day."
+
+[Items_RunelordSet.A_Relic_Head_HelmOfTheRunelord H7HeroItem]
+mName="Helm of the Runelord"
+mTooltip="%stat1 %icon_magic Magic for Fire spells.\n%stat2 %icon_spirit Spirit."
+
+[Items_RunelordSet.A_Minor_Hands_GauntletsOfTheRunelord H7HeroItem]
+mName="Gauntlets of the Runelord"
+mTooltip="%stat %icon_might Might.\n\nPermits casting of the Fire spell %spell1 once per combat."
+
+[sets.A_RunelordsSet H7ItemSet]
+mName="Runelord's Set"
+mTooltip=""
+
+[Items_NoSet.A_Major_MainHand_ArcaneStaff H7HeroItem]
+mName="Arcane Staff"
+mTooltip="%stat %icon_magic Magic.\nThe hero's cast rank for all spells is raised to Novice."
+
+[Consumables.A_Scroll_Earth_WaspSwarm H7HeroItem]
+mName="Scroll of Wasp Swarm"
+mTooltip="Consume the scroll to cast the Earth spell Wasp Swarm."
+
+[Abilities.A_FlailOfDominion_Buff H7BaseBuff]
+mName="Flail of Dominion"
+mTooltip="%stat %icon_defense Defense until the end of the combat round."
+
+[Items_NoSet.A_Minor_Torso_ShanriyaArmour H7HeroItem]
+mName="Shanriya Armour"
+mTooltip="Enemy creatures get %buff.buff.d1.min %buff.buff.d1.icon water damage at start of every combat round when the combat is on a snow tile."
+
+[Items_RunelordSet.A_Relic_Torso_CuirassOfTheRunelord H7HeroItem]
+mName="Cuirass of the Runelord"
+mTooltip="%stat1 %icon_magic Magic for Earth spells.\n%stat2 %icon_mana Mana."
+
+[Consumables.A_Scroll_Prime_SoulConflagration H7HeroItem]
+mName="Scroll of Soul Conflagration"
+mTooltip="Consume the scroll to cast the Prime spell Soul Conflagration."
+
+[Consumables.A_Scroll_Air_ErraticStorm H7HeroItem]
+mName="Scroll of Erratic Storm"
+mTooltip="Consume the scroll to cast the Air spell Erratic Storm."
+
+[Abilities.A_RunicShield_Buff H7BaseBuff]
+mName="Runic Shield"
+mTooltip="The creature receives 5% less damage from damage of any magic school."
+
+[Consumables.A_Scroll_Dark_HauntingPlague H7HeroItem]
+mName="Scroll of Haunting Plague"
+mTooltip="Consume the scroll to cast the Dark spell Haunting Plague."
+
+[Consumables.A_Scroll_Water_FreezingOrb H7HeroItem]
+mName="Scroll of Freezing Orb"
+mTooltip="Consume the scroll to cast the Water spell Freezing Orb."
+
+[Abilities.A_TheDragonheart_Buff H7BaseBuff]
+mName="The Fire Drake"
+mTooltip="90% less damage from Fire spells"
+
+[Items_NoSet.A_Minor_MainHand_ImperialMace H7HeroItem]
+mName="Imperial Mace"
+mTooltip="%stat1 hero Damage per level."
+

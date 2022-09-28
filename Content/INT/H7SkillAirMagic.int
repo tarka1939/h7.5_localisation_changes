@@ -1,0 +1,97 @@
+[A_GatheringStorm_Buff_Marker H7BaseBuff]
+mName=""
+mTooltip=""
+
+[A_MasterOfAir_I_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Air Knowledge I"
+mTooltip="%spell1.name is now cast on creatures in target 4x4 area and allows creatures to shoot with %spell1.spell.buff2.buff.stat1.icon full range.\n%spell2.name doesn't damage friendly units anymore and sets hit units %ICON_INITIATIVE Initiative to %spell2.spell.buff3.buff.buff3.buff.stat.norm."
+
+[A_MasterOfAir_III_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Air Knowledge III"
+mTooltip="The additional strike from %spell1.name is now executed before the enemy's retaliation and with +10 %ICON_ATTACK Attack.\n%spell2.name is now cast on a 3x3 area and relocates creatures within the surrounding 9x9 area and small creatures take double the damage."
+
+[A_StormLord_Buff H7BaseBuff]
+mName="StormLordBuff"
+mTooltip=""
+
+[A_StormLord_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Storm Lord"
+mTooltip="Whenever an enemy unit is damaged by an attack, all enemy units around it get %buff1.buff.d2.min to %buff1.buff.d2.max %buff1.buff.d.icon Air damage."
+
+[A_AirWisdom_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Air Wisdom"
+mTooltip="%stat1 %stat1.icon Magic for Air spells. Every other wisdom ability adds %stat1 %stat1.icon Magic to this bonus."
+
+[A_GatheringStorm_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Gathering Storm"
+mTooltip="%stat %stat.icon Magic for the first Air spell cast in combat."
+
+[A_AirScholar_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Air Scholar"
+mTooltip="Reduces mana cost of Air spells by %special.norm%."
+
+[A_AirMagic_Skill H7Skill]
+mDescriptions[0]="Makes Air spells more effective and increases the hero's %ICON_ARCANE_KNOWLEDGE Arcane Knowledge."
+mDescriptions[1]=""
+mDescriptions[2]="Makes Air spells more effective and increases the hero's %ICON_ARCANE_KNOWLEDGE Arcane Knowledge by 1."
+mDescriptions[3]="Makes Air spells more effective and increases the hero's %ICON_ARCANE_KNOWLEDGE Arcane Knowledge by additional 2."
+mDescriptions[4]="Makes Air spells more effective and increases the hero's %ICON_ARCANE_KNOWLEDGE Arcane Knowledge by additional 3."
+mName="Air Magic"
+mTooltip="Allows you to learn spells of the Air magic school in a magic guild. Improves and augments their effects."
+
+[A_ImprovedTier1Spells_Ability H7HeroAbility]
+mName="Master of Air I"
+mTooltip="%color Storm Arrows%colorEnd affects now friendly ranged creatures in target 4x4 area and allows them to shoot with full range.\n%color Lightning Burst%colorEnd doesn't damage friendly units anymore."
+[A_ImprovedTier2Spells_Ability H7HeroAbility]
+mName="Master of Air II"
+mTooltip="%color Gust of Wind%colorEnd additionally deals %spell1.spell.d.min to %spell1.spell.d.max %spell1.spell.d.icon air damage to the target creature.\n%color Lightning Bolt%colorEnd additionally sets the target unit's initiative to %spell2.spell.buff.buff.stat for 3 turns."
+[A_ImprovedTier3Spells_Ability H7HeroAbility]
+mName="Master of Air III"
+mTooltip="The additional strike from%color Lightning Reflexes%colorEnd is now executed before the enemy's retaliation.\n%color Cyclone %colorEnd additionally deals %spell.spell.d.min to %spell.spell.d.max %spell.spell.d.icon air damage to the target creatures."
+[A_LightningShock_Ability H7HeroAbility]
+mName="Lightning Shock"
+mTooltip="Lightning Burst additionally adds a debuff to adjacent creatures, reducing their initiative to 1 until their next turn."
+[A_LightningSurge_Ability H7HeroAbility]
+mName="Lightning Surge"
+mTooltip="Chain Lightning targets the two closest creatures for the first jump dealing each a half of the damage, then only jumping a last time to deal a fourth of the damage."
+[A_MassStormArrows_Ability H7HeroAbility]
+mName="Mass Storm Arrows"
+mTooltip="Storm Arrows targets all friendly creatures in an area of 4x4 tiles and allows them to shoot with full range."
+[A_MotionBlur_Ability H7HeroAbility]
+mName="Motion Blur"
+mTooltip="The additional strike from the Lightning Reflexes spell is executed before the enemy retaliation."
+[A_QuickCast_Ability H7HeroAbility]
+mName="Quick Cast"
+mTooltip="The first air spell each combat is cast with +%buff.val magic value."
+[A_WindFury_Ability H7HeroAbility]
+mName="Wind Fury"
+mTooltip="Gust of Wind and Cyclone deal additional air magic damage to affected enemy creatures."
+[A_GatheringStorm_Buff H7BaseBuff]
+mName="Gathering Storm"
+
+UCP MOD
+
+[A_MasterOfAir_II_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Air Knowledge II"
+mTooltip="%spell1.name additionally deals %spell1.spell.d.min to %spell1.spell.d.max %spell1.spell.d.icon Air damage to the target creature.\n%spell2.name additionally sets the target creature's Initiative to %spell2.spell.buff1.buff.stat.norm for %spell2.spell.buff1.buff.durini turns and deals %spell2.spell.d.min to %spell2.spell.d.max %ICON_AIR Air damage to adjacent enemy units."

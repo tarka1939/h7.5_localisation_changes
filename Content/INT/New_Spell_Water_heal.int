@@ -1,0 +1,12 @@
+[A_Regeneration H7HeroAbility]
+mTooltipMagicGuild="Lightly heals and instantly resurrects targeted friendly creature, then heals target for 2 turns.."
+mTooltipMagicGuildRankLine="%d1.min Health"
+mTooltipUpgraded="Heal %d1.min target instantly, then %buff1.buff.d1.min %icon_health over a 3x3 area for %buff1.buff.durini rounds"
+mName="Curative Source"
+mTooltip="Heal %d1.min the target instantly, then %buff1.buff.d1.min %icon_health for %buff1.buff.durini turns. ( If the hero has %spell5.name , this spell is cast on a 3x3 area. "
+
+[A_Regeneration_Buff H7BaseBuff]
+mName="Healing source"
+mTooltip="Creature regains %d.min Health at the beginning of its turn.Lasts for %durnow turn(s)."
+
+

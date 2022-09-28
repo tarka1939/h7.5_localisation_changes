@@ -1,0 +1,293 @@
+[A_Armageddon H7HeroAbility]
+mTooltipMagicGuild="Deals %d.icon Fire damage to all units, instantly."
+mTooltipMagicGuildRankLine="%d.min to %d.max %d.icon"
+mTooltipUpgraded=""
+mName="Armageddon"
+mTooltip="Deals %d.min to %d.max %d.icon Fire damage to all units, instantly."
+
+[A_BlessingOfArkath H7HeroAbility]
+mTooltipMagicGuild="Deals %buff.buff.d.icon Fire damage to random enemy target(s) at the beginning of the next combat."
+mTooltipMagicGuildRankLine="%buff.buff.d.min to %buff.buff.d.max %buff.buff.d.icon"
+mTooltipUpgraded=""
+mName="Blessing of Arkath"
+mTooltip="Deals %buff.buff.d.min to %buff.buff.d.max %buff.buff.d.icon Fire damage to %buff.buff.special random enemy target(s) at the beginning of the next combat."
+
+[A_BlessingofArkath_Buff H7BaseBuff]
+mName="Blessing of Arkath"
+mTooltip="Deals %d.min to %d.max %d.icon Fire damage to %special random enemy target(s) at the beginning of next combat."
+
+[A_BlessingOfArkath_Damage H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Blessing of Arkath"
+mTooltip=""
+
+[A_Burning_Buff H7BaseBuff]
+mName="Burning"
+mTooltip="Deals %d.max %d.icon Fire damage to the creature at the start of its turn.\nLasts for %durnow turn(s)."
+
+[A_Burning_FromCreature_Buff_Champion H7BaseBuff]
+mName="Burning"
+mTooltip="Deals %d.max %d.icon Fire damage to the creature at the start of its turn.\nLasts for %durnow turn(s)."
+
+[A_Burning_FromCreature_Buff_Elite H7BaseBuff]
+mName="Burning"
+mTooltip="Deals %d.max %d.icon Fire damage to the creature at the start of its turn.\nLasts for %durnow turn(s)."
+
+[A_BurningDetermination H7HeroAbility]
+mTooltipMagicGuild="Increases the %buff.buff.stat.icon Morale of the target friendly creature for %buff.buff.durini turns."
+mTooltipMagicGuildRankLine="%buff.buff.stat %buff.buff.stat.icon Morale"
+mTooltipUpgraded="Increases by %buff.buff.stat.norm the %buff.buff.stat.icon Morale of all friendly creatures in the target 4x4 area for %buff.buff.durini turns."
+mName="Burning Determination"
+mTooltip="Increases by %buff.buff.stat.norm the %buff.buff.stat.icon Morale of the target friendly creature for %buff.buff.durini turns."
+
+[A_BurningDetermination_Buff H7BaseBuff]
+mName="Burning Determination"
+mTooltip="%stat %stat.icon MoraleLasts for %durnow turn(s)."
+
+[A_Fireball H7HeroAbility]
+mTooltipMagicGuild="Deals %buff.buff.d.icon Fire damage to all units in the target 3x3 area, instantly."
+mTooltipMagicGuildRankLine="%d.min to %d.max %d.icon"
+mTooltipUpgraded="Deals %d.min to %d.max %d.icon Fire damage to all units in the target 3x3 area instantly, and deals them %buff.buff.d.max %buff.buff.d.icon Fire damage at the start of their next %buff.buff.durini turns."
+mName="Fire Ball"
+mTooltip="Deals %d.min to %d.max %d.icon Fire damage to all units in the target 3x3 area, instantly."
+
+[A_Firebolt H7HeroAbility]
+mTooltipMagicGuild="Deals %d.icon Fire damage to the target enemy unit, instantly."
+mTooltipMagicGuildRankLine="%d.min to %d.max %d.icon"
+mTooltipUpgraded="Deals %d.min to %d.max %d.icon Fire damage to the target enemy unit instantly, and deals it %buff.buff.d.max %buff.buff.d.icon Fire damage at the start of its next %buff.buff.durini turns."
+mName="Fire Bolt"
+mTooltip="Deals %d.min to %d.max %d.icon Fire damage to the target enemy unit, instantly."
+
+[A_FireSentry H7HeroAbility]
+mTooltipMagicGuild="Summon a 1x1 Fire Sentry on target empty tile. It lasts until the end of the next 2 combat rounds or unitl destroyed. The Fire Sentry shoots fire at two random of the closest enemy creatures at the end of each combat round and at the first enemy creature that performed a ranged attack during a combat round."
+mTooltipMagicGuildRankLine="%special.val1 health and shots deal %special.val2 to %special.val3 %icon_fire Fire damage."
+mTooltipUpgraded=""
+mName="Fire Sentry"
+mTooltip="Summon a 1x1 Fire Sentry with %special.val1 health on target empty tile. It lasts until the end of the next 2 combat rounds or unitl destroyed. The Fire Sentry shoots at two random of the closest enemy creatures at the end of each combat round and at the first enemy creature that performed a ranged attack during a combat round. Each shot deals %special.val2 to %special.val3 %icon_fire Fire damage."
+
+[A_FireSentry_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[A_FireSentry_Buff_Retaliation H7BaseBuff]
+mName=""
+mTooltip=""
+
+[A_FireSentry_Obstacle_0_Unskilled H7CombatObstacleObject]
+mObstacleName="Fire Sentry"
+
+[A_FireSentry_Obstacle_1_Novice H7CombatObstacleObject]
+mObstacleName="Fire Sentry"
+
+[A_FireSentry_Obstacle_2_Expert H7CombatObstacleObject]
+mObstacleName="Fire Sentry"
+
+[A_FireSentry_Obstacle_3_Master H7CombatObstacleObject]
+mObstacleName="Fire Sentry"
+
+[A_FireSentry_Obstacle_Ability H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip=""
+
+[A_FireSentry_Obstacle_Ability_Damage H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Fire Shot"
+mTooltip=""
+
+[A_Nova H7HeroAbility]
+mName = "Wall of Flames"
+mTooltip = "Inflicts %d %icon_fire to a target and creates a wall of fire on target area 1x5 for %durini combat turns. It inflicts %buff1.buff.d1.min to %buff1.buff.d1.max %buff1.buff.d1.icon Fire damage to all creatures in the area at the start of their turn. It also stops creature movement. "
+mTooltipMagicGuild = "Inflicts %d %icon_fire to a target and creates a wall of fire on target area 1x5 for %durini combat turns. It inflicts %buff1.buff.d1.min to %buff1.buff.d1.max %buff1.buff.d1.icon Fire damage to all creatures in the area at the start of their turn. It also stops creature movement. "
+mTooltipUpgraded = "Inflicts %d %icon_fire to a target and creates a wall of fire on target area 1x5 for %durini combat turns. It inflicts %buff1.buff.d1.min to %buff1.buff.d1.max %buff1.buff.d1.icon Fire damage to all creatures in the area at the start of their turn. It also stops the movement of creatures and they take fire damage from %buff3.buff.d.min to %buff3.buff.d.max %ICON_FIRE on %buff3.buff.durini tours .. "
+mTooltipMagicGuildRankLine = " %d %icon_fire and %buff1.buff.d1.min at %buff1.buff.d1.max %buff1.buff.d1.icon"
+
+[A_FireWall_Buff H7BaseBuff]
+mName="Jail Wall"
+mTooltip=""
+
+
+
+
+[A_Frenzy_Buff H7BaseBuff]
+mName="Frenzy (Norm)"
+mTooltip=""
+
+
+mName="Frenzy (Imp/Friendly)"
+mTooltip=""
+
+
+mName="Frenzy (Imp/Hostile)"
+mTooltip=""
+
+[A_InnerFire H7HeroAbility]
+mTooltipMagicGuild="Increases the %ICON_ATTACK Attack and %ICON_INITIATIVE Initiative of the target unit for %buff.buff.durini turns."
+mTooltipMagicGuildRankLine="%buff.buff.stat1 %buff.buff.stat1.icon Attack and %buff.buff.stat2 %buff.buff.stat2.icon Initiative"
+mTooltipUpgraded="Increases by %buff.buff.stat1 %buff.buff.stat1.icon the Attack and by %buff.buff.stat2 %buff.buff.stat2.icon the Initiative of all friendly creatures in the target 4x4 area  for %buff.buff.durini turns."
+mName="Inner Fire"
+mTooltip="Increases by %buff.buff.stat1 %buff.buff.stat1.icon the Attack and by %buff.buff.stat2 %buff.buff.stat2.icon the Initiative of the target creatures for %buff.buff.durini turns."
+
+[A_InnerFire_Buff H7BaseBuff]
+mName="Inner Fire"
+mTooltip="%stat1 %stat1.icon Attack\n%stat2 %stat2.icon Initiative\nLasts for %durnow turn(s)."
+
+[Imprinted.A_Armageddon_Imprinted H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Armageddon"
+mTooltip="Deals %d.min to %d.max %d.icon Fire damage to all units, instantly."
+
+[Imprinted.A_BlessingOfArkath_Imprinted H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Blessing of Arkath"
+mTooltip="Deals %buff.buff.d.min to %buff.buff.d.max %buff.buff.d.icon Fire damage to %buff.buff.special random enemy target(s) at the beginning of the next combat."
+
+[Imprinted.A_BlessingofArkath_Imprinted_Buff H7BaseBuff]
+mName="Blessing of Arkath"
+mTooltip="Deals %d.min to %d.max %d.icon Fire damage to %special random enemy target(s) at the beginning of next combat."
+
+[Imprinted.A_BlessingOfArkath_Imprinted_Damage H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Blessing of Arkath"
+mTooltip=""
+
+[Imprinted.A_BurningDetermination_Imprinted H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Burning Determination"
+mTooltip="Increases by %buff.buff.stat.norm the %buff.buff.stat.icon Morale of the target friendly creature for %buff.buff.durini turns."
+
+[Imprinted.A_BurningDetermination_Imprinted_Artifact H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Burning Determination"
+mTooltip="Increases by %buff.buff.stat.norm the %buff.buff.stat.icon Morale of the target friendly creature for %buff.buff.durini turns."
+
+[Imprinted.A_BurningDetermination_Imprinted_Artifact_Buff H7BaseBuff]
+mName="Burning Determination"
+mTooltip="%stat %stat.icon Morale\nLasts for %durnow turn(s)."
+
+[Imprinted.A_BurningDetermination_Imprinted_Buff H7BaseBuff]
+mName="Burning Determination"
+mTooltip="%stat %stat.icon Morale\nLasts for %durnow turn(s)."
+
+[Imprinted.A_Fireball_Imprinted H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Fire Ball"
+mTooltip="Deals %d.min to %d.max %d.icon Fire damage to all units in the target 3x3 area, instantly."
+
+[Imprinted.A_Firebolt_Imprinted H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Fire Bolt"
+mTooltip="Deals %d.min to %d.max %d.icon Fire damage to the target enemy unit, instantly."
+
+[Imprinted.A_FireSentry_Imprinted H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Fire Sentry"
+mTooltip="Summon a 1x1 Fire Sentry with %special.val1 health on target empty tile. It lasts until the end of the next 2 combat rounds or unitl destroyed. The Fire Sentry shoots at two random of the closest enemy creatures at the end of each combat round and at the first enemy creature that performed a ranged attack during a combat round. Each shot deals %special.val2 to %special.val3 %icon_fire Fire damage."
+
+[Imprinted.A_FireSentry_Imprinted_Obstacle H7CombatObstacleObject]
+mObstacleName="Fire Sentry"
+
+[Imprinted.A_FireWall_Imprinted H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Fire Prison"
+mTooltip="Creates a Fire prison in an area of ​​2X2 for %durini combat turns, inflicting %buff1.buff.d1.min to %buff1.buff.d1.max %buff1.buff.d1.icon Fire damage to all creatures in the area (and those that enter the area) at the start of their turn. Reduces their movement to 0 %icon_movement"
+
+[Imprinted.A_FireWall_Imprinted_Buff H7BaseBuff]
+mName="Fire Jail"
+mTooltip=""
+
+
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Frenzy"
+mTooltip="Makes the target creature attack any random adjacent unit with %buff1.buff.stat1 %buff1.buff.stat1.icon Attack."
+
+[Imprinted.A_Frenzy_Imprinted_Buff H7BaseBuff]
+mName="Frenzy"
+mTooltip=""
+
+[Imprinted.A_InnerFire_Imprinted H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Inner Fire"
+mTooltip="Increases by %buff.buff.stat1 %buff.buff.stat1.icon the Attack and by %buff.buff.stat2 %buff.buff.stat2.icon the Initiative of the target creatures for %buff.buff.durini turns."
+
+[Imprinted.A_InnerFire_Imprinted_Artifact H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Inner Fire"
+mTooltip="Increases by %buff.buff.stat1 %buff.buff.stat1.icon the Attack and by %buff.buff.stat2 %buff.buff.stat2.icon the Initiative of the target creatures for %buff.buff.durini turns."
+
+[Imprinted.A_InnerFire_Imprinted_Artifact_Buff H7BaseBuff]
+mName="Inner Fire"
+mTooltip="%stat1 %stat1.icon Attack\n%stat2 %stat2.icon Initiative\nLasts for %durnow turn(s)."
+
+[Imprinted.A_InnerFire_Imprinted_Buff H7BaseBuff]
+mName="Inner Fire"
+mTooltip="%stat1 %stat1.icon Attack\n%stat2 %stat2.icon Initiative\nLasts for %durnow turn(s)."
+
+
+UCP 1.3 / 7.5_mod
+
+[A_Frenzy_ImprovedBuff_Friendly H7BaseBuff]
+mName="Frenzy"
+mTooltip=""
+
+[A_Frenzy_ImprovedBuff_Hostile H7BaseBuff]
+mName="Frenzy"
+mTooltip=""
+
+[A_Frenzy H7HeroAbility]
+mTooltipMagicGuild="Makes the target creature attack any random adjacent unit with increased or decreased %buff1.buff.stat1.icon Attack, depending on the Hero's Magic. If the attacked creature is friendly (to the attacker), the attack is not retaliated."
+mTooltipMagicGuildRankLine="%buff1.buff.stat1 %buff1.buff.stat1.icon Attack"
+mTooltipUpgraded="Makes the target creature attack any random adjacent unit with %buff1.buff.stat1 %buff1.buff.stat1.icon Attack. The creature will attack an enemy instead of a friendly unit if possible. If the attacked creature is friendly (to the attacker), the attack is not retaliated."
+mName="Frenzy"
+mTooltip="Makes the target creature attack any random adjacent unit with %buff1.buff.stat1 %buff1.buff.stat1.icon Attack. If the attacked creature is friendly (to the attacker), the attack is not retaliated."
+
+[Imprinted.A_Frenzy_Imprinted H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Frenzy"
+mTooltip="Makes the target creature attack any random adjacent unit with %buff1.buff.stat1 %buff1.buff.stat1.icon Attack. If the attacked creature is friendly (to the attacker), the attack is not retaliated."
+
+[A_Nova H7HeroAbility]
+mName = "Wall of Flames"
+mTooltip = "Inflicts %d %icon_fire to a target and creates a wall of fire on target area 1x5 for %durini combat turns. It inflicts %buff1.buff.d1.min to %buff1.buff.d1.max %buff1.buff.d1.icon Fire damage to all creatures in the area at the start of their turn. It also stops creature movement. "
+mTooltipMagicGuild = "Inflicts %d %icon_fire to a target and creates a wall of fire on target area 1x5 for %durini combat turns. It inflicts %buff1.buff.d1.min to %buff1.buff.d1.max %buff1.buff.d1.icon Fire damage to all creatures in the area at the start of their turn. It also stops creature movement. "
+mTooltipUpgraded = "Inflicts %d %icon_fire to a target and creates a wall of fire on target area 1x5 for %durini combat turns. It inflicts %buff1.buff.d1.min to %buff1.buff.d1.max %buff1.buff.d1.icon Fire damage to all creatures in the area at the start of their turn. It also stops the movement of creatures and they take fire damage from %buff3.buff.d.min to %buff3.buff.d.max %ICON_FIRE on %buff3.buff.durini tours .. "
+mTooltipMagicGuildRankLine = " %d %icon_fire and %buff1.buff.d1.min at %buff1.buff.d1.max %buff1.buff.d1.icon"
+
+[rework.A_BurningDetermination H7HeroAbility]
+mTooltipMagicGuild="Increases the %ICON_ATTACK Attack and %ICON_INITIATIVE Initiative of the target unit for %buff.buff.durini turns."
+mTooltipMagicGuildRankLine="%buff.buff.stat1 %buff.buff.stat1.icon Attack and %buff.buff.stat2 %buff.buff.stat2.icon Initiative"
+mTooltipUpgraded="Increases by %buff.buff.stat1 %buff.buff.stat1.icon the Attack and by %buff.buff.stat2 %buff.buff.stat2.icon the Initiative of all friendly creatures in the target 4x4 area  for %buff.buff.durini turns."
+mName="Inner Fire"
+mTooltip="Increases by %buff.buff.stat1 %buff.buff.stat1.icon the Attack and by %buff.buff.stat2 %buff.buff.stat2.icon the Initiative of the target creatures for %buff.buff.durini turns."

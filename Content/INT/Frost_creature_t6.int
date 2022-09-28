@@ -1,0 +1,49 @@
+[A_Creature_t6_base H7Creature]
+mName="Storm Rider"
+mLore="From the distant Almash comes the unstoppable Union cavalry. Behold, amid thunder and lightning, the Storm Riders hussars are approaching. By invoking Perenu, Ylath's thunderstorm aspect is tame by lightning, rain, and cold. 500 Riders of the Storm are said to be enough to defeat 4,000 of the strongest units. They are always accompanied by lightning, heavy rains and scary humming wind. And thanks to the blessing of their guardian dragon, they can pass through enemy armies like a blast of icy wind, paralyzing them with fear."
+
+[A_Creature_t6_lv2 H7Creature]
+mName="Blizzard Rider"
+mLore="When the Nagas were incorporated into the Union, they taught the commanders of the Storm Riders hussars to tame the water of rain, snow, frost, and ice and hail. This is how the elite squad of the Blizzard Riders was created. By invoking Perenu and Mashana they have the blessing of the thunder and snow dragons. They do not want to defend their opponents, because when they strike, it is as if a ball of ice in which lightning is locked is struck."
+
+[A_Glaciation_Buff H7BaseBuff]
+mName="Ice Walker"
+mTooltip=""
+
+[Ability.A_aura_givreante H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Ice Walker"
+mTooltip="The creature can walk through any other creatures and it deals %buff1.buff.d.min %icon_water Water damage for every single creature in the stack when passing through an enemy creature.\nThis unit has a 50% chance to freeze enemies passing through."
+
+[Ability.A_Glacial_Presence H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Glacial Presence"
+mTooltip="At the start of each turn, adjacent enemy creatures suffer a penalty until the end of their turn, depending on this creature's level of Cold Blood:\n%buff4.buff.stat1 %ICON_MORALE Morale / %buff4.buff.stat2 %ICON_attack Attack / %buff4.buff.stat3 %ICON_initiative Initiative\nLv1: %buff1.buff.stat1 %ICON_MORALE Morale / %buff1.buff.stat2 %ICON_attack Attack / %buff1.buff.stat3 %ICON_initiative Initiative\nLv2: %buff2.buff.stat1 %ICON_MORALE Morale / %buff2.buff.stat2 %ICON_attack Attack / %buff2.buff.stat3 %ICON_initiative Inititative\nLv3: %buff3.buff.stat1 %ICON_MORALE Morale / %buff3.buff.stat2 %ICON_attack Attack / %buff3.buff.stat3 %ICON_initiative Initiative"
+
+[Ability.A_Glacial_Presence_Buff_expert H7BaseBuff]
+mName="Glacial Presence Lv.2"
+mTooltip="%stat1 %ICON_MORALE Morale, %stat2 %icon_attack Attack, %stat3 %icon_initiative Initiative for %durnow turn(s).
+
+[Ability.A_Glacial_Presence_Buff_master H7BaseBuff]
+mName="Glacial Presence Lv.3"
+mTooltip="%stat1 %ICON_MORALE Morale, %stat2 %icon_attack Attack, %stat3 %icon_initiative Initiative for %durnow turn(s).
+
+[Ability.A_Glacial_Presence_Buff_no_skill H7BaseBuff]
+mName="Glacial Presence"
+mTooltip="%stat1 %ICON_MORALE Morale, %stat2 %icon_attack Attack, %stat3 %icon_initiative Initiative for %durnow turn(s)."
+
+[Ability.A_Glacial_Presence_Buff_novice H7BaseBuff]
+mName="Glacial Presence Lv.1"
+mTooltip="%stat1 %ICON_MORALE Morale, %stat2 %icon_attack Attack, %stat3 %icon_initiative Initiative for %durnow turn(s).
+
+[Ability.A_Nova H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Frost Peak"
+mTooltip="All enemy Frozen creatures suffer %d %ICON_Water Water damage.\nOnce per combat."
+

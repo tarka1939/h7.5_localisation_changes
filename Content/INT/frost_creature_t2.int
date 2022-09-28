@@ -1,0 +1,36 @@
+[A_Creature_base_t2 H7Creature]
+mName="Outcast"
+mLore="People who are unwelcome anywhere else often come to the Union. Not only because of its open attitude, but also to hide and disappear. However, the hard conditions make it impossible to just live alone. Outcasts are thus often employed as hunters, caravan defenders, or personal guards."
+
+[A_Creature_t2_lv2_frost H7Creature]
+mName="Ice Ranger"
+mLore="The mighty Snow Warriors guard the city. But for forts and borders, Ice Ranger are better suited. They can perfectly camouflage in snow, move silently, and know mountains better than anyone. Be careful while walking along the paths of the Union, perhaps one of the drifts is a lurking Ice Ranger. Before you know it, though, you'll have his arrow in your belly."
+
+[A_Maneuver_frost H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Maneuver"
+mTooltip="When the creature is about to retaliate on a melee attack it moves away from the attacker first and then retaliates with its ranged attack."
+
+[A_RangedAttack_ice_arow H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Ranged Attack"
+mTooltip="Ranged Attack"
+
+[Ability.A_Nova H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Ice Arrow"
+mTooltip="Concentrates energy to powerful ice arrows: Deals %d1 damage to target and has a 100% chance to freeze it. If the target was already frozen, it inflicts an additional %d2 damage to the target.\nOnce per combat."
+
+[Ability.A_tir_glacial_mortel H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Deadly Frost Shot"
+mTooltip="When this creature reaches a Cold Blood's level of 2 or higher, the next shot will be always critical. Critical hits from this creature consume Cold Blood's level."
+

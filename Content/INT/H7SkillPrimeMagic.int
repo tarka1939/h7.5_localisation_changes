@@ -1,0 +1,101 @@
+[A_Clarity_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Clarity"
+mTooltip="After the hero cast a Prime spell in combat he gets a second turn for this combat round. Spells cast in the additional turn are cast with %buff.buff.stat2 %ICON_MAGIC Magic."
+
+[A_MasterOfPrime_III_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Prime Knowledge III"
+mTooltip="%spell1.name repeats itself on the same target at start of the next combat round as if cast on rank Expert.\nThe number of elementals summoned with %spell2.name increases at start of the next combat round by 4."
+
+[A_Clarity_Buff H7BaseBuff]
+mName="Clarity"
+mTooltip=""
+
+[A_PrimeScholar_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Prime Scholar"
+mTooltip="Reduces mana cost of Prime spells by %special.norm%."
+
+[A_PrimeMagic_Skill H7Skill]
+mDescriptions[0]="Makes Prime spells more effective and increases the hero's %ICON_ARCANE_KNOWLEDGE Arcane Knowledge."
+mDescriptions[1]=""
+mDescriptions[2]="Makes Prime spells more effective and increases the hero's %ICON_ARCANE_KNOWLEDGE Arcane Knowledge by 1."
+mDescriptions[3]="Makes Prime spells more effective and increases the hero's %ICON_ARCANE_KNOWLEDGE Arcane Knowledge by additional 2."
+mDescriptions[4]="Makes Prime spells more effective and increases the hero's %ICON_ARCANE_KNOWLEDGE Arcane Knowledge by additional 3."
+mName="Prime Magic"
+mTooltip="Allows you to learn spells of the Prime magic school in a magic guild. Improves and augments their effects."
+
+[A_MasterOfPrime_I_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Prime Knowledge I"
+mTooltip="%spell1.name and %spell2.name are now cast on creatures in target 4x4 area."
+
+[A_ArcaneExaltation_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Arcane Exaltation"
+mTooltip="%stat2 %stat2.icon Magic\n%stat1 %stat1.icon Spirit"
+
+[A_ArcanePower_Ability H7HeroAbility]
+mName="Arcane Power"
+mTooltip="The hero's Magic and Spirit are increased by 1."
+[A_ImprovedTier1Spells_Ability H7HeroAbility]
+mName="Master of Prime I"
+mTooltip="Fortune and Time Control target all creatures in an area of 4x4 tiles."
+[A_ImprovedTier2Spells_Ability H7HeroAbility]
+mName="Master of Prime II"
+mTooltip="Improved Teleport: the teleported stack gets a +50 Initiative buff until the end of its next turn. Dispel Magic targets all creatures in an area of 3x3 tiles."
+[A_ImprovedTier3Spells_Ability H7HeroAbility]
+mName="Master of Prime III"
+mTooltip="Implosion is applied a second time to the former target at the beginning of the next combat round, dealing half damage. Summon Elemental adds half the original summoned stack size again at the beginning of the next combat turn."
+[A_LingeringEnergy_Ability H7HeroAbility]
+mName="Lingering Energy"
+mTooltip="After each combat the hero gets 20 mana. This cannot exceed the hero's maximum mana."
+[A_MagicRipple_Ability H7HeroAbility]
+mName="Magic Ripple"
+mTooltip="The Implosion spell is applied a second time to the same target at the beginning of the next combat round, dealing half damage. The spell Spirit Gate adds half of the previously summoned creatures at the beginning of the next combat round."
+[A_ManaBloom_Ability H7HeroAbility]
+mName="Mana Bloom"
+mTooltip="The hero regenerates twice as much Mana per day.\nThe Mana for the first spell cast a day is returned to the hero."
+[A_ManaBloom_Buff H7BaseBuff]
+mName="Mana Bloom"
+[A_MassDispelMagic_Ability H7HeroAbility]
+mName="Mass Dispel Magic"
+mTooltip="Dispel Magic targets all creatures in an area of 4x4 tiles."
+[A_MassFortune_Ability H7HeroAbility]
+mName="Mass Fortune"
+mTooltip="Fortune targets all friendly creatures in an area of 4x4 tiles."
+[A_MassTimeControl_Ability H7HeroAbility]
+mName="Mass Time Control"
+mTooltip="Time Control targets all creatures in an area of 4x4 tiles."
+[A_TimeJump_Ability H7HeroAbility]
+mName="Time Jump"
+mTooltip="Teleport allows the target creature to have its turn as the first creature in the current initiative queue. If the teleported creature already spent its turn, it will be put at the start of the Initiative queue of the next combat round."
+
+UCP 1.1
+
+[A_MasterOfPrime_II_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Prime Knowledge II"
+mTooltip="%spell1.name additionally increases the target creature's Initiative by %spell1.spell.buff1.buff.stat.norm %spell1.spell.buff1.buff.stat.icon for %spell1.spell.buff1.buff.durini turns.\n%spell2.name is now cast on creatures in target 3x3 area."
+
+UCP 1.2
+
+[A_Renewal_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Renewal"
+mTooltip="The hero gains %stat1.norm %stat1.icon Mana after a combat."

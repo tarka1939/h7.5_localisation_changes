@@ -1,0 +1,58 @@
+[Balista.A_Anemone H7EditorWarUnit]
+mDesc="Attack and support  Unit"
+mName="Anemone"
+mLore="During the time of the Shantiri Empire, priests often turned to the inhabitants of the Spirit World for help, among which were Anemones - the manifestations of the healing aspect of Shalassa. They accompanied the healers in their noble endeavor to save human lives and relieved the suffering of the wounded with their melodious songs and graceful dances. Given the opportunity to visit Ashan after hundreds of years of peaceful sleep, these noble spirits quickly resumed their usual duties, but times have changed, and now they have to use the power of water not only for healing."
+
+[CATAPULTE.A_sanctuary_catapulte_Attack H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Rock Throw"
+mTooltip="Shoots at fortifications dealing %d.min to %d.max damage."
+
+[Balista.A_heal_Buff_warfare_unskill H7BaseBuff]
+mName=""
+mTooltip=""
+
+[Balista.A_heal_Buff_warfare_novice H7BaseBuff]
+mName=""
+mTooltip=""
+
+[Balista.A_baliste_ice_support H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Sea Caress"
+mTooltip="All allied units are slightly healed at the end of the turn. The value varies depending on the mastery level of %spell1.name.  "
+
+[Balista.A_baliste_ice_Attack H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Missile"
+mTooltip=""
+
+[Balista.A_heal_Buff_warfare_expert H7BaseBuff]
+mName=""
+mTooltip=""
+
+[Balista.A_heal_Buff_warfare_master H7BaseBuff]
+mName=""
+mTooltip=""
+
+[Balista.A_adjacant_heal_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[CATAPULTE.A_Sanctuary_catapulte H7EditorWarUnit]
+mDesc="Siege Warfare Unit"
+mName="Sea Serpent"
+mLore="Rising above the battlefield, this fearsome monster instills genuine terror in the enemies of Shanria, but by the standards of Merfolks, it is only a child of a true lord of the deep. The Sea Serpents that live in the oceans of Thallan are so huge that they can easily swallow an entire ship without even noticing it. For some unknown reason, they sometimes leave their eggs near the settlements of Unagi, who consider such event as the greatest favor, and take care of the littte serpents until they grow up enough to be set free."
+
+[Balista.A_Healingbull_Support H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded="Heals and resurrects target friendly creature for %d2.max Health.\n(Not affected: Undead and Constructs)"
+mName="Heal"
+mTooltip="Heals target friendly creature for %d1.max Health.\n(Not affected: Undead and Constructs)\n\nPerfect Warfare unlocks: The Healing Sister also resurrects fallen creatures."
+

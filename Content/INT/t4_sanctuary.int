@@ -1,0 +1,26 @@
+[Ability.A_Nova H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Ranged Attack"
+mTooltip="This creature can attack from a distance and doesn't take a melee penalty. 
+
+[Ability.A_colere_oceane_Buff H7BaseBuff]
+mName="Rough Sea"
+mTooltip="Creature has its final damage increased by %stat1 until end of its next turn."
+
+[Ability.A_Colere_oceane H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Restless Sea"
+mTooltip="At the end of this creature's turn, adjacent melee allies get %spell1.name until the end of their next turn."
+
+[A_Creature_t4_base H7Creature]
+mName="Ondine"
+mLore="For centuries, legends about an unknown Merfolk race, whose representatives come to the aid of ships in trouble, repel attacks of pirates and monsters, and then return back to the sea, have been passed in the taverns from one sailor to another. Although such stories are generally considered nothing more than mere tales, there is written evidence that in the past one of the Sea Elf crews managed to develop close ties with the so-called Ocean Guards. The latest rumor is that Guards have been seen in the ranks of Shanria troops, however, due to the philosophy of the children of Shalassa, who prefer not to contact the outside world unless absolutely necessary, it is not possible to shed light on the origins of their mysterious allies."
+
+[Ability.A_no_nova H7BaseBuff]
+mName="Couldown"
+mTooltip="This creature can use %spell1.name in %durnow tours."
+

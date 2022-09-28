@@ -1,0 +1,20 @@
+[Demonologie_expert.A_Fortune H7HeroAbility]
+mName="Advanced Gate"
+mTooltip="Unlocks a 3rd spell: the hero can summon a %special1.val2% copy of the target creature to fight on his side once per combat.This only works for demonic creatures." 
+
+[Demonologie_novice.A_BurningDetermination H7HeroAbility]
+mName="Novice Gate"
+mTooltip="Unlocks a 2nd spell: the hero can summon a %special1.val2% copy of the target creature to fight on his side once per combat.This only works for demonic creatures." 
+
+[Veyers_skill_demonologie_debug.A_BurningDetermination H7HeroAbility]
+mName="Gate"
+mTooltip="Unlocks a unique spell: the hero can summon a %special1.val2% copy of the target creature to fight on his side once per combat.This only works for demonic creatures." 
+
+[Veyers_skill_demonologie_debug.A_Metamagic_Skill H7Skill]
+mDescriptions[0]="Increases the Gates power."
+mDescriptions[1]=""
+mDescriptions[2]="Unlock the summoning spell in the spell book and the hero receives +2 Magic %icon_magic.\nGates summon 2% creature per magic point"
+mDescriptions[3]="the hero receives +2 in Magic %icon_magic extra"
+mDescriptions[4]="the hero receives +2 in Magic %icon_magic extra"
+mName="Demonology"
+mTooltip="Increases Magic at every rank."

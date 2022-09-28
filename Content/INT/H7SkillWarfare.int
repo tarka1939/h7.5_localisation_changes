@@ -1,0 +1,105 @@
+[A_PerfectWarfare_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Perfect Warfare"
+mTooltip="The hero's warfare units are level 5."
+
+[A_SwiftDeployment_Ability_WarfareUnit H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Swift Deployment"
+mTooltip="%stat %stat.icon Initiative."
+
+[A_SiegeWarfare_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[A_TownDefense_Buff_Tower H7BaseBuff]
+mName="Town Defence"
+mTooltip="Shoots three times at once."
+
+[A_Artillery_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Artillery"
+mTooltip="The hero's attack and support warfare unit can be controlled manually."
+
+[A_SiegeWarfare_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Siege Warfare"
+mTooltip="The hero's siege warfare unit can be controlled manually and shoots twice at the same target."
+
+[A_TownDefense_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Town Defence"
+mTooltip="Governor: The towers of this town always shoot three times at the same target."
+
+[A_ImprovedDurability_Ability_WarfareUnit H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Improved Durability"
+mTooltip="%stat Health."
+
+[A_ArtilleryBarrage_Buff H7BaseBuff]
+mName=""
+mTooltip=""
+
+[A_SwiftDeployment_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Swift Deployment"
+mTooltip="%spell.spell.stat %spell.spell.stat.icon Initiative to the hero's warfare units."
+
+[A_TownDefense_Buff_Hero H7BaseBuff]
+mName=""
+mTooltip=""
+
+[A_Warfare_Skill H7Skill]
+mDescriptions[0]="Makes warfare units more powerful."
+mDescriptions[1]=""
+mDescriptions[2]="The hero's warfare units are level 2."
+mDescriptions[3]="The hero's warfare units are level 3."
+mDescriptions[4]="The hero's warfare units are level 4."
+mName="Warfare"
+mTooltip="Warfare Skill Tooltip"
+
+UCP MOD
+
+[A_ArtilleryBarrage_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Artillery Barrage"
+mTooltip="The hero's attack warfare unit shoots three times at the same target. The ability will trigger once per turn."
+
+UCP 1.2
+
+[A_ImprovedWarfare_Ability H7HeroAbility]
+mName="Improved Warfare"
+mTooltip="The hero's warfare units' health is increased by %spell1.spell.stat%."
+
+UCP 1.3
+
+[A_ImprovedDurability_Ability H7HeroAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Improved Durability"
+mTooltip="%spell1.spell.stat Health to the hero's warfare units."
+
+[A_ImprovedDurability_Ability_WarfareUnit_ArtilleryMaster H7WarfareAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Improved Durability"
+mTooltip="%stat Health."
+

@@ -1,0 +1,20 @@
+[A_FrostBolt H7HeroAbility]
+mTooltipMagicGuild="Verursacht %d.icon Wasserschaden an der gegnerischen Zieleinheit."
+mTooltipMagicGuildRankLine="%d.min bis %d.max %d.icon"
+mTooltipUpgraded="Fügt der gegnerischen Zieleinheit %d.min bis %d.max %d.icon Wasserschaden zu, und ihre %buff.buff.stat.icon Bewegung wird für %buff.buff.stat.norm für %buff.buff.durini Runde(n) verringert."
+mName="Frostblitz"
+mTooltip="Verursacht %d.min bis %d.max %d.icon Wasserschaden an der gegnerischen Zieleinheit."
+
+[A_heal_immunity H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Magie-Immunität"
+mTooltip="Die Kreatur kann nicht das Ziel von negativen Zaubern oder Effekten einer beliebigen magischen Schule sein. Jeglicher magische Schaden durch gegnerische Angriffe wird halbiert."
+
+[A_Nova H7HeroAbility]
+mTooltipMagicGuild="Fügt allen Einheiten in der Reihe %d.icon Wasserschaden zu und hat dann eine Chance von 30% sie einzufrieren."
+mTooltipMagicGuildRankLine="%d.min to %d.max %d.icon".
+mTooltipUpgraded="Fügt %d.min bis %d.max %d.icon Wasserschaden in der Trefferzone zu, und hat eine 60% Chance sie einzufrieren."
+mName="Eislanze "
+mTooltip="Verursacht %d.min an %d.max %d.icon Wasserschaden im Trefferbereich und hat eine Chance von 30 % Getroffene einzufrieren."

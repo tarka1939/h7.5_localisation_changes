@@ -1,0 +1,9 @@
+[TheWorld:PersistentLevel.H7CombatObstacleObject_2 H7CombatObstacleObject]
+mObstacleName="WoodPile"
+
+[TheWorld:PersistentLevel.H7CombatObstacleObject_48 H7CombatObstacleObject]
+mObstacleName="Medium Stump"
+
+[TheWorld:PersistentLevel.WorldInfo_0.H7MapInfoCombat_2 H7MapInfoCombat]
+mName="Greenland Coast"
+

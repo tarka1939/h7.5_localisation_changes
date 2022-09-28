@@ -1,0 +1,29 @@
+[Ability.A_Resurrection H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Cold Persistence"
+mTooltip="At the start of each combat turn, all adjacent allies receive immunity to any movement reduction effects until the end of combat turn."
+
+[Ability.A_ShieldProtection_Buff H7BaseBuff]
+mName="Ice Shield"
+mTooltip="The creature takes %res damage for %durnow turn(s)."
+
+[Ability2.A_Resurrection H7CreatureAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName="Ice Shield"
+mTooltip="Heals all adjacent allies for %d2 %icon_health Health and places a shield on them, reducing damage taken by %buff1.buff.res for %buff.buff.durini turns.\nOnce per combat."
+
+[Cretaure_t1.A_Creature_t1_base H7Creature]
+mName="Snow Warrior"
+mLore="After the founding of the Ice Spires Union, the mighty Ukur army was turned into city guards. Experienced in winter fighting, resistant to frost and cold, they are the perfect defenders of the Union's cities against both uninvited guests and dangerous creatures threatening the citizens of city-states."
+
+[Cretaure_t1.A_Creature_t1_base_base H7Creature]
+mName="Protector"
+mLore="The snow mountains of Dragon's Causeway are dangerous areas. Not only weather conditions can be life threatening. There are also various strange magical and dangerous creatures lurking there for careless wanderers. The best warriors who came to the cities of the Union formed the Protectors. Their job is to defend the roads and the people wandering all over the Union."
+
+[Ability.A_Incapacitated_Immunity_Buff H7BaseBuff]
+mName="Cold Persistence"
+mTooltip="The creature is immune to all movement reduction effects for %durnow turn(s)."

@@ -1,0 +1,261 @@
+[A_Dungeon_HallsOfTheUnseenHand H7TownDwelling]
+mName="Halls of the Unseen Hand"
+mDesc="Core dwelling.\nEnables recruitment of Assassins with a growth of 20 per week."
+
+[A_Dungeon_LakeOfStilledVoices H7TownDwelling]
+mName="Lake of Stilled Voices"
+mDesc="Elite dwelling.\nEnables recruitment of Medusae with a growth of 6 per week."
+
+[dungeonbuildingabilities.A_Dungeon_SoulvenomCrucible_BuffCreature H7BaseBuff]
+mName="Poisoned"
+mTooltip="Deals %d.min %d.icon Earth damage to the creature at start of its turn.\nLasts for %durnow turn(s)."
+
+[A_Dungeon_Maze H7TownDwelling]
+mName="Maze"
+mDesc="Elite dwelling.\nEnables recruitment of Minotaurs with a growth of 2 per week."
+
+[A_Dungeon_RattlingTemple H7TownDwelling]
+mName="Rattling Temple"
+mDesc="Champion dwelling upgrade.\nEnables recruitment and upgrade of Cave Hydras to Dark Hydras."
+
+[dungeonbuildingabilities.A_Dungeon_SoulvenomCrucible_Ability H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip=""
+
+[A_Dungeon_MarkOfMalassa H7TownTearOfAsha]
+mName="Mark of Malassa"
+mDesc="Provides 5000 %ICON_GOLD Gold per day and increases the creature growth in this town by 50%.\nSpies can sabotage and plunder two additional targets."
+
+[A_Dungeon_HissingTemple H7TownDwelling]
+mName="Hissing Temple"
+mDesc="Champion dwelling.\nEnables recruitment of Cave Hydras with a growth of 1 per week."
+
+[A_Dungeon_ThievesGuild H7TownThiefGuild]
+mName="Thieves Guild"
+mDesc="Provides the option to pay for information about your opponents."
+
+[A_Dungeon_OverlookTower H7TownBuilding]
+mName="Overlook Tower"
+mDesc="Visiting heroes get +5 %icon_initiative Initiative for the next 3 combats."
+
+[A_Dungeon_MagicGuild1 H7TownMagicGuild]
+mName="Magic Guild Level 1"
+mDesc="Provides 5 random spells of tier 1 in this town.\nThey are granted to all visiting heroes that fulfill the requirements."
+
+[A_Dungeon_UnfathomableCaves H7TownGrowthEnhancer]
+mName="Unfathomable Caves"
+mDesc="Core dwelling upgrade.\n+5 growth of Troglodytes or Chthonians per week."
+
+[A_Dungeon_HallOfHeroes H7TownBuilding]
+mName="Hall of Heroes"
+mDesc="Provides the option to enlist new and defeated heroes. The selection of new heroes changes at the start of a new week."
+
+[A_Dungeon_ShootingRange H7TownGrowthEnhancer]
+mName="Training Camp"
+mDesc="Core dwelling upgrade.\n+9 growth of Stalkers or Trackers per week."
+
+[A_Dungeon_HallsOfTheBlackHeart H7TownDwelling]
+mName="Halls of the Black Heart"
+mDesc="Core dwelling upgrade.\nEnables recruitment and upgrade of Assassins to Shades."
+
+[A_Dungeon_Fortification2 H7TownGuardBuilding]
+mName="Fortifications Level 2"
+mDesc="Increases the hit points of walls and gate in siege combats.\nAdds Minotaurs and Medusae to the local guard.\nIncreases the capacities and growth of creatures in the local guard."
+
+[A_Dungeon_Moat H7TownMoat]
+mName="Moat"
+mDesc="Equips the town with a moat in siege combats.\nEnemy creatures stepping into it will be interrupted and get Agony applied."
+
+[A_Dungeon_HallOfIntrigue H7TownHallOfIntrigue]
+mName="Hall of Intrigue"
+mDesc="Provides the thieves guild with the option to send spies on a "sabotage" mission: Sabotage a random town dwelling of a target player to halve its weekly production for the next week."
+
+[dungeonbuildingabilities.A_Dungeon_OverlookTower_Ability H7BaseAbility]
+mTooltipMagicGuild=""
+mTooltipMagicGuildRankLine=""
+mTooltipUpgraded=""
+mName=""
+mTooltip=""
+
+[A_Dungeon_Marketplace H7TownMarketplace]
+mName="Marketplace"
+mDesc="Provides the option to trade resources."
+
+[A_Dungeon_ShadowsteelPool H7TownGrowthEnhancer]
+mName="Shadowsteel Pool"
+mDesc="Elite dwelling upgrade.\n+5 growth of Striders or Soullesses per week."
+
+[A_Dungeon_StriderForge H7TownDwelling]
+mName="Strider Forge"
+mDesc="Elite dwelling.\nEnables recruitment of Striders with a growth of 5 per week."
+
+[A_Dungeon_CradleOfStone H7TownDwelling]
+mName="Cradle of Stones"
+mDesc="Core dwelling.\nEnables recruitment of Troglodytes with a growth of 9 per week."
+
+[A_Dungeon_DragonPinnacle H7TownDwelling]
+mName="Dragon Pinnacle"
+mDesc="Champion dwelling upgrade.\nEnables recruitment and upgrade of Shadow Dragons to Black Dragons."
+
+[A_Dungeon_MagicGuild3 H7TownMagicGuild]
+mName="Magic Guild Level 3"
+mDesc="Provides 3 random spells of tier 3 in this town.\nThey are granted to all visiting heroes that fulfill the requirements."
+
+[A_Dungeon_ShadowsteelRefinery H7TownBuilding]
+mName="Shadowsteel Refinery"
+mDesc="Provides 1 %icon_Shadowsteel Shadowsteel per day."
+
+[A_Dungeon_ShadowRing H7TownDwelling]
+mName="Shadow Ring"
+mDesc="Core dwelling upgrade.\nEnables recruitment and upgrade of Stalkers to Trackers."
+
+[A_Dungeon_SoullessForge H7TownDwelling]
+mName="Soulless Forge"
+mDesc="Elite dwelling upgrade.\nEnables recruitment and upgrade of Striders to Soullesses."
+
+[A_Dungeon_SnakeTower H7TownGrowthEnhancer]
+mName="Snake Tower"
+mDesc="Core dwelling upgrade.\n+6 growth of Medusae or Medusa Sorceresses per week."
+
+[A_Dungeon_MagicGuild4 H7TownMagicGuild]
+mName="Magic Guild Level 4"
+mDesc="Provides 1 random spell of tier 4 in this town.\nIt is granted to all visiting heroes that fulfill the requirements."
+
+
+
+[dungeonbuildingabilities.A_Dungeon_OverlookTower_BuffHero H7BaseBuff]
+mName="Overlook Tower"
+mTooltip="%buff1.buff.stat %buff1.buff.stat.icon Initiative to friendly creatures for the next %durnow combat(s)."
+
+[dungeonbuildingabilities.A_Dungeon_SoulvenomCrucible_BuffHero H7BaseBuff]
+mName="Soulvenom Crucible"
+mTooltip="Deals %buff1.buff.d.min %buff1.buff.d.icon Earth damage to enemy creatures at start of their turn for %buff1.buff.durini turns in the current area of control."
+
+[A_Dungeon_Fortification1 H7TownGuardBuilding]
+mName="Fortifications Level 1"
+mDesc="Equips the town with walls and gate in siege combats and a local guard of Assassins and Stalkers."
+
+[A_Dungeon_ShadowArena H7TownDwelling]
+mName="Shadow Arena"
+mDesc="Core dwelling.\nEnables recruitment of Stalkers with a growth of 19 per week."
+
+[A_Dungeon_DragonSpire H7TownDwelling]
+mName="Dragon Spire"
+mDesc="Champion dwelling.\nEnables recruitment of Shadow Dragons with a growth of 1 per week."
+
+[A_Dungeon_DarkWatch H7TownTower]
+mName="Dark Watch"
+mDesc="Equips the town with 2 towers in siege combats."
+
+[A_Dungeon_Labyrinth H7TownDwelling]
+mName="Labyrinth"
+mDesc="Core dwelling upgrade.\nEnables recruitment and upgrade of Minotaurs to Minotaur Guards."
+
+[dungeonbuildingabilities.A_Dungeon_OverlookTower_BuffCreature H7BaseBuff]
+mName="Overlook Tower"
+mTooltip="%stat %stat.icon Initiative until end of combat."
+
+[A_Dungeon_AssassinsGuild H7TownGrowthEnhancer]
+mName="Assassins Guild"
+mDesc="Core dwelling upgrade.\n+10 growth of Assassins or Shades per week."
+
+[A_Dungeon_VillageHall H7TownHall]
+mName="Village Hall"
+mDesc="Provides the option to build new structures in this town.\nProvides 500 %ICON_GOLD Gold per day."
+
+[A_Dungeon_FrozenStatuary H7TownDwelling]
+mName="Frozen Statuary"
+mDesc="Elite dwelling upgrade.\nEnables recruitment and upgrade of Medusae to Medusa Sorceresses."
+
+[A_Dungeon_AltarOfBrokenChains H7TownGrowthEnhancer]
+mName="Altar of Broken Chains"
+mDesc="Elite dwelling upgrade.\n+2 growth of Minotaurs or Mintoaur Guards per week."
+
+[A_Dungeon_SoulvenomCrucible H7TownBuilding]
+mName="Soulvenom Crucible"
+mDesc="Deals 40 %icon_earth Earth damage to enemy creatures at the start of their turn for 3 turns in all combats of your heroes in this town's area of control."
+
+[A_Dungeon_PillarOfEyes H7TownUtilityUnitDwelling]
+mName="Pillar of Eyes"
+mDesc="Warfare unit production.\nProvides the option to buy Shadow Lurkers."
+
+[A_Dungeon_TownPortal H7TownPortal]
+mName="Town Portal"
+mDesc="Provides the spell Instant Recall to all heroes visiting this town.\nEnables Heroes with this spell to return to this town if it is the nearest town available."
+
+[A_Dungeon_MagicGuild2 H7TownMagicGuild]
+mName="Magic Guild Level 2"
+mDesc="Provides 4 random spells of tier 2 in this town.\nThey are granted to all visiting heroes that fulfill the requirements."
+
+[A_Dungeon_ChthonianDeposit H7TownBuilding]
+mName="Chthonian Deposit"
+mDesc="Provides 2 %icon_Ore Ore per day."
+
+[A_Dungeon_ChamberOfWhispers H7TownUtilityUnitDwelling]
+mName="Chamber of Whispers"
+mDesc="Warfare unit production.\nProvides the option to buy Faceless."
+
+[A_Dungeon_Fortification3 H7TownGuardBuilding]
+mName="Fortifications Level 3"
+mDesc="Increases the hit points of walls and gate in siege combats.\nIncreases the capacities and growth of creatures in the local guard."
+
+[A_Dungeon_ChthonianAbyss H7TownDwelling]
+mName="Chthonian Abyss"
+mDesc="Core dwelling upgrade.\nEnables recruitment and upgrade of Troglodytes to Chthonians."
+
+[A_Dungeon_CityHall H7TownHall]
+mName="City Hall"
+mDesc="Provides additional 1000 %ICON_GOLD Gold per day."
+
+
+
+UCP 1.1
+
+[A_Dungeon_TownHall H7TownHall]
+mName="Town Hall"
+mDesc="Provides additional 500 %ICON_GOLD Gold per day."
+
+[A_Dungeon_Capitol H7TownHall]
+mName="Capitol"
+mDesc="Provides additional 2000 %ICON_GOLD Gold per day. You can only have one Capitol."
+
+UCP 1.2
+
+[dungeonbuildingabilities.A_Dungeon_MarkOfMalassa_Ability H7BaseAbility]
+mName="Mark of Malassa"
+mTooltip="Spies can sabotage and plunder two additional targets."
+
+[dungeonbuildingabilities.A_Dungeon_MarkOfMalassa_PlayerBuff H7BaseBuff]
+mName="Mark of Malassa"
+mTooltip="Spies can sabotage and plunder two additional targets."
+
+[dungeonbuildingabilities.A_Dungeon_MarkOfMalassa_TownBuff H7BaseBuff]
+mName="Mark of Malassa"
+mTooltip=""
+
+[A_Dungeon_SpiesGuild H7TownSpiesGuild]
+mName="Spies Guild"
+mDesc="The town gets one more spy. Also provides the thieves guild with the option to send spies on a "plunder" mission: Plunder a random resource site of a target player."
+
+
+7.5_mod : 
+
+[A_Dungeon_chambre_Shadow_emperor H7TownDwelling]
+mName="Hidden Guild "
+mDesc="Allows a Chthonians to be sacrificed to recruit a powerful elite creature - Abyss Emissary. "
+
+[A_Dungeon_chambre_elite_strong H7TownDwelling]
+mName="Forge of the Oblivion Archon"
+mDesc="Allows  to recruit a powerful champion Oblivion Archon. \Can be recruited using the "recruit all" function"
+
+
+[A_Dungeon_Black_Market H7BlackMarket]
+mName="Black Market"
+mDesc="Provides 250 gold %icon_gold per day and 1 unit of wood %icon_wood."
+
+[A_Dungeon_BlackMarket H7TownBuilding]
+mName="Black Market"
+mDesc="Provides 250 gold %icon_gold per day and 1 unit of wood %icon_wood."
